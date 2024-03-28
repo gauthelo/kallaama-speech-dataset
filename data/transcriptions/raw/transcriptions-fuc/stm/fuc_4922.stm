@@ -1,0 +1,180 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:33 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by PROPRIETAIRE, version 4 of 230217
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_4922 1 locuteur_1 0.000 4.887 <o,f1,male> kaadi nanɗo kaadi ina yade e men ina dussa e men so Allah jaaɓi kaadi hankkandi wonta manque :fra ku [r]
+fuc_4922 1 locuteur2 4.887 5.057 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 5.057 13.500 <o,f1,male> wonta ŋakku hankkadi kaadi toujours :fra ma en taw Aprostar kaadi e nokkuji men ma en baɗoy hen kaadi tourné :fra ji ma en %e jaltinoy ɗum
+fuc_4922 1 locuteur_1 13.500 16.588 <o,f1,male> ha yimɓeɓe kaadi mbawa hebtinde kaadi emballage :fra uji [r]
+fuc_4922 1 locuteur_1 16.588 18.407 <o,f1,male> mbawa hebtinde kaadi produit :fra o
+fuc_4922 1 locuteur_1 18.407 24.064 <o,f1,male> mbawa andude kaadi produit :fra o tawa kaadi kala kaadi kala ɗo gari so tawimo tan ma gandu oɗo tigui woni Aprostar [r]
+fuc_4922 1 locuteur_1 24.064 28.714 <o,f1,male> mbawa wadde ɗumen e awdi mum saaga ɗum kaadi leydi ndi kaadi hankkadi jamanu o
+fuc_4922 1 locuteur_1 28.714 40.212 <o,f1,male> ina hewi fella doga en nde wonno dillere nde yaaji Aprostar ,Aprostar tan [r] won hen kaadi kaadi dutti tan ne ɓaɗa gueɗe babaɓe %e holto façon :fra ŋaji ene tawoya reemoɓeɓe ene biya ɗumen ko Aprostar
+fuc_4922 1 excluded_region 40.212 41.358 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4922 1 locuteur_1 41.358 49.058 <o,f1,male> [r] eyyi donc :fra ɗum ɗonne foo kaadi ma en ƴettan ɗum peeje [r] ma en ƴettan ɗum kaadi daame hankkandi kala ɗo groupement :fra kala ɗo reemoɓe goni [r]
+fuc_4922 1 locuteur_1 49.058 55.759 <o,f1,male> [r] ma en jokkodir e mawɓe reemoɓe diawan oɗon [r] taw produit :fra ɗiɗon foof kaadi ma won keblaɗo o oɗon diwan
+fuc_4922 1 locuteur_1 55.759 59.333 <o,f1,male> taw kaadi produit :fra ji ɗiɓe cohlata ɗi foof kaadi ne waɗe e juve oɗon
+fuc_4922 1 locuteur_1 59.333 64.160 <o,f1,male> tawa kaadi ko kamɓe e nder kamɓe taw wont watta funti watta gueɗe goɗɗo baɗe non
+fuc_4922 1 locuteur2 64.160 68.885 <o,f1,male> [b] * bele ina wawi ene wodi ɗo wawi heɓede
+fuc_4922 1 locuteur2 68.885 72.252 <o,f1,male> ko wona tan hande o ɗo Agname ɗo tan
+fuc_4922 1 locuteur_1 72.252 77.830 <o,f1,male> ina heeɓe to yama ina heeɓe hande o neddo yeehi %e ɗo cultive :fra ɗo Wourossogui ɗo
+fuc_4922 1 locuteur_1 77.830 82.060 <o,f1,male> mataw ɗon produit :fra Aprostar ,sa ari Agnam Thiodaye ma taw ɗum ɗon
+fuc_4922 1 locuteur_1 82.060 87.218 <o,f1,male> sa jokkodire kaadi e relai :fra ji amen ɗi ko wayno %e Mamadou Lo en to Gassambiri
+fuc_4922 1 locuteur_1 87.218 90.076 <o,f1,male> %e ko wayno Djiby Camara en to Diafane Soro Coumba [r]
+fuc_4922 1 locuteur_1 90.076 92.273 <o,f1,male> ko wayno Oumou Sow en to Dial Pécheur
+fuc_4922 1 locuteur_1 92.273 94.967 <o,f1,male> ko wayno Hapsatou Ka en to Sylla Diongto
+fuc_4922 1 locuteur_1 94.967 98.758 <o,f1,male> sa yeehi kaadi Thilogne en kaadi to Aissata Sall en
+fuc_4922 1 locuteur_1 98.758 101.291 <o,f1,male> ha hakkude maaje ha diwan Podor o
+fuc_4922 1 locuteur2 101.291 101.514 <o,f1,male> %hum %hmu
+fuc_4922 1 locuteur_1 101.514 103.510 <o,f1,male> donc :fra relai :fra ji amen ɗo wonno foof
+fuc_4922 1 locuteur_1 103.510 128.088 <o,f1,male> [r] kala kaadi ɗo ɗo ɗo stoke Aprostar alano kaadi mamin bad feere ko yawi ko yajci Aprostar wona ɗon tawa kala deemowo nodduɗo tan e serveur :fra men o [r] nodduɗo kaadi e oɗo numéro :fra tan tawa ine sohli Aprostar o tan ma min jofonoɗum mo ganduɗa kaadi koko batti ma yetto ɗon heɓa produit :fra o totte hen kaadi %e humpito hokke hen kaadi des :fra conseils :fra wawa hutorade ɗum no foti hutorade ni [r]
+fuc_4922 1 locuteur_1 128.088 135.805 <o,f1,male> kono produit :fra traitement :fra de :fra semence :fra mo ganduɗa kala awdi omo waɗe hen guilay maaro ha e sewo sewoji ha e foof omo waɗe hen
+fuc_4922 1 locuteur2 135.805 140.875 <o,f1,male> [b] ey bele hande hutortoɓeɓe wonande hutortoɓeɓe gatdortu awɗele muɗumen
+fuc_4922 1 locuteur2 140.875 147.049 <o,f1,male> ha ɗo codata ɗo walla ene mbawi fewnande koye muɗumen ko yowiti e banggue produit :fra o
+fuc_4922 1 locuteur_1 147.049 151.720 <o,f1,male> eyyi aɗa andi hitaade %e kitale amen adanɗeɗe min gadduno ko massiŋaji traitement :fra
+fuc_4922 1 locuteur2 151.720 152.002 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 152.002 157.323 <o,f1,male> [b] nde wonno nden tawi ko ɗum kessum kaadi toubakoɓe kaadi ne kewi rento rento
+fuc_4922 1 locuteur2 157.323 157.531 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 157.531 160.311 <o,f1,male> ɓe jaaɓano yimɓeɓe yo baɗan koye mumen trité :fra
+fuc_4922 1 locuteur2 160.311 160.615 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 160.615 166.265 <o,f1,male> min badno tan ko point :fra ji de traitement :fra ko wayno sa ari Kanel ko wayno Hamidou Ly tota machine :fra [r]
+fuc_4922 1 locuteur_1 166.265 169.298 <o,f1,male> sa ari ɗo Wourossogui ɗo ko wayno Samba Diallo totta machine :fra
+fuc_4922 1 locuteur_1 169.298 172.615 <o,f1,male> [r] donc :fra sa yeehi Dial ko wayno Oumou Sow en totta machine ;fra
+fuc_4922 1 locuteur_1 172.615 177.282 <o,f1,male> min ƴetti machine :fra naji dal ma won massiŋaji nogass min caari ɗum %e e région :fra he
+fuc_4922 1 locuteur2 177.282 177.591 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 177.591 179.393 <o,f1,male> tawa non kala jooguiɗo awdi mum
+fuc_4922 1 locuteur2 179.393 179.553 <o,f1,male> %hum %hmu
+fuc_4922 1 locuteur_1 179.553 194.685 <o,f1,male> addat ɗon waɗane traitement :fra [r] mais :fra kaadi min tawi ɗum ɗonne kaadi ina teddedi [bb] ina addi kaadi blocage :fra e donc :fra finalement :fra non caggal ɗum nde min jooɗi e fournisseur :fra o min badde mumen concerte :fra [r] min tawa kaadi produit :fra o ko hulate e mum ko kaadi ala hen [r]
+fuc_4922 1 locuteur_1 194.685 196.421 <o,f1,male> kanko kaadi o gañata yimɓe
+fuc_4922 1 locuteur_1 196.421 200.979 <o,f1,male> o o safrata tan ko awdidi e ko wayno kullon ñamon kon
+fuc_4922 1 locuteur_1 200.979 208.664 <o,f1,male> nden non tobakoɓe pelliti bi joni yomin bellit hankkandi kala deemowo cohluɗo tan ne wawi sodde paquet :fra [b] mum diwan mum
+fuc_4922 1 locuteur2 208.664 209.095 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 209.095 210.863 <o,f1,male> irtaye awdi mum awana hoore mum
+fuc_4922 1 locuteur2 210.863 211.163 <o,f1,male> %hum %hmu
+fuc_4922 1 locuteur_1 211.163 219.287 <o,f1,male> donc :fra caɗele ala eyyi donc :fra %e hankkandi kam oɗon blocage kam iwi donc :fra %e produit :fra o omo yaɗo ha Mauritanie [r]
+fuc_4922 1 locuteur_1 219.287 221.958 <o,f1,male> omo yaɗo ha e guurée :fraɓurɗe lobbinade ɗe foof
+fuc_4922 1 locuteur_1 221.958 224.176 <o,f1,male> taw joomum kaadi ina mbawa yidehen koye mumen
+fuc_4922 1 locuteur2 224.176 230.385 <o,f1,male> [r] to banggue jeygu bele ko en :fra gros :fra walla ko détail :fra tan walla ko hol non
+fuc_4922 1 locuteur_1 230.385 232.042 <o,f1,male> eyyi emin jeyamo en :fra gro :fra
+fuc_4922 1 locuteur_1 232.042 233.537 <o,f1,male> emin jeyamo en :fra détail :fra
+fuc_4922 1 locuteur2 233.537 233.838 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 233.838 239.179 <o,f1,male> saabu ɗum Aprostar o kam hande o kam reemoɓeɓe foof na gandi paquet :fra mo 10G o
+fuc_4922 1 locuteur2 239.179 239.483 <o,f1,male> %hum %hmu
+fuc_4922 1 locuteur_1 239.483 241.021 <o,f1,male> coggu makko ko temettati
+fuc_4922 1 locuteur2 241.021 241.410 <o,f1,male> %hum %hmu
+fuc_4922 1 locuteur_1 241.410 256.133 <o,f1,male> temettati o jaarata so tawino non ko neɗɗo gaddunoɗo awdi mum e point :fra de :fra traitement :fra ji ɗi joguiɓe massiŋaji ne kebla ɗi eyyi donc :fra kala mudo awdi walla kala 20K aw %e 4k awdi ndi pewnane ɗa aɗa yoɓa temet nayyi
+fuc_4922 1 locuteur_1 256.133 268.418 <o,f1,male> eyyi donc :fra emin joogui kaadi mawɓe reemoɓe walla relais :fra kaadi gonɗi e guurée :fraɗe tawa kañum enne kaadi ne cotta Aprostar o en :fra gros :fra ina mbawa kaadi yeytoyde reemoɓeɓe ɓenne kaadi hemin baɗani ɗum hen marge :fra
+fuc_4922 1 locuteur_1 268.418 270.120 <o,f1,male> min baɗani ɗum hen prie :fra en :fra gros :fra
+fuc_4922 1 locuteur_1 270.120 273.518 <o,f1,male> coda paquet :fra o hakkude 1200 e 1300
+fuc_4922 1 locuteur_1 273.518 276.266 <o,f1,male> so jeeyi kaadi yeyta ɗum en :fra 1500 woda ko dañi hen
+fuc_4922 1 locuteur2 276.266 276.594 <o,f1,male> %hum %hum
+fuc_4922 1 excluded_region 276.594 277.917 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4922 1 locuteur2 277.917 280.927 <o,f1,male> * [b] Aprostar so heɓama
+fuc_4922 1 locuteur2 280.927 282.590 <o,f1,male> [r] e caggal awdi
+fuc_4922 1 locuteur2 282.590 285.254 <o,f1,male> bele neɗɗo o ne wawi abbitinde ɗum
+fuc_4922 1 locuteur_1 285.254 289.213 <o,f1,male> eyyi aɗa andi produit :fra Aprostar kanko ko protection :fra , des :fra plantes :fra
+fuc_4922 1 locuteur_1 289.213 292.644 <o,f1,male> kanko ummi nimo ko o foti yadude koye awdidi
+fuc_4922 1 locuteur2 292.644 292.926 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 292.926 294.604 <o,f1,male> ha cycle o fo yetto
+fuc_4922 1 locuteur2 294.604 294.844 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 294.844 298.378 <o,f1,male> eyyi kono non %e so tawi jomum dañi caɗele
+fuc_4922 1 locuteur2 298.378 298.802 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 298.802 301.430 <o,f1,male> donc :fra eɗen joogui produit :fra ji goɗɗi
+fuc_4922 1 locuteur2 301.430 301.779 <o,f1,male> %hum %hum
+fuc_4922 1 locuteur_1 301.779 302.915 <o,f1,male> ɗi o foti hutorade
+fuc_4922 1 locuteur2 302.915 303.321 <o,f1,male> %hmu %hmu
+fuc_4922 1 locuteur_1 303.321 313.330 <o,f1,male> gam o hutoronoki Aprostar o guilay départ :fra o donc :fra o yi ñamre walla o yi rafi e ndeemateri makko produit :fra ji goɗɗi kaadi ne wodi ɗinne kaadi ko ordonnance :fra
+fuc_4922 1 locuteur_1 313.330 327.704 <o,f1,male> ɗi ganduɗa so woytima tan [r] ma o halanimin tan rafi mo wondi o walla caɗele ɗi o wondi ɗo mamin jofomo prduit :fra goto mo ganduɗa on ne kaadi ma o hebɗum tawa kaadi tiɗani tapinanimo o waɗa traitement :fra makko o yiya hen jaam
+fuc_4922 1 locuteur2 327.704 327.910 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 327.910 331.063 <o,f0,male> eyyi kon Aprostar ummini ɗum tan ko traitement :fra de :fra semence :fra
+fuc_4922 1 locuteur_1 331.063 334.867 <o,f0,male> eɗen jiya non woɗɓe ina dentoro ɗum ndemanteri mumen
+fuc_4922 1 locuteur2 334.867 335.099 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 335.099 336.500 <o,f0,male> ko wayno joom nanaji en
+fuc_4922 1 locuteur2 336.500 336.742 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 336.742 347.794 <o,f0,male> walla ko wayno joom sewo sewoji en jiya tan attaque :fra ara e nder %e ndeemateri mumen ƴetta Aprostar o badda ɗum e ndiyam puffa ɗum %e e ndemateri mumen kaadi daña hen jaam
+fuc_4922 1 locuteur_1 347.794 352.675 <o,f0,male> eyyi kono kam Aprostar o kam %e [b] physiquement :fra ummini mo tan ko traitement :fra de :fra sem :fra
+fuc_4922 1 locuteur_1 352.675 357.493 <o,f0,male> eɓe ɓaɗa ɗum konoo min kam en :fra temps :fra que :fra technicien :fra mi wattaɓe ɗum conseillé :fra
+fuc_4922 1 locuteur2 357.493 357.801 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 357.801 365.205 <o,f0,male> eyyi saabi ɗu kaadi ne waɗi produit :fra ji goɗɗi ɗi gabduɗa ko ɗiɗo sa yi rafi e ndemateri ma ko ɗin kutortoɗa
+fuc_4922 1 locuteur2 365.205 365.397 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 365.397 369.613 <o,f0,male> puisque :fra ɗinne kaadi sa waɗi traitement :fra o o wayata kono gaz :fra ni
+fuc_4922 1 locuteur_1 369.613 382.555 <o,f0,male> [r] wontan o natat e nder ndeemateri ndi o safraton ko foti safrude o wara ton ko foti warde après :fra non e balɗe omo ya omo saya omo usto omo weɗo ha o gassa e ndeemateri he
+fuc_4922 1 locuteur2 382.555 382.808 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 382.808 383.885 <o,f0,male> ko ganduɗa sa itti hen
+fuc_4922 1 excluded_region 383.885 385.732 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4922 1 locuteur2 385.732 386.044 <o,f0,male> %hum %hmu
+fuc_4922 1 locuteur_1 386.044 391.326 <o,f0,male> tandis :fra que :fra Aprostar non nde wonno kañum ko taritement :fra de :fra semence :fra [r] sa ƴettimo a waddimo e ndiyam
+fuc_4922 1 locuteur2 391.326 391.593 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 391.593 393.745 <o,f0,male> a fullimo %e suppome ma
+fuc_4922 1 excluded_region 393.745 396.967 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4922 1 locuteur_1 396.967 398.214 <o,f0,male> donc ina gassa
+fuc_4922 1 excluded_region 398.214 399.693 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4922 1 locuteur_1 399.693 405.748 <o,f0,male> eyyi hay so tawi ukkeki natti mais :fra toujours :fra produit :fra base :fra o ɗon
+fuc_4922 1 locuteur_1 405.748 424.463 <o,f0,male> [r] wona e lobbuli ɗum kaadi jango e jaam so jomum ñami tan ɗum ina wawa dañde hen caɗele [r] min biɗa yiya won aroɓe e am ne biya minen de min baɗe makko e nana amen nana o foof hankkandi o omo wondanno e rafi [r] rafiji ɗi natti o ɓawli o wi kurum hankkandi o gubima o jaayi kono biyatmi ɗumen tan ko kanko ɗum ummina nimo
+fuc_4922 1 locuteur2 424.463 424.644 <o,f0,male> %hum %hmu
+fuc_4922 1 locuteur_1 424.644 426.023 <o,f0,male> a dañi hen solution :fra non
+fuc_4922 1 locuteur2 426.023 426.304 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 426.304 456.020 <o,f0,male> kono vraiment :fra ɗum ummina nimo emin batma traité :fra ya ƴettu cas :fra optimale :fra pompa ɗum e nana ma sa yi hen rafi bele rafi ki on ne kaadi sa waɗi ɗum tan a yiyat o singea walla a yi ñamre guilɗi ina nata e nder makka ma walla ina nata e ɗuma ma min bima ya watt utilisé :fra cas :fra optimale :fra walla ƴetta [r] tondeur :fra baɗa ɗum pulvériser :fra pompa jiyaa wara guilɗiɗi ,hundende singea waylo ko ɗum ɓuri yadude e ko anda ko puisque :fra ɗivon produit :fra ji so ɓoyi tan ɗi perat
+fuc_4922 1 locuteur_1 456.020 474.356 <o,f0,male> so ɓoyi tan ɗi beɗoto hankkandi ha laaɓa ceer wona kaadi ko ndeemɗa ko selli hay %e produit :fra goto ala hen a joɗima jonte ɗiɗi aɗa wawi ittude ñama kono sa ƴetti Aprostar a yonkki ɗum e ndiyam ha wojji %e a fufi ɗum e nder bassallon walla a waɗiɗum e nder wutaduma makka ko wonno ton foof o warat ɗum
+fuc_4922 1 locuteur2 474.356 474.540 <o,f0,male> %hum %hum
+fuc_4922 1 excluded_region 474.540 476.556 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4922 1 locuteur2 476.556 490.830 <o,f0,male> * duttono ɗa en ko yowiti e banggue hande o hono adresse :fra suji mon woni keɓɓirɗe moɗon nokku ɗo neɗɗo yiɗata wawde tawde on tawa kaadi ene heɓa [i] [bb] on no hannirta ni
+fuc_4922 1 locuteur_1 490.830 495.582 <o,f0,male> eyyi biɗen établissement :fra Kane et :fra fils :fra jooɗi ko cuuɗimen Agnam Thioday
+fuc_4922 1 locuteur_1 495.582 499.066 <o,f0,male> [b] Agnam Thioday non woni koye département :fra de Matam
+fuc_4922 1 locuteur_1 499.066 501.152 <o,f0,male> woni kaadi koye région :fra de :fra Matam
+fuc_4922 1 locuteur_1 501.152 510.717 <o,f0,male> [r] eyyi kala non kaadi jidɗo hen humpito walla jidɗo hen kaadi ko heɓi [r] e produit :fra ji gonɗe établissement :fra o établissement :fra o kaadi omo mofti gueɗe kewɗe
+fuc_4922 1 locuteur_1 510.717 512.605 <o,f0,male> Aprostar ina tawe ɗon
+fuc_4922 1 locuteur2 512.605 512.956 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 512.956 522.029 <o,f0,male> herbicide :fra taji ina tawe ɗon produit :fra ji fito :fra ji ina tawe ɗon [r] donc :fra kaadi awɗele kaadi dennagal awɗele ɗe reemoɓeɓe cohlata fo kaadi ina tawe ɗon
+fuc_4922 1 locuteur_1 522.029 524.191 <o,f0,male> [r] guilay kaadi massiŋaji deemoji
+fuc_4922 1 locuteur_1 524.191 529.747 <o,f0,male> ha e ko remoɓe kutorto ha kaadi ko %e dennagal ko fate ndeema e gaynaka
+fuc_4922 1 locuteur2 529.747 530.059 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 530.059 530.893 <o,f0,male> ina tawe ɗon
+fuc_4922 1 locuteur2 530.893 531.146 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 531.146 532.898 <o,f0,male> guilay kotone baɗanteɗi baali
+fuc_4922 1 locuteur_1 532.898 537.489 <o,f0,male> ha e kaaƴe ɗe baali ɗi jawɗi laƴoto foof ina tawe ɗon
+fuc_4922 1 locuteur_1 537.489 543.938 <o,f0,male> donc :fra non ɗonne kaadi sa jokkodiri tan ee mussidɗo mon maccungal reemoɓe walla dusowo reemoɓe
+fuc_4922 1 locuteur_1 543.938 549.204 <o,f0,male> [r] Aboubacry Kane a noddi tan e noddirguel guel 5416367
+fuc_4922 1 locuteur_1 549.204 555.487 <o,f0,male> mami jaabe mi haalanma kaadi ko ko cohluɗa ko foof kala kaadi ko ɓurɗa yidde kaadi ina tawe ɗon
+fuc_4922 1 locuteur_1 555.487 564.114 <o,f0,male> établissement :fra o kaadi omo yaji zone :fra d':fra intervention :fra ne wayno men o kaadi omo yaji ne wayno dennagal e région :fra de :fra Matam foof relais :fra ji men ina tawe ɗon
+fuc_4922 1 locuteur_1 564.114 577.047 <o,f0,male> [r] accu ni kaadi ha nder leydi ndi sa yeeyi ɗo ko wayno Madina Gounass en ,Kafrine en ,Kolda en , Bakel en ,Kédougou en partout :fra emin jokkodiri ton e relais :fra ji amen yimɓe amen nata ton établissement :fra ina tawe ton
+fuc_4922 1 locuteur_1 577.047 583.661 <o,f0,male> produit :fra ɗi ina tawe ton service :fra saji de :fra qualité :fra kaadi [r] e accompagnement :fra o woni duuso ngo foof kaadi ina heɓe ton
+fuc_4922 1 locuteur_1 583.661 586.965 <o,f0,male> ko hankkandi yoɓe jokku golle ɓe mbasa hulde
+fuc_4922 1 locuteur_1 586.965 592.189 <o,f0,male> ɓe ganda kaadi no mussiɓeɓe birata ni tan fofoof kaadi tawete koy ndeema
+fuc_4922 1 locuteur_1 592.189 595.919 <o,f0,male> hande o kaadi sa yi leyɗele toubakoɓe ɓe daaɗi en
+fuc_4922 1 locuteur_1 595.919 599.951 <o,f0,male> kamɓe koɓe watɓe assurer :fra auto :fra suffisance :fra alimentaire :fra mabɓe
+fuc_4922 1 locuteur_1 599.951 606.036 <o,f0,male> kamɓe déja :fra [r] conñadi mabɓe koɓe guura mabɓe ɗon e duɓi sappo ha e duɓi nogass koko mofta
+fuc_4922 1 locuteur2 606.036 606.341 <o,f0,male> %hum %hum
+fuc_4922 1 locuteur_1 606.341 615.905 <o,f0,male> tawa kam hay so tawi caɗele dañama walla hay so tawi haraji dañama ma won duɓi sappo kam ñamdu leydi mabɓe kam koko assuré :fra koko mofta taw bonata
+fuc_4922 1 locuteur_1 615.905 627.035 <o,f0,male> eyyi enenne hankkadi kaadi ko ɗon podɗen ummanade eyyi donc :fra établissement :fra Kane et :fra fils :fra kaadi ina jogani en kaadi karallagal ina jogani en kaadi peeje ɗe ganduɗa kaadi ƴoga kaadi koye anduɓe [r]
+fuc_4922 1 locuteur_1 627.035 629.827 <o,f0,male> ƴogako kaadi koye witti hankoɓe ina tawe ɗon
+fuc_4922 1 locuteur_1 629.827 634.736 <o,f0,male> bele kaadi eɗen bawa hisnude gura men ,bele kaadi eɗen bawa haɓade ŋakkere haraduru [r]
+fuc_4922 1 locuteur_1 634.736 637.528 <o,f0,male> bele kaadi eɗen bawa nawde ndeema men yeeso
+fuc_4922 1 locuteur_1 637.528 641.816 <o,f0,male> saabu ɗum kaadi enen foutankoɓe Allah ina hokki en kaadi dammal ndeema
+fuc_4922 1 locuteur_1 641.816 661.768 <o,f0,male> [r] yitamani %e waɗama wittoji tawama normalment :fra Fouta foti wontoyde fawru Afrique de :fra l' :fra ouest :fra saabu ɗum enen eɗen joogui leydi alɗudi joɗiɗen koy dow maayo welgo timɗen koye maayo welgo eɗen joogui toɓo eɗen joogui ilam [r] eyyi donc :fra ko heddi ko non woni caɗele %e caɗele kaadi ko caɗele tokose [r]
+fuc_4922 1 locuteur_1 661.768 676.606 <o,f0,male> ɗe ganduɗa ɗen kaadi solution :fra ŋaji muɗum nanɗo woni hebde awdi celludi ,woni hebde kaadi ko haɓato kaadi ñamon woni hebde kaadi ko haɓato huɗoji woni hebde kaadi kutorɗe ee hebde humpitoji ɗum ɗon foof kaadi hande Allah hokki en ɗum
+fuc_4922 1 locuteur_1 676.606 698.987 <o,f0,male> kala nodduɗo non tan kaadi ma waw wallodire de ha holle lawol kala projet :fra mo jidɗa umminde kaadi so tawi jidɗa ko asde forage :fra ,so tawi jidɗa ko dañde pompe so tawi jidɗa ko wadde équipement :fra maji solaire :fra kala ko ko jomum yiɗi tan [r] so noddi en tan alhamdoulilahi rabbil ala mina jokkodiral ngal nanɗo ma en baddu ɗum kaadi e bawɗo safrude ɗum bawɗo haltinde ɗum e ɗeɗon caɗele
+fuc_4922 1 locuteur_1 698.987 704.650 <o,f0,male> numéro :fra o 77 541 63 67
+fuc_4922 1 locuteur_1 704.650 713.956 <o,f0,male> 77 541 63 67 o woni numéro :fra Aboubacry Kane joɗaniɗo on to cuuɗi mon Agnam Thioday
+fuc_4922 1 locuteur_1 713.956 728.728 <o,f0,male> kono non kaadi gondu e mon kaadi dennagal %e reedu Fouta foof ala foof kaadi tomi natata ala foof kaadi tomi yahata [r] kala to bawɗon noddudemi tan mami wad déplacé :fra mi ara mi tawa on ɗon joddoɗen jewten ƴewen caɗele gonɗe ɗon ɗe kaadi ƴewen kaadi no cafrirɗen ɗum
+fuc_4922 1 locuteur2 728.728 740.060 <o,f0,male> * ɗum non Allah jaarama on jaarama bandiraɓe tedduɓe keɗotono ɗen ko yewtere meɗen tawi koy ballal jokalante ɗo e halirde mon [r] BOSE FM bismino ɗen ɗo ko Aboubacry Kane
+fuc_4922 1 locuteur2 740.060 752.228 <o,f0,male> kanko woni gardiɗo établissement :fra Kane et :fra fils :fra ɗo e Agnam ɓe jooɗi kono en kettimomo o ruttanima en tigui e oɗo produit :fra mo ganduɗa hande o ko kutorteɗo Allah jaarama a jaarama Aboubacry Kane ha ko faye arde so jeeyɗo haaji
+fuc_4922 1 locuteur2 752.228 756.535 <o,f0,male> [b] ndeɗo yewtere non koy ballal jokalante Allah jaarama on jaarama
+fuc_4922 1 locuteur3 756.535 782.237 <o,f1,male> non gaasi ha laaɓi bandiraɓe %e tedduɓe no biruno ɗen koy ballal jokalante woni ko jokkodirno ɗen e établissement :fra Kane et :fra fils :fra en paami en jarnima mussidɗo meɗen Aboubacry Kane %e Allah jaarama on jaarama karallagal ko Yero Diallo ɗo e halirde nde ko mussidɗo mon Idy Gaye e wonno %e tawi eɗen jabɓino %e biyen Aboubacry Kane bandiraɓe tedduɓe yo Allah rokku en wonde jaam
+fuc_4922 1 locuteur_1 782.237 782.502 <o,f1,male> ajaarama
+fuc_4922 1 locuteur_1 782.502 788.889 <o,f1,male> [musique] [b]

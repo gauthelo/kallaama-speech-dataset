@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="PROPRIETAIRE" audio_filename="fuc_12030" version="1" version_date="230213">
+<Speakers>
+<Speaker id="spk1" name="locuteu1" check="no" type="male" dialect="native" accent="pulaar" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="20.136875">
+<Turn startTime="0" endTime="20.136875" speaker="spk1" mode="spontaneous" channel="studio">
+<Sync time="0"/>
+oko bandemon Ibrahima Kante ɗum non yo jaam walan en so jaam waali yo ñallu %e aussi :fra yomi e tawtore émission :fra goɗɗo %e on juurama on jettama on calminama 
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+<Sync time="11.071"/>
+monsieur :fra Kane a jarama
+<Sync time="12.152"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

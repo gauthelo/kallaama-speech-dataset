@@ -1,0 +1,45 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 10:36:51 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 2 of 230414
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_35210 1 locuteur_1 0.000 1.158 <o,f1,male> Pape Mbaye waaw waaw
+wol_35210 1 locuteur_2 1.158 2.241 <o,f1,male> fii fan nga dëkk fii
+wol_35210 1 locuteur_1 2.241 3.101 <o,f1,male> Elimane Nganda
+wol_35210 1 excluded_region 3.101 5.030 <o,,unknown> ignore_time_segment_in_scoring
+wol_35210 1 locuteur_2 5.030 9.000 <o,f1,male> %e lan moo tax ngay utilisé :fra [b] neefere yeeg yii pour :fra lan la
+wol_35210 1 locuteur_1 9.000 14.844 <o,f1,male> neefere yi pour :fra gàncax gi quoi :fra ci la ñu koy def pour :fra mu gën a baax quoi :fra day màggal gàncax gi [b]
+wol_35210 1 locuteur_2 14.844 15.640 <o,f1,male> da koy màggal
+wol_35210 1 locuteur_1 15.640 17.082 <o,f1,male> waaw da koy màggal waaw
+wol_35210 1 locuteur_2 17.082 18.821 <o,f1,male> depuis :fra kañ nga ko commencé :fra utilisé :fra
+wol_35210 1 locuteur_1 18.821 29.957 <o,f1,male> kii kay %e bon :fra danoo fekkoon sunu maam yi nekk ci [b] di ko def ci tool yi [b] ñu gis ne loolu baax na [b] ñu continué :fra ci loolu ba tey quoi :fra [b] ñu koy def ñun it [b]
+wol_35210 1 locuteur_2 29.957 30.536 <o,f1,male> ok :en [b]
+wol_35210 1 locuteur_1 30.536 30.862 <o,f1,male> waaw
+wol_35210 1 locuteur_2 30.862 33.703 <o,f1,male> donc :fra fii nii lan ak lan moo fi nekk gis naa fi ay éléments :fra yu bëri [b]
+wol_35210 1 excluded_region 33.703 35.784 <o,,unknown> ignore_time_segment_in_scoring
+wol_35210 1 locuteur_1 35.784 39.638 <o,f1,male> am na ay %e [b] ay xar béy am na ci quoi :fra ak nag yi quoi :fra
+wol_35210 1 locuteur_2 39.638 40.959 <o,f1,male> fii dafa mel ne gis naa fi ay xollitu
+wol_35210 1 excluded_region 40.959 44.451 <o,,unknown> ignore_time_segment_in_scoring
+wol_35210 1 locuteur_1 44.451 51.327 <o,f1,male> [b] pour :fra tool bi du am ñax quoi :fra [b] ni mu war a amee énax [b] looloo tax [b] ko ciy defaale [b] noonu quoi :fra
+wol_35210 1 locuteur_2 51.327 53.697 <o,f1,male> [b] donc :fra lii nii yëpp da ngeen kaa jënd [b] wala da ngeen [b] *
+wol_35210 1 locuteur_1 53.697 62.107 <o,f1,male> non :fra non [b] lii sunu sunu mala yi [b] énoo ko ñoo ko def ñoo ko neefere nii ñu koy yóbbu ci tool yi [b] quoi :fra waaw [b]
+wol_35210 1 locuteur_2 62.107 64.337 <o,f1,male> [b] ndax xam nga semence :fra certifiée :fra [b]
+wol_35210 1 excluded_region 64.337 66.834 <o,,unknown> ignore_time_segment_in_scoring
+wol_35210 1 locuteur_1 66.834 69.359 <o,f1,male> non :fra non :fra non :fra [b] loolu de xamuma ko
+wol_35210 1 locuteur_2 69.359 71.575 <o,f1,male> [b] yow ban jiwu ngeen di utilisé :fra [b]
+wol_35210 1 locuteur_1 71.575 92.419 <o,f1,male> ban jiwu [b] da ñuy béy suuna da ñuy béy gerte [b] mboq [b] saaño [b] ñebe tout :fra tout :fra le :fra %e tout :fra le :fra kii daal da ñu koy béy quoi :fra waaw da ñuy béy lépp waaw lépp lu nit di béy daal muy %e ci wàllu nawet bi quoi :fra [b] da ñu koy béy [b]
+wol_35210 1 locuteur_2 92.419 95.154 <o,f1,male> kon nag [b] yii nii nga jël [b] mooy neefere yi am na solo [b] lool
+wol_35210 1 locuteur_1 95.154 105.757 <o,f1,male> waaw [b] am na solo ci bépp gàncax [b] gàncax gi lépp [b] soo ko defee [b] da ngay gis njëriñ li quoi :fra [b] ni dina ko màggal [b] dina ko baaxal [b] moo tax ñu koy

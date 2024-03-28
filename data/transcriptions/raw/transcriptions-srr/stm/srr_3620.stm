@@ -1,0 +1,72 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:53 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 3 of 230323
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_3620 1 Locuteur1 0.000 11.703 <o,f1,female> seru pour :fra te wago ret %e mene no sit fe ka jega a sarta ka na na njala nida i njega a saret mais :fra ka jega a sarta ka ando naye ka i creer :fra a emploie :fra i mboga no we ando naye ga i créer :fra emploi :fra
+srr_3620 1 Locuteur1 11.703 19.943 <o,f1,female> parce :fra que :fra win we fop aka inora meme :fra no village :fra environ :fra ke a ngara njalida a sarta kaga na njala rek o jega nga commande :fra te mbisa nong mu soxal ona
+srr_3620 1 Locuteur1 19.943 32.093 <o,f1,female> pour o livrer :fra ay Patisen ay Senico yin in njega coopérative :fra de nana leyel coopérative :fra no xoxof fojem maga ando naye mi refu Sécrétaire :fra Générale :fra fe a
+srr_3620 1 Locuteur1 32.093 45.473 <o,f1,female> jega président :fra a jega fop donc :fra i ŋoxa nga bo pare in partie :fra no qoqale in ka i njiko xan coopérative :fra ne coopérative :fra ne na livrer :fra ay Senico ay Patisen ay Amo industrie :fra dans :fra se :fra cas :fra ka gara a soɗ rek i charger :fra de mbisa livrer :fra oyo
+srr_3620 1 Locuteur1 45.473 63.996 <o,f1,female> aprés :fra anga ba ndaɓ da in a mbero yo no compte :fra ke in a ndaɓ da ino yo compte :fra coopérative :fra fe %e ok maga bo fa ndik in woy lëkëlo a fo partenaire :fra lakas parce :fra apart :fra Senico Patisen i njego da partenaire :fra ka i livrer :fra a client :fra ka i livrer :fra a
+srr_3620 1 Locuteur1 63.996 74.547 <o,f1,female> comme :fra Burkina Niger Mali Cote d'ivoire mene fop kam livrer :fra a men en :fra tant :fra que :fra entreprise :fra es dal e aussi :fra i njega
+srr_3620 1 excluded_region 74.547 83.947 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 83.947 96.326 <o,f1,female> i maya UNICEF i maya dal partenaire :fra ka ando naye ga i njala fa ga i njala fo den nutrition :fra international :fra wane fop partenaire :fra ino i maya mom kar machala parteneire :fra ka ando naye ka i njala fo den no walu fo jemole
+srr_3620 1 Locuteur1 96.326 113.636 <o,f1,female> %e meme :fra DER partenaire :fra ino DER parexemple :fra partenaire :fra comme :fra DER appuie :fra fina partenaire :fra financier :fra yo accés :fra des :fra crédits :fra ga mbiya nana in o xota nga partenaire :fra du :fra chambre :fra consulaire :fra partenaire :fra d'appuie :fra yo wa ando naye d':fra appuie :fra dynamique :fra organisationel :fra
+srr_3620 1 Locuteur1 113.636 129.566 <o,f1,female> organisation :fra no walum organiser :fra ndeya o xota nga partenaire :fra comme :fra la :fra cndn partenaire :fra en :fra marché :fra yo waga jeg xay formation :fra te fi a nango ten a ga marcher :fra xay %e comme :fra ca :fra we ando naye ten saqu xa caƴaxe nutrution :fra ke
+srr_3620 1 Locuteur1 129.566 146.238 <o,f1,female> a jeg marcher :fra na warona livrer :fra fo jem de coxngo ten a mbi appel :fra d :fra offre :fra o gagner :fra partenaire :fra mayu %e deni atm a travers :fra la :fra Cndn ten i njegit u unité :fra d':fra iodation :fra ke nutrution :fra international :fra fo la Sndn de cox na in unicef aussi :fra a ga a sit fe a appuyer :fra in
+srr_3620 1 excluded_region 146.238 149.044 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 149.044 159.319 <o,f1,female> ke i njeg na fop dal partenaire :fra d':fra encadrement :fra yo wene ndef partenaire :fra appuie :fra financier :fra wene ndef partenaire :fra ka ando naye sur :fra des :fra materiels :fra a ndam ta yo in
+srr_3620 1 Locuteur2 159.319 168.024 <o,f1,female> ke bug uma poser :fra ten refu ye comme :fra bonu ŋox na bo pare a qola pod num ten fojemole jega pour nu mbi ino yo
+srr_3620 1 excluded_region 168.024 169.694 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 169.694 186.836 <o,f1,female> i maga repondre :fra anum kam leye parexemple :fra mene te refna i ŋoxa ande i commencer :fra a ƴewa mois :fra de :fra Novembre :fra to o ndeta ngan bo i ndecolte a xan i mbad fin :fra fevrier :fra mois :fra de :fra Novembre :fra xan i mbad fin :fra fevrier :fra ka jeg changement :fra climatique :fra roog fe deɓaga a teɓa mayu fo a ɓuɓale
+srr_3620 1 Locuteur1 186.836 200.036 <o,f1,female> mene nero tela jeg fojem donc :fra consommer :fra a essence :fra mayu pour mbago commencer :fra sogo ndam nda yo me o reta nga koy bo jel xa mois :fra xeneo reta nga bo jela ɓuɓale 1 mois :fra 15 jours :fra fu refna waga récolter :fra fo jem
+srr_3620 1 Locuteur2 200.036 205.586 <o,f1,female> kon xa qidaxe passer :fra anga nene comme :fra a tembale a gara nga nune njalata yo
+srr_3620 1 excluded_region 205.586 224.224 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 224.224 234.406 <o,f1,female> donc :fra a ɗeɓaga fof laga ka teg wa took fe o gara nga wet a tiwo ke wo a wa ɓax fofo masule a xaƴa nong maga fof le jeg na fojem ando nye roog fe tela nga simid o wago recolté
+srr_3620 1 Locuteur1 234.406 244.400 <o,f1,female> ga njeg wa ando naye mbage njeg kaga yam xa qola xe ga mbala si :fra non :fra de ɗac ta den de ndet magola ndik te yaq stockage :fra ke den ()
+srr_3620 1 Locuteur1 244.400 256.761 <o,f1,female> xa qola xe ndaxa mboɗaxa wala mboɗaxeten ndefu ye i njega ka i natan sereer sax au :fra début :fra jeg e ka te natan ka garogu parexemple :fra a ñima ndaxa safa wala te xot xoŋ ɓaq a ɓek kam fe
+srr_3620 1 Locuteur1 256.761 266.795 <o,f1,female> a ndeta niveau :fra fe te flotter :fra ka ba an ndaxa jema mais :fra ndiki koy comme :fra fopa avancer :fra i njeg ka njeg xa densimétre :fra xa i nata fof le
+srr_3620 1 Locuteur1 266.795 279.236 <o,f1,female> o gara nga ko xota fof le o xafa ngan no litar o mbek teen densimétre :fra lo a jega nga parexemple :fra 1215 maga o anda ye fof le fondaxa waga no mbek kamo qol fojemole
+srr_3620 1 Locuteur1 279.236 293.140 <o,f1,female> o mbeka ngan kama qole fojemole bata jeg maga 1240 o ande foof le rima bo pare o wago évoparer :fra in sutin te mbaxoq mbaxoka xin tafil fa sa o mbato atid 1215
+srr_3620 1 Locuteur1 293.140 306.146 <o,f1,female> naga i ndeta xa qola xe in [b] i ŋesa nga dal ka i ngara ŋot densimetre :fra in mesurer :fra fof lu war na sur i surnin mete war na sur naga i ŋox tata fojem
+srr_3620 1 Locuteur1 306.146 322.227 <o,f1,female> écartement :fra kene ga ona de mom a qaja kene i mbi na ten refu ye xaye ka i mbi a pour :fra fof le a wago mbisa mayu a wago fondax ten refu i mbeta naga o carrée :fra o wetin naana foof le fi a comme :fra a Z a wago njuf parcours :fra mayu a wago ret no qol fojemole
+srr_3620 1 Locuteur1 322.227 333.746 <o,f1,female> le :fra temps :fra ke te njufa parcours :fra kane ka évaporer :fra a kaga taxu i mbi ino yo des :fra diguettes :fra comme :fra ca :fra barager :fra ino yo [conv] waw in mom i ngesa nga commencé:fra a njewa toujours :fra in woy no sit fe
+srr_3620 1 Locuteur1 333.746 351.406 <o,f1,female> parce :fra xa i ngara mberi fiye a pof kene ndaxa ɓoɗaxa fo fof lene a mbara nga sour no 2eme carrée :fra o wago wet te sur fo o wara nga njewo o caro lene ando naye wetano te sutu o wago tal machine :fra neo xesa nga commencer:fra saison :fra ne pour :fra calel ke mom in woy men de :fra 8 heure :fra a 13 heure :fra 30
+srr_3620 1 Locuteur1 351.406 367.307 <o,f1,female> a soɓa nga ye ga i ndekolte a koy employer :fra ke in de 8 heure :fra a 13 heure :fra 30 a ndefa men a mbac a giranox de 16 heures :fra a 18 heure :fra i ɗab da den heures :fra nu i ɗab da den journée :fra matin :fra de :fra 8 heures :fra à :fra 13 heures :fra 30 i ɗabid 3000
+srr_3620 1 Locuteur1 367.307 377.636 <o,f1,female> kiran ne de de 16 heure :fra a 18 heure :fra i ɗab 1000fr ça :fra veut :fra dire :fra i ɗaɓ da parce :fra ina créer :fra a employer :fra mayu
+srr_3620 1 excluded_region 377.636 401.776 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur2 401.776 412.875 <o,f1,female> [b] kam bug u lamit ndax kene nu mbiya nene kan njagino yo
+srr_3620 1 Locuteur1 412.875 428.891 <o,f1,female> ok %e kene i mbiya nene mom %e etan ramasseuse :fra re um mi fene na leya fa wo ça :fra veut :fra dire :fra goor we utiliser :fra ogaxam na xa qola xe den a ndaɓ da xam ay journée :fra 2000 ay journée :fra 1500
+srr_3620 1 Locuteur1 428.891 441.331 <o,f1,female> um ret bo ga den wene na utiliser :fra axam um leye pourquoi :fra goor we mbi an to rewe mbagiran naga retum janga xa qoles gar commencer :fra ɗet na den rabid diga nel
+srr_3620 1 Locuteur1 441.331 457.850 <o,f1,female> mais :fra quand :fra meme :fra nak i njega ten ay formation :fra ka ando naye a soɓa in no calel ke sa mborme a in comme :fra Cretef i njega no walum formation :fra Cretef na i mbi na njag nel production :fra %e Sndn clm clm a leya tel ndiki cndn
+srr_3620 1 Locuteur1 457.850 470.408 <o,f1,female> a mbiya formation :fra DER angara fi formation :fra production :fra manam dal i mbate ten xam xam fa myu mais :fra xam xam ina re u ka i yokel ten xam xam ando naye xam xam ne doya bo xay i mbago mborme ten win sax
+srr_3620 1 Locuteur2 470.408 472.309 <o,f1,female> an kon nu mborme a win mayu mene
+srr_3620 1 excluded_region 472.309 475.724 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 475.724 482.867 <o,f1,female> sante a ten i mbaga ɓor me win mayu de njala ten yo ten xa gosa xe sog na ndokida yo
+srr_3620 1 Locuteur1 482.867 495.831 <o,f1,female> [b] e mi kem xoy ta no ka i mbage na o ndamit ten refu ye %e pour :fra i njeg solution :fra mbago njeg rentabliter :fra mayu no fa jemole i njala ten refu ye o mado xe dam ta in i mbago njeg
+srr_3620 1 excluded_region 495.831 497.332 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 497.332 516.745 <o,f1,female> ma ando naye rang rang ke mbago ndoki doyo sit ke i mbago ando naye auto :fra xana wago njufa ta ba fadid maga xana wañ tranport :fra fe ando naye ten i ndaɓ da seru mbago mbi anel des :fra petite :fra unité :fra de :fra lavage :fra ka ando naye fojemole ne i suta tangan i laxad tin mene mbago njikorin cout :fra chere :fra u
+srr_3620 1 Locuteur1 516.745 529.838 <o,f1,female> ndam tel no moderniser :fra artisanal :fra fene i mbiya it te wago ref systeme :fra moderne :fra manaam i mbago njeg ten ay tracteur :fra ka i ndekolte ta yin ka i soƴ ta fojemin
+srr_3620 1 Locuteur1 529.838 548.512 <o,f1,female> bala ando naye pis ke i mbeka ten yenisay pour :fra te suta fojemole amba nefare ten kaga jege hygiene :fra donc :fra in woy ŋoy ta ten mayu koy i ndefe meen aussi :fra koy croiser :fra les :fra bras :fra cuga o mado xe it parce :fra kene i invertir :fra na fop no cout :fra ino création :fra d :fra emploie :fra fene i mbiya ino na damb doxan yenisay i ndetoyo
+srr_3620 1 Locuteur1 548.512 569.634 <o,f1,female> i nga a fule o xa gar na damita in no fond :fra gratuit :fra a ciya in xalis pour :fra i mbago ndaɓ da den ça :fra veut :fra dire :fra kene fop ina mbiyan no rentabliter :fra activité :fra in i mbiya noyo ten dal quand :fra meme :fra i njega des :fra partenaire :fra appuie :fra technique :fra i njega des :fra partenaire :fra par :fra crédit :fra mais :fra quand :fra meme :fra o mado xe waga moƴo yok teno mbayum a dam ten i mbago njeg
+srr_3620 1 excluded_region 569.634 573.301 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 573.301 586.928 <o,f1,female> [b] kem tag tora fa nuun ten refu ye %e calel keke de i mbaga leye dara xupiran men création :fra d :fra emploie :fra i nanga nana te leya ye
+srr_3620 1 excluded_region 586.928 593.013 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 593.013 606.981 <o,f1,female> i na na fule la :fra filière :fra du :fra sel :fra prix :fra ne homologuer :fra an bo ndik ça :fra veut :fra dire :fra ne win we ley taye ren o saku soble kene jar ka o madoxe avancer :fra a fule pur a wago homologuer :fra les :fra prix :fra du :fra sel :frq to i anda ye no walum création :fra d :fra emploie :fra
+srr_3620 1 Locuteur1 606.981 615.597 <o,f1,female> i anda ye o leng xuɓ nde in ten to i mboy tag tuwa fo mado xe leyine a waga nga damta in bo i mbago homologuer :fra fojemole njeg ne prix :fra du sucre :fra a jegit na
+srr_3620 1 excluded_region 615.597 617.784 <o,,unknown> ignore_time_segment_in_scoring
+srr_3620 1 Locuteur1 617.784 639.771 <o,f1,female> a wago fadma merci :fra gid ma nuun sante a nuun nuun we ando naye nuun ngaridu mene pour :fra njemo mbaxtan fa in pour :fra njala le faley fe maxey ne e Marie Diouf la :fra reine :fra du :fra sel :fra gena Njemu jala no sit de :fra Njemu produire :fra a fojem commercialiser :fra an jek wan dans :fra la :fra sous :fra région :fra fo no region :fra no Senegal aussi :fra

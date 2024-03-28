@@ -1,0 +1,100 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:00 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 4 of 231121
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_31120 1 Locuteur1 0.000 5.022 <o,f1,female> soo yaga bo ndiik xar tax fi'ino o cung bo heure :fra nene o sogo fi'an?
+srr_31120 1 Locuteur2 5.022 18.524 <o,f1,female> Ok yaaga boo fa ndiik o nananga fi'inum ten refu yee yen débuter :fra a kaam neew nda uto yaga aussi :fra platforme :fra ke comme :fra ke comme :fra neke nee ta nandatna ndiiki nand'iran au :fra debut :fra o ɗeetangan vente :fra en :fra ligne :fra kaa soog o xeewaa.
+srr_31120 1 Locuteur2 18.524 30.293 <o,f1,female> Kaa soog o xewaa a soog o fi'aa des :fra années :fra donc :fra soog o mbaag o ndokaa ten kaaga waralu rok'iim ten yaaga bo fa ndiik a jega wa ngar'ina meen a ɓekaam a mbi'anam vente :fra en :fra ligne :fra o tapé :fra anga o ga'aa in
+srr_31120 1 Locuteur2 30.293 42.687 <o,f1,female> ga' produit :fra les :fra sacs :fra de :fra 25 kilos :fra mais :fra ko war o actualiser :fra an chaque :fra jours :fra ko war o ɓekaa maaga produit :fra lakas publier :fra a publier :fra i a kaaga soom o ndaa refee lakas.
+srr_31120 1 Locuteur1 42.687 51.631 <o,f1,female> so xa xa manam xa difference :fra u wo fo jem of fo fo jem lakas we ?
+srr_31120 1 excluded_region 51.631 52.412 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 52.412 53.687 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 53.687 59.077 <o,f1,female> ke moƴna tax genre :fra wiin we mbug o njik fojemof to njikee fo jem lakas we ?
+srr_31120 1 Locuteur2 59.077 68.757 <o,f1,female> A fo jem de ka jeg qualiter :fra a jega wa andoona yee produire :fra anga fo jem a sutanganooyo ko ga'aa wa sutna a njum ta coco ta fi' ta ta xal.
+srr_31120 1 excluded_region 68.757 83.735 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur2 83.735 100.048 <o,f1,female> Waw o ɗeetangaan yene andoona ye kaam rok no marchée :fra fe Niger livrer :fra ma me soɓ'uma da livrer :fra a chauffeur :fra ke naqna fo jem ole a ɓisin no client :fra lakas ke rek client :fra lakas ke ga nga la :fra difference :fra fo fo jem eetan ke da eet'ina nqotaayo.
+srr_31120 1 excluded_region 100.048 117.704 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur2 117.704 126.935 <o,f1,female> A tasangaa kam fe o recolter :fra angaan o ga'in a refanga comme :fra genre :fra la loq a miñanga ta ɗuqtu ten bo o soɗaa o ga'in ndaa kaaga fop kaam eviter :fra an bo wiin we naqanaxam aussi :fra.
+srr_31120 1 excluded_region 126.935 143.068 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 143.068 145.349 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 145.349 157.089 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 157.089 171.268 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 171.268 179.789 <o,f1,female> foof fo foɗaxu laaga o laya lay kaam nan ka fi' nen comme :fra ten na ten na taxaa fojem ole ranig wala wala tena taxa fo jem ole xool ?
+srr_31120 1 Locuteur2 179.789 189.962 <o,f1,female> Non :fra foofi foɗaxu olaga o atiidangan no fo jem ole ka refa foof la andoona yee waaga te seeyin fo jem ole manam taskatee grain :fra ke fo jem ole
+srr_31120 1 Locuteur2 189.962 205.073 <o,f1,female> O atiidanga foof laga tin o ɓekin kam o qol le ka taxa o jeg ka o laxadtaa bo bo naaqa kaaga taxu bugangaa naq um atiid foofi pour :fra waag o jeg kaam laxadta [n] parapport :fra aux :fra autres :fra a jega wa andoona yee a mbugangaa naq ka nqaƴka o qol le bata weer koŋ,
+srr_31120 1 excluded_region 205.073 216.300 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 216.300 220.711 <o,f1,female> foof laga o laxad ta foofi kene yo ndi wo ina atida foifi mene ?
+srr_31120 1 Locuteur2 220.711 230.695 <o,f1,female> Non :fra nem o atiidaa foofi foofi maag ola a refa um gekin no bassin :fra ke bada ɓoɗax nda refee yee o inoor mbind na atiid foofi foof le maag ole refa na refa basin :fra ke.
+srr_31120 1 Locuteur2 230.695 237.742 <o,f1,female> o ɗeet bassin :fra na andoona yee a foɗaxa tol o suurnin no fo jem ola andoona yee sooyinkiran o laxadtin bata xool .
+srr_31120 1 Locuteur1 237.742 239.492 <o,f1,female> [b] kaga ne jegaa coono ?
+srr_31120 1 Locuteur2 239.492 250.601 <o,f1,female> Non :fra non :fra kaaga jegee beni coono parce :fra que :fra no hygiene :fra of a fogu pour :fra o waag o jiku jegee ben coono jegee ben probleme :fra ina ge njega maaga prbleme :fra.
+srr_31120 1 Locuteur1 250.601 259.594 <o,f1,female> So nam o natta a cikax ale wo' nam o nattan wo' bo geeka xaalisof nam o gektan aussi :fra ?
+srr_31120 1 excluded_region 259.594 272.538 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 272.538 283.390 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur2 283.390 296.100 <o,f1,female> Gekan um waranga rabid um ret fi' retrait :fra xaalises moom neen mo geka no poche :fra parce :fra que :fra jegee securité :fra maaga neem nattaa a cikaxes ten refu yee journalierement :fra kum jikwuuma kam bindan aussi :fra ,
+srr_31120 1 excluded_region 296.100 310.050 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 310.050 325.060 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 325.060 334.844 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 334.844 341.976 <o,f1,female> soo xaye ku investir :fra oona mene xaj fa nanga ga'an ?
+srr_31120 1 excluded_region 341.976 354.253 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 354.253 364.397 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 364.397 382.732 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur2 382.732 397.196 <o,f1,female> Mene xa qiid axene moom ke i ɓekaa ten i nanga ndaawan yenisaay itam oxa ga'oona koy waagkee gestion :fra a utiliser :fra ka andoona ye itam waagee sutu no saison :fra ne ndaa mimoom investir :fra anga moom nam o daawaa ke investir :fra uma ten.
+srr_31120 1 Locuteur1 397.196 405.183 <o,f1,female> so nuun bonu njikooka njikooxa no manaam ak niger :fra yiin mene yiin kan ndetaayo nuun fo qoox nuun?
+srr_31120 1 excluded_region 405.183 421.655 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 421.655 424.423 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 424.423 427.972 <o,f1,female> so livraison :fra fe wona rabdan ndi ten na rabdan ?
+srr_31120 1 excluded_region 427.972 438.913 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 438.913 458.410 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 458.410 467.263 <o,f1,female> soo coono fum o jega pour :fra ay cikax ale yiin kene yiin coono fum o jega teen fo na qol axe ?
+srr_31120 1 excluded_region 467.263 478.812 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur2 478.812 491.757 <o,f1,female> waagkiro jiku o bugo jiku jeg client :fra bugo jiku roog fe deɓaa kaaga fop probleme :fra a refa wala o sarse fo jem ole bo pare war war o soɗ fo jem ole war o sutin war o charger :fra kin roog fe deɓa yaqin.
+srr_31120 1 Locuteur2 491.757 504.152 <o,f1,female> Kaaga fop jafe-jafe refa pour :fra o waag o ret jikook aussi :fra waaga jeg jafe-jafe a cikax parce :fra comme :fra anda meen no nat fe mayu neero publier :fra a kaaga fop jafe-jefe a cikax a ref kam fe.
+srr_31120 1 Locuteur1 504.152 514.223 <o,f1,female> [b] xar bugo ɓato yok teen no ke andoona yee i layanooyo [b] i layan to bug ka i mbatin ten o yo [bb] jangi o temps :fra of ko.
+srr_31120 1 Locuteur2 514.223 527.919 <o,f1,female> %eKe buguma ɓato yok teen ten refu ye par exemple :fra na xa cikax alene Etat waaga dam teen bo a cikaxa le yoɓ nam Etat damitka ten bo a cikax ale yooɓ ten refu yee
+srr_31120 1 Locuteur2 527.919 540.850 <o,f1,female> Bep indutrie :fra ke ndefna Senegal comme :fra seldaf comme :fra Senico comme :fra Patisen comme :fra Amo industrie wene andoona ye ga ndef men oyo
+srr_31120 1 Locuteur2 540.850 553.927 <o,f1,female> Ta fexey bo i njega fo den kena layel convention :fra i signé :fra a fo den convention :fra da nqotaa fo jem ole refna sene fo jem Egipte wala Bresil wala o mbiñ o lakas.
+srr_31120 1 excluded_region 553.927 568.927 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 568.927 581.099 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 581.099 595.628 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur2 595.628 602.456 <o,f1,female> Mais :fra da mbaag o njika ka aussi :fra ino xana enranger :fra a in i nga' teen a qox in den da nga ten a qooq den.
+srr_31120 1 Locuteur1 602.456 607.461 <o,f1,female> Gan njeg groupement :fra na andoona ye wa we andoona ye den na njikwaayo fo jem ole yiin kene yiin?
+srr_31120 1 excluded_region 607.461 621.859 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur2 621.859 634.077 <o,f1,female> Mais :fra koy jegee doole makafulee a soxla'a damtel pour :fra a waag o maak waagafulee jik fo jem ole producteur :fra ke fop kaaga taxu fit fe jega yenisaay o ga' wana mbazarde.
+srr_31120 1 Locuteur1 634.077 643.781 <o,f1,female> nuun nu mbaage creer :fra ma andoona yee comme :fra genre :fra nu njegooyo ay emploie :fra yin wene yin nu mborme'ooyo wiin rew wo goor ro fop ta fi' comme :fra école :fra
+srr_31120 1 excluded_region 643.781 656.773 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 656.773 671.713 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 671.713 684.003 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 684.003 688.652 <o,f1,female> so mene tenue :fra kum nu ɗokwa yo pour :fra %e njalooyo ?
+srr_31120 1 excluded_region 688.652 699.832 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 699.832 713.265 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 excluded_region 713.265 725.870 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 725.870 728.986 <o,f1,female> de nuun fop na ndokwanooyo?
+srr_31120 1 Locuteur2 728.986 744.681 <o,f1,female> Fop na ndokwan bo i commencer :fra na recolte :fra in ka i ndokwa xa bot in fop yenisaay koy ta manquer :fra baya andoona ye ko recolter :fra a ka manquer :fra ka parce :fra que :fra waagkiro produir :fra fop waagkiro coox fop xa gant :fra parce :fra que :fra we na mbudida ka maya.
+srr_31120 1 Locuteur1 744.681 750.481 <o,f1,female> konn instant :fra kene nu ndefe no kene gan ŋaƴa rek pour :fra nga' fo jem?
+srr_31120 1 Locuteur2 750.481 766.792 <o,f1,female> Mee ta refna no ƴeew rek i ndefu i ndefafulee no recolte :fra ga i ƴeewaa pour :fra njeg fo jem i njeganga koy andoona yee ku ndekolte'a ke i ndokka fo jem ole kaga ka laac hygiene :fra a laac roku bot :fra gant :fra roku lunette :fra cooxin xaqum dal naaga i mbi'taayo
+srr_31120 1 Locuteur1 766.792 768.996 <o,f1,female> So instant :fra kene nu mba cung o nqool a nqum pour :fra jeg fo jem ?
+srr_31120 1 excluded_region 768.996 771.180 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur2 771.180 784.244 <o,f1,female> Mee ta refna koy fat i mbaag o lay ee fat mbaag o lay ee o mois :fra de fin :fra Janvier mi frevier xan i njeg fo jem vers :fra le :fra 20 fevrier xan i commencer :fra njegaayo ndecolte'aayo fo jem o ndang o ndang
+srr_31120 1 excluded_region 784.244 791.589 <o,,unknown> ignore_time_segment_in_scoring
+srr_31120 1 Locuteur1 791.589 800.230 <o,f1,female> So o xiid ole podnum podnum [conv] podnum nu mbiyayo nu nqooxa ten?
+srr_31120 1 Locuteur2 800.230 816.843 <o,f1,female> A donc :fra o ɗeetangan no saison :fra ne i mba mbi' 2 a 3 recoltes :fra [conv] waaga njeg teen 2 a 3 recoltes :fra mais :fra o ɗeetangan fagun faak recoltes :fra ɗik soom i mbiyu wa i mbaaga mbi reclolte :fra ɗik bo na tadik.
+srr_31120 1 Locuteur2 816.843 824.948 <o,f1,female> Mais :fra nak o ɗeetangan fagum faak recolte :fra ɗik soom i njegu yaam roog fe ka teel o ɗeɓ kaaga taxu i mbaag'ee ndekolte a caf a mayu .
+srr_31120 1 Locuteur1 824.948 829.281 <o,f1,female> [conv] ma weg ta koy ?
+srr_31120 1 Locuteur2 829.281 842.866 <o,f1,female> Meem :fra wegta koy ten refu ye ten refu simna nuun nun fop sante'a nuun simin ndef leng sax um simna den aussi :fra parce :fra que :fra kaam lay ee a ndama yo ten bon mbadiid mene.
+srr_31120 1 Locuteur2 842.866 854.607 <o,f1,female> Laya Etat fe ke lay'uma rek layan ne fata gara ɓek o ɓayum no filiere :fra sel :fra fe qupun ke te ɓekna teen yaam a ɓekan atravers :fra la DER mais :fra fa mbaat o damit a ande filiere na ando

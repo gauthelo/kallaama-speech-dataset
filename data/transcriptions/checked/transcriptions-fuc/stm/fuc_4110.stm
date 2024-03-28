@@ -1,0 +1,166 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:46 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 12 of 230814
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_4110 1 locuteur2 0.000 3.214 <o,f1,male> maa ?e pu?ara a aawat ?oo ladde ndee fof njiyaa gerse ?ee manka yaade
+fuc_4110 1 locuteur2 3.214 5.136 <o,f1,male> pasque temps :fra taa kare ?ee dose :fra oo ?urtii
+fuc_4110 1 locuteur2 5.136 9.463 <o,f1,male> yaha haa?i han yaha wara jallungel ngel wona jallungel ngel waawara ?umanin
+fuc_4110 1 locuteur2 9.463 11.868 <o,f1,male> pasque hay so a ?akkii?e han taa ?eenin kaa?i
+fuc_4110 1 locuteur2 11.868 15.422 <o,f1,male> donc :fra ?uum ko huunde foraade reenteede
+fuc_4110 1 locuteur2 15.422 20.045 <o,f1,male> donc :fra so a ?a?ii ro banngal ñebbe ñebbe presque :fra ka'e ka'e gerte
+fuc_4110 1 excluded_region 20.045 28.523 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 28.523 34.877 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 inter_segment_gap 34.877 39.470 <o,f1,> 
+fuc_4110 1 excluded_region 39.470 42.956 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 42.956 46.307 <o,f1,male> see?a ran mbattaa a uddii han tant :fra que :fra aire :fra go??um naataani roon
+fuc_4110 1 locuteur2 46.307 49.071 <o,f1,male> a waawi ?oo accude barigo :fra ma guerte ma mbu?ara
+fuc_4110 1 locuteur2 49.071 55.987 <o,f1,male> walla bidon ?aa bidon ji pasque peut :fra étre :fra ko kaalatmi ?o koo ko reemo?e hew?e ?uri kam anndu pasque ndemoowo toujours :fra
+fuc_4110 1 locuteur2 55.987 61.012 <o,f1,male> kañ ?i wa?a pratique :fra pasque kam?e ?eenin wo??e heen ?i mba?a ?um pratique ?en njiya heen résultat :fra
+fuc_4110 1 excluded_region 61.012 65.267 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 65.267 72.662 <o,f1,male> ?oon noon haa jooni tan Balde en njahat tan kadi kaalen par :fra rapport :fra e si en ndemii haa parii
+fuc_4110 1 excluded_region 72.662 76.251 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 76.251 82.719 <o,f1,male> hannde en njiyii noon ko hee wi ko d' :fra abord :fra ko wayi no suuna en ni si reemaama wo??e ?ee ko ko ?o gese roo accara ?um
+fuc_4110 1 locuteur1 82.719 86.916 <o,f1,male> %e tubaañoo oo kala wo??e ?e ko si si si soppii haa para
+fuc_4110 1 excluded_region 86.916 95.845 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 95.845 99.746 <o,f1,male> sabuna en njiyii wo??e ?ee souvent :fra si'i na?ta han ko heewi ko presque :fra ko on heddoroo
+fuc_4110 1 locuteur1 99.746 106.511 <o,f1,male> ?o charette :fra ?oo walla sinaa ?uum saama en njiyii ?um noon fof kadi ko yakkanto ko par :fra ce :fra que :fra a remii lebbi nayyi lebbi joyi
+fuc_4110 1 excluded_region 106.511 112.282 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 112.282 114.874 <o,f1,male> ha na?tugol ngol tawa wa?aani heen ca?eele
+fuc_4110 1 locuteur2 114.874 121.170 <o,f1,male> ok :fra Maalik mi arta he ?aawo see?a woodii to??ere nde mem?aa wa?nde importance :fra
+fuc_4110 1 locuteur2 121.170 126.629 <o,f1,male> par :fra rapport :fra wa?gol transporté :fra oo?oo production :fra iwdu ittugol ?um ngesa gaa
+fuc_4110 1 locuteur1 126.629 127.167 <o,f0,male> na?ta
+fuc_4110 1 locuteur2 127.167 128.909 <o,f0,male> na?ta ?um ha ro galle roo
+fuc_4110 1 locuteur2 128.909 132.207 <o,f0,male> mais :fra plus :fra souvent :fra ko no mbii?aa nii a yiyat wo??e
+fuc_4110 1 locuteur2 132.207 135.033 <o,f0,male> suuna o ko ro ladde ro ?e gaccara ?um
+fuc_4110 1 locuteur2 135.033 137.931 <o,f0,male> haa wattu fora oon taan ?e mbojja ?um
+fuc_4110 1 locuteur2 137.931 143.095 <o,f0,male> on tuma ?e mba?a ?um e sakuuji ?e na?ta wo??e ko tubaañoo ko noon ?e noon mais :fra hikka si a ndaarii
+fuc_4110 1 locuteur2 143.095 147.382 <o,f0,male> kala mbo accaani noon wa?de a?o perda production :fra maa oo
+fuc_4110 1 excluded_region 147.382 150.798 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 150.798 156.731 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 156.731 166.631 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 166.631 172.159 <o,f0,male> soit :fra ko charette :fra tan ?uri heewde charette :fra ko charette :fra raaji mba?irtee utilisé :fra
+fuc_4110 1 excluded_region 172.159 177.679 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 177.679 185.842 <o,f0,male> [r] to ngesa roo a tawat joom en ?i mballitnoo suuna mu'en oo to ladde roo haa mbo fu??a mo?de
+fuc_4110 1 locuteur2 185.842 189.687 <o,f0,male> mi sikki ano fori heen ?a?de bache :fra
+fuc_4110 1 locuteur2 189.687 193.882 <o,f0,male> mbertaa bache :fra o oon tuma mbaawaa fawde suuna o
+fuc_4110 1 locuteur2 193.882 200.484 <o,f0,male> kala ko waawoyi ?oon saamde au :fra moins :fra taa a?o waawi ?um ?a?de he bache :fra hee ndeentinaa ?um pour mbaawaa ?um mbojjoyde
+fuc_4110 1 excluded_region 200.484 206.247 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 206.247 210.144 <o,f0,male> [i] so a ?a?ii charette :fra ma o wona ko suuna ngartiroyraa nin
+fuc_4110 1 locuteur2 210.144 213.578 <o,f0,male> wona sakuuji mbo wa?aaka e sakuuji ko suuna ?olo
+fuc_4110 1 locuteur2 213.578 216.919 <o,f0,male> donc :fra ano fori ?a?de hay soko bache :fra han mbertaa
+fuc_4110 1 locuteur2 216.919 223.142 <o,f0,male> so a wertii han pour :fra mbaawaa wa?de heen suuna ma tawa au :fra moins :fra mbo yakkaaki
+fuc_4110 1 excluded_region 223.142 229.514 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 229.514 234.971 <o,f0,male> mbertaa ro lees oon tuma mba?aa heen mba?aa hen ndemanteeri ma ndii
+fuc_4110 1 locuteur2 234.971 239.471 <o,f0,male> donc :fra que :fra ko ?uum woni heen importance :fra o important :fra bache :fra ji ?ii
+fuc_4110 1 locuteur2 239.471 243.664 <o,f0,male> souvent :fra si enen mba?a transporté :fra han taa enen mba?i utilisé bache :fra ji ?i
+fuc_4110 1 locuteur2 243.664 253.611 <o,f0,male> te kala si enen mba?oya ?um stoqué :fra ro ndeer galle roo han ?a?en kala bache :fra mberten oon bache :fra wa?a en permettre :fra kala ko yani heen taa enen mbaawi ?um mo?de
+fuc_4110 1 locuteur2 253.611 259.756 <o,f0,male> mais :fra ko si en mba?aani bache han so a ?a?ii e leydi ?oldi so a wa?ii ?um heen a artirii noon ko ?um ko a perdat ?um
+fuc_4110 1 locuteur2 259.756 264.413 <o,f0,male> donc :fra charette :fra o kala également :fra ko noon si enen ngadda ene ?a?a ?um to ngesa to ran
+fuc_4110 1 locuteur2 264.413 276.156 <o,f0,male> ?a?aa bache :fra mbertaa so a wertii e charette :fra hee han e ?oon kala ko saami ?oon ko he dow bache :fra hee saamara ?um ano waawi ?um ?a?de haa hannde kala mbattaa ?um e gawri maa hee
+fuc_4110 1 locuteur2 276.156 281.690 <o,f0,male> mais :fra kono so a wa?aani noon kala ko yuurtii ?oon koro leydi ro yahara e ano waawi perdude hen e on maa?a production :fra
+fuc_4110 1 locuteur2 281.690 292.134 <o,f0,male> donc :fra impr() ko ?um woni importance :fra e si ano wa?a transporté :fra go??um han mba?aa heen bache :fra bache :fra o pasque enen ?uri ?uri heewde koo enen surtout :fra ma enen Fuladu ?oo
+fuc_4110 1 locuteur2 292.134 297.575 <o,f0,male> ko chareete :fra charette :fra liggorten e geseeje mee?en donc :fra ko ?um woni importance :fra o heen
+fuc_4110 1 excluded_region 297.575 307.651 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 307.651 322.476 <o,f1,male> e ballal fond :fra vert :fra climat :fra yadinde ran jokalante enen mbawen noon quand :fra méme :fra udditde %e téléphone :fra men oo haa jooni Pala?o hen tawtoreede ?i waawi wa?de le :fra 78 165 03 46
+fuc_4110 1 locuteur1 322.476 326.097 <o,f1,male> 78 165 03 46
+fuc_4110 1 excluded_region 326.097 339.668 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 339.668 343.147 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 343.147 347.220 <o,f1,male> a kadi ko wattu wa??o important :fra e eko eko ñameree koo
+fuc_4110 1 excluded_region 347.220 353.658 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 353.658 357.201 <o,f1,male> ko ?uum après :fra joom o ittoyra ko yeeya walla itta heen ko ñaama
+fuc_4110 1 locuteur1 357.201 359.977 <o,f1,male> si tawii noon ?oon ratii ran taw ko heewi ratii
+fuc_4110 1 excluded_region 359.977 369.745 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 369.745 372.330 <o,f1,male> pasque ko ganndaa kala ko an tampani ?um
+fuc_4110 1 locuteur2 372.330 376.410 <o,f1,male> pasque oo ko engagement :fra maw?o ?a?an-?aa ?um pour :fra mbaaw-?aa ?um he?de
+fuc_4110 1 locuteur2 376.410 384.927 <o,f1,male> pasque ko temps :fra ?a?an-?aa ?um pasque ko ndunngu so a ndaari ko heede lebbi lebbi lebbi tari lebbi nayi
+fuc_4110 1 locuteur2 384.927 391.364 <o,f1,male> ko ?um presque :fra ndunngu presque :fra ko ?um watta duré :fra e donc :fra hannde aan oon ina foti so a remii han
+fuc_4110 1 locuteur2 391.364 395.687 <o,f1,male> ndemanteeri ndi ndem-?aa ndii calo-?aa ?um fijirde
+fuc_4110 1 locuteur2 395.687 400.729 <o,f1,male> mbasaaa ?um fijirde pasque hannde imagine :fra hannde ndemaa suuna maa
+fuc_4110 1 locuteur2 400.729 406.783 <o,f1,male> haa mbo para ?o soñgol ?o mbaasaa mbo soñde no haani maa walla cooñaa mbo mbeddo ?aa mbo to ladde roo
+fuc_4110 1 locuteur2 406.783 413.218 <o,f1,male> mbaasaa abbaade haa ngartiraa mbo galle gaa no haaniri ni mba?aa mbo no mbo fori waade ni
+fuc_4110 1 locuteur2 413.218 417.192 <o,f1,male> donc :fra janngo ko an yahara ?a?iroyraa mbo horoo ?a?iroyraa mbo
+fuc_4110 1 excluded_region 417.192 421.708 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 421.708 426.530 <o,f1,male> ko roon coottoyraa ?um pasque o faaltaama ?um toon coottoyraa ha alors :fra que :fra ko aan remnoo haa pari
+fuc_4110 1 locuteur2 426.530 431.095 <o,f1,male> donc :fra ?um a?o fori heen ndartinaade ma walla aan oon ndemaa haa para
+fuc_4110 1 locuteur2 431.095 439.492 <o,f1,male> au :fra moment :fra ti() ?o ndem-?aa ?oo oon wattu ?o njahaa njeeyaa fof ndeemanteeri maa ndii wona hay janggo hay huunde a heddanaani hoore maa ro galle roo
+fuc_4110 1 locuteur2 439.492 449.500 <o,f1,male> donc :fra so a heddanaani hay huunde hoore maa to galle roo hay huunnde han donc :fra fottaa bal?e ?i?i bal?e tari paale?aa wano lacciri walla go??um en
+fuc_4110 1 locuteur2 449.500 456.085 <o,f1,male> il :fra faut :fra dutto?aa tin to marché :fra to njeeyno?aa ?um to ?een ?e njeeyno?aa so a yeeyno?e capan tari han aan a yottiima han ?e njeeya maa ?um capan?e jeegom
+fuc_4110 1 excluded_region 456.085 465.368 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 465.368 474.894 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 474.894 479.468 <o,f1,male> ala ko yombi donc :fra kala ko ndem?en wara nja?en ?um fijirde
+fuc_4110 1 locuteur2 479.468 489.665 <o,f1,male> si en mbiyi en pijirat ?um tan ko en ?a?iroyat ?o wattu mbo ?a?iroyren oo a tawat ko ko dumunna wattu mettu?o pasque ko ?uri heewde ko ko heede ndunngu
+fuc_4110 1 locuteur2 489.665 492.379 <o,f1,male> ?a?iroyren o sifa ?iin ?oon ñamereeji
+fuc_4110 1 locuteur2 492.379 499.924 <o,f1,male> donc :fra a tawat oon wattu kaales heewaani donc :fra ko ?uum taki aan oon ndemoowo aan foti ?a?de engagement :fra vraiment :fra
+fuc_4110 1 excluded_region 499.924 507.356 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 507.356 512.637 <o,f1,male> mais :fra wora yejit ne won no mba??aa ?um han janngo a yahat ?a?iroyaa ?um kala?
+fuc_4110 1 locuteur2 512.637 514.692 <o,f1,male> donc :fra ?uum ?i waawi maa addande heen ca?eele
+fuc_4110 1 excluded_region 514.692 521.633 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 521.633 523.430 <o,f1,male> naanen a haalii haala ñebbe ?ee
+fuc_4110 1 excluded_region 523.430 527.633 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 527.633 537.298 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 537.298 542.452 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 542.452 545.995 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 545.995 549.906 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 549.906 560.994 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 560.994 564.532 <o,f1,male> ok :fra Malick pasque comme :fra naane no mbiimaami nii
+fuc_4110 1 locuteur2 564.532 568.807 <o,f1,male> huunde yo o ko ?o début :fra ?oo pasque wano ñebbe en nii
+fuc_4110 1 locuteur2 568.807 572.467 <o,f1,male> ?o e a ittoyde ?e assure :fra toi :fra ko ?e ?enndii
+fuc_4110 1 locuteur2 572.467 575.962 <o,f1,male> wa?aa assuré :fra ko ?e ?enndii ro neene roo
+fuc_4110 1 locuteur2 575.962 583.497 <o,f1,male> si ?e ?enndii haa parii a?o waawi ?e ittude so a ittii kala? ngaccaa haa ?e njoora ko?aa
+fuc_4110 1 locuteur2 583.497 587.464 <o,f1,male> so a ho?ii ?e ?oon ano waawi ?e wa?de ?o bidon to
+fuc_4110 1 locuteur2 587.464 591.862 <o,f1,male> bidon au :fra moins :fra wattu mbattaa ?e he bidon assure :fra toi :fra que :fra bidon oo kala ?uu?aani
+fuc_4110 1 excluded_region 591.862 598.895 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 598.895 603.816 <o,f1,male> donc :fra ?um taki ñebbe tellement :fra no wa?iri fragile :fra nii ko il :fra faut :fra ?e ?ennda d' :fra abord
+fuc_4110 1 locuteur2 603.816 614.154 <o,f1,male> to ngesa roo ?e mbaawa ?enndu si ?e ?enndii ko mo??i han so a ho?ii ?e han kala mbaaawa ?e liir siko a ho?ii ?e ran ndiiraa?e haa ?e njora kan oon tuman mbaawaa?e naattinde he oon bidon
+fuc_4110 1 locuteur2 614.154 618.785 <o,f1,male> donc :ffra ?oon ano waawi noon wa?de mais :fra si a ?a?ii ñebbe ?e ?endaani ro ?umantin to
+fuc_4110 1 locuteur2 618.785 626.420 <o,f1,male> ?e ?enndaani to ngesa roo ko mo??i ko?aa ?e noon ?a?aa ?e ran naattinaa ?e e e bidon ?e mbu?at haa ?e laa?a
+fuc_4110 1 excluded_region 626.420 635.959 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 635.959 643.276 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 643.276 645.442 <o,f1,male> so a ho?ii han kalan liiraa?e haa ?e njoora
+fuc_4110 1 locuteur2 645.442 649.292 <o,f1,male> e oon tuman mbaawaa ?e wa?de soit :fra bidon 5 litres :fra walla bidon 20 litres :fra
+fuc_4110 1 locuteur2 649.292 655.420 <o,f1,male> l' :fra essentiel :fra siko bargo kalan l' :fra essentiel :fra wona aire :fra taw ?um to ndeer taw wawaraa henndu waawataa
+fuc_4110 1 excluded_region 655.420 662.561 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 662.561 667.002 <o,f1,male> donc :fra ?um a waawi heen noon moftirde mais si a wiyii a moftirtaa noon tan
+fuc_4110 1 locuteur2 667.002 670.907 <o,f1,male> ñebbe ?i yaawi ko wu?ara te kay si fu??ii wudde ran a presque :fra alaa arrét [musique]
+fuc_4110 1 locuteur2 670.907 698.343 <o,f1,male> [musique]
+fuc_4110 1 locuteur1 698.343 703.748 <o,f1,male> ?um ?oon noon Baldé en mi?o anndi ran en tonngat ?um see?a e ?emgal jolfe rapidement :fra
+fuc_4110 1 locuteur1 703.748 709.090 <o,f1,male> %e pour :fra au :fra moins :fra que :fra musid?e mee?en kadi %e nan?e jolfe ?ee mbaawa heen naftoraade
+fuc_4110 1 locuteur1 709.090 713.054 <o,f1,male> %e sabuna émission :fra oo enen nganndi tigi tigi mbon jogii nafoore
+fuc_4110 1 excluded_region 713.054 765.241 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 inter_segment_gap 765.241 765.562 <o,f0,> 
+fuc_4110 1 excluded_region 765.562 1149.899 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 1149.899 1163.872 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur1 1163.872 1173.167 <o,f0,male> Wo??e ?ee ?i mbiya maa altene? aroowo ?o oo maa fu??oo o o duggal %e ?um fof no waawi wonde %e comme :fra no wii?aa nii naanen [r] sabuna ko duggeree koo quand :fra méme :fra ?enndi haa parii
+fuc_4110 1 excluded_region 1173.167 1183.703 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 excluded_region 1183.703 1193.308 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 1193.308 1200.618 <o,f0,male> surout :fra maa o?oo dumunna mbo ngon?en walla alaa honoo mbaawirtaa he?irde information pasque jooni onon radio :fra communtaire ji ?i ?oo keewi
+fuc_4110 1 locuteur2 1200.618 1208.104 <o,f0,male> pasque hannde onon njogii comme :fra no o?oo partenaire :fra nii mboonin haalana %e mbo waawa on ?oo addande
+fuc_4110 1 locuteur2 1208.104 1215.668 <o,f0,male> [b] ne??o mbo anndan?a ?i waawi on ?owrude see?a e banngal hono ndemanteeri ndii soñirtee
+fuc_4110 1 excluded_region 1215.668 1218.186 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 1218.186 1223.886 <o,f0,male> e te également :fra so a ndaarii han kala? a ndaarii météo :fra
+fuc_4110 1 locuteur2 1223.886 1230.511 <o,f0,male> ?een kala? ano waawi ?a??ude information : fra ji ma??e pour :fra mbaawaa anndude honoo ndunngu ndu ndungu ?um yaarara nin
+fuc_4110 1 locuteur2 1230.511 1238.680 <o,f0,male> pasque sa he?ii ?iin information :fra ji alaa e sago a waawat andnude hikka e nguu ?oo ndunngu ko hondii aawdi pot-mi aawde
+fuc_4110 1 excluded_region 1238.680 1252.680 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4110 1 locuteur2 1252.680 1259.937 <o,f0,male> si wiyiima ndunngu juurat anO anndi ?oon ko aawdi ma andan?a cycle :fra de :fra cycle :fra oo taa ?i juuri ko ndiin aawdi mbaawaraa ?a??ude
+fuc_4110 1 locuteur2 1259.937 1277.402 <o,f0,male> donc :fra ?um ko hunnde wa?nde important :fra aan ndeemoowo oo il :fra faut :fra ke?aa ?ii ?oo information :fra ji so a he?ii ?ii ?oo information :fra ji a tawat plus :fra souvent :fra a tawat demal ngal waawatma heen hoyrande see?a pasque information :fra ji ?i nganndantaa ?i mbaaw?aa huurorde e ndeer demal maa?a hee
+fuc_4110 1 locuteur1 1277.402 1284.662 <o,f0,male> A jaaraama Allah jaaraama ?um ?oo noon kadi men njaari partenaire :fra men oo woni %e PAM e o?o projet :fra quatres R :fra
+fuc_4110 1 locuteur1 1284.662 1305.879 <o,f0,male> e e ballal fond :fra vert :fra climat :fra e ju??ondirgol tan e jokalante haa jooni noon musid?e kettiyankoo?e si tawii ran onon pawa kibaaruuji onon mbaawi wa?de le :fra 33 879 30 92 pour :fra mbaawon heen accude lamndal moo?on %e 33 879 30 92
+fuc_4110 1 locuteur1 1305.879 1319.964 <o,f0,male> mbaawon heen accude lamndal moo?on e oo ?oo e numéro :fra mbo anndirantama ko partenaire :fra men oo tigi oo okkiri o ?oo ?uum ?oon noon kadi %e gaccitoron hakkil tigi e ko haalaa ?o koo e quand :fra méme :fra ko faatii e banngal moftugol ngol
+fuc_4110 1 locuteur1 1319.964 1331.913 <o,f0,male> %e mobton haa sa?a kadi noon mobton kadi e no foraa mobtireede nii si tawii noon on ke?ii ca?eele maa mba?on feere ?atto?on SDDR oo pour :fra heen mbo waawa heen walliraade on tigi tigi
+fuc_4110 1 locuteur1 1331.913 1337.566 <o,f0,male> ah ?um noon musid?e e yii?e on njaarama Allah jaaraama en ñalaande wonde inchallah rabbi on njaaraama
+fuc_4110 1 locuteur1 1337.566 1391.244 <o,f0,male> [musique]

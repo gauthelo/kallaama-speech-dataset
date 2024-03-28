@@ -1,0 +1,90 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:15 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 2 of 230219
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_32320 1 Locuteur1 0.000 16.808 <o,f1,female> ke fag nda koy ke jeg ma a jega wa njegeruna kene koy taxu yenisay tamit xa ceeg xa teɓaxe calel den xana yaco jafeña parce :fra a refa nga maak we ando naye reta bo mbaslofa maak maga xana a jeg ma dona tanona wago njufan ka xoxof nda o saqa nga xa teɓanoŋ o waro xes
+srr_32320 1 excluded_region 16.808 31.359 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 31.359 47.416 <o,f1,female> galang kor fene moom oxu leyonga ye jeginumo ka ref xa ando naye comme :fra miya nandu rek ande jegatiro charge :fra fa leng nda xu unor na ndoq yo of ret doloq sank mbaslof pour :fra o inox jalik xana fi probleme :fra na wo probleme :fra fa maak sax tank xa mbeef maake moom yoqe fop waakino
+srr_32320 1 Locuteur1 47.416 67.348 <o,f1,female> wa ando naye dal na kene nene ley tonga o ten we ando naye dal seemir deno mbay kam mbine ana tane a nda o refa nga xa pecorgo buga xesa xaƴ mbaslof ret a refa nga ko sax atelier :fra bugo weg weg wet atelier :fra of nges bo wac mbat bugo xiran de ngiran o bugo xiran jal kiro ka kina an na na atelier :fra of kaga moom ŋalaŋ kor fa maako
+srr_32320 1 Locuteur1 67.348 87.887 <o,f1,female> ten taxu ileye la l':fra islam :fra ku te ley rek a jega mate doon na tew kam mbina jege nda koy jamano ten xooy tun bo ande ke wag keke ke ke ɗika wag na ke xoy ke leŋa waaga na ke ɗika waag na ten moƴu nda koy ana ɗoma ana ɗoma trop :fra key te ref ke ly ma nuun rek
+srr_32320 1 Locuteur1 87.887 102.637 <o,f1,female> o refa nga na mbinof ando naye kam mbine refo kor fa soɓidang o ref fa ya ofin nangamin xana yelef nda inoxa nga dolou moom wage yelef o xu leyonga ye a waga yelef ka leyang ka feluna rek mbit kay xano jal xaye jal kiro o feet
+srr_32320 1 excluded_region 102.637 117.874 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 117.874 140.849 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 140.849 156.980 <o,f1,female> tewo xe tena yoqa no mbine xaye tew korof a xesa nga jalik wo o xes jalik mboɓ ne yoq no mbine ankiro ka de njal na cidjof andiro wagiro leye kene mbi ka wagiro leye mbi ke kene kuleye ena ye o mbef ten fiyu rek fato ande ten fiyun yaam mboɓ ne ndiki we njof na maya te
+srr_32320 1 Locuteur1 156.980 179.746 <o,f1,female> to ka ke jeg ka ando naye ka re u kam saate fe kam pin ke yaay ka yarogu fapa yara fapotewa yara pecorgo yara fopa yara nda ndiki ken fopa watata men bo ka re u ka ando naye o refa nge men sax kino xe xey kam mbine a waango ndeta na nda kene jega te ndiki xu tuqo nga o mbef te xaƴa nam
+srr_32320 1 excluded_region 179.746 201.682 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 201.682 219.173 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 219.173 232.463 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 232.463 247.930 <o,f1,female> a jega confiture :fra patate :fra a jega confiture :fra najo confiture :fra xaal kene fopa jega meen a maya dal produit :fra ka ndef na meen ka ando naye kina gara nga dal xano doon tena ŋidof waaw confiture :fra xaal kene fop ka jega men a maya dal produit :fra ka ndef na men a maya dal produit :fra ka ndef na meen ka ando naye o kina gar anga dal xano doon tena ŋidofnda confiture :fra najo
+srr_32320 1 excluded_region 247.930 263.044 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 263.044 282.834 <o,f1,female> bo o wago jeg teen confiture :fra bo ande ɓoɓ ne nanga njang ka xaye waga jang mbur le ɗumana den de ndeta njangik ka ando naye ko reto gu na na Auchan ke mbito ret no bitkola jikik confiture :fra gar ɗum ka ka ka xay waj wata parce :fra i njega meen produit :fra locaux :fra ando naye waga no fi confiture :fra
+srr_32320 1 Locuteur1 282.834 298.920 <o,f1,female> comme :fra patas fe tamit wagano fi confiture :fra te ref kene ke e% xaal fe waga no fi confiture :fra te ref mangu ke waga no fi confiture :fra te fiye to kaga fop ka refa periode :fra fa ando naye ka refa mena may ba yaq wa ndikoy kene may na ba yaq wa
+srr_32320 1 Locuteur1 298.920 312.371 <o,f1,female> te no profiter :fra wa koy fiteen mayu ando naye xano wag no gek bo maŋu ɓato numtu xid maŋu fe ka sécher :fra el a wera nel te fi comme :fra comme :fra comme :fra tandarma xano wag no geek bo mangu num to xid to o mado ñama taga ande kaga fop njiriño
+srr_32320 1 Locuteur1 312.371 330.483 <o,f1,female> te ref kene ke a ref e% nama ley taxinel e% sup fe sump période :fra a jegu waga no jang xob din bata xool fi teen serom
+srr_32320 1 Locuteur1 330.483 345.994 <o,f1,female> waga no xobid bata xool [b] o fi teen confiture :fra waga no xobid bata xool o fi teen xa ɓiya xa ando naye mene bo mad e% bo sump mbato num toxid waga jangan to sump ka ka ref ka ando naye ka faax na no kino parce :fra a refanga wa ando naye ka de sere a
+srr_32320 1 Locuteur1 345.994 362.528 <o,f1,female> ka faax na ten te ref o xe ando naye tension :fra um ka fud wa ka faax ten kene fop ka i njalan men matiere :fra premier :fra mene unora kam Fatick mad soom ando naye xa i ŋotan bo zinginchor yin mene yin ym madd maye meen nda ke yoq na fop mom marché :fra fatick feke i ɗantan
+srr_32320 1 excluded_region 362.528 376.621 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 376.621 394.803 <o,f1,female> o xenan ten meyu [b] bala te yaqwa o wago xenan ten mayu o waag no geek meke bo ya ando naye periode :fra faga jegate waga tano utiliser :fra a kene tax transformation :fra a jeg solo parce :fra ke ando naye a refa nga tan maŋu ko reta no marcher :fra fe o ga ɗaɓa mangu a yaqox fopa fot
+srr_32320 1 excluded_region 394.803 416.656 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 416.656 433.477 <o,f1,female> ko reta marcher :fra fa ko reta ta bo wanteran yam ka forandora fop ka forandora nda xano jang nel bo xano waag no sechet :fra ɗik fa lene a jangin sechet :fra in qfi in na xa fi in gekin jeganga magazin :fra la wagano stocker :fra xano wago jik wa mene bo mangu ɓato num to xid
+srr_32320 1 Locuteur1 433.477 445.478 <o,f1,female> ya koy kaga njiriño te bala tre moƴa fel sax o mofa bo ga a tino o sogo utiliser :fra a ke saqo ke gekona maga wiin we cunga senegal fop koy
+srr_32320 1 Locuteur1 445.478 461.109 <o,f1,female> ten tax de leye fat win we mbi ik transformation :fra a mbago conserver :fra a bagas ke ando naye a refa nga legume :fra ke ka de conserver :fra an anda ye waxtu feke lujum ke maya waga conserver :fra mayu o reta nga bo periode :fra fa ando naye legume :fra jegate xano wago xota no ke conserver :fra ona jawan
+srr_32320 1 excluded_region 461.109 474.674 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 474.674 494.835 <o,f1,female> ana tane a parce :fra que :fra yenisay o jeg meke ay ay wa ndo naye ka nga a in no foire :fra ke yi kene parce :fra foire :fra refe jikox rek nda ko reta jeg maga ka ando naye a mbaga commander :fra a na wo parce :fra in ka i njega meke ay commande :fra ka ando naye Dackar a inora a ŋoy ta o xena ngan bata faax o mbekin no oraire ke te mbisin kaga na ciya in saas
+srr_32320 1 excluded_region 494.835 509.860 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 509.860 526.320 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 526.320 543.485 <o,f1,female> to kaga taxe kina leya avancement :fra yenisay sax ko reta foire :fra sax de leyonge ndax jege autorisation :fra te fiye kaga jafe jafe yo in in wey e% lancer :fra a koy we ando naye den ndef na gouvernement :fra fe fo ONG ke ku de mbag na ndam ta in dal te ndam ta in ten
+srr_32320 1 excluded_region 543.485 558.619 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 558.619 576.778 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 576.778 592.685 <o,f1,female> bo produit :fra kaga tamit i ŋefiran nda i ŋeɗa rek de ɓat o xu waag na nana in rek in wey ŋeɗate ɓata na in i ka i sago ŋata sax presque :fra i ndet a Fidac to iwe i mboga a paxe xa i ndet Kaolack
+srr_32320 1 excluded_region 592.685 605.957 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 605.957 621.506 <o,f1,female> to waga tino sut yakoy ku o jala ten fata ref ka ando naye xana xool xana sell bop ande kino xe a reta nga ba ñimin xana jeg satisfraction bo wago num toxid nda xene o ji wanga xaye o kino xe produit [b] fa ando naye faxe naxa no xaye de nda feta nga gar ka te
+srr_32320 1 excluded_region 621.506 633.541 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 633.541 650.299 <o,f1,female> wagi ro ret [b] o kata leya katof we goɗ [b] maraisage :fra koy refe trop ten ref ke leyonga ten rek maraisage :fra fe mom wax deg fa yala gijamo roq ten
+srr_32320 1 Locuteur1 650.299 666.631 <o,f1,female> gijamo roq ten trop :fra sax nda dal a ndam ta nga we ando naye den ndef no maraisage :fra fe xana faax parce :fra refe ye o refa nge teen rek wukan kino we yoq na a nanga wuqa yo wuqani fop a jega wa ndef na no maraisage :fra fe to anda me galang kor ke i njeg na yo deno de na njengu yo
+srr_32320 1 Locuteur1 666.631 682.995 <o,f1,female> ndam ta den no entrant :fra ke yin kene yin ñom seni tamit ana faxa ten ndamit dal ɓoɓ ne parce :fra que :fra wine moom a mbuga calel xaƴa niak calel fe koy ten yacu doy waar parce :fra ke leyo guma lang ke xator lang ke ka jeg fojem wagino jal
+srr_32320 1 Locuteur1 682.995 698.187 <o,f1,female> to o kino xe wagiro ɓaxa dole of ɓaxa na koɓale to jeg kiro ben rendement :fra ku o fiya teen ko jeg yakar pour :fra te faax pour :fra o wago jirñox ten nda o reta tanga bo wagatiro jeg teen yakar mofi o xaƴin a ndam tanga dal desele fe no fojemole fojemole lang ke
+srr_32320 1 Locuteur1 698.187 714.987 <o,f1,female> wine xana njalik micro jardinage :fra fe sax ten yacu tane yam maga xaƴa fojemole ana fiya nda koy pin ke ŋatu ŋata la ando naye pour o jeg ten espace :fra la fiya nona fo anda in a refa nga in kama Njanjay
+srr_32320 1 excluded_region 714.987 731.385 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 731.385 746.210 <o,f1,female> nda ɗiŋne commencer :fra anga neke fof le deɓa xana mos de mbago ŋota teen njeko kaga ndak rek ɗig ne a faga nga rek fojemola ŋaya ka fajaɓ la nan ka ŋoyoma weer
+srr_32320 1 excluded_region 746.210 762.049 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 762.049 774.957 <o,f1,female> projet :fra waga ngan ay xayrun Etat :fra ay xayrun in dal fata wat rek i mbugu o xu wag na jora ino mbay dali letna fopo mbay i mbase leŋ refe Etat :fra refe projet :fra refe leŋ fop
+srr_32320 1 Locuteur1 774.957 791.935 <o,f1,female> [b] in dal ka i mbang na ley ten refe ka yoq na den den in dal qoq i mbugu qoq i mbugu xa desela na in fojemole den koy den andu e% moyen :fra ka de mbika bote desele ox den in dal kaga som ref xalat in ten ref yite in
+srr_32320 1 Locuteur1 791.935 807.641 <o,f1,female> i an anga ten ke lakas i mbiyan na qox in ne dole ina fod na parce :fra que :fra a mbi a men ay dik nda dik kaga taxe bo ndik fojemole rete ɓiña jeg a dik nda dika yo a fiya nga 1 an 2ans te m bato dakox nate re ina
+srr_32320 1 Locuteur1 807.641 822.868 <o,f1,female> o fiyo dik re e solution :fra fogum walum ndox fe developpement :fra ne ku ka kina leya ten to kino xe jege jege fond :fra la ta ta financement :fra la ando naye a waga départ :fra in
+srr_32320 1 excluded_region 822.868 838.794 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 838.794 851.996 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 851.996 867.845 <o,f1,female> mi mom mi mom me i toloxa fiya tim lakas kene som ref caleles i kaga mom kaga mom we niak parce :fra que :fra no nat kene ne ke o gisa toxa make no nat waga no ɓekyam o refa nga ko jik wa jour :fra au :fra jour :fra
+srr_32320 1 excluded_region 867.845 882.152 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 882.152 896.046 <o,f1,female> parce :fra que :fra dara moƴe fel o jeg soxla of ret siip ret ndax soxla of to o leng andan kirang tig donc :fra ke i njala kaga taxu wiwe njala xaye o refa nga kam mbinof waro dimala o korof waro dimle mbaslof o geka nge soti ke fe
+srr_32320 1 Locuteur1 896.046 912.541 <o,f1,female> foko ret no banque :fra la ando naye xano wago jega maga wet maga compte :fra of o jega nga xaɗakof o ret gekin maga o jego dermof o ret gekin soxla betaŋaŋ o wago sip ret xot kin de lela parce :fra que :fra in wene xaye ka i ɓug wa ando naye i ndefatange meen te jeg wa remplacer :fra a in
+srr_32320 1 Locuteur1 912.541 931.559 <o,f1,female> nda koy kene ref ka yac na jafeñ e% a jega projet :fra la gar na men a dam ta apprentit :fra ke atelier :fra fu ref na peja atelier nu ref na leya nge o waga nga jeg bo apprentit :fra tadik
+srr_32320 1 excluded_region 931.559 942.483 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 942.483 957.724 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 957.724 974.903 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 974.903 992.122 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 992.122 1013.476 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 1013.476 1029.650 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 excluded_region 1029.650 1046.110 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 1046.110 1062.751 <o,f1,female> fop mbinu retona a mbay fo diplome :fra den weke mbay fo fo fo fo diplome :fra den ampagay jegiro ma roqona ko moof soom mais :fra ke ndax na soxla fe jega o naɓa nga mene to saqe namik mbiƴo lakas wo dal ɓoɓ ne
+srr_32320 1 Locuteur1 1062.751 1087.886 <o,f1,female> kem invité :fra a den dal ten refe fada ndet a mbaɗik métier :fra métier :fra ten saqu saaate saate fu moƴo nga developper :fra oox ten xupoŋ métier :fra soa fe sax rewe ga ndokat ten mecanicien :fra ke rewe ga ndokat ten menuisier :fra ke rewe ga ndokat ten jege secteur :fra na o naɓa xaye to ga kiro maga rew ndiki sax kino kina xiɓox xiɓ payof bata naan koŋ o roq ten
+srr_32320 1 Locuteur1 1087.886 1104.596 <o,f1,female> bo ga ndax jeg kiro o njiriñ to koy ke ka leyoŋ ten gouvernement :fra fe ka favoriser :fra ten rewe xaye o refa nga meke ref tew comme :fra o ref na electricité:fra fe refo tew favore :fra fa o jega sax o koro xa sax jeg kiran parce :fra ka bug rewe a ngor goor loox kino kin a jeg no ka damona
+srr_32320 1 excluded_region 1104.596 1124.217 <o,,unknown> ignore_time_segment_in_scoring
+srr_32320 1 Locuteur1 1124.217 1143.284 <o,f1,female> wake mbiya batiment :fra sax ka rewe ndokaten a mbiya tan batiment :fra neke o ga a neke te genoox weke we fiyo gina formation :fra fe a batiment :fra rewe ŋup u ten to xa teɓanoŋ xa tutuño feke njega Bac mene koy i ŋoya den fat i ngor goor lu to ande tena ndibale el dena ndam tel
+srr_32320 1 Locuteur1 1143.284 1162.628 <o,f1,female> batiment :fra ne xay a genoox tule soom yoqu to rewa a nde a 20 to ke xup na ten sax rewa nde u ku de ŋum noox ina dal de ɓato ŋim noox to ande tew saqu saate tew saqu mbin a re ange rewe
+srr_32320 1 Locuteur1 1162.628 1180.484 <o,f1,female> yaag xana ɗom in way ŋid ma nuun goor we yam o kino kin o xey fiya kete waag na nda koy ke tewa waag na koor wagiran parce :fra tew kete kos kos na a ref bugu ref na atelier :fra um o bugo ref no kan mbina a bugo lijante ɓoɓ na nu yirma den ta ndamta den

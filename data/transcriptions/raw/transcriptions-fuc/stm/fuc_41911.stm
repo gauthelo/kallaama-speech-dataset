@@ -1,0 +1,135 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:52 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 3 of 230403
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_41911 1 locuteur1 0.000 8.800 <o,f1,male> bandiraɓe heeɗiɓe programme :fra Goudiry FM 95 PONT 1 %e min garte ha joni
+fuc_41911 1 locuteur1 8.800 14.513 <o,f1,male> e bandirɓe reemoɓe wonɓe e nder diwan Goudiry ha tenkti e Sénégal foof
+fuc_41911 1 locuteur1 14.513 22.126 <o,f1,male> donc :fra hande noon biɗe joogui %e weltare addude ɗo agent :fra nguji mo gandanɗa hoorema ko kamɓe jogui affaire :fra tooɓogo
+fuc_41911 1 locuteur1 22.126 26.805 <o,f1,male> e nder département :fra mo Goudiry hono %e biyeteɗo monsieur :fra Diatta
+fuc_41911 1 locuteur1 26.805 28.442 <o,f1,male> kanko ko ANACIM o liggoto
+fuc_41911 1 locuteur1 28.442 33.560 <o,f1,male> eyyi hono biyeteɗo kadi %e Moussa Cissokho kamɓe foof ko oɗon banggal ɓe liggoto
+fuc_41911 1 locuteur1 33.560 41.237 <o,f1,male> joni ɓe gari tan pour :fra wawde %e yewtude e bandiraɓeɓe ko fati %e ndeemal mo gandanɗa hoorema e ndungu
+fuc_41911 1 locuteur1 41.237 46.881 <o,f1,male> hikka rawane rawane ndeya ɗum ɗon foof ene adda caɗele e nder ɗum ɗo noon ɓe gaari ko wawde yewtude pour :fra wawde yewtude e bandiraɓe tan
+fuc_41911 1 locuteur1 46.881 54.624 <o,f1,male> pour :fra ɓe mbawa hokkude ɓe hakkille ko fate e ndunguji ɗi garɗɗi eko foti arde ko foti yimɓeɓe reemoɓeɓe kadi no poti daarade
+fuc_41911 1 locuteur1 54.624 60.888 <o,f1,male> e nder oɗon ndeemal woni %e kala mon joguiɗo reemowo ko hewi reemow ko famɗi
+fuc_41911 1 locuteur1 60.888 69.300 <o,f1,male> ɗum ɗon foof mooɓe gar ɓe jewtida e bandiraɓeɓe beele mooɓe dokkuɓe e aussi :fra %e solution :fra mo ganduɗa hoorema ko ɗon ɓe mbawi %e walliturade koye mabɓe
+fuc_41911 1 locuteur1 69.300 71.519 <o,f1,male> beele nddemal mabɓe aussi :fra yaara yesso
+fuc_41911 1 locuteur1 71.519 73.983 <o,f1,male> hade mi naate e %e e yewtere tan
+fuc_41911 1 locuteur1 73.983 85.088 <o,f1,male> mi hokka kongol %e monsieur :fra Diatta o salmina salmina bandiraɓeɓe kañum e Moussa Cissokho e nder ɗum ɗon noon min naata e nder yewtere he donc :fra miwiya %e monsieur :fra Diatta a ñalle jaam
+fuc_41911 1 excluded_region 85.088 88.206 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 locuteu2 88.206 93.126 <o,f1,male> %e mi salmini Mr Sy mi salminima mi salmina auditeur :fra aji ɗi foof [b]
+fuc_41911 1 locuteu2 93.126 96.392 <o,f1,male> monsieur :fra mi salminima
+fuc_41911 1 locuteu2 96.392 105.041 <o,f1,male> mi samini auditeur :fra aɓe foof %e mi salmini monsieur :fra le :fra prefet :fra du :fra département :fra Amadou Coumba %e Amadou Coumba Ndiaye
+fuc_41911 1 locuteu2 105.041 112.346 <o,f1,male> mi salmini monsieur :fra le :fra maire :fra monsieur :fra le :fra président :fra conseil :fra départemental :fra mi salminamo e kala maire :fra wonɗo département :fra Goudiry
+fuc_41911 1 locuteu2 112.346 118.171 <o,f1,male> eyyi joni mi ari pour :fra yewtogol affaire :fra tooɓo e nder départe() département :fra am he
+fuc_41911 1 locuteu2 118.171 120.571 <o,f1,male> eyy ko ɗum addi min ga
+fuc_41911 1 locuteur1 120.571 128.078 <o,f1,male> a jarama gollema jooɗi peewi monsieur :fra Diatta donc :frra ha joni mi hokka kongol %e hoo biyeteɗo Moussa
+fuc_41911 1 excluded_region 128.078 214.752 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 locuteur1 214.752 224.802 <o,f1,male> tardata ko ko mbawmi namdade taw %e monsieur :fra Diatta [b] monsieur :fra Diatta holko hol darande daarde daarde ANACIM woni e nder %e diwan meɗen
+fuc_41911 1 locuteu2 224.802 229.136 <o,f1,male> voilà :fra [b] a jarama monsieur :fra Cissé
+fuc_41911 1 locuteu2 229.136 233.783 <o,f1,male> daarde ANACIM taw kowoni ko État :fra waɗi confier :fra ANACIM a
+fuc_41911 1 locuteu2 233.783 239.485 <o,f1,male> woni supervision :fra maname :wolof o laarata * * navigation :fra aérienne :fra
+fuc_41911 1 locuteu2 239.485 242.443 <o,f1,male> affaire :fra avion :fra ji e sureté %e aérienne :fra
+fuc_41911 1 locuteu2 242.443 257.140 <o,f1,male> woni affaire :fra avion :ji %e so ɗum ɓenni %e ko ɗum woni fonction :fra principal :fra kono ɗum kadi après :fra kadi %e pour :fra mbo waɗay prévision :fra prévision :fra saisonniére :fra prévision :fra hebdomadaire :fra e prévision :fra journaliére :fra
+fuc_41911 1 locuteu2 257.140 272.194 <o,f1,male> ɓe waɗa ɗum maname :wolof ɓe waɗay no %e ko arata janggo pour :fra essayer :fra banggue ndungu o walla faaɓi janggo walla e nder yontere walla e nder lewru ɓe waɗe prévision :fra pour :fra %e reemoɓe
+fuc_41911 1 locuteu2 272.194 277.620 <o,f1,male> ɓe haale est :fra ce :fra que :fra tooɓe na hono arata est :fra ce :fra o heewat walla hewata
+fuc_41911 1 locuteu2 277.620 280.627 <o,f1,male> ko siifaji ko ɗum woni golle ANACIM
+fuc_41911 1 locuteu2 280.627 289.204 <o,f1,male> donc :fra %e ko ko information :fra climatique :fra %e pafide %e reemoɓe
+fuc_41911 1 locuteu2 289.204 291.741 <o,f1,male> e aynoɓe kadi e %e
+fuc_41911 1 excluded_region 291.741 293.159 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 293.159 293.895 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 293.895 345.553 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 345.553 425.092 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 425.092 448.074 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 448.074 496.544 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 496.544 502.198 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 502.198 528.593 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 locuteur1 528.593 537.965 <o,f1,male> e nder ɗum ɗon mi sikki tan %e monsieur :fra Diatta wo %e wonko gandanɗa hoorema nafoore walla ko addata caɗele
+fuc_41911 1 locuteur1 537.965 542.371 <o,f1,male> e nder ndeemal e nder aussi :fra koɓe %e mbaw hutorade ko
+fuc_41911 1 locuteur1 542.371 547.648 <o,f1,male> pour :fra wawde %e nadde e nder changement :fra climatique :fra o
+fuc_41911 1 locuteur1 547.648 552.465 <o,f1,male> beele kamɓe noon e wonɓe e nder on ɗon activité :fra
+fuc_41911 1 locuteur1 552.465 558.178 <o,f1,male> caɗele ɗe %e holnoɓe mbawi wadde ha ɗeɗon caɗele wawi ustade
+fuc_41911 1 locuteur1 558.178 561.172 <o,f1,male> donc :fra min mi hokkuma kongol tan garta e bandiraɓeɓe
+fuc_41911 1 locuteu2 561.172 567.397 <o,f1,male> %e a jara a jarama monsieur :fra Cissé %e aɗa andi neɗɗo activité :fra kala ko waɗaɗ ne waɗi rique :fra
+fuc_41911 1 locuteu2 567.397 571.178 <o,f1,male> %e yeeygol reemugol aynugol foof ne waɗi risque :fra
+fuc_41911 1 locuteu2 571.178 576.889 <o,f1,male> donc :fra minen météo :fra golle amen ko pour :fra walle waw totta information :fra hewɗo
+fuc_41911 1 locuteu2 576.889 582.946 <o,f1,male> pour :fra %e reemoɓe yooɓe pour :fra caɗele aussi :fra so tawi caɗele ne wodi yoɓe yo usto
+fuc_41911 1 locuteu2 582.946 586.622 <o,f1,male> comme :fra missal joni ndungu ono ara
+fuc_41911 1 locuteu2 586.622 593.113 <o,f1,male> a foti hebde awdi a foti hebde machine :fra pour :fra %e labourer :fra %e awgol
+fuc_41911 1 locuteu2 593.113 596.842 <o,f1,male> a foti hebde awdi kadi a foti hebde engrais :fra
+fuc_41911 1 locuteu2 596.842 602.303 <o,f1,male> donc :fra %e donc :fra information :fra kadi o walle pasque ɗum foof ɓaade wawi hebde ɗum foof
+fuc_41911 1 locuteu2 602.303 607.599 <o,f1,male> ndungu ma moƴƴata pasque %e affaire :fra o ko dépendre :fra %e tooɓo
+fuc_41911 1 locuteu2 607.599 617.484 <o,f1,male> donc :fra tooɓo minen min totay information :fra ɓe a haalime a ndungu o o fudɗay o waktu walla ndungu o o fudɗay kono fausse :fra départ :fra faux :fra départ :fra
+fuc_41911 1 locuteu2 617.484 623.556 <o,f1,male> no tubak wiyata hon faux :fra départ :fra a sikki ko ndungu kono wona wona ndungu no fewi %e *
+fuc_41911 1 locuteu2 623.556 629.752 <o,f1,male> donc :fra mi haalay mi haalay ɗum ɗum vraiment :fra ko information :fra siifaji min mi totta men joninoon [r]
+fuc_41911 1 locuteu2 629.752 634.612 <o,f1,male> %e reemowo kadi o jettay motuway :wolof makko pour :fra vraiment :fra
+fuc_41911 1 excluded_region 634.612 636.415 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 locuteu2 636.415 640.491 <o,f1,male> walla %e caɗ() caɗele vraiment :fra si tawi caɗele ne wodi yo yo usto
+fuc_41911 1 locuteu2 640.491 647.387 <o,f1,male> yo usto le maximum :fra poossible :fra donc :fra reemde ndungu makko moƴƴa feewa si feewi si ndungu weeli no fe hewi
+fuc_41911 1 locuteu2 647.387 649.668 <o,f1,male> donc :fra leydi o o weelay
+fuc_41911 1 locuteu2 649.668 651.519 <o,f1,male> %e vraiment :fra
+fuc_41911 1 excluded_region 651.519 653.819 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 653.819 655.365 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 locuteur1 655.365 656.681 <o,f1,male> ha joni %e
+fuc_41911 1 excluded_region 656.681 689.987 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 689.987 816.160 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 816.160 822.355 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 822.355 863.575 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 863.575 1041.844 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 excluded_region 1041.844 1246.617 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 locuteur1 1246.617 1250.874 <o,f0,male> oɗon gandi hande %e remoɓeɓe eɓe gawa laabi ɗiɗi
+fuc_41911 1 locuteur1 1250.874 1255.312 <o,f0,male> e laabi ɗiɗi noon %e e nder nder ndungu o
+fuc_41911 1 locuteur1 1255.312 1260.651 <o,f0,male> donc :fra aɗa wawi %e aɗa wawi awde laabi ɗiɗi taw tooɓo ngo yarata noon yeppeu :wolof noon noon foof
+fuc_41911 1 locuteur1 1260.651 1267.244 <o,f0,male> donc :fra e nder ɗum noon aussi :fra won %e campagne :fa agricole mo gandanɗa hoorema
+fuc_41911 1 locuteur1 1267.244 1273.559 <o,f0,male> ko %e ko tooɓo ngo woni a arata no yaarini
+fuc_41911 1 locuteur1 1273.559 1282.043 <o,f0,male> e nder ɗum aussi wa %e yimɓe ANACIM eɓeni ɗo e ɗum ɗon foof ko pour :fra tan hokkude hakkille e bandiraɓe reemoɓeɓe
+fuc_41911 1 locuteur1 1282.043 1298.994 <o,f0,male> pour :fra ɓe mbawa artirde hakkillaji mabɓe kala ko gandanɗa hoorema so ndungu ari hadema wadde goɗɗum ANACIM nanɗo mami gartu e numéro :fra o soon noddi tan kala ko woni hen ko information :fra ma on naan mais :fra somin gayni émission :fra o tan mamin gartu numéro :fra o min dokka numéro :fra o kala mo gandanɗa hoorema ka ndeemowo aɗa e nder diwan o
+fuc_41911 1 locuteur1 1298.994 1305.474 <o,f0,male> aɗa nder département :fra mo Goudiry sa noddi on ɗon numéro :fra tan maaɓe dokkuma lawol holko mofɗa wade holko a fotani wadde
+fuc_41911 1 locuteur1 1305.474 1313.557 <o,f0,male> e nder ɗum ɗo noon mi dokka ha joni kongol kanko woni Diatta o yewtida e bandiranɓe ko fati e ɗiɗon %e aawuji koɓi batta laabi ɗiɗi e nder
+fuc_41911 1 locuteu2 1313.557 1315.913 <o,f0,male> %e a ja() jarama monsieur :fra Cissé
+fuc_41911 1 locuteu2 1315.913 1322.526 <o,f0,male> bon :fra komin haalat bandiraɓe ɓe foti vraiment %e ƴew() jaggude information :fra météo :fra
+fuc_41911 1 locuteu2 1322.526 1327.626 <o,f0,male> vraiment :fra ɓe waɗa approprié ɗum ɓe ƴetta ɗum ko %e vraiment :fra ɓe gumaɗum
+fuc_41911 1 locuteu2 1327.626 1334.284 <o,f0,male> ko gandal no wodi ko tampini men woɓɓe na wo() gumi ɗum woɓɓeɓe ɓe haala a neɗɗo anda ko arata janggo
+fuc_41911 1 locuteu2 1334.284 1336.920 <o,f0,male> name ko Allah tan andi ko mais :fra ko gandal
+fuc_41911 1 locuteu2 1336.920 1344.835 <o,f0,male> ko gandal hono ni neɗɗo meɗe jooɗi Goudiry ga biɗe haala neɗɗo ne Amérique omo heeɗo walla omo %e omo yiyami nde télévision :fra omo yiyami mbiɗo yiyamo
+fuc_41911 1 locuteu2 1344.835 1353.073 <o,f0,male> ko gandal waɗi ɗum ko orsiguisini yimɓe gandal affaire :fra météo :fra ɓe testa ɓe testa ɓe laara ɓe laara haaɓe heeɓa information :fra sur :fra ɗo
+fuc_41911 1 locuteu2 1353.073 1359.365 <o,f0,male> ɗum kay ne wodi ɓe haala yimɓe donc :fra ndungu o a o ndungu wa ñin hikka o fuɗay o waktu
+fuc_41911 1 locuteu2 1359.365 1362.786 <o,f0,male> bon :fra walla départ :fra o wonay faux :fra départ :fra comme :fra hikka ni
+fuc_41911 1 locuteu2 1362.786 1366.028 <o,f0,male> météo :fra haalino hikka départ :fra o wonay faux :fra départ :fra
+fuc_41911 1 locuteu2 1366.028 1369.932 <o,f0,male> donc :fra inde fotino si kala jettinɗo information :fra agrumino
+fuc_41911 1 excluded_region 1369.932 1372.378 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41911 1 locuteu2 1372.378 1375.685 <o,f0,male> donc :fra %e dooɓe ɓe awi
+fuc_41911 1 locuteu2 1375.685 1380.981 <o,f0,male> bon :fra alhamdulilah Allah walli moƴƴi kono woɓɓe hewɗo awdi mabɓe boni
+fuc_41911 1 locuteu2 1380.981 1383.033 <o,f0,male> engrais :fra ɓe waɗino engrais :fra kadi boni
+fuc_41911 1 locuteu2 1383.033 1385.262 <o,f0,male> ɗum ko jawdi ko jawdi boni ɗon
+fuc_41911 1 locuteu2 1385.262 1392.889 <o,f0,male> donc :fra si tawi no a ƴetti information :fra kom ko météo :fra haalata a a gomi to ɗum heeɓatama donc :fra ɗum ustay rique :fra o
+fuc_41911 1 locuteu2 1392.889 1398.053 <o,f0,male> donc :fra vraiment :fra ko ɗum mi haale %e bandiraɓe e auditeur :fra aɓe e reemoɓe
+fuc_41911 1 locuteu2 1398.053 1406.645 <o,f0,male> komi haalandeɓe yooɓe jontin information :fra joni ɓe waɗe information :fra météo :fra hono ɓe ɗaɓɓay awdi hono hono ɓe ɗaɓɓay engrais :fra ɓe ɗaɓɓa information :fra météo :fra ne kadi
+fuc_41911 1 locuteu2 1406.645 1416.691 <o,f0,male> si me daari émission :fra o no gassa mi tottay numéro :fra o donc :fra sa noddi toon ko serveur :fra après :fra a accay question :fra ma toon ɓe jabotoma ɓe haali ɓe haalanma hono affaire :fra ni way
+fuc_41911 1 locuteu2 1416.691 1422.844 <o,f0,male> prévision :fra o noon ko par :fra ñalawma walla ɗo yontere walla lewru walla hitande o foof
+fuc_41911 1 locuteu2 1422.844 1436.460 <o,f0,male> donc :fra komi haalde %e pasque bandira() %e mi meeɗi yaade tourné :fra o nder département :fra mi haal tan %e e nder Saara o bon :fra mi yeehi pour :fra mi waɗe inspecté :fra poste :fra pluviométrique :fra e
+fuc_41911 1 locuteu2 1436.460 1443.843 <o,f0,male> toon ɓe ɓefete tooɓo tooɓo o bon :fra miɗa meɗa yaa e chef :fra de :fra village :fra o e yimɓeɓe %é obse() observateur :fra o
+fuc_41911 1 locuteu2 1443.843 1453.499 <o,f0,male> mi mi wajiɗi ne mbawa goto wi o waji o o wi o ko hom oko homo o wi o woni météo :fra o woni dendiɗo Allah
+fuc_41911 1 locuteu2 1453.499 1458.659 <o,f0,male> anani soubahana Allah dendiɗo Allah ko Allah gurdam ko kanko tan
+fuc_41911 1 locuteu2 1458.659 1459.983 <o,f0,male> mais kono kanko
+fuc_41911 1 locuteu2 1459.983 1461.304 <o,f0,male> ko kanko totti gandal
+fuc_41911 1 locuteu2 1461.304 1468.861 <o,f0,male> o gandal mbimi ɓe sikki bon :fra koɓe haalata ko yimɓe ɓe daaray ɓe miji tan ɓe haalane ala ɓe miija ɓe testay
+fuc_41911 1 locuteu2 1468.861 1477.635 <o,f0,male> %hum %hum ne woni ɓe ɓe testa ɓe laaray be laara ɓe yumbinne ga gandal mabɓe macha Allah Allah hokkiɓe gandal e ɗon on banggue
+fuc_41911 1 locuteu2 1477.635 1491.977 <o,f0,male> donc :fra ko ɗum ɓe * ɓe arde ɓe yaltina ɓe ara épuis :fra wona Sénégal tan ko adouna o foof ɓe ɓe ɓe waɗe réunion :fra ɓe haala météo Sénégal %e Mali Guinée Afrique %e occidentale :fra foof ɓe jooɗo
+fuc_41911 1 locuteu2 1491.977 1496.173 <o,f0,male> ɓe waɗay échangé :fra e pays :fra ji ɓe %e ɓe ƴetta ɓe jaltina prévision :fra saisonniére :fra
+fuc_41911 1 locuteu2 1496.173 1503.836 <o,f0,male> donc :fra wona neɗɗo o daray ni tan haala goɗɗum taw a voilà :fra non :fra non :fra ko omo deeƴi %e mandarga :fra

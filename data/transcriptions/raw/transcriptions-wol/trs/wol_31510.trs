@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="PROPRIETAIRE" audio_filename="wol_31510" version="2" version_date="230721">
+<Speakers>
+<Speaker id="spk1" name="locuteur 1" check="yes" type="male" dialect="native" accent="wolof" scope="global"/>
+<Speaker id="spk2" name="locueteur 2" check="yes" type="female" dialect="native" accent="wolof" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="253.100">
+<Turn startTime="0" endTime="2.291" speaker="spk1" mode="spontaneous">
+<Sync time="0"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ soxna si na nga def noo tudd
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="2.291" endTime="4.777">
+<Sync time="2.291"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ man Boury Mbodj laa tudd 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" mode="spontaneous" startTime="4.777" endTime="6.152">
+<Sync time="4.777"/>
+<Who nb="1"/>
+Boury Mbodj
+<Who nb="2"/>
+Boury Mbodj laa tudd 
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="6.152" endTime="7.075">
+<Sync time="6.152"/>
+dëkk ci diwaanu fan
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="7.075" endTime="13.752">
+<Sync time="7.075"/>
+dëkk %e 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ dëkk ci commune :fra Dya 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ dëkk Dya biir communauté :fra rurale :fra bi 
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="13.752" endTime="15.127">
+<Sync time="13.752"/>
+yow ci 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ looy yëngu Boury 
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="15.127" endTime="16.972">
+<Sync time="15.127"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ man maa ngi yëngu ci mbay
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="16.972" endTime="17.352">
+<Sync time="16.972"/>
+mbay
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="17.352" endTime="18.113">
+<Sync time="17.352"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ waaw
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="18.113" endTime="21.098">
+<Sync time="18.113"/>
+ndax yaa ngi doon déglu émissions :fra yu ñu daan def ci rajo 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ alfayda 
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="21.098" endTime="26.544">
+<Sync time="21.098"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ waaw maa maa ngi am na ci yu a ci doon jot a dégg 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="26.544" endTime="27.485">
+<Sync time="26.544"/>
+ci lan la daan wax
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="27.485" endTime="51.696">
+<Sync time="27.485"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ %e mbirum mbay mi 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ci lay wax 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ nuñ ñu jàppalee 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ nan lañ war a def 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ak suuf si 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ nan lañ def ba mun a 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ war a am jiw bu baax 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ luñ war a mën a béy bay 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ muy semence :fra certifiée :fra 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ xelal nañ ñu ci 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ waxtaan nañ ci wax dëgg yàlla 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ay kii yoon i yoon 
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="51.696" endTime="52.853">
+<Sync time="51.696"/>
+ndax xam nga semence :fra certifiée :fra 
+</Turn>
+<Turn speaker="spk1 spk2" mode="spontaneous" startTime="52.853" endTime="60.344">
+<Sync time="52.853"/>
+<Who nb="1"/>
+ràññee ne
+<Who nb="2"/>
+waaw waaw xamaan xam naa bu baax semence :fra semence :fra certifié :fra 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="57.152"/>
+<Who nb="1"/>
+nuñ koy ràññee
+<Who nb="2"/>
+ndax waa waa coopérative :fra bi 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ dañ koy joxe 
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="60.344" endTime="60.718">
+<Sync time="60.344"/>
+%hum
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="60.718" endTime="74.132">
+<Sync time="60.718"/>
+waaw 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ coopérative :fra bi ak 
+<Event desc="lapsus" type="pronounce" extent="instantaneous"/>
+ ànd ak COPEK 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ndax waa COPEK ñoo jàppale coopérative :fra bi 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ba ñu mën a am 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ semence :fra certifiée :fra 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="74.132" endTime="77.656">
+<Sync time="74.132"/>
+donc :fra naka nga gisee sa bay mi sa mbay mi bi nga ko ginnaaw bi nga ko jëfandikoo
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="77.656" endTime="105.846">
+<Sync time="77.656"/>
+maanaam %e mbéy mi waxtaan nañ ko fii léegi nee nañ macha :ar allah :ar 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ semence :fra certifiée :fra mënut a niróog jiw bi ngdencal sa bopp 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ndax jiw semence :fra certifiée :fra dañ ko traité :fra 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ waaw jaarale jaarale ko 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ci ba mu mucc ayib 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ kon nag mënut a niroog 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ jiw bi nga xam ne am na fukki at 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ nga téye ko boo béyee denc mënul a mënul a niróo duñ niróo rendement :fra daal 
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="105.846" endTime="106.443">
+<Sync time="105.846"/>
+%hum %hum
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="106.443" endTime="108.996">
+<Sync time="106.443"/>
+rendement :fra yi du bokk waaw 
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="108.996" endTime="111.732">
+<Sync time="108.996"/>
+ndax mos ngaa gis sa téléphone :fra benn message :fra bu lay wax ci wàllu mbay mi
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="111.732" endTime="159.555">
+<Sync time="111.732"/>
+waaw ndax woo na ma ne ma yow yaay Boury Mbodj ma ne ko waaw man la Boury Mbodj 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ mu ne ma ndax béy nga %e ndax yow jox nañ la jiw 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ren ci ci coopérative :fra bi 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ma ne ko béykat dëgg laa ndax tey balaa nga ko doon xam nga yegg si 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ci li ma li ma li ma yore 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ mu ne ah ma ne ko waaye ci suma biir section :fra 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ biir section :fra bi ma ne mu ne ah ma ne ko 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ léegi rek laa tàggoog ki nga xam ne dañoo seet si woon toolam 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ joxuñ ko jiw semence :fra certifiée :fra 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ndax ma ma ma dem ci moom oowal la ko mu ne ma amul amul solo loolu def naa ko 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ jokkoo naag ñoom 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="159.555" endTime="163.473">
+<Sync time="159.555"/>
+ok :en tey %e looy xelal sa mbokku béykat yi 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="163.473" endTime="240.015">
+<Sync time="163.473"/>
+tey li ma xelal sama mbokku béykat yi mooy 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ maanaam tey jotaayu tey bii 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ indi na ñu doole 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ indil nañ ñu loo xam ne luñ xamul woon la 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ñu xamal ñu ko 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ndax rajo bi 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ téléphone :fra yi 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ li ñu wax nii téléphone :fra yi 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ képp ku mu ku mu yore sa téléphone :fra buñ la ooyee 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ jokkoog yow déplacement :fra du am yaakaar naa boobu moo gën a xarañ 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ mu war moto :fra 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ou :fra nga wor oto 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ di déplacé :fra wu yaa kaar naa foofu moo gën a %e indi yaxanal 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ bu dee yaxanal poche :fra rek foofu la gën a yombee 
+<Sync time="202.99"/>
+kon nag li ngeen li ñu taataan fii tey 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ñu bëri di béykat 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ jàppale ngeen ñu 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ waaw ndax wax ngeen fi mbiru 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ xetax wax ngeen fi compost :fra te compost :fra yàgg na nit ñi di ko doxal 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ xetax yàgg na fi 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ mais :fra yaakaar naa buñ xamoon ne xetax bi boo ko defut compost :fra di nga ko mun a utiliser :fra 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ te loolu yëpp jëlee naén ko fi një() muy njëriñ 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ loo xam ne dañ ko daan sagganee 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ waaye yaakaar naa lu ñuy récupérer :fra fi mu nekk nii 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ di di ci jàpp 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ waaw 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="240.015" endTime="243.271">
+<Sync time="240.015"/>
+waaw 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ kon nga baal ñu fàttali ñu tur beeg sant bi ak fi nga dëkk 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="243.271" endTime="253.100">
+<Sync time="243.271"/>
+man daal 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ man maa ngi tudd Boury Mbodj 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ présidente :fra section :fra Dya 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ dëkk ci biir Dya 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ waaw 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

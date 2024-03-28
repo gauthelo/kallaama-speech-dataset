@@ -1,0 +1,66 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 10:39:03 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 3 of 230224
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_35810 1 locuteur_1 0.000 0.695 <o,f1,male> bismilah [b]
+wol_35810 1 locuteur_2 0.695 2.456 <o,f1,male> man Mafal Ndiaye laa tudd
+wol_35810 1 locuteur_2 2.456 5.661 <o,f1,male> maa ngi dëkk fii ci pont:fra bi ci foofu ndox mi di taa
+wol_35810 1 locuteur_2 5.661 6.677 <o,f1,male> foofu mooy sama kër
+wol_35810 1 locuteur_1 6.677 7.942 <o,f1,male> foofu nu mu tudd ?
+wol_35810 1 locuteur_2 7.942 9.026 <o,f1,male> Diamaguen 2 daal
+wol_35810 1 excluded_region 9.026 10.057 <o,,unknown> ignore_time_segment_in_scoring
+wol_35810 1 locuteur_2 10.057 11.972 <o,f1,male> Diamaguene 2 waaw
+wol_35810 1 locuteur_1 11.972 13.554 <o,f1,male> donc:fra lan moo la indi tay ci coopéra()
+wol_35810 1 locuteur_2 13.554 18.245 <o,f1,male> man li ma fi tax a ñëw dama dégg dama dégg seen émission:fra
+wol_35810 1 locuteur_2 18.245 24.470 <o,f1,male> ngeen wax wax %e marchandises:fra yi ngeen am
+wol_35810 1 locuteur_2 24.470 30.629 <o,f1,male> ma dégg ko nga wax moom nga ni ma ñebe forage:fra bi 1000F
+wol_35810 1 locuteur_2 30.629 35.365 <o,f1,male> ñebe doom bi nga xam ni waa njóobeen moom lañu gën a bëgg 750
+wol_35810 1 locuteur_2 35.365 37.464 <o,f1,male> ni ma mboq 750
+wol_35810 1 locuteur_2 37.464 39.566 <o,f1,male> ni ma basi 750
+wol_35810 1 locuteur_2 39.566 45.388 <o,f1,male> tey nag li ma tax a ñëw mooy ñebe ngooñ bi far ah xëy na dafa manqué:fra
+wol_35810 1 locuteur_2 45.388 46.106 <o,f1,male> %hum %hum
+wol_35810 1 locuteur_2 46.106 47.481 <o,f1,male> léegi ñëw xëyna incha allah
+wol_35810 1 locuteur_2 47.481 49.231 <o,f1,male> waaw noonu laa ko gisee
+wol_35810 1 locuteur_2 49.231 55.957 <o,f1,male> xamatuma ban rajo laa ko déggee nag xamuma rajo fm la xaw ma waaw dama ko dégg daal en:fra tout:fra samedi:fra daal laa ko dégg
+wol_35810 1 excluded_region 55.957 58.539 <o,,unknown> ignore_time_segment_in_scoring
+wol_35810 1 locuteur_1 58.539 60.824 <o,f0,male> donc:fra nan nga gisee ñebe boobu ngay laaj
+wol_35810 1 locuteur_2 60.824 62.433 <o,f0,male> ñebe boobu kay dama ko jaay ba tayyi
+wol_35810 1 locuteur_2 62.433 68.913 <o,f0,male> maa ngi amoon fii tool dama koy ji heure:fra bu ngooñ manqué:fra surtout:fra ren nag
+wol_35810 1 locuteur_2 68.913 72.273 <o,f0,male> bu ngooñ manqué:fra rek [b] nga tambali buddi di jaay
+wol_35810 1 locuteur_2 72.273 81.693 <o,f0,male> waaw tubarfakala man dama ko daan jaay sama xale yi budi am na ay temps:fra yoo xam ni damay wut fay ay pël ñu lay buddil takk 15F may jaayee 50F [b]
+wol_35810 1 locuteur_2 81.693 84.993 <o,f0,male> xam nga foofu amul bénéfice:fra sax mais:fra ak yii yaa ngi ko jaayee takk 100F [b]
+wol_35810 1 locuteur_2 84.993 89.192 <o,f0,male> [b] %hum %hum donc:fra sa suuf nan nga koy def ba mu am doole
+wol_35810 1 locuteur_2 89.192 89.827 <o,f0,male> %hum %hum
+wol_35810 1 excluded_region 89.827 95.233 <o,,unknown> ignore_time_segment_in_scoring
+wol_35810 1 locuteur_2 95.233 98.836 <o,f0,male> jarul daanaka mbalit bi rek moo tax ma daan am doole
+wol_35810 1 locuteur_2 98.836 102.196 <o,f0,male> waaw bu fekkee am nga feneen fooy dem nag il:fra que:fra mu soxla angare
+wol_35810 1 locuteur_2 102.196 104.577 <o,f0,male> ñebe ñebe ñebe moom moo gën a bëgg angare moom
+wol_35810 1 locuteur_1 104.577 106.854 <o,f0,male> mbalit mi mooy lan comme:fra ay neefare
+wol_35810 1 locuteur_1 106.854 114.834 <o,f0,male> non:fra non:fra oto mbalit yii %e mbalit mi jógee si dëkk bi rek *
+wol_35810 1 locuteur_1 114.834 120.071 <o,f0,male> guy gii guy gii fii nga xam ni lotissé:fra nañu ko tey defoon naa fi mbalit ba ba di ko bay
+wol_35810 1 locuteur_1 120.071 124.033 <o,f0,male> si boor bii rek léegi nag suñu tool yëpp dañu leen lotissé:fra
+wol_35810 1 excluded_region 124.033 125.155 <o,,unknown> ignore_time_segment_in_scoring
+wol_35810 1 locuteur_1 125.155 127.690 <o,f0,male> [b] kon xam nga semence:fra certifiée:fra
+wol_35810 1 locuteur_2 127.690 136.907 <o,f0,male> waawaaw dégg naa ñuy wax semence:fra cer certifiée:fra mooy semence:fra bi nga xam ni rendement:fra bi mu lay jox moo ëpp rendement:fra beneen beneen bi
+wol_35810 1 locuteur_2 136.907 143.792 <o,f0,male> moo tax ndaxte bu fekkee hectare:fra bu nekk danga si am lu lu double:fra la nga daan am bu njëkk jar na wut si
+wol_35810 1 locuteur_2 143.792 146.617 <o,f0,male> cher:fra na mais:fra seerul jiwu moom du cher:fra
+wol_35810 1 excluded_region 146.617 149.327 <o,,unknown> ignore_time_segment_in_scoring
+wol_35810 1 excluded_region 149.327 165.427 <o,,unknown> ignore_time_segment_in_scoring
+wol_35810 1 locuteur_1 165.427 166.270 <o,f0,male> day métti de
+wol_35810 1 locuteur_2 166.270 168.257 <o,f0,male> am naa fas ak sareet mais:fra mbaam la
+wol_35810 1 locuteur_2 168.257 171.502 <o,f0,male> xam nga mbaam jóob moom [rire]
+wol_35810 1 excluded_region 171.502 176.536 <o,,unknown> ignore_time_segment_in_scoring

@@ -1,0 +1,183 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:56 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 4 of 230316
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_42031 1 Locuteur1 0.000 1.332 <o,f1,male> *
+srr_42031 1 Locuteur1 1.332 16.543 <o,f1,male> jokonjal Zancier jokonjal o fog sereer wena nanoxa jofa Fm 104 point 4 [musique] a ref emission :fra njokotoor ne meke no jofa FM no studio :fra Iba Gueye %e te ref naka ke jeg na solo ken fasiyene ten waxtaan ta xani
+srr_42031 1 Locuteur1 16.543 33.081 <o,f1,male> [musique] a ref no namo kina wagu fi ba surtout :fra o ɓiy no seseer a ñoow foŋ andona te jeg na solo parce :fra que :fra kawaŋ a [musique] jega nene we ando te ŋalis a kaw teel bo kawaŋaan nam waro wago ñoow fo ten fo ngor fo sutura
+srr_42031 1 Locuteur1 33.081 50.648 <o,f1,male> [musique] boy yoqe a fañ ngo roq no de bo o faño rok no ke ando na faaxe kaga ref ke ando na a jegan solo lool fogol nuun wago yoon [musique] fo in a kaɗaŋ bo a paam nu wago yoon fo in 784972525 4972525
+srr_42031 1 Locuteur1 50.648 62.099 <o,f1,male> [musique] daka nuun nu yoon ka yo fo deka kuɗuŋ no laga de keke ando naye ten ŋayu xaye coxkel ke de te cokal jig na solo a cokal jig na solo nak a ref o kino xu ref na
+srr_42031 1 Locuteur1 62.099 75.369 <o,f1,male> [musique] ne kaw tona a ref ŋalis xa waga no kawut de ñowole wo xa wago fi de ke ando ye te roga sim tu ke ando na o fiya ngan xana xan jega noŋo njiriñ xana rima noŋ o njiriñ o ando na
+srr_42031 1 Locuteur1 75.369 86.823 <o,f1,male> [musique] wo ba ɓiya xewo fo e% xa teɓa xewo wala maag we xana ane keke kawona wax deg wax fiya de ke rooga sim tina Zancier kaga ref ke anona te jeg na solo ko
+srr_42031 1 Locuteur2 86.823 101.400 <o,f1,female> e jokonjal Cheikh [musique] fogon [musique] a coktel ke xani a refan rek ke andoon na ka jeg toto ñowel [musique] ndaam
+srr_42031 1 Locuteur2 101.400 120.701 <o,f1,female> o ñowone xani xu ref [musique] na andan xalis det fogu [musique] to xalis ne [musique] a fiya ni paaxu a fiya ni ponu [musique] paax ne xalis ne [musique] ten weer na lembo [musique] bata doy
+srr_42031 1 Locuteur2 120.701 135.626 <o,f1,female> ponele yit in weer na lembo [musique] bata doy nda xana jeg rek gen lem na doy xe na xu moƴ na xana in wala xu moƴ na jega in deyit kam o lembin
+srr_42031 1 Locuteur2 135.626 151.348 <o,f1,female> xalis ka ref ke ando na wax deg [musique] ku ñak na nene rek [musique] ɗoman o xu ñak na xalis rek jega ge ɗomo nga raam [musique] gu ando na wago pi [musique]
+srr_42031 1 Locuteur2 151.348 172.477 <o,f1,female> kam ad nan xalis ne ka fog te [musique] ram ka ref tig ando na [musique] ka ref fo wiin we a gen nan judu u bon ndiiki kagan an yo [musique] kon a jegan e% solo jeg solo ando na
+srr_42031 1 Locuteur2 172.477 188.658 <o,f1,female> wax deg fok rek [musique] te waaɗ kel ram o waɗa ngeran a jega may men fok cono ref ma [musique] ndax xalisan no gin ref na ge e ka ref kama ne o paxel ley teen ka jegit deyo
+srr_42031 1 Locuteur1 188.658 189.504 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 189.504 202.723 <o,f1,female> [musique] ram wax deg roog jega ji ga o kiin a pi ka kam ad na ne kam societé :fra te refe xalis ka fog de
+srr_42031 1 Locuteur1 202.723 205.879 <o,f1,male> [musique] ŋa ŋa ŋalis sax ka fog no ñowone no kiin
+srr_42031 1 Locuteur2 205.879 212.560 <o,f1,female> aha waw te lemoŋ kon ka ref ke andon meme :fra rooga coɗa ngan o riig o xoox bo may ɗox
+srr_42031 1 Locuteur1 212.560 213.182 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 213.182 220.071 <o,f1,female> [musique] xano ka bo no gaga may ɗona xano jik win o je te xalis waɗit de xalis naga tig
+srr_42031 1 Locuteur1 220.071 220.673 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 220.673 223.253 <o,f1,female> [musique] nen ceeb o xoox kange ceeb ande foko jeg ceeb
+srr_42031 1 Locuteur1 223.253 223.771 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 223.771 226.500 <o,f1,female> [musique] a o xemes kange diwliin foko jikik diwlin
+srr_42031 1 Locuteur1 226.500 226.807 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 226.807 229.722 <o,f1,female> [musique] donc :fra te ref ke andona tabax ge meke
+srr_42031 1 Locuteur1 229.722 230.211 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 230.211 233.581 <o,f1,female> [musique] tiko tik ke ge ando na naro na fi kam société :fra se
+srr_42031 1 Locuteur1 233.581 233.989 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 233.989 235.184 <o,f1,female> xalis ka fog kama ne
+srr_42031 1 Locuteur1 235.184 235.586 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 235.586 238.457 <o,f1,female> te kay fok rek te waaɗ kel
+srr_42031 1 Locuteur1 238.457 238.800 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 238.800 240.554 <o,f1,female> nda nak nete waaɗ teelit
+srr_42031 1 Locuteur1 240.554 240.989 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 240.989 242.453 <o,f1,female> ka waru xota ɗat
+srr_42031 1 Locuteur1 242.453 242.806 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 242.806 246.574 <o,f1,female> a ref me andona wax deg jeg ke lok loko
+srr_42031 1 Locuteur1 246.574 252.465 <o,f1,male> [musique] parce :fra que :"fra Zancier o kawaŋ %e o ligeyan anda ke xup na ɗom o ligey bo o kaw xalis
+srr_42031 1 Locuteur1 252.465 263.020 <o,f1,male> [musique] me warona ɓek ɓekinon o ɓekin me ando na o xu ge onga a leman ka lem ka xeke de meke ɓek na keke a xaƴ me ando te warno ɓek ɓekiran ma kaga anda o yaqon
+srr_42031 1 excluded_region 263.020 264.141 <o,,unknown> ignore_time_segment_in_scoring
+srr_42031 1 Locuteur1 264.141 277.963 <o,f1,male> [musique] parce :fra que :fra ɗeta nga ke ju riman kiraŋo o njiriñ o njirño anda o kino xe xu ref na rek ka remaŋ kuli ka lema am tig kan xenda a rima naam o njir o njirño ge ando na xan wago ñoow de fogesa wago ñoow de
+srr_42031 1 Locuteur1 277.963 291.190 <o,f1,male> [musique] xa ɓiya xemi wago ñoow de we mbines a mbango ñoow de mais :fra oxe ge o ligey nanga xalis ne ten o ka no bes leŋ o yakin no bes leŋ wala o ɓekin noke ando na riman ki rang dara ludul a yaqa a yaqaŋ kaŋ anda kaga koy jeg ke o njiriñ
+srr_42031 1 Locuteur2 291.190 291.623 <o,f1,female> jege njiriñ
+srr_42031 1 Locuteur1 291.623 304.803 <o,f1,male> [musique] te yit o waɗa nal na waro waɗit pour :fra o jik kga a ref ke andona ke jeg na solo ko parce :fra que :fra o kin ne waɗa rek koo ɗetan ne warona waɗit fo yit ne warona jegit parce :fra que :fra bo gi rek
+srr_42031 1 Locuteur1 304.803 325.999 <o,f1,male> [musique] kan waro jig rek o waaɗ o ndeta nu xup na yoɓit rek o rok maga te kaga ka ŋaay ke ando ke refo jafe jafe mayu parce :fra que :fra o kino nak bo ga o kin a rok no ke ando na naka sudul nonu no baske hana ley a mi kat kam bugo wa dog a waɗa mbeka dok no ke ando na faxe wala ke ando na o leŋ simtiran
+srr_42031 1 Locuteur1 325.999 340.909 <o,f1,male> [musique] o mujo rog de o jeg de gaci to a sereer ka ley mi o sereer ka faña gaci ndax sereer ka jege jom te kaga fop nak pour :fra o wago moytu kaga foko yoon fo njom ne jig dona jom no sereer naga foko yoon fo ten
+srr_42031 1 Locuteur1 340.909 350.506 <o,f1,male> [musique] parce :fra que :fra te ɓek kana go o kino xu ref na rek o juwa giro naw no ke refona bo o an rek %e ku rokona rek xano respecter :fra el Zancier
+srr_42031 1 Locuteur2 350.506 365.023 <o,f1,female> Cheikh jokonjal xalis vraiment :fra [musique] a refaan ken ando na we ñak kam société :fra ne [musique] tigo tig ke ando na wago fi wala o lem kan bpo xalis a fog te
+srr_42031 1 Locuteur2 365.023 382.301 <o,f1,female> xalis ka ɓek bo [musique] ka fi o jega ngeran rek fi kana o kiin naw kando [musique] jega nge xalis rek vraiment :fra naw ne wo fel ke [musique] to o kiin ka nawtel ke ando na
+srr_42031 1 Locuteur2 382.301 400.214 <o,f1,female> wax deg roog [musique] a fok rek [musique] a tax bo [musique] a tax bo vraiment :fra [musique] e kino o jega ngeran rek [musique] ko considérer :fra kano
+srr_42031 1 Locuteur2 400.214 413.709 <o,f1,female> [musique] o jega ngeran rek ko considérer :fra kano e o jega ngan nak jega gana jeg ka te foka dano de wala jege gena xew ka o lembano fok rek o lac o log nel ndigal
+srr_42031 1 Locuteur2 413.709 416.758 <o,f1,female> [musique] foko log nel ndigal ramko jeg xalis
+srr_42031 1 Locuteur1 416.758 417.070 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 417.070 426.399 <o,f1,female> [musique] anda magan refa ke ando nan paaxo raam ke tig genu ka te ware lo paƴ te xalis pay kan o kawin o xeyel te gar a faƴu
+srr_42031 1 Locuteur1 426.399 428.921 <o,f1,male> [musique] te yit xalis ka faƴa xa gaci
+srr_42031 1 Locuteur2 428.921 429.201 <o,f1,female> eey
+srr_42031 1 Locuteur1 429.201 430.876 <o,f1,male> [musique] ke anda kon a jega no o njiriñ
+srr_42031 1 Locuteur2 430.876 431.417 <o,f1,female> [musique] jegan njiriñ
+srr_42031 1 Locuteur1 431.417 433.008 <o,f1,male> [musique] njiriñ noxa o njirño xaga te jeg na nak
+srr_42031 1 Locuteur2 433.008 433.477 <o,f1,female> aha
+srr_42031 1 Locuteur1 433.477 437.575 <o,f1,male> [musique] wo kaw nana wara an teyit refe xa kaga ɓor a ñowta xaƴa
+srr_42031 1 Locuteur2 437.575 437.982 <o,f1,female> aha
+srr_42031 1 Locuteur1 437.982 440.004 <o,f1,male> [musique] waag dimale de xo ando na
+srr_42031 1 Locuteur2 440.004 440.458 <o,f1,female> ahaa
+srr_42031 1 Locuteur1 440.458 442.012 <o,f1,male> [musique] xa mbayo ten de xe a ciñum
+srr_42031 1 Locuteur2 442.012 442.488 <o,f1,female> ahaa
+srr_42031 1 Locuteur1 442.488 445.269 <o,f1,male> wa fi de paxu ke roga sim tina
+srr_42031 1 excluded_region 445.269 445.802 <o,,unknown> ignore_time_segment_in_scoring
+srr_42031 1 Locuteur1 445.802 457.780 <o,f1,male> [musique] me yit ndeta %e ndetan ke xupna may de ka fiya de ke ando na jege o njiriñjege o njiriñ a ref xare o rok no o rokin o mbekin no ke ando na win we ka lema o xeke de keke a kaw na
+srr_42031 1 Locuteur1 457.780 471.501 <o,f1,male> [musique] me war na ɓek ɓekiran ma a ɓekin me an no jege o njiriñ te yit o kiin a lema no ne kaw to kiin ko kaw tan no ke ando na de dolen tin parce :fra que :fra o kiin o lema ngan a xam kaw toŋ no dara wala xan
+srr_42031 1 Locuteur1 471.501 485.851 <o,f1,male> [musique] parce :fra a ndetan wo regan dekay ka deku ong de ci i rang ka lemoŋ keke kan ɓanong o ten meke ningona neke ningona no kaw ta na mofa na fi ka fo ten wo nak o fo o kawa ngan rek
+srr_42031 1 Locuteur1 485.851 500.499 <o,f1,male> [musique] ku lenona wagi fi ku lenona wagi fi mu feloŋa o rok nin me a jegan ke andona ga cungan kon o kin oxu ref na rek kawan ke ando na te a res yte ke ando na o ndiko nduluño
+srr_42031 1 Locuteur1 500.499 509.333 <o,f1,male> [musique] wara an neno rok nan wara an xa riman kang parce :fra que :fra o kiin Zancier ko ga a o kiin sax a ro ka a jeg yakar no kiin
+srr_42031 1 Locuteur2 509.333 510.315 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 510.315 514.002 <o,f1,male> [musique] lerin yakar naga te jeg na no kiin o kino xaga a wagan fanj
+srr_42031 1 excluded_region 514.002 514.645 <o,,unknown> ignore_time_segment_in_scoring
+srr_42031 1 Locuteur1 514.645 519.216 <o,f1,male> a leran a waan waƴ mais :fra nen te waƴit kan fiya nam kene im fiya nong ke
+srr_42031 1 excluded_region 519.216 520.390 <o,,unknown> ignore_time_segment_in_scoring
+srr_42031 1 Locuteur1 520.390 524.933 <o,f1,male> coxan kene im con kene a ref ke ando nawaga no waɗa no wago fi to roga tax
+srr_42031 1 Locuteur2 524.933 525.329 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 525.329 530.275 <o,f1,male> wago fi to o leŋ yeg ke mais :fra ndiki o xu kaw na meke %e dirim
+srr_42031 1 Locuteur1 530.275 530.722 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 530.722 532.521 <o,f1,female> woy fiyan bug fopo yeg no
+srr_42031 1 Locuteur1 532.521 533.122 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 533.122 533.859 <o,f1,female> nda xare
+srr_42031 1 Locuteur1 533.859 534.283 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 534.283 541.305 <o,f1,female> pukare nda xare o bug wiin we nana diwo xay fiya na kene kin paxu te anda Zancier o kin o fiya ngan paaxu
+srr_42031 1 Locuteur1 541.305 541.748 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 541.748 548.101 <o,f1,female> [musique] o bug o lemel rek %e o bug de o tagal de te ɗetiro roog paxu kaga nak saya
+srr_42031 1 Locuteur1 548.101 548.548 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 548.548 551.106 <o,f1,female> [musique] parce :fra que :fra ko codata rek wine ande cota
+srr_42031 1 Locuteur1 551.106 551.632 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 551.632 558.855 <o,f1,female> [musique] mais :fra a cota le wine na roga sim tina te o coɗit no yene ga ka lemaŋ sa o ɓayo jano nole
+srr_42031 1 Locuteur1 558.855 559.192 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 559.192 562.420 <o,f1,female> [musique] ne cota o ɓayo ñamaka le o ɓayo janono le sax ware ran saxo an
+srr_42031 1 Locuteur1 562.420 563.036 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 563.036 563.652 <o,f1,female> wari rano yeg
+srr_42031 1 Locuteur1 563.652 564.148 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 564.148 573.871 <o,f1,female> [musique] kon kaga xa ɓekun wine wageya ro fiya naga xa mbek wiin we kawa nga wera dimale we kaweer na parce :fra que :fra ŋalis o foog kawa ngan fag ke xana fag
+srr_42031 1 Locuteur1 573.871 574.600 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 574.600 578.386 <o,f1,female> [musique] ŋaxis o xu kawunana xana fag wala o xaƴin me kaw tana
+srr_42031 1 Locuteur1 578.386 581.088 <o,f1,male> [musique] a faga ge meen o ñowole tam o xona nga o xaƴin meen
+srr_42031 1 Locuteur2 581.088 581.538 <o,f1,female> [musique] ko xaƴ kan me
+srr_42031 1 Locuteur1 581.538 581.938 <o,f1,male> waaw
+srr_42031 1 Locuteur2 581.938 582.771 <o,f1,female> o xann kena ref kang
+srr_42031 1 excluded_region 582.771 583.163 <o,,unknown> ignore_time_segment_in_scoring
+srr_42031 1 Locuteur2 583.163 585.173 <o,f1,female> fad ke sax fad ke temed tadik
+srr_42031 1 Locuteur1 585.173 585.654 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 585.654 588.404 <o,f1,female> [musique] kon wara an nak wo kon keke jegona
+srr_42031 1 Locuteur1 588.404 588.681 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 588.681 593.583 <o,f1,female> [musique] wara ɗeet meno mbekan ndax kaɗaŋ xano luɓ nel ma ɓekido ke roga ndekig ronga
+srr_42031 1 excluded_region 593.583 594.102 <o,,unknown> ignore_time_segment_in_scoring
+srr_42031 1 Locuteur2 594.102 606.169 <o,f1,female> [musique] te ref a jeg ke jeg na solo lool parce :fra que :frea ɗetan wax deg nak ñak ñak wiin we ñakira dim le ra yo no ke kaw na %e a wersëk ne dona wiin parce :fra que :fra roog ka lam tan wersëk nene co onga
+srr_42031 1 Locuteur1 606.169 606.817 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 606.817 622.482 <o,f1,female> [musique] wara cote cuni cuni nit wara co te we ando yakar ne den wi xoni na wo pour :fra xare o wago damit den wago kawid din no ken no ken calel den te refa
+srr_42031 1 Locuteur2 622.482 641.050 <o,f1,female> [musique] wala no ñowol din mais :fra nak o lem ah mi de ken roga coda xama daal xu felera xama dal kawit kiro te kaga refe a ndat to kaga roog sim teran kon i waro no xaƴa xel a bu baxa bax fogole im xalat na nuun rek nuun way no débat :fra Cfm no 105 point :fra 4 meke no studio :fra Iba gueye
+srr_42031 1 Locuteur2 641.050 654.821 <o,f1,female> [musique] to emission :fra njoktor meke nak a jeg solo xa toqa xe ŋa na yo nak xa toq no dig na po njiriño nu xaƴ tino xel nu wago yona fo in no 784972525 784972525 Zancier
+srr_42031 1 Locuteur1 654.821 672.108 <o,f1,male> [musique] joko njal Cheikh xani pogol coktel ke xani ka ref ke ando na wax deg fop [musique] ka war an jego njiriñxalis fu jeg na ne rek ñakiro mayu ram
+srr_42031 1 Locuteur1 672.108 676.724 <o,f1,male> [musique] no ku joxo nona rek no ku ref xelan newo to lalit xalis
+srr_42031 1 Locuteur2 676.724 680.715 <o,f1,female> [musique] a fokan fokan sax no cabi ne ando na xa koma xe te wet na ka mayon
+srr_42031 1 Locuteur1 680.715 682.245 <o,f1,male> [musique] ka mayo c':fra est :fra ca :fra ka gan lemu
+srr_42031 1 Locuteur2 682.245 687.526 <o,f1,female> [musique] xalis ka ref ke ando na xa koma xe te wet na ka mayo lool to o gomolu wegoox ina rek
+srr_42031 1 Locuteur1 687.526 687.922 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 687.922 689.118 <o,f1,female> wo juba ngan xama wek tu
+srr_42031 1 Locuteur1 689.118 689.813 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur2 689.813 691.567 <o,f1,female> kon nak wara an kon mena ɓeta
+srr_42031 1 Locuteur1 691.567 693.946 <o,f1,male> [musique] c':fra est :fra ça :fra c':fra est :fra ça :fra parce :fra o jegin
+srr_42031 1 Locuteur2 693.946 694.473 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 694.473 696.190 <o,f1,male> o fi in ne warit na
+srr_42031 1 Locuteur2 696.190 696.510 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 696.510 697.804 <o,f1,male> o xot nan ne wara nona xotit
+srr_42031 1 Locuteur2 697.804 698.128 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 698.128 699.645 <o,f1,male> o cotan ne wara nona coɗit
+srr_42031 1 Locuteur1 699.645 700.000 <o,f1,male> %hum %hum
+srr_42031 1 Locuteur1 700.000 701.220 <o,f1,male> o fiya de ne warona fi it
+srr_42031 1 Locuteur2 701.220 701.669 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 701.669 703.267 <o,f1,male> ndaxa xalis naga a paxan
+srr_42031 1 Locuteur2 703.267 703.702 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 703.702 707.041 <o,f1,male> [musique] xalis ne o jegumka doywaar
+srr_42031 1 Locuteur2 707.041 708.081 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 708.081 709.898 <o,f1,male> a jegin te lewong doŋ
+srr_42031 1 Locuteur2 709.898 710.733 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 710.733 714.210 <o,f1,male> paax ge kaga a fitan ne warit na paax ge kaga
+srr_42031 1 Locuteur2 714.210 714.724 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 714.724 717.550 <o,f1,male> waga no digid dag may doxin
+srr_42031 1 Locuteur2 717.550 718.247 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 718.247 719.950 <o,f1,male> o fi naka suduul nonu
+srr_42031 1 Locuteur2 719.950 720.705 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 720.705 723.484 <o,f1,male> a re kiro de paaxu
+srr_42031 1 Locuteur2 723.484 724.053 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 724.053 739.099 <o,f1,male> [musique] e coɗit kiro de paaxu te ref ke ando na ponel ne xalis le maga refu ram wo o nara ngano waɗik sax pour :fra waɗin fok rek a jeg me xotona pour :fra o jegin
+srr_42031 1 Locuteur2 739.099 739.608 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 739.608 740.983 <o,f1,male> [musique] mi kan jala o raf da o ŋool
+srr_42031 1 Locuteur2 740.983 741.362 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 741.362 757.178 <o,f1,male> [musique] kaga ka wewong doŋ ko legeyin ko jalin o wutan o refan xa qola xe wo ko legeyin o jeg xalisan kaga wo jalin wo jegin nda ko bugo jeg te jaliro fi i ro lakas fop rek waro jeg xalis anda foko guuɗik
+srr_42031 1 Locuteur2 757.178 757.876 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 757.876 761.617 <o,f1,male> [musique] e o guɗ kan risque :fra mayu ka refu kama ne
+srr_42031 1 Locuteur2 761.617 762.434 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 762.434 776.618 <o,f1,male> [musique] paxeer mayu ka refu kama ne ram o waag kano guɗik a o reussir :fra [musique] o garid ke jig tona o jeg ŋalis waka o ka kam banque :fra ke o guɗ o jeg xalis anda xalis naga faxe gek naga xalis naga lewe rang
+srr_42031 1 Locuteur2 776.618 777.046 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 777.046 794.182 <o,f1,male> [musique] o yeg a qolan qool ne fi it ki ro de nak de warna te ko profite :fra o ka pour :fra rek jega no felonga o fi mu felonga o fec mu felonga o ñaam mu felonga o kaaɗ ki mi felonga o ɓeku a refan ke ando na paxeer ke maga ge i maga
+srr_42031 1 Locuteur1 794.182 803.941 <o,f1,male> [musique] te xaliss ɗik kene dongo a jegan mbaax ne a jegan mbon na ndik nak mbona fo mbaax ne me te andil ke te ref dong no ox kaw nana
+srr_42031 1 Locuteur2 803.941 804.758 <o,f1,female> %hum %hum
+srr_42031 1 Locuteur1 804.758 812.088 <o,f1,male> [musique] o kaw nono te lewong dong o fiya de ke war na a fi codate ke war na anda naga ka lewong

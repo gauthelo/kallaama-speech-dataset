@@ -1,0 +1,322 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:03 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 5 of 231027
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_4911 1 locuteur1 0.000 81.353 <o,f1,female> [musique]
+fuc_4911 1 locuteur1 81.353 87.887 <o,f1,female> i miin kam mbiɗa anndi baaba galle nana heblanoo waalo caggal nde waalo yalti minen min ngoownoo ko luloyaade tawat kay jooni so o arii tan o addat ration :fra min njaha
+fuc_4911 1 excluded_region 87.887 89.275 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 excluded_region 89.275 90.753 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur2 90.753 91.771 <o,f1,male> e kummboy am
+fuc_4911 1 locuteur1 91.771 93.462 <o,f1,female> i tawɗaa ko mbaɗa haala haala waalo
+fuc_4911 1 locuteur2 93.462 94.124 <o,f1,male> waalo
+fuc_4911 1 locuteur1 94.124 94.837 <o,f1,female> waalo
+fuc_4911 1 locuteur2 94.837 96.643 <o,f1,male> min kay hankadi ni min ko ndañmi e waalo ko
+fuc_4911 1 locuteur1 96.643 97.382 <o,f1,female> ii ko ndañɗaa e waalo
+fuc_4911 1 locuteur2 97.382 98.603 <o,f1,male> rawani aɗa anndi mi remii wonaa
+fuc_4911 1 locuteur1 98.603 99.226 <o,f1,female> ahah
+fuc_4911 1 locuteur2 99.226 100.091 <o,f1,male> mi soodi gawri
+fuc_4911 1 locuteur1 100.091 100.688 <o,f1,female> ahan
+fuc_4911 1 locuteur2 100.688 101.356 <o,f1,male> mi aawii
+fuc_4911 1 locuteur1 101.356 101.916 <o,f1,female> anhah
+fuc_4911 1 locuteur2 101.916 103.658 <o,f1,male> kono hay huunde alaa heen ko fuɗi
+fuc_4911 1 locuteur1 103.658 107.555 <o,f1,female> i jam baaba galle i kono aan kam aɗa anndi waalo kay ko noon tan rawani e hikka ko hikka
+fuc_4911 1 locuteur2 107.555 110.143 <o,f1,male> kono kam kam a yiyii ñamon kon no bonniri ngesa am mba ɗo a yiyii hay [b]
+fuc_4911 1 locuteur1 110.143 113.229 <o,f1,female> rawane yaade rawane hikka ko hikka baaba galle artir hakkille ma
+fuc_4911 1 locuteur1 113.229 114.789 <o,f1,female> enen en nganndaa haydara so wonaa waalo
+fuc_4911 1 locuteur1 114.789 116.015 <o,f1,female> te kadi ko waalo tan dañaten jam
+fuc_4911 1 locuteur1 116.015 119.648 <o,f1,female> min mboɗo mi parani pour :fra waalo biyaa henna waalo ngo henna e rawane ñaamon ñaami
+fuc_4911 1 locuteur1 119.648 121.184 <o,f1,female> i hikka a anndaa holko Allah addanta maa
+fuc_4911 1 locuteur2 121.184 124.262 <o,f1,male> aɗa anndi mbeewa aɗa waawi haɗde ɗum naatde puccu aɗa waawi haɗde ɗum naatde
+fuc_4911 1 locuteur1 124.262 124.628 <o,f1,female> %hum %hum
+fuc_4911 1 locuteur2 124.628 125.975 <o,f1,male> nagge aɗa waawi ɗu haɗde ɗum naatde
+fuc_4911 1 locuteur1 125.975 126.336 <o,f1,female> %hum %hum
+fuc_4911 1 locuteur2 126.336 129.931 <o,f1,male> kono ñaamon teŋke en ko godkoñ godkoñ nantoon te ko kankoñ fof ɓuri bonde
+fuc_4911 1 excluded_region 129.931 134.523 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur1 134.523 135.437 <o,f1,female> ñebbe ɗee tan barno [rire]
+fuc_4911 1 excluded_region 135.437 138.467 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur1 138.467 140.822 <o,f1,female> baaba galle ko mbiimaami ko tan rawane yaade rawane
+fuc_4911 1 locuteur1 140.822 142.660 <o,f1,female> hikka haawnaaki Allah adda moƴƴere mum
+fuc_4911 1 locuteur1 142.660 144.172 <o,f1,female> kono so a wiyii tan en njahataa waalo
+fuc_4911 1 locuteur1 144.172 145.953 <o,f1,female> ihin min de mi anndaa to paaɗen to kuccu ɗen
+fuc_4911 1 excluded_region 145.953 147.020 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 excluded_region 147.020 148.294 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur3 148.294 149.973 <o,f1,male> hehe onon kam oo galle kam
+fuc_4911 1 excluded_region 149.973 152.416 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 excluded_region 152.416 154.303 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 excluded_region 154.303 155.616 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 excluded_region 155.616 156.794 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 excluded_region 156.794 157.879 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur3 157.879 158.835 <o,f1,male> ndee laawaare ko woni
+fuc_4911 1 locuteur2 158.835 160.566 <o,f1,male> ndee ɗoo laawaare de seydi Kane am
+fuc_4911 1 locuteur3 160.566 160.914 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur2 160.914 162.188 <o,f1,male> soknaajo oo won ko o wiyi kam
+fuc_4911 1 locuteur3 162.188 162.748 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur2 162.748 164.782 <o,f1,male> anndi miin ɗii ɗoo duuɓi fof mbiɗa rematnoo gese waalo
+fuc_4911 1 locuteur3 164.782 166.359 <o,f1,male> goonga aan kay ko a waalanke mawɗo
+fuc_4911 1 locuteur2 166.359 169.064 <o,f1,male> ko mi waalanke mawɗo te kadi aɗa anndi kadi ko ndañatnoomi e waalo ko
+fuc_4911 1 locuteur3 169.064 169.742 <o,f1,male> goonga celluɗo
+fuc_4911 1 locuteur2 169.742 170.453 <o,f1,male> rawane noon
+fuc_4911 1 locuteur3 170.453 170.909 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur2 170.909 171.774 <o,f1,male> no ndemirmi nii
+fuc_4911 1 locuteur3 171.774 172.334 <o,f1,male> ahan
+fuc_4911 1 locuteur2 172.334 174.015 <o,f1,male> te tampere tampirmi heen ni ni
+fuc_4911 1 locuteur3 174.015 174.526 <o,f1,male> goonga
+fuc_4911 1 locuteur2 174.526 176.451 <o,f1,male> alaa fof ko ko mi tampaani heen
+fuc_4911 1 locuteur3 176.451 176.909 <o,f1,male> goonga
+fuc_4911 1 locuteur2 176.909 178.947 <o,f1,male> ñaamon mbonnii ngesa mbaa haa boni
+fuc_4911 1 locuteur3 178.947 179.662 <o,f1,male> no woodi
+fuc_4911 1 locuteur2 179.662 180.276 <o,f1,male> ñebbe
+fuc_4911 1 locuteur2 180.276 182.059 <o,f1,male> [bb] hay huunde heen alaa ko arti wuro
+fuc_4911 1 locuteur3 182.059 182.548 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur2 182.548 183.570 <o,f1,male> gawri kam haalaaka
+fuc_4911 1 locuteur3 183.570 184.027 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur2 184.027 185.451 <o,f1,male> ñaamon bonnii ɗum haa boni
+fuc_4911 1 locuteur3 185.451 185.858 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur2 185.858 189.830 <o,f1,male> ɗum noon so tawii kadi mi wiyii kadi mbaɗa ƴetta goɗɗum kadi mbaɗa watta heen kadi hikka kadi
+fuc_4911 1 locuteur3 189.830 190.390 <o,f1,male> ahan
+fuc_4911 1 locuteur2 190.390 191.819 <o,f1,male> rawata ko ɗo rewnoo ɗoo
+fuc_4911 1 excluded_region 191.819 192.471 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur1 192.471 194.151 <o,f1,female> miin bimoomi rawane yahdii e rawani
+fuc_4911 1 locuteur1 194.151 195.249 <o,f1,female> hikka ko hikka
+fuc_4911 1 locuteur1 195.249 197.873 <o,f1,female> o anndaa fof holko ad %e Allah addata e moƴƴere muuɗum
+fuc_4911 1 locuteur1 197.873 199.252 <o,f1,female> [r] yo yo jabboy tan
+fuc_4911 1 locuteur3 199.252 202.818 <o,f1,male> aan ko ɗum tagi hikka hay sukaaɓe maa ɓee mi yiyaani ɓe ɗoo ɓe ngartaani
+fuc_4911 1 locuteur2 202.818 204.244 <o,f1,male> kamɓe fof mi wiyii ɓe yo ɓe ɗanno
+fuc_4911 1 locuteur3 204.244 206.435 <o,f1,male> alaa waɗa an caɗeele gasii
+fuc_4911 1 locuteur2 206.435 208.225 <o,f1,male> caɗeele ɗee holno gasiri Abdourahmane
+fuc_4911 1 locuteur3 208.225 213.319 <o,f1,male> ɗe gasii minen diiwaan amen too nde wonnoo emin liggottono e projet :fra gooto no wiyee yaajeende
+fuc_4911 1 locuteur3 213.319 216.686 <o,f1,male> ɓe mbaddi min kadi e yaajeede wonnde ɓurnde yaajde
+fuc_4911 1 locuteur3 216.686 218.332 <o,f1,male> [bb] wiyatee ɓe kadi sygenta :fra
+fuc_4911 1 locuteur2 218.332 218.490 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur3 218.490 221.799 <o,f1,male> ɓe ngaddani min toon %e produit :fra gooto poudare boɗeejo
+fuc_4911 1 locuteur1 221.799 222.231 <o,f1,female> no o wiyetee [i]
+fuc_4911 1 locuteur3 222.231 225.568 <o,f1,male> omo woni e paquet :fra aji tokoosi ooli omo wiyee Aprostar
+fuc_4911 1 locuteur2 225.568 226.285 <o,f1,male> Apros [b]
+fuc_4911 1 locuteur3 226.285 227.209 <o,f1,male> [b] Aprostar
+fuc_4911 1 locuteur2 227.209 227.925 <o,f1,male> Aprostar
+fuc_4911 1 locuteur3 227.925 230.674 <o,f1,male> oo ɗoon nde min mbaɗi ɗum e aawdi amen waalo
+fuc_4911 1 locuteur2 230.674 231.235 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur3 231.235 232.359 <o,f1,male> kala jabbunooɗo
+fuc_4911 1 locuteur3 232.359 234.295 <o,f1,male> dañatnooɗo sappo fof dañii temedere
+fuc_4911 1 locuteur2 234.295 235.189 <o,f1,male> ko mbiiɗaa koo
+fuc_4911 1 locuteur3 235.189 236.000 <o,f1,male> miin wiyima noon
+fuc_4911 1 excluded_region 236.000 237.337 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur3 237.337 239.527 <o,f1,male> kanko o reenat aawdi maa ndeer leydi
+fuc_4911 1 locuteur3 239.527 243.661 <o,f1,male> o haaɗataa ɗoon o duusa fuɗngo ngoo kadi haa daña lewru fawdu
+fuc_4911 1 locuteur3 243.661 249.930 <o,f1,male> o waɗa noon koye juuɗe mawɗo APS suji nan toon établissement :fra gooto no wiyee Kane et :fra fils :fra nani cuuɗi men Agnam Thiodaye
+fuc_4911 1 locuteur1 249.930 250.384 <o,f1,female> han
+fuc_4911 1 locuteur3 250.384 251.983 <o,f1,male> ardii ɗum ko Aboubacry Kane
+fuc_4911 1 locuteur3 251.983 258.130 <o,f1,male> téléphone :fra makko ko 77 541 63 67
+fuc_4911 1 locuteur3 258.130 263.225 <o,f1,male> 77 541 63 67
+fuc_4911 1 locuteur3 263.225 264.906 <o,f1,male> ko oon jogii dépot :fra mawɗo oo
+fuc_4911 1 locuteur3 264.906 266.799 <o,f1,male> oo ɗoon kam kala jokkonndirɗo e mum
+fuc_4911 1 locuteur3 266.799 268.851 <o,f1,male> [r] kala diiwaan mbo mbaawɗaa wonde ɗoon
+fuc_4911 1 locuteur3 268.851 270.226 <o,f1,male> maa o waɗde e neɗɗo oo
+fuc_4911 1 locuteur3 270.226 272.673 <o,f1,male> oo ɗoon ara feewnan maa aawdi maa haa feewa
+fuc_4911 1 locuteur3 272.673 276.034 <o,f1,male> kono noon denndaangal wertaango région :fra de :fra Matam fof
+fuc_4911 1 locuteur3 276.034 277.362 <o,f1,male> fuɗɗi tan Podor
+fuc_4911 1 locuteur3 277.362 279.201 <o,f1,male> tan haa wiyanmaa tan ɗo ko Bakel
+fuc_4911 1 locuteur3 279.201 282.002 <o,f1,male> [r] wuro fof e diwaan fof neɗɗo maɓɓe nan ɗoon
+fuc_4911 1 locuteur3 282.002 284.956 <o,f1,male> ina jogii produit :fra ina jogii machine :fra ina waɗa traité :fra
+fuc_4911 1 locuteur3 284.956 288.118 <o,f1,male> [r] haaɗaani ɗoon tan ni o waɗaama kadi e ndeer leydi hee
+fuc_4911 1 locuteur3 288.118 289.339 <o,f1,male> [i] ndunngu rowani
+fuc_4911 1 locuteur3 289.339 292.395 <o,f1,male> o waɗaama Kolda o waɗaama Kédougou [b]
+fuc_4911 1 locuteur3 292.395 293.971 <o,f1,male> o waɗama Kafrine
+fuc_4911 1 locuteur3 293.971 296.982 <o,f1,male> [r] o waɗaama kadi diiwaan Fatick
+fuc_4911 1 locuteur3 296.982 298.971 <o,f1,male> hay e diiwaan ndar he Saint-Louis
+fuc_4911 1 locuteur3 298.971 303.869 <o,f1,male> geseeji maɓɓe maaro e fof ɓe mbaɗi heen produit :fra o [r] te kala mbaɗnooɗo heen yiyii heen hoore mum
+fuc_4911 1 locuteur3 303.869 305.541 <o,f1,male> aan kay noddu sukaaɓe ɓee yo ɓe ngartu
+fuc_4911 1 excluded_region 305.541 307.430 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 excluded_region 307.430 309.045 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 excluded_region 309.045 310.219 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur1 310.219 311.390 <o,f1,female> %e no wiyetee waalo
+fuc_4911 1 locuteur3 311.390 311.654 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur1 311.654 312.713 <o,f1,female> waalo woni fof fof amen
+fuc_4911 1 locuteur1 312.713 314.259 <o,f1,female> min ngalaa haydara so wonaa waalo
+fuc_4911 1 excluded_region 314.259 316.192 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur2 316.192 318.199 <o,f1,male> aan dee naane a wiinomi yo mi hollu Allah
+fuc_4911 1 locuteur1 318.199 318.733 <o,f1,female> [rire] nani
+fuc_4911 1 locuteur2 318.733 319.649 <o,f1,male> mi ɓeydiima hollude Allah
+fuc_4911 1 locuteur1 319.649 320.427 <o,f1,female> alhamdilla
+fuc_4911 1 locuteur2 320.427 321.854 <o,f1,male> ɗum noon seydi Kane am
+fuc_4911 1 locuteur3 321.854 322.289 <o,f1,male> eeyi
+fuc_4911 1 locuteur2 322.289 324.644 <o,f1,male> min no no sokhnaajo o no wiirunoo kam nii
+fuc_4911 1 locuteur3 324.644 325.053 <o,f1,male> %hum %hum
+fuc_4911 1 locuteur2 325.053 326.276 <o,f1,male> mi joginooma heen kulhuli
+fuc_4911 1 excluded_region 326.276 328.026 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur3 328.026 328.473 <o,f1,male> ahan
+fuc_4911 1 locuteur2 328.473 329.646 <o,f1,male> [b] wallu am nawaami haa toon
+fuc_4911 1 locuteur3 329.646 330.258 <o,f1,male> hayɗo
+fuc_4911 1 excluded_region 330.258 332.298 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur3 332.298 333.725 <o,f1,male> jaraani aɗa yaha haa Agname
+fuc_4911 1 locuteur3 333.725 334.798 <o,f1,male> Agnam no woɗɗumaa
+fuc_4911 1 locuteur3 334.798 337.450 <o,f1,male> kala ɗo ngonɗen mbiimaami e ndeer Fuuta hee
+fuc_4911 1 locuteur3 337.450 340.760 <o,f1,male> kala wuro e kala ŋorel ɗo ndemoowo woni
+fuc_4911 1 locuteur3 340.760 342.653 <o,f1,male> [i] tottaaɗo machine : fra nani sara mum
+fuc_4911 1 locuteur1 342.653 344.076 <o,f1,female> mbiiɗaa noon no puudar oo wiyetee
+fuc_4911 1 locuteur3 344.076 346.876 <o,f1,male> puudar oo o wiyetee ko Aprostar
+fuc_4911 1 locuteur1 346.876 348.561 <o,f1,female> Aprostar arii addi jam
+fuc_4911 1 locuteur2 348.561 350.705 <o,f1,male> Aprostar arii addi jam
+fuc_4911 1 locuteur2 350.705 357.489 <o,f1,male> [musique]
+fuc_4911 1 locuteur4 357.489 362.075 <o,f1,male> [musique] banndiraaɓe tedduɓe hettotooɓe radio :fra communautaire :fra mo Podor 90 POINT 7
+fuc_4911 1 locuteur4 362.075 370.687 <o,f1,male> [musique] ballal Allah weleede mum en ngartii e jamma hannde yuɓɓinde yeewtere nde ngoownoɗen yuɓɓinde ni si tawii ɗii ɗoo sahaaji keedi woni yewtere men nde innirɗen ndema e ngaynaaka
+fuc_4911 1 locuteur4 370.687 378.022 <o,f1,male> [r] jamma hannde o en ngartii no mbiiɗen nii e mbaadi kesiri ndii ɗoo nii ko eɗen njiɗi yeewtude heen
+fuc_4911 1 locuteur4 378.022 383.221 <o,f1,male> [musique] nde tawnoo sahaa fof maa wood ko joli woodi joli joli jolooje e sahaaji kala ngarooji
+fuc_4911 1 locuteur4 383.221 393.483 <o,f1,male> [musique] sahaa fof ma en ji kesum sahaa fof ma en njii pinal kesal sahaa fof ma en dañ ko hesɗi ko ngannduɗaa [r] ina wallita en e baŋnge ndema men ngaynaaka men et noon kadi e awo meɗen
+fuc_4911 1 locuteur4 393.483 404.230 <o,f1,male> [musique] jamma hannde o no mbiɗen nii eɗen bismi musiɓɓe ɓe ngannduɗaa ɓee ɗoo nii ko ummiiɓe e dental mbiyete ngal Kane et :fra fils ɓe njooɗii koto wiyetee Agname Thioday
+fuc_4911 1 locuteur4 404.230 409.628 <o,f1,male> [musique] kono noon ɓe njiɗi yaaccinde golle ɗee haa njettoo e département :fra ji ɗii kala
+fuc_4911 1 locuteur4 409.628 414.829 <o,f1,male> [musique] woni département :fra mo ngonɗen oo e département :fra ji Sénégal keewɗi heen so Allah haajii maa ɓe njettee heen
+fuc_4911 1 locuteur4 414.829 420.836 <o,f1,male> [musique] [b] ko ɗum saabii mbismiɗen ɓe ɗoo hannde ngam ɓe kaalana en tigi rigi ngonka maɓɓe e yimɓe ɓee mbatta heen hakkillaaji
+fuc_4911 1 locuteur4 420.836 426.488 <o,f1,male> mbaawa duusinndirde e maɓɓe e ko ngannduɗaa koo ɗoo nii kamɓe ne eɓe ndilla e ɗiin fannuuji
+fuc_4911 1 locuteur4 426.488 437.294 <o,f1,male> kono noon hade men woɗɗoyde en mbiyat so tawii en njiɗii namdade ceerno Aboubacry holi gonɗo Aboubacry Kane e holko woni Kane et :fra fils :fra holko njaabotoɗaa e ngal naamndal
+fuc_4911 1 locuteur3 437.294 443.199 <o,f1,male> [musique] eeyi a saliminaama a juuraama eeyi on mbeltanaama no feewi noon denndaangal hettiyankooɓe radio :fra Podor FM
+fuc_4911 1 locuteur3 443.199 448.500 <o,f1,male> eeyi mi salminii on gooto fof kala ɗo waawi wonde mi tawiima ɗoon mi salminiima salminaango l' :fra islam :fra
+fuc_4911 1 excluded_region 448.500 451.220 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4911 1 locuteur3 451.220 455.452 <o,f1,male> eeyi min noon ko mi musiɗɗo mon ko mi sehil mon ko mi maccungel remooɓe
+fuc_4911 1 locuteur3 455.452 463.092 <o,f1,male> eeyi mbiyeteemi ko Aboucry Kane e min woni %e kalfinaaɗo no wayi no ko deendaangal ko wiyetee fawru aawdi
+fuc_4911 1 locuteur3 463.092 464.860 <o,f1,male> eeyi wonnduɓe e région :fra de :fra Matam
+fuc_4911 1 locuteur3 464.860 471.734 <o,f1,male> eeyi sutout noon établissement :fra mo biyeteeɗo Kane et :fra fils :fra eeyi ko mi woni gérant :fra oo mboɗa jooɗanii on ɗoo to cuuɗi men Agname Thiodaye
+fuc_4911 1 locuteur3 471.734 477.850 <o,f1,male> eeyi mboɗa wiya mon no mbiinoomi gila naane de mbiɗo wiyee Aboubacry Kane eeyi miin woni gérant :fra établissement :fra Kane et :fra fils :fra
+fuc_4911 1 locuteur3 477.850 480.907 <o,f1,male> eeyi ko miin arnoo hannde noon pour :fra yeewtidde e mon
+fuc_4911 1 locuteur3 480.907 487.761 <o,f1,male> e anndonndirde e mon kadi mbele kadi mi habra on kadi établissement :fra holno sifori e holto jooɗi e fof tan
+fuc_4911 1 locuteur4 487.761 495.874 <o,f1,male> eeyo no mbiɗen nii en nanii tigi ko musiɗɗo o haali ko en mbeltiniima mo no feewi no feewi e waddemo hoore makko présenté :fra
+fuc_4911 1 locuteur4 495.874 500.252 <o,f1,male> [r] o wiyi en ko kanko woni almudel remooɓe kono noon en paami tigi
+fuc_4911 1 locuteur4 500.252 503.615 <o,f1,male> ko kanko woni jaadiiɗo demowo kanko woni duusoowo remooɓe
+fuc_4911 1 locuteur4 503.615 507.639 <o,f1,male> ko kanko woni ballodiiɗo remooɓe nde tawnoo ko o addani en koo
+fuc_4911 1 locuteur4 507.639 510.748 <o,f1,male> so tawii en kettoyiima ɗum yeeso maa en paam tigi rigi
+fuc_4911 1 locuteur4 510.748 515.431 <o,f1,male> o wonaa tan almudel remooɓe kono noon ko ceerno remooɓe kadi ko duusoowo remooɓe
+fuc_4911 1 locuteur4 515.431 525.068 <o,f1,male> haa mbawa yettaade e paandaaje mumen nde tawnoo ɓe jogii aide :fra daji keewɗi baŋnge leƴƴi ɗi ngannduɗaa ɗii ɗoo ni ko cafrirɗi baŋnge ndema
+fuc_4911 1 locuteur4 525.068 532.657 <o,f1,male> eeyi ko ngannduɗaa koo ɗoo nii ko ko duusata ndemoowo haa waawa %e yottaade e faandaare nde ngannduɗaa nde ɗo ni ndeen faandaare jogii
+fuc_4911 1 locuteur4 532.657 535.870 <o,f1,male> woni so tawii en njiɗii naamndaade ceerno Aboubacry
+fuc_4911 1 locuteur4 535.870 539.134 <o,f1,male> caggal nde o haalani en kanko woni holi oon e holto o jooɗi
+fuc_4911 1 locuteur4 539.134 545.107 <o,f1,male> so tawii en njiɗino anndude holi leƴƴi produit :fra ji ɗi ɓe njogii walla hol aide :fra aji produit :fra ji
+fuc_4911 1 locuteur4 545.107 550.860 <o,f1,male> ɗe ɓe jogii ɗe ngannduɗaa ɗiɗo ɗiɓi kuccini ɗum e banndiraaɓe ceerno Aboubacry si tawii ngaal naamndal arii nak holko jaabotoɗaa heen
+fuc_4911 1 locuteur3 550.860 555.646 <o,f1,male> eeyi no mbiiɗen ni tan no établissement :fra Kane et :fra fils :fra eeyi ko fawru aawdi
+fuc_4911 1 locuteur3 555.646 560.790 <o,f1,male> eeyi minen noon min dillata koko wiyate agriculture :fra pour :fra la :fra nutrition :fra
+fuc_4911 1 locuteur3 560.790 562.778 <o,f1,male> [conv] kono ko wiyete kadi ndema ngam
+fuc_4911 1 locuteur3 562.778 565.886 <o,f1,male> haɓaade ŋakkere haaranduru e kisnal guura
+fuc_4911 1 locuteur3 565.886 569.199 <o,f1,male> mbele kadi kisnal guura kadi ina waawa heɓeede no feewi
+fuc_4911 1 locuteur3 569.199 578.068 <o,f1,male> eeyi ɗum saabii noon deendaangal aawɗeele e banndiraaɓe men remooɓe ɓe ina cohla fof ina tawee ɗo fawru men établissement :fra Kane et :fra fils :fra ɗo
+fuc_4911 1 locuteur3 578.068 587.993 <o,f1,male> ko wayi no aawɗeele mbiyetee ko wiyetee aawɗeele céréal :fra woni gaweeje e emin jogii ɗo gaweeje ɗe ngannduɗaa ɗeen ko gaweeje mil :fra biofortié :fra
+fuc_4911 1 locuteur3 587.993 596.908 <o,f1,male> eeyi ko gaweeje galɗinaaɗe eeyi tawa kadi ko gaweeje ɗe ngannduɗaa kadi ko tuubakooɓe biyata à :fra cycle :fra court :fra ko guurndam dabɓam ko gaweeje jaawɗe
+fuc_4911 1 locuteur3 596.908 606.125 <o,f1,male> eeyi ɗum ɗon wayi kono ndemiri kono ndi ɗon ndemiri kadi kayri kadi ɓuri yaawde e ndemiri men ndi gadoriɗen remde kayri ko ko gawri ndi ndi raɓɓiɗat
+fuc_4911 1 locuteur3 606.125 611.322 <o,f1,male> eyyi butaali ɗi wonata ko butaali ɓutti daɓɓi eyyi gabbe ɗe kadi ko gabbe ɓutte wonata
+fuc_4911 1 locuteur3 611.322 619.636 <o,f1,male> e guurdam majjam gawri ndiɗon edi yawi ndi watta ko li%e libbi ɗivi e balɗe sappo eyyi ɗum woni cycle :fra makko coñagu
+fuc_4911 1 locuteur3 619.636 624.330 <o,f1,male> eyyi te kadi ndiɗon gawri kadi indi suusi ene suusi hokkere
+fuc_4911 1 locuteur3 624.330 626.830 <o,f1,male> eyyi ina suusi kadi rafiji fewɗi
+fuc_4911 1 locuteur3 626.830 629.429 <o,f1,male> eyyi emin jogui kadi ko fate makkari
+fuc_4911 1 locuteur3 629.429 636.410 <o,f1,male> makkaji kadi emin jogui hono makka mo mo gadoriɗen remde o taw kadi ko makkaji certifié:fra
+fuc_4911 1 locuteur3 636.410 638.853 <o,f1,male> emin jogui ko wayno makka *
+fuc_4911 1 locuteur3 638.853 642.417 <o,f1,male> emin jogui kadi ko wayno makka kaɓotoɗo ngakkere haaraduru o
+fuc_4911 1 locuteur3 642.417 645.376 <o,f1,male> woni mais :fra soba tampa woni makka daneejo o
+fuc_4911 1 locuteur3 645.376 649.204 <o,f1,male> surtout :fra kadi emin jeeya makkaji hybride ɗi
+fuc_4911 1 locuteur3 649.204 659.497 <o,f1,male> koni makkaji kadi puɗotoɗi butaali tati nayyi tawa kadi ko makkaji kadi jaawɗi baɗoji lebbi ɗiɗi so fori fori lebbi ɗiɗi e balɗe sappo
+fuc_4911 1 locuteur3 659.497 664.139 <o,f1,male> eyyi ɗiɗon makkaji fo kadi wonko joguiɗen hen emin jogui hen kadi stoque :fra jonɗo
+fuc_4911 1 locuteur3 664.139 669.693 <o,f1,male> makka biyateɗo variété :fra biyateɗo pan 12 pan 12 onne kadi emin jogui hen ko yoni
+fuc_4911 1 locuteur3 669.693 683.921 <o,f1,male> bandiraɓe men kadi surtout :fra diwan men o diwan %e phillamo* diwan hakkude maaje o eɓe gandi oɗon makka no fewi ko fate Ɓooki Sarankoɓe ko fate Duguel naɓe e hewɓe mabɓe ina gara haa e Siiwe naɓe
+fuc_4911 1 locuteur3 683.921 688.101 <o,f1,male> fo ina gara haa ga amen ga ina cooda ga awdi * ina nawa ɗum toon
+fuc_4911 1 locuteur3 688.101 693.507 <o,f1,male> eyyi ko awdi kadi wandi fayida awɗele kadi ɗe ngannduɗaa ɗevo dal ko jaaduɗo e jaamanu
+fuc_4911 1 locuteur3 693.507 697.279 <o,f1,male> jaaduɗo kadi sahaa waylo waylo weeyo mo gonɗen o
+fuc_4911 1 locuteur3 697.279 703.967 <o,f1,male> caggal ɗum kadi min joguiɗo kadi deendaangal awɗele sewo sewoji eyyi ko fate awɗele basalle
+fuc_4911 1 locuteur3 703.967 707.843 <o,f1,male> ko fate awɗele sewo sewoji eyyi fof dal ina taweɗo
+fuc_4911 1 locuteur3 707.843 713.603 <o,f1,male> eyyi sa wi kadi produit :fra ji deendaangal produit :fra ji kady phytosanitaire :fra ko haaɓata ñamre
+fuc_4911 1 locuteur3 713.603 724.266 <o,f1,male> ko haaɓata kadi %e ngakkere ko ngannduɗaa ɗum ɗo way kono poudaruji ni ɗi ngannduɗaa watte koye leydi taw kadi ene haaɓa ko fate moƴu
+fuc_4911 1 locuteur3 724.266 729.820 <o,f1,male> ina haaɓa kadi eko fate ko wiyete les :fra nématodes :fra ko ngannduɗaa ɗum ɗo kadi ina adda waato
+fuc_4911 1 locuteur3 729.820 737.767 <o,f1,male> ina adda kadi jiiya kadi ndeemanteri ma jaa haa ummo tan haa jogoɗa hen yakare tan jiiha wona e yorde wona e peerde
+fuc_4911 1 locuteur3 737.767 742.610 <o,f1,male> eyyi ɗiɗon produit :fra ji fof kadi iɗe tawe ga eyyi emin jodui kadi ko wayno engrais :fra ji
+fuc_4911 1 locuteur3 742.610 746.281 <o,f1,male> e engrais :fea ji kadi kala engaris :fra mo ndemowo o ina sohla
+fuc_4911 1 locuteur3 746.281 752.447 <o,f1,male> ina tawe ga saabu ɗum kadi banndiraaɓe men yetɓe toon ɓe kadi ɓenne kadi ina kuppitimin no fewi
+fuc_4911 1 locuteur3 752.447 756.371 <o,f1,male> saabu ɗum kadi ɗiɗo duuɓi foo kadi eɗen ligg() eɗen liggatono
+fuc_4911 1 locuteur3 756.371 758.665 <o,f1,male> eko wade ko wayno Diagane naɓe
+fuc_4911 1 locuteur3 758.665 760.752 <o,f1,male> eko wayno hakkude maaje naɓe
+fuc_4911 1 locuteur3 760.752 763.043 <o,f1,male> eyyi ɓen fof kadi ina garanno haa ga
+fuc_4911 1 locuteur3 763.043 765.436 <o,f1,male> to Bosowé to Agname gay to magasin :fra ga
+fuc_4911 1 locuteur3 765.436 768.288 <o,f1,male> ina keɓa ga awdi ina nawa diwanuji mumen
+fuc_4911 1 locuteur3 768.288 777.967 <o,f1,male> eyyi no wayno dal kala ko ina wiye dal ɗum ɗo o matériel :fra walla ko kutorgal walla kadi ko kaɓirɗe ɗe ngannduɗaa ɗum ɗo kadi ndemoowo o ina sohla ɗum
+fuc_4911 1 locuteur3 777.967 783.317 <o,f1,male> ɗum ɗonne kadi ina tawe ɗum ɗon ɗo fawru men établissement :fra Kane et :fra fils :fra Agname Thiodaye ɗo
+fuc_4911 1 locuteur3 783.317 790.394 <o,f1,male> eyyi emin jogui kadi des :fra appui :fra conseils :fra eyyi c' :fra à :fra dire :fra kadi joni kadi neɗɗo so joguima numéro :fra téléphone :fra am o
+fuc_4911 1 locuteur3 790.394 795.231 <o,f1,male> so noddi kam kadi kala ko jahliɗum kala ko ngakkiri ɗum kadi e nder ndemaka
+fuc_4911 1 locuteur3 795.231 800.627 <o,f1,male> so namdima kadi mamin kolluɗum peeje min kolla ɗum karallagal min kolla ɗum laabi
+fuc_4911 1 locuteur3 800.627 806.075 <o,f1,male> eyyi jomun kadi so tawi ko minen jokkodiri kadi haa heeɓi awdi haa heeɓi engrais :fra ji haa heeɓe fofoof
+fuc_4911 1 locuteur3 806.075 810.304 <o,f1,male> kadi so yettoyima kadi e commercialisation :fra ko way ko wiyete cooñal
+fuc_4911 1 locuteur3 810.304 818.861 <o,f1,male> so yeehi haa yettima kadi mamin balluɗum kadi haa daña partenaire :fra uji ɓe ngannduɗaa ɓeɗo ma mbaw arde mum cotta kadi cooñadi
+fuc_4911 1 locuteur3 818.861 825.837 <o,f1,male> ɗi ngannduɗaa ɗum ɗo kadi ina jeeya ko eɓɓuno pour :fra yeytude ko min ballamo kadi no heeɓiri kadi sottoɓe ɗum
+fuc_4911 1 locuteur3 825.837 831.190 <o,f1,male> min ballamo kadi no jokkodire kadi e wattoɓe transformation :fra o
+fuc_4911 1 locuteur3 831.190 840.299 <o,f1,male> tadi eɗen gandi gaweje ɗe mbimi ɗo joni kaɓatoɗe ngakkere haaraduru nde ko wayno mil :fra biofortifié :fra o woni suuna kaɓatoɗo ngakkere haaraduru o
+fuc_4911 1 locuteur3 840.299 847.230 <o,f1,male> walla kadi makka nayyi soba tampa o * partenairiat :fra kesso kadi naati e diwan naati e diwan mon he
+fuc_4911 1 locuteur3 847.230 849.981 <o,f1,male> hono projet :fra goto ne wiye USAID Caolor
+fuc_4911 1 locuteur3 849.981 853.493 <o,f1,male> ɓeɗonne kadi ine ine ɓellita ndema
+fuc_4911 1 locuteur3 853.493 856.347 <o,f1,male> ko fate ndema ngakkere haaraduru
+fuc_4911 1 locuteur3 856.347 858.896 <o,f1,male> ko wiyete agriculture :fra pour :fra la :fra nutrition :fra ko
+fuc_4911 1 locuteur3 858.896 862.308 <o,f1,male> ɓeɗonne kadi zmin gollodo e mabɓe ko partenaire :fra uji amen ɓoyɗi
+fuc_4911 1 locuteur3 862.308 864.704 <o,f1,male> koɓen gonno hanki USAID yajede
+fuc_4911 1 locuteur3 864.704 867.406 <o,f1,male> kamɓe gonti hannde kadi USAID Caolor
+fuc_4911 1 locuteur3 867.406 874.850 <o,f1,male> e eɓe bddi min kadi e waɗoɓe transformé :fra ɗeɗon gaweje ɓe batta ɗum kadi coonele pour :fra ko kokka suukaɓe
+fuc_4911 1 locuteur3 874.850 877.597 <o,f1,male> eko totta nayeɓe eko totta ɓe cellani
+fuc_4911 1 locuteur3 877.597 881.875 <o,f1,male> ɓeɗonne kadi kala e moon kadi reemɓe ɗeɗo gaweje ɗe mbimi ɗoɗe
+fuc_4911 1 locuteur3 881.875 889.162 <o,f1,male> so ndemi kadi sa dañoyi coñadima sa jokkudiri e am tan ma en ballodir kadi haa mi waɗanma jokkodiral gal
+fuc_4911 1 locuteur3 889.162 894.448 <o,f1,male> ɓeɗon kadi mbawa arde kadi cotta ɗum e juuɗema beele mbawa waɗoyde ɗum kadi transformé :fra
+fuc_4911 1 locuteur3 894.448 899.383 <o,f1,male> eyyi banndiraaɓe kadi ne wayno tan kadi fofoof kowone fawru ndu ko fof kadi heƴataɗo
+fuc_4911 1 locuteur3 899.383 912.170 <o,f1,male> e kono kam ne wayno tan %e e e daɓɓa tan e ɓorlal jeeri ene wayno kadi mi halani en dal ko tawate e nder galle he fawru ndu kadi kala ko ina wiye ndema e kala kono wiye kadi hay produit :fra ji
+fuc_4911 1 locuteur3 912.170 919.454 <o,f1,male> produit :fra ji kadi élevage :fra fo fate kadi %e lamɗam ɗe ngannduɗaa ɗum wiyete ko des :fra pierres :fra lécher :fra
+fuc_4911 1 locuteur3 919.454 924.086 <o,f1,male> ko ngannduɗaa kadi nayyi ɗi e baali ɗi pour :fra ina beyda faynude ɗumen
+fuc_4911 1 locuteur3 924.086 933.404 <o,f1,male> ɗiɗonne kadi a haaɓat ɗum e boggol tan mbaɗa e caali majji walla e hudum majji eɗi laaƴo tan ene beydaɗi vitamine :fra aji ina ustaniɗi kadi rafiji
+fuc_4911 1 locuteur3 933.404 938.652 <o,f1,male> eyyi ko wayno kadi produit :fra ji kadi deendaangal kadi ko produit :fra ji kadi fo fate élevage :fra
+fuc_4911 1 locuteur3 938.652 940.484 <o,f1,male> eko fate aliment :fra ji
+fuc_4911 1 locuteur3 940.484 945.680 <o,f1,male> ko guertoɗe ina ñama walla aliment :fra ko nayyi e baali e puccu ina ñama
+fuc_4911 1 locuteur3 945.680 952.875 <o,f1,male> eyyi walla kadi vitamine :fra aji eyyi ɗum ɗon fof kadi guila e bokkoluji ko ngannduɗaa ɗum ɗo kadi ko kotone baɗanteɗe jawɗi ɗe
+fuc_4911 1 locuteur3 952.875 960.108 <o,f1,male> taw kadi ina waɗi numéro :fra uji mum tawa %e dammiri ma kala to waalwi yaade hankkandi numéro :fra mum ina wondi hen majjata
+fuc_4911 1 locuteur3 960.108 966.886 <o,f1,male> eyyi ɗum ɗonne fof kadi ina taweɗon emin jogui ɗo kadi huuɗoli kadi awɗele huuɗo awɗele ɗe ngannduɗaa ɗeɗo kadi
+fuc_4911 1 locuteur3 966.886 972.695 <o,f1,male> e wonno oɗo sahaa kadi gonɗen koye jaamanu waylo waylo weeyo eyyi toɓoji ɗi garata no hannirta ni
+fuc_4911 1 locuteur3 972.695 976.210 <o,f1,male> eyyi soɗi gari kadi ɗi duumotako emin jogui ɗo kadi awɗele
+fuc_4911 1 locuteur3 976.210 980.844 <o,f1,male> huuɗo awdi wiyetedi * ndi ɗon awdi kadi sa awiɗum
+fuc_4911 1 locuteur3 980.844 985.885 <o,f1,male> aɗa waalwi hesde hen e hitande nde ma won laabi sappo aɗa hessa ɗum e hitande
+fuc_4911 1 locuteur3 985.885 988.331 <o,f1,male> a rosat tan walla aɗa illna tan
+fuc_4911 1 locuteur3 988.331 1003.663 <o,f1,male> ine wilta so wilti kadi kessa guitta hen jawdi ma ñama après kadi so yeehi gona e rosde kadi haa mawnoya kadi kessa eyyi campagne :fra o kam aɗa waalwi hessde hen laabi sappo e hitande eyyi donc :fra ɗeɗon awɗele foo kadi ina taweɗo bandiraɓe
+fuc_4911 1 locuteur3 1003.663 1011.610 <o,f1,male> eyyi ko ɗum wonno kadi ko tawete fawru men awdi ndi biyetedi établissement :fra Kane et :fra fils :fra wonde ɗo ɗo cuuɗi men Agname Thiodaye eyyi on jarama
+fuc_4911 1 locuteur4 1011.610 1019.107 <o,f1,male> eyyi banndiraaɓe en nani ko musiɗɗo o jaabi ko en paami ɗum tiguiri gui tiguigui no fewi bom nde tawno eɗen gandi
+fuc_4911 1 locuteur4 1019.107 1023.590 <o,f1,male> ko haalata ko o haaldata ɗum ko gandal kadi o haaldi ɗum ko yo yimɓeɓe paam
+fuc_4911 1 locuteur4 1023.590 1028.376 <o,f1,male> en paami ko heewi eko ngannduɗaa koɗoni en nani musiɗɗo ko jangti ko
+fuc_4911 1 locuteur4 1028.376 1033.623 <o,f1,male> kadi en gandi koɓe jeeyata ko ko hundeji baɗɗi fayida no fewi no fewi no fewi
+fuc_4911 1 locuteur4 1033.623 1041.213 <o,f1,male> guila e awɗele ɗe haa e produit :fra ji ɗi haa e leƴƴi ɗo haali ɗi kala ko hundeji ɗi ngannduɗaa ko hundeji katojinaɗi
+fuc_4911 1 locuteur4 1041.213 1051.920 <o,f1,male> ko hundeji ɗi diwan o sohli ko hundeji ɗi ngannduɗaa so tawi neɗɗo o reemi ɗum ma dañ hen nafoore nde ngannduɗaa ndeɗo ni ko nafoore wawde ɗum ittande caɗele kewɗe kewɗe kewɗe kewɗe
+fuc_4911 1 locuteur4 1051.920 1057.993 <o,f1,male> hay so tawi ɓuuri yajnade koyi koyi koyi eddaji mabɓe ñebbe ɗi tawi o hen o ɓuuri yajnade
+fuc_4911 1 locuteur4 1057.993 1064.208 <o,f1,male> kono noon en jafimomo no fewi no fewi eko haali ko en paami tan ɗum ɗo ko hunde nde ngannduɗaa nde ɗonni
+fuc_4911 1 locuteur4 1064.208 1073.024 <o,f1,male> ko hunde wawade wallilde diwan ko hunde wawde ƴellilde diwan ɗum saabi %e radio :fra meɗen radio :fra communautaire :fra mo Podor 90 POINT 7
+fuc_4911 1 locuteur4 1073.024 1076.234 <o,f1,male> yillinoyo on haa e nokkuji ɗiɗum woni ɗo
+fuc_4911 1 locuteur4 1076.234 1080.921 <o,f1,male> wawde andande on nde ɗo nafoore e gam ɓattinde ɗum yimɓeɓe ɓattinde ɗum rendogo
+fuc_4911 1 locuteur4 1080.921 1086.219 <o,f1,male> ɓe ganda ganda tigui radio :fra go ko radio :fra mabɓe kala ɗo yii nafoore wawde naftude leñol ngol
+fuc_4911 1 locuteur4 1086.219 1095.954 <o,f1,male> ma yaah ɓattiyo toon gam ɓattinde ɗum rendogo gam yimɓeɓe mbawa ɗum naftorade nde tawno %e haaloɓe puular mbi wuulague jamma ɗaccittake e goto nafoore ɗo woni fof
+fuc_4911 1 locuteur4 1095.954 1103.034 <o,f1,male> yo ar ɗo ɓiɗɗo jibina fof yo wuur ɗo nafoore daña fof yo yetto si yettima yo naftu leñol ngolko ɗum saabi mbaɗen hen jillumeɗen
+fuc_4911 1 locuteur4 1103.034 1115.561 <o,f1,male> ko ɗum noon joni si tawi en nani ko musiɗɗo o haali ko en paami ɗum tiguirigui kono ittata ma en namdo musiɗɗo o tigui kanko ne ɗo joni caggal nde ganduɗen holkoɓe jogui e produit :fra ji eko nandi hen
+fuc_4911 1 locuteur4 1115.561 1121.213 <o,f1,male> kono jeygu ngu no foti dañde juɓɓudi kañumne keeridi holno juɓɓinira holno yeeyirte
+fuc_4911 1 locuteur4 1121.213 1124.047 <o,f1,male> e holɗo holno fawirte holno dañirte
+fuc_4911 1 locuteur4 1124.047 1129.142 <o,f1,male> holno heeɓorto eko nandi hen so tawi en battino ɗum namdal ceerno Aboubacry
+fuc_4911 1 locuteur4 1129.142 1139.618 <o,f1,male> en mbino namdal ngal wonata ko holno juɓɓordirton jeygu e nder galle mo ngannduɗaa oɗoni ko kañum woni Kane et :fra fils :fra établissement :fra Kane e fils :fra o holno jeygungu yuppira e nder galle o
+fuc_4911 1 locuteur3 1139.618 1149.660 <o,f1,male> eyyi ko fate kadi jeygungu ko fate kadi nde wonno kadi établissement :fra Kane et :fra fils :fra o kadi banndiraaɓe oɗon gandi joni ko ni kadi fawru ndu woni koɗo cuuɗimen Agname Thiodaye ɗo
+fuc_4911 1 locuteur3 1149.660 1156.539 <o,f1,male> kono noon endu yaaji eyyi endu yaaji kadi ɗum kadi no birunimi on kadi guilayi %e salminago go
+fuc_4911 1 locuteur3 1156.539 1164.188 <o,f1,male> nde wonno min jeeyami koye APS suji ɗi ngannduɗaa ɓeɗo ko USAID yaajede watnomin formé :fra
+fuc_4911 1 locuteur3 1164.188 1167.094 <o,f1,male> eyyi ne wano kadi komin relais :fra ji communautaire :fra
+fuc_4911 1 locuteur3 1167.094 1178.352 <o,f1,male> eyyo no wayno kadi emin jokkodiri kadi e relais:fra jo kewɗi donc :fra ine wayno diwanuji ɗi fof kadi mboɗo jogui toon kadi représentant :fra eyyi surtout :fra kadi ko fate région :fra de :fra Matam oga baŋnge kadi
+fuc_4911 1 locuteur3 1178.352 1184.367 <o,f1,male> ɗe woni kewɗe ɗemin liggoto komin relais :fra eyyi joni kadi alhamdulillah rabbil ala mina kadi beydima yajde
+fuc_4911 1 locuteur3 1184.367 1188.594 <o,f1,male> joni kadi ne wayno kadi damal ngal kadi udditima e diwan kadi e diwan moon he
+fuc_4911 1 locuteur3 1188.594 1190.988 <o,f1,male> e diwan régi() département :fra de Podor o
+fuc_4911 1 locuteur3 1190.988 1198.220 <o,f1,male> ɗonne kadi ɓeɗo oɗo sahaa tan eɗeɗo balɗe gonaɗe eyyi min goni tan sornude e ƴewde inchallah
+fuc_4911 1 locuteur3 1198.220 1201.380 <o,f1,male> beele emin daña toon représentant :fra aji e zone :fra uji moon he
+fuc_4911 1 locuteur3 1201.380 1207.593 <o,f1,male> eyyi oɗo sahaa kam ne wayno e garan() e garagal hono projet :fra USAID caolore o
+fuc_4911 1 locuteur3 1207.593 2226.730 <o,f1,male> eyyi mi ari mi * haa min joddi toon eko wayno Korat naɓe

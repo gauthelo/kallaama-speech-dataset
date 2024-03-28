@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="PROPRIETAIRE" audio_filename="wol_11440" version="3" version_date="231011">
+<Speakers>
+<Speaker id="spk1" name="locuteur 2" check="yes" type="male" dialect="native" accent="wolof" scope="global"/>
+<Speaker id="spk2" name="locuteur 1" check="yes" type="male" dialect="native" accent="wolof" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="69.486">
+<Turn startTime="0" endTime="46.91" speaker="spk2" mode="spontaneous">
+<Sync time="0"/>
+asalaamaaleykum wa raxmatulaaxi wa barakaatuxoo yéen sunu mbokki baykat région :fra Louga rawatina ñi nga xam ni dañoo wékku ci Fapal di kuréel gii 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ %e ñuy wax fédération :fra des :fra associas() des:fra  associations :fra paysans :fra de :fra Louga 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ muy kuréelu béykatu région :fra Louga 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ñoo ngi leen di indil jiwu wu bees boo xam ni ñu ngi koy wax semence :fra certifiée :fra muy jiwu qualité :fra ak ay jumtukaay di matériels :fra agricoles :fra 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ngir ngeen gunge leen ngir mën a am campagne :fra bu mucc ayib ñoo ngi ñaanit bépp membre :fra Fapal bu foo mën a nekk nga woote ci numéro :fra bii ñu lay jox muy 33 869 19 24 33 869 19 24 suñuy ndaw daañu la woo ngir yeneen i leeral 
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="46.91" endTime="48.526">
+<Sync time="46.91"/>
+waxal bippé :fra
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="48.526" endTime="49.196">
+<Sync time="48.526"/>
+waaw
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="49.196" endTime="50.372">
+<Sync time="49.196"/>
+waxal bippé :fra bi dinaa ko dugal 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" mode="spontaneous" startTime="50.372" endTime="50.972">
+<Sync time="50.372"/>
+<Who nb="1"/>
+après :fra
+<Who nb="2"/>
+bippé :fra 
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="50.972" endTime="54.715">
+<Sync time="50.972"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ maanaam na nga bippé :fra ci numéro bi 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ xaral ma reprendre :fra waat 
+</Turn>
+<Turn speaker="spk1 spk2" mode="spontaneous" startTime="54.715" endTime="56.253">
+<Sync time="54.715"/>
+<Who nb="1"/>
+nee leen ñu ngi leen di jaajëfal
+<Who nb="2"/>
+waa na nga woote rek laay wax 
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="56.253" endTime="58.008">
+<Sync time="56.253"/>
+wax leen ñoo ngi leen i jaajëfal
+</Turn>
+<Turn speaker="spk2" mode="spontaneous" startTime="58.008" endTime="69.486">
+<Sync time="58.008"/>
+waaw ñoo ngi leen di jaajëfal ginnaaw bi ngeen bippé :fra ci numéro :fra bi %e suñuy ndaw daañu leen woo ngir yeneen i leeral ñoo ngi leen di jaajëfal bu baax a baax di leen ñaanal kampaañub jàmm bu mucc ayib 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+</Turn>
+</Section>
+</Episode>
+</Trans>

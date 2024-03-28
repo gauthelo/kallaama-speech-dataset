@@ -1,0 +1,917 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 09:53:46 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 4 of 230526
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_44411 1 inter_segment_gap 0.000 44.095 <o,f0,>
+wol_44411 1 locuteur_1 44.095 90.561 <o,f1,male> voilà:fra samedi :fra fukki fan ak juróom-ñett ci weeru novembre :fra 2022 auditeurs :fra Alfayda FM 90 point :fra 1 [r] fu ngeen mën a nekk di ñi teewlu moo xam yéen a nekk biir Sénégal wala ngeen nekk ci bitim réew ci internet :fra bi [r] yéen ñëpp ñu ngi leen di wax asalaamaaleykum wa rahmaulahi :ar wa :fra barakaatuho :ar ñu dikk ak yéen [r] ci see émission :fra spéciale :fra làng gi [shh] tey nag %e spéciale :fra làng gi émission :fra bi [r] %e ñuy fas yéene dalal %e koo xamante ne kenn dootu ko présenté :fra [r] ci Sine Saloum kenn dootu ko présenté :fra aussi :fra ci Sénégal ñu fas yéene waxtaan ak moom lu am a am solo loo xamante ne ñun ñëpp a ko bokk loo xamante ne ci la koom-koomu Sénégal wéeru loo xamante ne aussi :fra [r] ci la askan wu bari yaakaar dund muy ñi nga xamante ni moo di suñu mbokku béykat yi
+wol_44411 1 locuteur_1 90.561 115.345 <o,f1,male> kon nag tey émission :fra bi [r] nekk émission :fra boo xam ne dañ koy jagleel ci wàllug mbéy waaye lépp loo xamante ne ña cay yëngatu ak ñiy taxawee mbay [r] ak fi nga xamante ne la ñu toll tey ci li nga xamante ne moo di [r] njëgu gerte gi nga xam ne état :fra bi daal di na koy nas ci juróom fukki dërëm ak juróom muy deux :fra cent :fra soixante :fra quinze :fra frans :fra [r] %e gis-gis boobu ak taxawaayu béykat yi nga xam ne ñu ngi dégg ñenn ñi di ko ñaawlu [r] di sakku lenn ak fi ñu jaar yëpp ba fi ñu yegg si [r]
+wol_44411 1 locuteur_1 115.345 142.156 <o,f1,male> waaye aussi :fra di waxtaaneeg que :fra que :fra kuréel goo xam ne képp koo xamante ne saalumsaalum nga sénégalais :fra nga d' :fra une :fra manière :fra générale :fra [r] suñ ko waxee xel dana daj taxawaay bu am solo bi nga ne ñu ngi koy taxaw [r] lépp lu jëm ci wàllug gerte jënd lay doon daal di koy yóbbu bitim réew [r] ak taxawaay bi nga xamante ne dañ ko daan amal aussi :fra tamit ci wetu ñi nga xamante ne ñoo di [r] chinois :fra yi ak lépp luy %e jox gëdd wala luy dooleel baykat ñoom ca la ñuy yëngatu googu kuréel nag du genn kenn ku moy [r] COPEGA
+wol_44411 1 locuteur_1 142.156 198.085 <o,f1,male> tey nag COPEGA seen njiit la ñu am mbégte di dalal fii ci rajo Alfayda mu di Habid Thiam [r] moom nag %e mooy njiital COPEGA waaye tamit opérateur :fra économique :fra la [r] nekk it %e promoteur :fra %e kër googu di defar wàllum ndox moomu ñu tuddee [r] Eau Zara nga xam ne am na ci façon :fra [r] %e sachet :fra la wala Evian yeneen yi ni mel [r] %e waaye tamit nekk it béykat tey ñoo ngi fas yéene waxtaan ak moom ci li ma leen junj noonu [r] ci rajo Alfayda tey ci samedi :fra ji béykat yi nekk war a mën a bokk ci waxtaan wi ànd ak ñun [r] lépp loo xamante ne laaj la lépp loo xam ne orientation :fra wala xalaat la [r] %e ci COPEGA wala boog ci wàllu mbéy mi loolu nag danañ leen ko permettre :fra [r] ci kanam ci 88 628 97 97 [r] wala 88 628 18 76 émission :fra bi ni mel [r] El Hadj Ibrahima Guèye mooy ko ko réalisé :fra partie :fra technique :fra ñu ànd ci ak Waly Magib Seck présentation :fra El Hadj Omar Cissé monsieur :fra Thiam Habib maa ngi lay nuyu
+wol_44411 1 locuteur_2 198.085 202.259 <o,f1,male> waaw Omar [b] maa ngi lay fay di wax asalaamaaleykum wa :ar rahmatulah :ar
+wol_44411 1 locuteur_1 202.259 203.565 <o,f1,male> maaleykum salaam wa :ar rahmatulah :ar
+wol_44411 1 locuteur_2 203.565 206.113 <o,f1,male> maa ngi nuyu %e mboolem auditeurs :fra yi
+wol_44411 1 locuteur_1 206.113 206.549 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 206.549 209.246 <o,f1,male> [r] ak téléspectateur :fra yi Alfayda
+wol_44411 1 locuteur_1 209.246 209.470 <o,f1,male> %hum
+wol_44411 1 locuteur_2 209.470 212.365 <o,f1,male> parce :fra que :fra Alfayda léegi mu ngi ci %e TV net :fra bi
+wol_44411 1 locuteur_1 212.365 212.840 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 212.840 219.862 <o,f1,male> [b] di jiital nuyoo [shh] Mawlana Cheikh Mouhamadul Mahi al Khalifa mu Cheikh Ibrahim Niass
+wol_44411 1 locuteur_1 219.862 220.113 <o,f1,male> %hum
+wol_44411 1 locuteur_2 220.113 233.732 <o,f1,male> di jiite di ci topp %e Mawlana Cheikh Ahmed Tidiane Alioune Cissé di ñaan yàlla [r] yàlla may leen wér ñoom ñaar ñëpp [b] yàlla taxawu %e leen yàlla dëgëral leen bàyyi leen fi ba ci kanam a kanam
+wol_44411 1 locuteur_1 233.732 234.206 <o,f1,male> %hum
+wol_44411 1 locuteur_2 234.206 245.663 <o,f1,male> di nuyu mboolem topp i baay [r] di nuyu aussi :fra waa kër Hadj Abdalah [b] di ci jiital Al Khalifa Cheikh Ibrahim Hadj Abdalah
+wol_44411 1 locuteur_1 245.663 246.192 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 246.192 250.058 <o,f1,male> ak mboolem topp i baay ak mboolemu béykat yi
+wol_44411 1 locuteur_1 250.058 250.418 <o,f1,male> %hum
+wol_44411 1 locuteur_2 250.418 274.293 <o,f1,male> ak tunda ba nga xam ne aussi :fra maa ngi fay yëngatu muy Taïba Niassène ak li ko wër [b] mboolem Saloum ak sénégalais :fra yëpp [r] azk àddina bi yëpp maa ngi leen di nuyu di nuyu aussi :fra waa COPEGA yi ñi nga xam ne daloo nañ ma waxtu bu nekk %e ñu jiital ma [r] ci liggéey bi nga xam ne am na solo [r] ma yaakaar ne %e xëy na sax la
+wol_44411 1 locuteur_1 274.293 274.697 <o,f1,male> %hum [b]
+wol_44411 1 locuteur_2 274.697 281.187 <o,f1,male> [b] waaye du ëpp xam-xam wala ëpp xalaat wala [r] ëpp njàmbaar wala ëpp mën-mën waaye aw sas la
+wol_44411 1 locuteur_1 281.187 281.846 <o,f1,male> [b] %hum %hum
+wol_44411 1 locuteur_2 281.846 292.293 <o,f1,male> moo tax waxtu bu ne rek maa ngi jéem ngir yaakaar yi nga xam ne nit ñi am nañ ko ci man [b] ma ñaan yàlla yàlla dëgëral yaakaar yooyu [b] amaa nag ñu def suñu kéem kattan
+wol_44411 1 locuteur_1 292.293 292.654 <o,f1,male> %hum
+wol_44411 1 locuteur_2 292.654 295.333 <o,f1,male> ci li nga xam ne mooy suñu wareef
+wol_44411 1 locuteur_1 295.333 296.138 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 296.138 299.929 <o,f1,male> waaye li nga xam ne aussi :fra mooy li yàlla di dogal yàlla lañ koy bàyyee
+wol_44411 1 locuteur_1 299.929 300.340 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 300.340 304.399 <o,f1,male> waaye dinañ def li ñu war yàlla mooy ciy dogal lu ko soob
+wol_44411 1 locuteur_1 304.399 304.894 <o,f1,male> incha :ar allah :ar
+wol_44411 1 locuteur_2 304.894 307.203 <o,f1,male> te waxtu bu dogalee dinañ ko gërëm te dinañ ko sant
+wol_44411 1 locuteur_1 307.203 308.044 <o,f1,male> macha :ar allah :ar
+wol_44411 1 locuteur_2 308.044 312.107 <o,f1,male> kon ñu ngi ñaan yàlla ci barke Hadj Abdalah [r] lépp luñ fi wax yàl na jëriñ
+wol_44411 1 locuteur_1 312.107 312.939 <o,f1,male> amiin amiin
+wol_44411 1 locuteur_2 312.939 316.087 <o,f1,male> te yàl na ko [r] ay xol di taataan
+wol_44411 1 locuteur_1 316.087 317.478 <o,f1,male> %hum %hum amiin waay
+wol_44411 1 locuteur_2 317.478 320.192 <o,f1,male> te lii ñuy wax aussi :fra muy jógee ci xol yu sell
+wol_44411 1 locuteur_1 320.192 321.205 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 321.205 322.580 <o,f1,male> ba nga xam ne lépp luñ fi wax rek
+wol_44411 1 locuteur_1 322.580 322.978 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 322.978 334.491 <o,f1,male> muy jëriñ te di jégalu tamit su fekkee ne njuumte dina ci am parce :fra que :fra moo ñu moo ñu dab te lépp luñ ci juum tamit ñu ngi jiital ag jégalu ndax nit moom matul
+wol_44411 1 locuteur_1 334.491 335.217 <o,f1,male> macha :ar allah :ar
+wol_44411 1 locuteur_2 335.217 341.728 <o,f1,male> ñaan yàlla yal na ñu yàlla dimbale [r] may ñu taw féex bañ mën a wax liy jëriñ e moytu aussi :fra liy lore
+wol_44411 1 excluded_region 341.728 343.483 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 343.483 365.127 <o,f1,male> amiin jërëjëf kon nag loolu moo nekkoon kaddug nuyoo yi %e bàyyee koo ci %e Habib Thiam njiitam COPEGA %e ñun i tamit ñuy am mbégte di dalal %e di daje ak yow ci émission :fra [r] waxtu bu nekk ci rajo bi [r] le :fra fait :fra que :fra njëriñ lu muy mun a andil la mun a andil %e ñii di béykat yi waaye aussi :fra [r] taxawaay bu am solo boobu nga xam ne [r] yéen a ngi koy amal muy %e COPEGA %e
+wol_44411 1 locuteur_2 365.127 401.332 <o,f1,male> waaye tamit [r] bu loolu lépp jeexee %e ñu sentir :fra que :fra ne %e kër gii seen kër la waxtu buñ leen fi dalalee [r] dañuy yëg ne ñoo bokk fu ñu jëm lépp mooy intérêt :fra béykat waaye nag tey pour :fra ma commencé :fra laaj bi moom %e junj naa la ko léegi maag yow bi ñuy waxtaan léegi bi nga egg see xaj na %e ni ma ko jambatee la ko béykat yu bëri jambatee léeg-léeg am sax ñu ma oo ni ma waa yow ana sa waa ji ana Habib ana Habib [r] donc :fra par :fra rapport :fra ak %e rare :fra laa ko mën a tuddee wala nëbbu la laqatu la liggéey la [rire] ci ci lan la Habib nekkoon ba ba ñu gëj koo dégg ci rajo yi ak ak ak télé :fra yi
+wol_44411 1 locuteur_2 401.332 412.370 <o,f1,male> [bb] xam nga [b] nit moom yàlla daf koo mooñ ci bind ko ci maanute ak faltu [b] am na leneen [pi] sax lu dul [pi]
+wol_44411 1 locuteur_1 412.370 412.985 <o,f1,male> %hum [b]
+wol_44411 1 locuteur_2 412.985 415.773 <o,f1,male> [b] xam naa jant bi sax [b]
+wol_44411 1 locuteur_1 415.773 416.564 <o,f1,male> [b] %hum
+wol_44411 1 locuteur_2 416.564 427.419 <o,f1,male> dafay faañ ak a nëbbu [b] kon su fekkee nee yàlla noonu la bindee xalam bi [r] nit ñiy dox ci ay * di feeñee ci nii di feeñee nële
+wol_44411 1 locuteur_1 427.419 427.747 <o,f1,male> %hum
+wol_44411 1 locuteur_2 427.747 435.498 <o,f1,male> [r] am naa yaakaar ne xëy na su ma feeñee léeg-léeg ma réer [b] ci ****
+wol_44411 1 locuteur_1 435.498 436.016 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 436.016 437.301 <o,f1,male> yàlla moo koy doxalee noonu
+wol_44411 1 locuteur_1 437.301 437.660 <o,f1,male> %hum
+wol_44411 1 locuteur_2 437.660 441.645 <o,f1,male> waaye nag [b] nammoon naa leen wax dëgg yàlla
+wol_44411 1 locuteur_1 441.645 442.260 <o,f1,male> %hum
+wol_44411 1 locuteur_2 442.260 448.104 <o,f1,male> [r] parce :fra que :fra mbir moom nit dafay faddu léeg-léeg dafay toog foo xam ne il :fra faut :fra que :fra mu xool boppam
+wol_44411 1 locuteur_1 448.104 448.587 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 448.587 452.903 <o,f1,male> xool fi mu jëm mu xool num taxawee parce :fra que :fra yaakaar dafa fort :fra
+wol_44411 1 locuteur_1 452.903 454.586 <o,f1,male> %hum %hum [b] %hum
+wol_44411 1 locuteur_2 454.586 457.618 <o,f1,male> [b] te wax [b] su bëree rek
+wol_44411 1 locuteur_1 457.618 458.151 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 458.151 458.857 <o,f1,male> dina am lu juum
+wol_44411 1 locuteur_1 458.857 459.530 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 459.530 472.453 <o,f1,male> [b] te wax su bëree rek kebetu lay andi te kebetu moom du jëriñ [r] kon mun naa yaakaar ne lépp lu may wax [b] mu di nekk loo xam ne lu war a jëriñ [r] parce :fra que :fra wax moom su jëriñul rek mi ngi lor
+wol_44411 1 locuteur_1 472.453 474.082 <o,f1,male> %hum %hum [b] b %hum
+wol_44411 1 locuteur_2 474.082 475.041 <o,f1,male> loolu lu ci bëri
+wol_44411 1 locuteur_1 475.041 475.772 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 475.772 476.836 <o,f1,male> néew na lu muy jëriñ
+wol_44411 1 locuteur_1 476.836 478.121 <o,f1,male> %hum %hum [b]
+wol_44411 1 locuteur_2 478.121 480.961 <o,f1,male> te soo wax dafa war a am dafa war a fasaa
+wol_44411 1 locuteur_1 480.961 481.522 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 481.522 482.137 <o,f1,male> am maanaa
+wol_44411 1 locuteur_1 482.137 482.750 <o,f1,male> %hum
+wol_44411 1 locuteur_2 482.750 485.973 <o,f1,male> parce :fra que :fra wax bi ñu * il :fra faut :fra ñu wax ko fi ñu ko war a waxee ak
+wol_44411 1 locuteur_1 485.973 487.222 <o,f1,male> %hum [b]
+wol_44411 1 locuteur_2 487.222 488.905 <o,f1,male> ak ****
+wol_44411 1 locuteur_1 488.905 489.703 <o,f1,male> %hum %hum [b]
+wol_44411 1 locuteur_2 489.703 503.511 <o,f1,male> [r] waaye du dara nag ñu ngi ci jàmm amhamdulilah :ar di amaat mbégte di ñëw fii di waxtaan ak auditeurs :fra i alfayda yi nii ak yu téléspectateurs :fra yi [r] di wax * di waxtaan ak aussi :fra ahlu béykat yëpp
+wol_44411 1 locuteur_1 503.511 504.571 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 504.571 508.053 <o,f1,male> ak waa sénégal yi nga xam ne doom laa ci Saloum
+wol_44411 1 locuteur_1 508.053 508.342 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 508.342 509.464 <o,f1,male> doom laa ci Sénégal
+wol_44411 1 locuteur_1 509.464 510.779 <o,f1,male> %hum %hum [b]
+wol_44411 1 locuteur_2 510.779 512.390 <o,f1,male> te fii ak yàlla mu nga ma fiy bàyyi
+wol_44411 1 locuteur_1 512.390 512.629 <o,f1,male> %hum
+wol_44411 1 locuteur_2 512.629 517.380 <o,f1,male> lépp loo xam ne [r] xalaat nañ ne su ñu ko defee Saloum dox
+wol_44411 1 locuteur_1 517.380 517.739 <o,f1,male> %hum
+wol_44411 1 locuteur_2 517.739 522.555 <o,f1,male> xalaat nañ ne suñ ko waxee ñu dégg ñu Salom dox maa ngi ci
+wol_44411 1 excluded_region 522.555 523.442 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 523.442 524.102 <o,f1,male> %hum [b]
+wol_44411 1 locuteur_2 524.102 524.943 <o,f1,male> maa ngi ci ci kaw
+wol_44411 1 locuteur_1 524.943 525.269 <o,f1,male> %hum
+wol_44411 1 locuteur_2 525.269 526.879 <o,f1,male> mën naa wax ci suuf
+wol_44411 1 locuteur_1 526.879 527.187 <o,f1,male> %hum
+wol_44411 1 locuteur_2 527.187 529.576 <o,f1,male> wala ma wax ci kaw waaye waxtu wu ne rek maa ngi ciy jéem
+wol_44411 1 locuteur_1 529.576 530.267 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 530.267 534.171 <o,f1,male> léeg-léeg doo ma dégg ca kaw waaye léegi-léeg dinaañ wax ci suuf
+wol_44411 1 locuteur_1 534.171 535.013 <o,f1,male> macha :ar allah :ar
+wol_44411 1 locuteur_2 535.013 537.446 <o,f1,male> loolu mooy li am solo rek mooy yàl na ñu yàlla defal taw féex
+wol_44411 1 locuteur_1 537.446 537.808 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 537.808 538.785 <o,f1,male> yàlla defal ñëpp jàmm
+wol_44411 1 locuteur_1 538.785 558.574 <o,f1,male> macha :ar allah :ar [r] ah am na am na am na solo donc :fra kon su ma la déggee donte buñ déggul Habib Thiam ci rajo yi ak télé :fra yi ay ay fan wala ay weer ci ginnaaw [r] terewut %e ma ngay xamante ne dafay %e dooleel béykat ak gën a jox gëdd béykat donte wax ji amuy jëf ji am na ca te yaakaar naa [r] jëf ji moo ëpp solo
+wol_44411 1 locuteur_1 558.574 608.052 <o,f1,male> léegi nag ñu ñëw ci jëf jooju dañu gis ngeen koy jaaralee ci %e kuréel googu ñuy wax COPEGA tey yàlla def nga jiite ko [r] %e ñu doon xam aussi :fra activiés :fra yoo xam ne da ngeen ka daan def mais :fra xam aussi :fra positions :fra yi ngeen xamante ne [r] da ngeen ko doon jël chaque :fra fois :fra à :fra chaque :fra fois :fra ñu laal béykat wala ) :fra chaque :fra fois :fra ñu nar a teg ci béykat loo xamante ne [r] bon :fra gis ngeen ne dëppoowut ak yoon par :fra rapport :fra ak yi fi jàll yëpp donte amu ñu woon occasion :fra waxtaan ci ay yow mais :fra déglu nañ posiions :fra yi ngeen ci am jot nañ ci %e ci jiw yi nga xamnate ne joxe nañ ko namu doyee waar wàllug engrais :fra bi seeraay bi métti doon lool ci béykat yi période :fra boobu it ñu dund ko [r] ba tey ñu ngi jëm ci wàllum njaay waaye laata loolu [r] durant :fra bi béykat yi fi mu jaar cycle :fra bi ba egg si fii [r] jaar nañ ci ay tolof-tolof [r] te am na lenn li état :fra leen ko teg [r] %e am na lenn li peut :fra être :fra ñoom ñoo waroon gën a mën a jël seen matuwaay naka ngay jàngatee période :fra boobu avant :fra ñuy yegg ci récolte :fra bi [b]
+wol_44411 1 locuteur_2 608.052 610.346 <o,f1,male> mooy période :fra bi nga xam ne béykat taxaw na
+wol_44411 1 excluded_region 610.346 612.553 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 612.553 613.168 <o,f1,male> tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 613.168 614.598 <o,f1,male> ut suuf pour :!fra mun a béy
+wol_44411 1 locuteur_1 614.598 616.462 <o,f1,male> %hum %hum [b]
+wol_44411 1 locuteur_2 616.462 621.040 <o,f1,male> [bb] loolu lu may dund la là :fra jotoon nañ ma koy nettali waaye dama dund ak ñoom
+wol_44411 1 locuteur_1 621.040 621.870 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 621.870 628.169 <o,f1,male> [bb] ren %e je :fra pense :fra que :fra béykat lu sonn la ren
+wol_44411 1 locuteur_1 628.169 628.792 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 628.792 630.050 <o,f1,male> ku jaaxle woon la
+wol_44411 1 locuteur_1 630.050 631.312 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 631.312 635.587 <o,f1,male> nda àddina ëlbatiku na ëlbatiku goo xam ne andi ag mbetteel
+wol_44411 1 locuteur_1 635.587 637.235 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 637.235 642.028 <o,f1,male> mooy lenn am na ci jamono corona ñëw na
+wol_44411 1 locuteur_1 642.028 642.478 <o,f1,male> %hum
+wol_44411 1 locuteur_2 642.478 651.279 <o,f1,male> ñu [b] génn ci Corona ñëw ci guerre :fra boo xam ne [b] ña ko sooke sori nañ ñu lool
+wol_44411 1 locuteur_1 651.279 652.189 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 652.189 653.957 <o,f1,male> waaye jeexital yi ñun ñoo ko gën a yëg
+wol_44411 1 locuteur_1 653.957 654.882 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 654.882 660.132 <o,f1,male> [r] xëy na sori na fa ñuy bombardé :fra ak fa ñuy reyantee
+wol_44411 1 locuteur_1 660.132 660.487 <o,f1,male> %hum
+wol_44411 1 locuteur_2 660.487 663.163 <o,f1,male> waaye nañ jàpp ne jeexital yi ñun yëg nañ ko
+wol_44411 1 locuteur_1 663.163 664.088 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 664.088 666.581 <o,f1,male> ñun ñi nga xam ne ñu ngi wàll suuf jant
+wol_44411 1 locuteur_1 666.581 667.168 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 667.168 677.379 <o,f1,male> ak réew yu néew yi mooy Afrique [b] kon loolu tax na [b] àddina jage woon na te béykat xamul fu mu jëm te amul lu dul mbéyam
+wol_44411 1 locuteur_1 677.379 678.298 <o,f1,male> %hum
+wol_44411 1 locuteur_2 678.298 682.527 <o,f1,male> [b] kon ci tàmbali ba jafe woon na ci moom
+wol_44411 1 locuteur_1 682.527 683.518 <o,f1,male> %hum
+wol_44411 1 locuteur_2 683.518 685.567 <o,f1,male> lépp cher :fra
+wol_44411 1 locuteur_1 685.567 686.938 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 686.938 688.386 <o,f1,male> lépp jug ca kaw
+wol_44411 1 locuteur_1 688.386 689.046 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 689.046 692.005 <o,f1,male> yow nga am ag jaaxle te yaakaaree na lu dul suuf
+wol_44411 1 locuteur_1 692.005 692.421 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 692.421 695.497 <o,f1,male> [r] am yaakaar ci yàlla ak óolu yàlla
+wol_44411 1 locuteur_1 695.497 696.032 <o,f1,male> %hum
+wol_44411 1 locuteur_2 696.032 700.382 <o,f1,male> ngir jël benn meññeent benn ab pepp suul ko
+wol_44411 1 excluded_region 700.382 701.413 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 701.413 701.849 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 701.849 704.489 <o,f1,male> kooku yaakaar naa ne war nañ ci bàyyi xel
+wol_44411 1 locuteur_1 704.489 704.905 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 704.905 709.443 <o,f1,male> [r] te jafe-jafe yi li ciy gën a jiitu mooy jiw
+wol_44411 1 excluded_region 709.443 711.451 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 711.451 712.501 <o,f1,male> tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 712.501 713.804 <o,f1,male> dem ba ay mille
+wol_44411 1 locuteur_1 713.804 714.117 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 714.117 718.038 <o,f1,male> ñaar téeméer ak nagam énu jëndee ko benn kilo :fra gerte
+wol_44411 1 locuteur_1 718.038 718.489 <o,f1,male> %hum
+wol_44411 1 locuteur_2 718.489 723.665 <o,f1,male> nga war a am benn hectare :fra joo si mën a def ñaar fukki kilos :fra muy daanaka ñaar fukki junni
+wol_44411 1 locuteur_1 723.665 724.158 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 724.158 724.986 <o,f1,male> ak lu teg
+wol_44411 1 locuteur_1 724.986 725.523 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 725.523 735.604 <o,f1,male> [r] nga mën a labourer :fra labour ba nga daan labourer :fra sa tool tracteurs :fra yi [r] da ngay rang te rang taxul nga am [r] ñu lay fayeeku juróomi junne hectares :fra
+wol_44411 1 locuteur_1 735.604 736.259 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 736.259 744.108 <o,f1,male> nga ñëw bëgg ko ji amoo machine :fra yi nga loué :fra nit pour :fra mu jiyal la
+wol_44411 1 locuteur_1 744.108 744.364 <o,f1,male> %hum
+wol_44411 1 locuteur_2 744.364 746.624 <o,f1,male> daanaka énetti téeméer nga koy fay
+wol_44411 1 locuteur_1 746.624 747.238 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 747.238 749.027 <o,f1,male> wala lu ëpp loolu
+wol_44411 1 locuteur_1 749.027 749.718 <o,f1,male> %hum
+wol_44411 1 locuteur_2 749.718 755.700 <o,f1,male> [b] ci ab xëy fas wu nekk nga fay ko loolu
+wol_44411 1 excluded_region 755.700 757.745 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 757.745 758.248 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 758.248 766.213 <o,f1,male> nga pare ji engrais :fra bi mu cher :fra trop :fra engrais :fra bu waroon jar [r] ñaari junne wala lu néew ñaari junne
+wol_44411 1 excluded_region 766.213 768.728 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 768.728 769.162 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 769.162 770.501 <o,f1,male> juróom-benn junne
+wol_44411 1 locuteur_1 770.501 770.857 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 770.857 771.424 <o,f1,male> ci engrais :fra
+wol_44411 1 excluded_region 771.424 774.373 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 774.373 774.777 <o,f1,male> %hum
+wol_44411 1 locuteur_2 774.777 776.110 <o,f1,male> dafa jéggi dayoo
+wol_44411 1 locuteur_1 776.110 776.663 <o,f1,male> %hum
+wol_44411 1 locuteur_2 776.663 781.738 <o,f1,male> kon su fekkee ne %e loolu yëpp béykat bi romb na ko ak jafe-jafe yu métti yooyu
+wol_44411 1 locuteur_1 781.738 782.262 <o,f1,male> %hum
+wol_44411 1 locuteur_2 782.262 785.447 <o,f1,male> mu bàyyi yàlla énëw ak tawam bu bëri
+wol_44411 1 locuteur_1 785.447 786.137 <o,f1,male> %hum
+wol_44411 1 locuteur_2 786.137 787.365 <o,f1,male> taw bu jéggi dayoo
+wol_44411 1 locuteur_1 787.365 789.377 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 789.377 797.479 <o,f1,male> te tamit %e li ma wax gouvernement :fra bi mooy waroon nañ mun a yëgal béykat bi waxtaan ak moom bañ xamal ko ne ren
+wol_44411 1 locuteur_1 797.479 797.977 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 797.977 800.284 <o,f1,male> taw bi dana bëri dana yàgg
+wol_44411 1 locuteur_1 800.284 800.700 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 800.700 804.038 <o,f1,male> kon ku ci nekk rek waroon nañ mun a xalaat nan la ñuy bayee bay bu ànd ak xalaat
+wol_44411 1 locuteur_1 804.038 804.537 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 804.537 805.721 <o,f1,male> ak bat bu ànd ak xam-xam
+wol_44411 1 locuteur_1 805.721 806.264 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 806.264 812.253 <o,f1,male> Maolana Cheikh Ibrahim Niass yéen a ngi koy dégg ne lu sonal Saloum sonal Sénégal mooy benn traite :fra bi ñu am
+wol_44411 1 locuteur_1 812.253 813.122 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 813.122 817.735 <o,f1,male> kon yàlla ñëw na ak xéwalam ren waroon nañu mun a am ñaari traite :fra
+wol_44411 1 locuteur_1 817.735 818.377 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 818.377 823.547 <o,f1,male> mooy lan mooy nawet bi comencé :fra na mois :fra de :fra mai :fra
+wol_44411 1 locuteur_1 823.547 823.932 <o,f1,male> %hum
+wol_44411 1 locuteur_2 823.932 826.957 <o,f1,male> ba mois :fra d' :fra octobre :fra juróom-benni weer
+wol_44411 1 locuteur_1 826.957 827.391 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 827.391 829.609 <o,f1,male> te coxaane nawet
+wol_44411 1 locuteur_1 829.609 830.080 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 830.080 832.106 <o,f1,male> ci liñ xam ñun ñetti weer
+wol_44411 1 locuteur_1 832.106 832.422 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 832.422 833.389 <o,f1,male> ba amaa ñeenti weer
+wol_44411 1 locuteur_1 833.389 833.806 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 833.806 838.003 <o,f1,male> kon waroon nañ mun a waxtaan ak béykat yi ca njëlbéen
+wol_44411 1 locuteur_1 838.003 838.477 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 838.477 845.514 <o,f1,male> [r] ne leen aha ren de mbir yi nii la tëddee war nañ cee mun a xalaat def ci noo xam ne
+wol_44411 1 locuteur_1 845.514 845.914 <o,f1,male> %hum [r]
+wol_44411 1 locuteur_2 845.914 847.883 <o,f1,male> béykat dina am lum dundee
+wol_44411 1 locuteur_1 847.883 848.336 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 848.336 850.133 <o,f1,male> ba at bi jeex te du tàllal loxoom
+wol_44411 1 locuteur_1 850.133 850.596 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 850.596 856.771 <o,f1,male> [r] mooy lan mooy am na ay pepp yoo xam ne wala ay variétés :fra yoo xam ne meññeent yoo xam ne
+wol_44411 1 excluded_region 856.771 859.612 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 859.612 860.066 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 860.066 862.022 <o,f1,male> pour :fra mu ñor ay ñaari weer lay am
+wol_44411 1 locuteur_1 862.022 862.377 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 862.377 864.996 <o,f1,male> ci * soo jëlee lu ñuy wax fure
+wol_44411 1 locuteur_1 864.996 865.356 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 865.356 866.723 <o,f1,male> ñaari weer rek mu ñor
+wol_44411 1 locuteur_1 866.723 867.216 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 867.216 871.065 <o,f1,male> am na mboq boo xam ne soixante :fra quinze :fra jours :fra la
+wol_44411 1 locuteur_1 871.065 871.527 <o,f1,male> %hum
+wol_44411 1 locuteur_2 871.527 874.266 <o,f1,male> am na dugub boo xam ne quatre :fra vingt :fra jours :fra
+wol_44411 1 locuteur_1 874.266 874.807 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 874.807 887.019 <o,f1,male> [r] soo jëlee loolu fure bi munoon nañ ko ji mois :fra de :fra mai :fra juin :fra juillet :fra ñu gas ko witti ko jaay ko
+wol_44411 1 locuteur_1 887.019 887.597 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 887.597 888.906 <o,f1,male> mu nekk gerte gu tooy
+wol_44411 1 locuteur_1 888.906 889.266 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 889.266 891.524 <o,f1,male> [r] dina am benn revenu :fra bu mu la amal
+wol_44411 1 locuteur_1 891.524 892.366 <o,f1,male> tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 892.366 895.339 <o,f1,male> nga jënd mboq nga ji ko fa nga ko fa nga ji woon sa fure bi
+wol_44411 1 locuteur_1 895.339 895.836 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 895.836 899.866 <o,f1,male> terewul mboq ba octobre :fra dana mun a ñor nga wowal ko mun ko jaay am loo dundee
+wol_44411 1 locuteur_1 899.866 900.216 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 900.216 903.005 <o,f1,male> muy ñaari benn nawet ñaari traite :fra
+wol_44411 1 locuteur_1 903.005 903.626 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 903.626 905.846 <o,f1,male> [bb] demeet
+wol_44411 1 locuteur_1 905.846 906.265 <o,f1,male> %hum
+wol_44411 1 locuteur_2 906.265 908.035 <o,f1,male> demeet ci yeneen produits :fra yu muy
+wol_44411 1 excluded_region 908.035 908.938 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 908.938 909.298 <o,f1,male> %hum
+wol_44411 1 locuteur_2 909.298 913.499 <o,f1,male> kon ren Saloum waroon na mun a profité :fra béy ñebe loo xam ne sax
+wol_44411 1 locuteur_1 913.499 914.101 <o,f1,male> %hum
+wol_44411 1 locuteur_2 914.101 915.544 <o,f1,male> ca Ferlo ba mosu ñu koo béy
+wol_44411 1 locuteur_1 915.544 916.006 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 916.006 924.754 <o,f1,male> [r] mais :fra nag yàlla ak dogalam xëy na béykat xamul lu dul lum gis gëmul lu mu gis lu dul lu mu gis
+wol_44411 1 locuteur_1 924.754 925.446 <o,f1,male> %hum
+wol_44411 1 locuteur_2 925.446 928.616 <o,f1,male> waaye man sama kéem kattan def naa ko wax naa ko
+wol_44411 1 locuteur_1 928.616 928.974 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 928.974 932.498 <o,f1,male> am na ñu dégg def réussir :fra na am na ñoo xam ne gëmuñ
+wol_44411 1 locuteur_1 932.498 932.860 <o,f1,male> [r] %hum
+wol_44411 1 locuteur_2 932.860 937.915 <o,f1,male> waaye li dal nit ñi mooy dañoo béy yàlla ji taw ci kawam gerte gi ñor mu continuer :fra di taw
+wol_44411 1 locuteur_1 937.915 939.996 <o,f1,male> %hum %hum %hum %hum tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 939.996 940.919 <o,f1,male> ñaar moo ciy am rek
+wol_44411 1 excluded_region 940.919 942.674 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 942.674 943.145 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 943.145 945.225 <o,f1,male> wala nga bàyyi ko mu saxaat
+wol_44411 1 locuteur_1 945.225 945.696 <o,f1,male> %hum
+wol_44411 1 locuteur_2 945.696 950.038 <o,f1,male> wala gerte gi dana ndox bi dana bëri ci moom ba nga xam ne gerte gi dafay guus
+wol_44411 1 excluded_region 950.038 951.146 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 951.146 951.446 <o,f1,male> %hum
+wol_44411 1 locuteur_2 951.446 953.204 <o,f1,male> da ngay gis ne humidité :fra bi dafa
+wol_44411 1 excluded_region 953.204 953.873 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 953.873 954.252 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 954.252 957.691 <o,f1,male> kon loolu yëpp béykat bi dund na ko ren
+wol_44411 1 locuteur_1 957.691 958.415 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 958.415 970.520 <o,f1,male> [bb] te loolu war nañ cee war a xalaat déwén seet nan la ñu koy [r] defee ba nga xam ne [r] lii nga xam ne la ñuy wax coppatiku jaww ji ak changement :fra climatique :fra mu nekk loo xam ne daf ñuy jëriñ mu bañ a nekk lu ñu lor
+wol_44411 1 locuteur_1 970.520 971.246 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 971.246 978.427 <o,f1,male> [bb] loolu yëpp béykat dund ko [bb] ñëw taxaw nag pour :fra mu seet lam am naka sa néew
+wol_44411 1 locuteur_1 978.427 979.175 <o,f1,male> %hum
+wol_44411 1 locuteur_2 979.175 980.761 <o,f1,male> naka la ciy mën a jëriñoo
+wol_44411 1 locuteur_1 980.761 981.265 <o,f1,male> %hum %hum
+wol_44411 1 excluded_region 981.265 984.349 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 984.349 984.705 <o,f1,male> %hum
+wol_44411 1 locuteur_2 984.705 987.489 <o,f1,male> waroon na mun a gën a bàyyi xel
+wol_44411 1 excluded_region 987.489 988.340 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 988.340 988.638 <o,f1,male> %hum
+wol_44411 1 locuteur_2 988.638 990.655 <o,f1,male> surtout :fra le :fra président :fra Machy Sall
+wol_44411 1 locuteur_1 990.655 991.185 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 991.185 993.975 <o,f1,male> lépp lu mu am béykat yee ko ko jox
+wol_44411 1 locuteur_1 993.975 994.555 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 994.555 996.705 <o,f1,male> lépp lu mu xam béykat yi ñoo ko ko xamal
+wol_44411 1 locuteur_1 996.705 997.205 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 997.205 999.435 <o,f1,male> fépp fu mu yegg béykat yi ñoo ko fa yeggal
+wol_44411 1 locuteur_1 999.435 999.935 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 999.935 1005.995 <o,f1,male> [r] kon yaakaar naa ne kooku waroon naa mun a jàpp béykat mu gënal ko sax boppam
+wol_44411 1 locuteur_1 1005.995 1007.682 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1007.682 1011.985 <o,f1,male> ba nga xam ne su béykat bi laajee benn sax mu jox ko ñaar
+wol_44411 1 locuteur_1 1011.985 1012.645 <o,f1,male> ndeysaan
+wol_44411 1 locuteur_2 1012.645 1016.132 <o,f1,male> loolu mooy li nga xam ne aussi :fra man mooy sama xalaat
+wol_44411 1 locuteur_1 1016.132 1016.639 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1016.639 1021.214 <o,f1,male> waaye béy nañ ba pare
+wol_44411 1 excluded_region 1021.214 1023.385 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1023.385 1023.910 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1023.910 1027.583 <o,f1,male> maa ngi fa woon ñu tëral tëral boo xam ne ma ne leen
+wol_44411 1 locuteur_1 1027.583 1027.897 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1027.897 1031.962 <o,f1,male> [r] nii ngeen di tëralee prix :fra bi naan da ngeen di calculer :fra prix :fra gerte
+wol_44411 1 locuteur_1 1031.962 1032.523 <o,f1,male> %hum [r]
+wol_44411 1 locuteur_2 1032.523 1033.934 <o,f1,male> yi dafa mel ni xamu leen mbay
+wol_44411 1 excluded_region 1033.934 1035.235 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1035.235 1035.784 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1035.784 1039.579 <o,f1,male> ndax soo leen ñëwee naan ay deux :fra cent :fra cinquante :fra deux :fra cent :fra soixante :fra quinze :fra
+wol_44411 1 locuteur_1 1039.579 1040.165 <o,f1,male> %hum [r]
+wol_44411 1 locuteur_2 1040.165 1044.193 <o,f1,male> ki nga xam ne jëndee na engrais :fra su mille :fra nangam
+wol_44411 1 locuteur_1 1044.193 1044.676 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1044.676 1046.636 <o,f1,male> jëndab saako engrais :fra vingt :fra cinq :fra mille :fra
+wol_44411 1 locuteur_1 1046.636 1047.544 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1047.544 1050.725 <o,f1,male> labouré :fra benn tool un :fra hectare :fra vingt :fra cinq :fra mille :fra
+wol_44411 1 locuteur_1 1050.725 1051.244 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1051.244 1053.675 <o,f1,male> jël saade
+wol_44411 1 locuteur_1 1053.675 1054.272 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1054.272 1055.308 <o,f1,male> ak surga
+wol_44411 1 excluded_region 1055.308 1060.501 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1060.501 1061.465 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1061.465 1066.490 <o,f1,male> di am lay bu ñuy lay naan planché :fra lañ wax mooy li gën a néew
+wol_44411 1 excluded_region 1066.490 1068.209 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1068.209 1068.682 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1068.682 1073.492 <o,f1,male> [r] buñ foyee suñu xel yi
+wol_44411 1 locuteur_1 1073.492 1074.129 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1074.129 1076.044 <o,f1,male> te nit ki da nga koy jox cër
+wol_44411 1 locuteur_1 1076.044 1076.724 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1076.724 1083.517 <o,f1,male> prix :fra planché :fra deux :fra cent :fra soixante :fra quinze :fra ak prix :fra planché :fra trois :fra cent :fra vingt :fra cinq :fra bokkul
+wol_44411 1 locuteur_1 1083.517 1084.313 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1084.313 1090.931 <o,f1,male> ki néew doole nga xam ne dafa béy béy ba xëy na sooxe na [r] am na ñaari mbaamam ñetti mbaamam ñeenti mbaamam
+wol_44411 1 locuteur_1 1090.931 1091.185 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1091.185 1093.541 <o,f1,male> am na soxla te soxla moo mag borom
+wol_44411 1 locuteur_1 1093.541 1093.857 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1093.857 1096.531 <o,f1,male> [r] nga ñëw ne ko prix :fra planché :fra deux :fra cent :fra soixante :fra quinze :fra
+wol_44411 1 locuteur_1 1096.531 1096.768 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1096.768 1102.411 <o,f1,male> [r] am ku ñeme yàlla gu day ni taxaw ne da koy jëndee deux :fra cent :fra soixante :fra quinze :fra parce :fra que :fra état :fra loolu la wax
+wol_44411 1 locuteur_1 1102.411 1102.842 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1102.842 1107.673 <o,f1,male> nguur nee na lii la ñuy jëndee gerte li gën a néew loolu laa koy jëndee muy deux :fra cent :fra soixante :fra quinze :fra
+wol_44411 1 locuteur_1 1107.673 1108.106 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1108.106 1110.994 <o,f1,male> waay waay su fekkoon ne trois :fra cent :fra vingt :fra cinq :fra
+wol_44411 1 excluded_region 1110.994 1111.658 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1111.658 1112.692 <o,f1,male> %hum %hum
+wol_44411 1 excluded_region 1112.692 1116.365 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1116.365 1117.071 <o,f1,male> dëgg la
+wol_44411 1 locuteur_2 1117.071 1118.211 <o,f1,male> ndax loolu amul différence :fra
+wol_44411 1 locuteur_1 1118.211 1120.372 <o,f1,male> %hum %hum am na différence :fra
+wol_44411 1 locuteur_2 1120.372 1121.431 <o,f1,male> te yàlla moom noppiwul
+wol_44411 1 locuteur_1 1121.431 1121.830 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1121.830 1122.300 <o,f1,male> yàlla
+wol_44411 1 excluded_region 1122.300 1123.205 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 1123.205 1123.988 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_1 1123.988 1125.503 <o,f1,male> ba ñu waxee deux :fra cent :fra soixante :fra quinze :fra
+wol_44411 1 locuteur_1 1125.503 1125.865 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1125.865 1132.523 <o,f1,male> am na kuy jaay benn kilo :fra ñaari kilo :fra deux :fra cent :fra soixante :fra quinze :fra waaye doo soo demee ci àll bi fi mu ne nii prix :fra bi mu ngi ci trois :fra cent :fra
+wol_44411 1 excluded_region 1132.523 1133.572 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1133.572 1134.068 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1134.068 1136.323 <o,f1,male> ala butta
+wol_44411 1 locuteur_1 1136.323 1136.744 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1136.744 1139.272 <o,f1,male> ci li ma gëm mooy béykat yàlla dina ko dimbale
+wol_44411 1 locuteur_1 1139.272 1139.873 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1139.873 1143.398 <o,f1,male> képp ku bugg a toroxal béykat ak ku foo munti jugee ak loo munti doon
+wol_44411 1 locuteur_1 1143.398 1143.723 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1143.723 1145.026 <o,f1,male> yàlla dana ko jëflante ak yow
+wol_44411 1 locuteur_1 1145.026 1173.133 <o,f1,male> incha :ar allah :ar macha :ar allah :ar [r] am na solo léegi position :fra boobu nga am par :fra rapport :fra ak jàngat fii fi béykat jaar [r] coono bi mu daj ren %e méttit yi béykat yi daj ba nawet ba egg si fii ak li nga xam ne comme :fra wax naa ko léegi lii ci état :fra la wax dëgg yàlla moo defut la mu war a def lii nag ca yàlla la mooy %e ndox mu bari mi comme :fra ni nga wax jàngat peut :fra être :fra pour :fra déwen mais :fra état :fra moo leen waroon préparé :fra à :fra ce :fa que :fra ñu xam ne [r] fii moo leen di xaar ren pour :fra ñu mun na nga def noonu ci ñaari traites :fra yi [r] ak ñeneen ña la gëm su ko defee mu mënoon a daj
+wol_44411 1 locuteur_1 1173.133 1189.309 <o,f1,male> léegi nag [r] mais :fra malgré :fra loolu yëpp [r] tey béykat bi président :fra Macky Sall béykat yi desalatuñ ko dara junj nga ko léegi [r] %e dóor yu métti yi ñu leen dóor ci éléction :fra yii ci Sénégal yëpp lu mu métti métti bu ci béykat yi dugalutoon seen loxo mu gën a ñaaw
+wol_44411 1 locuteur_2 1189.309 1189.923 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_1 1189.923 1196.657 <o,f1,male> foo mën a dem ba ci sunu Saloum gii tey [r] mboolem fu béykat nekk président :fra Macky Sall moo ko gagné :fra mboolem fu taax yi nekk
+wol_44411 1 locuteur_2 1196.657 1198.158 <o,f1,male> man xam nga député :fra yi nu ma leen ooyee
+wol_44411 1 locuteur_1 1198.158 1198.533 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1198.533 1200.262 <o,f1,male> ce :fra sont :fra les :fra députés :fra ruraux :fra
+wol_44411 1 locuteur_1 1200.262 1200.873 <o,f1,male> très :fra bien :fra
+wol_44411 1 locuteur_2 1200.873 1202.596 <o,f1,male> et :fra pas :fra les :fra députés :fra des :fra villes :fra
+wol_44411 1 locuteur_1 1202.596 1203.290 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1203.290 1206.649 <o,f1,male> [b] Macky Sall président :fra Machy Sall su amee majorité :fra
+wol_44411 1 locuteur_1 1206.649 1207.363 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1207.363 1209.128 <o,f1,male> maa ngi la koy giiñal ci El Hadj Abdalah
+wol_44411 1 locuteur_1 1209.128 1209.543 <o,f1,male> %hum %hum
+wol_44411 1 excluded_region 1209.543 1210.651 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1210.651 1210.988 <o,f1,male> rawal
+wol_44411 1 locuteur_2 1210.988 1215.894 <o,f1,male> [r] kon mboolem député :fra bu taxaw ne député :fra président :fra Macky Sall la wala Bennoo Bokk Yaakaar
+wol_44411 1 locuteur_1 1215.894 1216.136 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1216.136 1218.138 <o,f1,male> [r] jàppal ne député :fra àll bi nga
+wol_44411 1 locuteur_1 1218.138 1218.677 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1218.677 1220.255 <o,f1,male> parce :fra que :fra àll :fra bi moo la tax a
+wol_44411 1 excluded_region 1220.255 1221.159 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1221.159 1222.842 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1222.842 1224.145 <o,f1,male> su nekkul woon àll bi lambaay dana
+wol_44411 1 excluded_region 1224.145 1224.832 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1224.832 1226.153 <o,f1,male> wallaahi :ar dóor yu métti
+wol_44411 1 locuteur_2 1226.153 1231.111 <o,f1,male> kon lépp lu ñuy mën a xalaat amul benn député :fra Bennoo Bokk Yaakaar buy dem assemblée :fra nationale :fra
+wol_44411 1 locuteur_1 1231.111 1231.663 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1231.663 1235.725 <o,f1,male> soo bàyyee xel la la fa andi
+wol_44411 1 locuteur_1 1235.725 1236.720 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1236.720 1237.897 <o,f1,male> ak li la tax a tax
+wol_44411 1 locuteur_1 1237.897 1238.573 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1238.573 1240.050 <o,f1,male> war ngaa mun a gestu béykat
+wol_44411 1 locuteur_1 1240.050 1240.834 <o,f1,male> wallaahi :ar
+wol_44411 1 locuteur_2 1240.834 1242.022 <o,f1,male> di ko taxawal di ko waxal
+wol_44411 1 locuteur_1 1242.022 1243.868 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1243.868 1244.989 <o,f1,male> loolu mooy li am
+wol_44411 1 locuteur_1 1244.989 1245.641 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1245.641 1247.161 <o,f1,male> kon député :fra ruraux :fra moo fi am
+wol_44411 1 locuteur_1 1247.161 1247.649 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1247.649 1251.467 <o,f1,male> député :fra yi nga xam ne ca àll ba la cosaanoo su nekku loon les :fra communes :fra rurales :fra
+wol_44411 1 locuteur_1 1251.467 1252.182 <o,f1,male> %hum %hum
+wol_44411 1 excluded_region 1252.182 1254.922 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1254.922 1280.278 <o,f1,male> léegi nag malgré :fra loolu yëpp nag comme :fra [r] %e tas seen yaakaar bi ñu ngi ñëw ci fi nga wax léegi muy wàllub prix :fra bi béykat bi seen juróom fukki dërëm yi ak juróom [r] deux :fra cent :fra soixante :fra quinze :fra yi métti na leen ba ca kanamu yàlla [r] jooy nañ ko naqari na leen [r] te tas yaakaar la est :fra ce :fra que :fra foogoo ne [r] %e en :fra fait :fra état :fra bi dafa xamul importance :fra bi bi njëgu gerte gi ak béykat bi am ci gerteem googu [r] wala boog dafa mënut a jëndee lu ëpp deux :fra cent :fra soixante :fra quinze :fra
+wol_44411 1 locuteur_2 1280.278 1286.164 <o,f1,male> [b] ah je :fra sais :fra pas :fra mais :fra [bb] tu :fra sais :fra que :fra état :fra il :fra est :fra plus :fra renseigné :fra
+wol_44411 1 excluded_region 1286.164 1288.172 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1288.172 1288.652 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1288.652 1292.207 <o,f1,male> [r] man néew mii nga xam ne aw ma kattan
+wol_44411 1 excluded_region 1292.207 1292.987 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 1292.987 1294.006 <o,f1,male> état :fra li mu mën
+wol_44411 1 excluded_region 1294.006 1296.014 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1296.014 1296.445 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1296.445 1297.932 <o,f1,male> kon état :fra xam na
+wol_44411 1 locuteur_1 1297.932 1298.614 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1298.614 1305.841 <o,f1,male> [bb] xëy na %e président :fra acky Sall on :fra lui :fra donne :fra pas :fra la :fra bonne :fra information :fra peut :fra être :fra je :fra ne :fra sais :fra pas :fra
+wol_44411 1 locuteur_1 1305.841 1306.379 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1306.379 1307.848 <o,f1,male> xaw ma ci dara wax dëgg yàlla
+wol_44411 1 excluded_region 1307.848 1309.096 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1309.096 1309.472 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1309.472 1313.168 <o,f1,male> li ma rafet njort ci moom mooy
+wol_44411 1 locuteur_1 1313.168 1313.537 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1313.537 1315.827 <o,f1,male> [n] jàpp naa ne buggu na béykat
+wol_44411 1 locuteur_1 1315.827 1316.187 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1316.187 1319.826 <o,f1,male> mais :fra est :fra ce :fra que :fra dinañ ko jox information :fra bu baax bi nga xam ne béykat dina ko mun a
+wol_44411 1 locuteur_1 1319.826 1320.141 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1320.141 1322.251 <o,f1,male> dana ko mën a jëriñoo
+wol_44411 1 locuteur_1 1322.251 1322.683 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1322.683 1326.666 <o,f1,male> waaye nag amaa loolu yëpp nañ sant yàlla ñun ñu ngi fi
+wol_44411 1 locuteur_1 1326.666 1327.064 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1327.064 1329.796 <o,f1,male> man bañ defee ca réunion :fra ba a ne leen fixé :fra leen prix :fra bu leen neex
+wol_44411 1 locuteur_1 1329.796 1330.290 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1330.290 1333.578 <o,f1,male> [r] waaye su ñu ñëwee ci terrain :fra bi ñun lu ñu neex la ñuy jëndee gerte
+wol_44411 1 locuteur_1 1333.578 1335.044 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1335.044 1340.146 <o,f1,male> yéen da ngeen ne deux :fra cent :fra soixante :fra quinze :fra ñun trois :fra cent :fra la ñuy tàmbalee ba trois :fra cent :fra vingt :fra cinq :fra ma seet lu ngeen ci mën
+wol_44411 1 locuteur_1 1340.146 1343.459 <o,f1,male> %hum %hum c' :fra est :fra ça :fra
+wol_44411 1 locuteur_2 1343.459 1346.463 <o,f1,male> lenn ngeen mën mooy arrêté :fra exportation :fra bi te yaakaar naa loolu
+wol_44411 1 locuteur_1 1346.463 1346.764 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1346.764 1349.032 <o,f1,male> xel maye wu ko xel xalaatu ko
+wol_44411 1 locuteur_1 1349.032 1349.569 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1349.569 1352.481 <o,f1,male> jafe-jafe yi nga xam ne béykat dund na ko yëpp
+wol_44411 1 locuteur_1 1352.481 1354.165 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1354.165 1358.322 <o,f1,male> te yéen yéen a ngi oote di ñu wax naan souveraineté :fra alimentaire :fra souveraineté :fra alimentaire :fra
+wol_44411 1 excluded_region 1358.322 1360.349 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1360.349 1361.203 <o,f1,male> %hum
+wol_44411 1 locuteur_2 1361.203 1369.739 <o,f1,male> wax ji yëpp suñ ministère :fra bi sax soppi nañ ko ba yokk ci souveraineté :fra alimentaire :fra mooy lan [r] béykat bi il :fra foog mu am lu mu dundee
+wol_44411 1 excluded_region 1369.739 1370.807 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1370.807 1371.105 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1371.105 1371.729 <o,f1,male> at
+wol_44411 1 locuteur_1 1371.729 1372.044 <o,f1,male> %hum %hum
+wol_44411 1 locuteur_2 1372.044 1373.810 <o,f1,male> sécurité :fra alimentaire :fra mooy
+wol_44411 1 excluded_region 1373.810 1376.860 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1376.860 1377.760 <o,f0,male> sa xel dana dal
+wol_44411 1 locuteur_2 1377.760 1380.650 <o,f0,male> souveraineté :fra alimentaire :fra mooy nga produire :fra loo mun a dundee
+wol_44411 1 locuteur_1 1380.650 1381.139 <o,f0,male> %hum %e
+wol_44411 1 locuteur_2 1381.139 1381.845 <o,f0,male> at ba at
+wol_44411 1 locuteur_1 1381.845 1382.140 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1382.140 1385.779 <o,f0,male> xam nga loolu soo ko boolee
+wol_44411 1 locuteur_1 1385.779 1386.201 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1386.201 1387.796 <o,f0,male> te béykat bi amul lu dul gerteem
+wol_44411 1 locuteur_1 1387.796 1388.603 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1388.603 1392.591 <o,f0,male> ñun suñu forum :fra bi nga xam ne ñu ngi koy organisé :fra le :fra 22 23
+wol_44411 1 locuteur_1 1392.591 1393.023 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1393.023 1394.744 <o,f0,male> mooy mardi :fra ak :fra mercredi :fra
+wol_44411 1 locuteur_1 1394.744 1395.226 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1395.226 1397.856 <o,f0,male> ma %e talaata ak àllarba bii di ñëw
+wol_44411 1 locuteur_1 1397.856 1398.156 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1398.156 1407.299 <o,f0,male> [r] daén ne wax ne ñun naka la ñuy mun a jàppee ci li nga xam ne béykat bi [r] pour :fra mun a am souveraineté :fra alimentaire :fra mooy li nga xam ne aussi :fra mooy lum dundee
+wol_44411 1 locuteur_1 1407.299 1407.802 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1407.802 1412.944 <o,f0,male> [bb] ñun suñ xalaat bu gàtt ñu ne béy Saloum moom gerte la ñu wax
+wol_44411 1 locuteur_1 1412.944 1413.342 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1413.342 1414.591 <o,f0,male> Sénégal sax gerte la ñuy béy
+wol_44411 1 locuteur_1 1414.591 1415.518 <o,f0,male> %hum tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 1415.518 1421.797 <o,f0,male> [r] ma ne ki nga xam ne béy na gerteem su buggee mu am souveraineté :fra alimentaire :fra da nga koy jëndalee gerteem prix :fra boo xam ne dana mun a jënd
+wol_44411 1 locuteur_1 1421.797 1422.111 <o,f0,male> %hum %hum
+wol_44411 1 excluded_region 1422.111 1423.811 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 excluded_region 1423.811 1426.643 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1426.643 1426.955 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1426.955 1431.411 <o,f0,male> ñu ngi doon ñaan yàlla ku mën a jaay kilo :fra gerte jënd kilo :fra ceeb
+wol_44411 1 locuteur_1 1431.411 1432.971 <o,f0,male> wàllaahi :ar
+wol_44411 1 locuteur_2 1432.971 1434.812 <o,f0,male> loolu yàlla may na ko yàlla am na
+wol_44411 1 locuteur_1 1434.812 1436.616 <o,f0,male> macha :ar allah :ar
+wol_44411 1 locuteur_2 1436.616 1440.856 <o,f0,male> waaye dañoo weesu foofu dañuy ñaan yàlla képp ku jaayati kilo :fra ceeb
+wol_44411 1 excluded_region 1440.856 1442.296 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 1442.296 1446.194 <o,f0,male> na nga mën a jënd kilo :fra ceeb jënd kilo :fra dugub
+wol_44411 1 locuteur_1 1446.194 1447.532 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1447.532 1450.790 <o,f0,male> [shh] jamono jopoju la ñu toll ci souveraineté :fra alimentaire :fra
+wol_44411 1 locuteur_1 1450.790 1451.242 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1451.242 1455.024 <o,f0,male> képp ku jaay kilo :fra gerte war ngaa mun a jënd kilo :fra ceeb
+wol_44411 1 locuteur_1 1455.024 1455.386 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1455.386 1455.983 <o,f0,male> teg ci kilo :fra
+wol_44411 1 excluded_region 1455.983 1457.014 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1457.014 1458.046 <o,f0,male> %hum %e reer ak añ
+wol_44411 1 locuteur_2 1458.046 1460.326 <o,f0,male> loolu su fekkee ne gerte gi mën na ko
+wol_44411 1 locuteur_1 1460.326 1460.741 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1460.741 1462.931 <o,f0,male> loolu la ñuy assuré :fra souveraineté :fra alimentaire :fra
+wol_44411 1 locuteur_1 1462.931 1463.436 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1463.436 1466.514 <o,f0,male> parce :fra que :fra béy wóy na mbuus munuñ andiwaat beneen nawet pour :fra mun a béy
+wol_44411 1 excluded_region 1466.514 1467.491 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1467.491 1467.959 <o,f0,male> %hum %hum [r]
+wol_44411 1 locuteur_2 1467.959 1471.996 <o,f0,male> kon liñ xas ba béy foog ñu jëndee ko prix :fra boo xam ne da nga mën a jënd loo dundee
+wol_44411 1 locuteur_1 1471.996 1474.023 <o,f0,male> tout :fra à :fra fait :fra tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 1474.023 1474.692 <o,f0,male> ñun
+wol_44411 1 locuteur_1 1474.692 1475.050 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1475.050 1477.967 <o,f0,male> économie :fra lañ jàng mbéy lañ jàng loolu su ñu ko defee
+wol_44411 1 locuteur_1 1477.967 1478.420 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1478.420 1481.423 <o,f0,male> béykat bi dana mën a am si gafagaam lu mu dundee
+wol_44411 1 locuteur_1 1481.423 1481.878 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1481.878 1483.332 <o,f0,male> te kenn du ko dimbale kenn du ko yërëm
+wol_44411 1 locuteur_1 1483.332 1483.872 <o,f0,male> tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 1483.872 1486.420 <o,f0,male> parce :fra que :fra lim jot a am yaa xayti jëndalee ko ko prix :fra bu baax
+wol_44411 1 locuteur_1 1486.420 1487.467 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1487.467 1489.385 <o,f0,male> soo ko ko jëndalee prix :fra bu baax rek yaakaar naa ne
+wol_44411 1 locuteur_1 1489.385 1489.565 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1489.565 1491.212 <o,f0,male> souveraineté :fra alimentaire :fra boobu ngeen di wax dana am
+wol_44411 1 locuteur_1 1491.212 1491.595 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1491.595 1493.947 <o,f0,male> parce :fra que :fra dana mën a dem jëndi ceeb bi nga xam ne ma ngay yokk
+wol_44411 1 locuteur_1 1493.947 1494.490 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1494.490 1495.612 <o,f0,male> te fan yii ñu ngi koy wàññi
+wol_44411 1 excluded_region 1495.612 1499.890 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1499.890 1519.667 <o,f0,male> %hum %hum ok :en waaye li ñu seetlu [r] %e monsieur :fra Thiam Habib mooy di ne [r] ñaareel bu lii amaan état :fra ne man lii laay jëndee béykat yi jooy yuuxu seen yaakaar tas ñu am naqar [r] dañ naan chaque :fra fois :fra ah man doomu béykat laa %e dañuy wax waaye Coumba aay bañ Samba ay ra() c' :fra est :fra à :fra dire :fra bu ngeen bañee yéen état :fra jënd a loo ñu lu ñu war a jënd ñun am nañ ñu ñu yaakaar
+wol_44411 1 locuteur_1 1519.667 1533.861 <o,f0,male> ana waa COPEGA ana chinois :fra yi ana ñoom Habib Thiam foofu la ñuy daw di di est :fra ce :fra que :fra tey réellement :fra xel mën na dal par :fra rapport :fra ak le :fra fait :fra que :fra arrivé :fra wu chinois :fra yi wala yéen proprement :fra %e COPEGA que :fra mun ngeen assurer :fra jënd lu gën li état :fra di jënd pour :fra béykat yi
+wol_44411 1 excluded_region 1533.861 1537.534 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1537.534 1538.167 <o,f0,male> très :fra bien :fra
+wol_44411 1 locuteur_2 1538.167 1542.438 <o,f0,male> fi mu ne nii soo demee sa àll bi trois :fra cent :fra moo fa nekk trois :fra cent :fra vingt :fra cinq :fra [r] jëm kaw
+wol_44411 1 locuteur_1 1542.438 1542.977 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1542.977 1546.798 <o,f0,male> te loolu %e lu am solo la
+wol_44411 1 locuteur_1 1546.798 1547.287 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1547.287 1550.019 <o,f0,male> parce :fra que :fra %e le :fra prix :fra mondial :fra
+wol_44411 1 locuteur_1 1550.019 1550.434 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1550.434 1552.968 <o,f0,male> parce :fra que :fra dama ne béykat waruñ ko nëbb dara
+wol_44411 1 locuteur_1 1552.968 1553.548 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1553.548 1556.582 <o,f0,male> nëbb sax mënatu fa nekk parce :fra que :fra àddina bi wërngal këpp la
+wol_44411 1 locuteur_1 1556.582 1557.022 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1557.022 1559.107 <o,f0,male> Baye Niass ba muy wax radi :fra yallaahu :ar anhu :ar
+wol_44411 1 locuteur_1 1559.107 1559.706 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1559.706 1562.703 <o,f0,male> le :fra monde :fra c' :fra est :fra un :fra village :fra planétaire :fra
+wol_44411 1 excluded_region 1562.703 1564.138 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1564.138 1564.533 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1564.533 1565.761 <o,f0,male> %e ndëkk la
+wol_44411 1 locuteur_1 1565.761 1566.337 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1566.337 1567.820 <o,f0,male> bu nga xam ne soo noddee
+wol_44411 1 locuteur_1 1567.820 1568.280 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1568.280 1570.499 <o,f0,male> ñëpp danañ ko dégg
+wol_44411 1 locuteur_1 1570.499 1571.569 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1571.569 1576.491 <o,f0,male> mooy foofu lañ toll ci àddina [r] ñëpp xam nañ ne la :fra flambée :fra des :fra prix :fra
+wol_44411 1 locuteur_1 1576.491 1576.792 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1576.792 1581.973 <o,f0,male> ci àddina bi yëpp la nekk c' :fra à :fra dire :fra que :fra mooy il :fra foog ñu bàyyi xel ne gerte cher :fra na cher :fra na ci àddina bi
+wol_44411 1 locuteur_1 1581.973 1582.929 <o,f0,male> %hum %e
+wol_44411 1 locuteur_2 1582.929 1586.678 <o,f0,male> gerte naka lay mën a seeree ci addina bi à :fra l' :fra international :fra ñu mën kaa yombal fii Sénégal
+wol_44411 1 locuteur_1 1586.678 1588.523 <o,f0,male> %hum jaaduwut
+wol_44411 1 locuteur_2 1588.523 1590.423 <o,f0,male> béykat moom xanaa amul ndey
+wol_44411 1 excluded_region 1590.423 1591.219 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1591.219 1591.923 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1591.923 1593.571 <o,f0,male> wala amul ku koy waxal yaa xayti
+wol_44411 1 locuteur_1 1593.571 1594.168 <o,f0,male> %hum %hum [r]
+wol_44411 1 locuteur_2 1594.168 1597.407 <o,f0,male> léegi-léegi wallaahi :ar barke El Hadj Abdoulaye sama xol bi dafay jeex
+wol_44411 1 locuteur_1 1597.407 1599.922 <o,f0,male> rawal ndeysaan boo toogeeg gars :fra yi
+wol_44411 1 locuteur_2 1599.922 1602.028 <o,f0,male> parce :fra que :fra %e dañiy xam
+wol_44411 1 locuteur_1 1602.028 1602.341 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1602.341 1606.255 <o,f0,male> lu ñuy wax malhonneté :fra intellectuel :fra c' :fra à :fra dire :fra que :fra kiy jàng nga xam
+wol_44411 1 excluded_region 1606.255 1608.462 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1608.462 1608.882 <o,f0,male> oh :fra
+wol_44411 1 locuteur_2 1608.882 1610.833 <o,f0,male> kooku ragalul yàlla
+wol_44411 1 locuteur_1 1610.833 1612.698 <o,f0,male> %hum %hum ça :fra fait :fra mal :fra
+wol_44411 1 locuteur_2 1612.698 1615.447 <o,f0,male> parce :fra ragal yàlla mooy soo xamee
+wol_44411 1 excluded_region 1615.447 1620.151 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1620.151 1620.702 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1620.702 1623.247 <o,f0,male> [r] waaye béykat di ko noot
+wol_44411 1 locuteur_1 1623.247 1623.611 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1623.611 1625.109 <o,f0,male> waasu na
+wol_44411 1 locuteur_1 1625.109 1625.707 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1625.707 1628.059 <o,f0,male> noot gee nooteel gi dafa doy
+wol_44411 1 locuteur_1 1628.059 1628.384 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1628.384 1629.199 <o,f0,male> te dafa jeex
+wol_44411 1 locuteur_1 1629.199 1629.711 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1629.711 1635.231 <o,f0,male> te fi mu ne nii la ma leen waxoon rek mooy développement :fra Sénégal ci suuf la jugee jëm ci kaw
+wol_44411 1 locuteur_1 1635.231 1635.831 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1635.831 1637.232 <o,f0,male> mooy il :fra foog rek
+wol_44411 1 locuteur_1 1637.232 1637.662 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1637.662 1638.969 <o,f0,male> béykat yi mën a am koom
+wol_44411 1 locuteur_1 1638.969 1639.405 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1639.405 1641.955 <o,f0,male> béykat yi mën ñu mën leen a xool beneen bët
+wol_44411 1 excluded_region 1641.955 1643.511 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1643.511 1643.927 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1643.927 1645.538 <o,f0,male> wala bëti ku doyadi wal boog
+wol_44411 1 excluded_region 1645.538 1646.768 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1646.768 1647.231 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1647.231 1648.306 <o,f0,male> te yow
+wol_44411 1 locuteur_1 1648.306 1648.667 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1648.667 1649.917 <o,f0,male> ma nekk ca taax ya
+wol_44411 1 locuteur_1 1649.917 1650.242 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1650.242 1652.879 <o,f0,male> wallaahi :ar su nekkul woon béykat bi nga dee parce :fra que :fra soo lekkul da nga dee
+wol_44411 1 excluded_region 1652.879 1655.074 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1655.074 1655.629 <o,f0,male> wallaahi :ar
+wol_44411 1 locuteur_2 1655.629 1657.971 <o,f0,male> [r] yàpp ba ngay jëndi di ko lekk béykat moo
+wol_44411 1 excluded_region 1657.971 1659.637 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1659.637 1660.522 <o,f0,male> wallaahi :ar ba jox ko
+wol_44411 1 excluded_region 1660.522 1663.479 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1663.479 1665.606 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1665.606 1666.089 <o,f0,male> am déet
+wol_44411 1 locuteur_1 1666.089 1666.689 <o,f0,male> dëgg la
+wol_44411 1 locuteur_2 1666.689 1668.809 <o,f0,male> ak loo mun di jënd ci béykat ma ne mooy
+wol_44411 1 excluded_region 1668.809 1669.407 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1669.407 1669.887 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1669.887 1671.415 <o,f0,male> kon kooku su liggéeyul nga dee
+wol_44411 1 locuteur_1 1671.415 1671.731 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1671.731 1673.369 <o,f0,male> [r] kon kooku moo la gën
+wol_44411 1 locuteur_1 1673.369 1675.405 <o,f0,male> %hum %hum
+wol_44411 1 excluded_region 1675.405 1677.142 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1677.142 1678.109 <o,f0,male> %hum %hum [b]
+wol_44411 1 locuteur_2 1678.109 1680.001 <o,f0,male> ku ku mu ko may rek
+wol_44411 1 locuteur_1 1680.001 1680.345 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1680.345 1681.797 <o,f0,male> danañ nangu
+wol_44411 1 locuteur_1 1681.797 1682.797 <o,f0,male> %hum %hum [b]
+wol_44411 1 locuteur_2 1682.797 1684.941 <o,f0,male> waaye nag war nañ bàyyi xel béykat bu baax
+wol_44411 1 locuteur_1 1684.941 1685.233 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1685.233 1686.587 <o,f0,male> nga xam ne moom mi nga xam ne
+wol_44411 1 excluded_region 1686.587 1687.546 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1687.546 1688.074 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1688.074 1690.513 <o,f0,male> amul lenn lu mu yaakaar lu dul mbéyam
+wol_44411 1 locuteur_1 1690.513 1690.930 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1690.930 1694.277 <o,f0,male> te amul fenn fu mu wéeru fu dul am mbéyam kon yaa xayti
+wol_44411 1 locuteur_1 1694.277 1694.774 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1694.774 1696.611 <o,f0,male> war nañ ko mun a dimbale jàppale ko
+wol_44411 1 locuteur_1 1696.611 1719.444 <o,f0,male> ok :en [r] war nañ ko mën a dimbale jàppale ko auditeurs :fra Alfayda FM kaddu yooyu di bàyyeekoo ci Habib Thiam [r] moom mooy njiital COPEGA tey moo nekk suñu gan [r] ci émission :fra spéciale :fra làng gi ñu koy làng ak moom tey ci samedi :fra ji 18 novembre :fra 2022 ci kanam tuuti dana ñu ubbi antenne :fra bi ndax commencé :fra nañu oote sax auditeurs :fra yi [r] waaye ñu baal ñu tuuti rek ñu avancé :fra ak %e monsieur :fra Thiam su ko defee ci kanam ñu ubbi antenne :fra bi
+wol_44411 1 excluded_region 1719.444 1738.165 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 1738.165 1738.437 <o,f0,male> %hum
+wol_44411 1 locuteur_1 1738.437 1739.645 <o,f0,male> di si jël ay positions :fra
+wol_44411 1 locuteur_2 1739.645 1739.860 <o,f0,male> %hum
+wol_44411 1 locuteur_1 1739.860 1746.266 <o,f0,male> ren ndax di ngeen ko amal kañ la fan la ak lan ngeen nar a waxtaanee ak lan ngeen di wax béykat yi jëm ci forom :fra boobu
+wol_44411 1 locuteur_2 1746.266 1753.804 <o,f0,male> waaw forum :fra bi ñu ngi woo béykat yi parce :fra que :fra ñu ngi koy def talaata beeg àllarba fii ci hotel :fra Relais comme :fra ni ñu ko baaxoo di def ñaari fan la ñuy lëlu
+wol_44411 1 locuteur_1 1753.804 1754.513 <o,f0,male> %hum %hum [r]
+wol_44411 1 locuteur_2 1754.513 1761.721 <o,f0,male> nañ ci invité :fra ñëpp nag même :fra ñi ñuy saaga sax ñoo xam ne bokkuñ jëmuwaay sax dañ leen invité :fra parce :fra que :fra ñun li ñuy def ragaluñ ko
+wol_44411 1 locuteur_1 1761.721 1762.529 <o,f0,male> %hum %hum [i]
+wol_44411 1 locuteur_2 1762.529 1767.059 <o,f0,male> parce :fra que :fra ñi am ñaar moo am rek ki lay xas wala muy wala mu lay wax wax bu ñaaw wala mu ŋaññi la la
+wol_44411 1 excluded_region 1767.059 1768.139 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1768.139 1768.509 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1768.509 1769.701 <o,f0,male> dina la jëriñ
+wol_44411 1 locuteur_1 1769.701 1770.161 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1770.161 1774.003 <o,f0,male> [bb] soit :fra dina la wax li nga xam ne aussi :fra xëy na nekkoo ci nga mun ko moytu
+wol_44411 1 locuteur_1 1774.003 1774.785 <o,f0,male> %hum [r]
+wol_44411 1 locuteur_2 1774.785 1777.264 <o,f0,male> wala mu wax la loo xam ne yaa ngi ci nga war ko mun a bàyyi
+wol_44411 1 locuteur_1 1777.264 1777.843 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1777.843 1780.467 <o,f0,male> kon wax ju ne rek am na njëriñ
+wol_44411 1 locuteur_1 1780.467 1780.838 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1780.838 1782.393 <o,f0,male> soo ko xoolee ci benn anam
+wol_44411 1 locuteur_1 1782.393 1782.814 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1782.814 1788.121 <o,f0,male> [r] te Sénégal léegi yaakaar naa ne Mawalana Cheikh Mouhamadul Mahi nee na léegi
+wol_44411 1 locuteur_1 1788.121 1788.363 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1788.363 1795.208 <o,f0,male> fii soo buggee ñu takkal la médaille :fra foog nga nagu ñu saaga la [rire]
+wol_44411 1 locuteur_1 1795.208 1796.299 <o,f0,male> d' :fra accord :fra
+wol_44411 1 locuteur_2 1796.299 1799.455 <o,f0,male> saaga wu ne rek médaille :fra la médaille :fra la parce :fra que :fra nit ñu baax ñi la ñuy saaga
+wol_44411 1 locuteur_1 1799.455 1799.726 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1799.726 1801.321 <o,f0,male> nit ñu baax ñi la ñuy ŋaññi léegi
+wol_44411 1 locuteur_1 1801.321 1801.684 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1801.684 1804.097 <o,f0,male> kon loolu jamono la
+wol_44411 1 locuteur_1 1804.097 1804.530 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1804.530 1805.906 <o,f0,male> il :fra faut :fra que :fra ñu nangu jamono aussi :fra
+wol_44411 1 locuteur_1 1805.906 1806.219 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1806.219 1810.860 <o,f0,male> yàlla ni mu ko tëralee [b] [r] waaye COPEGA boobu ñu ngi wax ci affaire :fra souveraineté :fra alimentaire :fra
+wol_44411 1 locuteur_1 1810.860 1811.159 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1811.159 1819.814 <o,f0,male> te aussi :fra ñu ngi danañ waxtaanee aussi :fra ci li nga xam ne aussi :fra mooy [r] gàllankoor yi nga xam ne war nañ ko mun a am gouvernement :fra moom la ñu teg ay ndëgg sërëx te loolu mun na nekk
+wol_44411 1 locuteur_1 1819.814 1820.289 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1820.289 1824.015 <o,f0,male> ñun ak huiliers :fra yi Sonacos COPEGA ak ñoom ñëpp
+wol_44411 1 locuteur_1 1824.015 1824.375 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1824.375 1825.781 <o,f0,male> ay nawle lañ
+wol_44411 1 locuteur_1 1825.781 1826.272 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1826.272 1828.691 <o,f0,male> te %e énoo bokk kuréel bi
+wol_44411 1 locuteur_1 1828.691 1829.046 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1829.046 1831.079 <o,f0,male> xañuñ leen dara
+wol_44411 1 locuteur_1 1831.079 1831.378 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1831.378 1836.888 <o,f0,male> waaye dañ ne gerte gii lum jar nañ ko ñëpp jëndee noonu suñ ko jëndee noonu ku ci nekk da nga mën a am
+wol_44411 1 locuteur_1 1836.888 1837.364 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1837.364 1843.691 <o,f0,male> [r] waaye mënoo taxaw ne juróom-fukk ngay jëndee man ne ma man juróom-benn fukk juróom-benn fukk ak juróom nga ne man du ma jënd yow yaay jënd
+wol_44411 1 locuteur_1 1843.691 1844.885 <o,f0,male> tout :fra à :fra fait :fra doo fi jëndee waaw
+wol_44411 1 locuteur_2 1844.885 1845.609 <o,f0,male> loolu amul
+wol_44411 1 locuteur_1 1845.609 1848.558 <o,f0,male> %hum %hum parfois :fra dafay am ah dañ leen di cazllé :fra du ngeen jënd yéen
+wol_44411 1 locuteur_2 1848.558 1851.074 <o,f0,male> waa callé :fra bi mooy lan mooy soo jëndee ba pare dañuy tëj
+wol_44411 1 locuteur_1 1851.074 1851.430 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1851.430 1852.289 <o,f0,male> ne du dem
+wol_44411 1 locuteur_1 1852.289 1852.946 <o,f0,male> c' :fra est :fra ça :fra
+wol_44411 1 locuteur_2 1852.946 1855.437 <o,f0,male> loolu benn forme :fra la boo xam ne
+wol_44411 1 locuteur_1 1855.437 1856.037 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1856.037 1857.247 <o,f0,male> ñu ngi ciy waxtaan
+wol_44411 1 locuteur_1 1857.247 1857.735 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1857.735 1863.489 <o,f0,male> te di aussi :fra di [r] %e yëgal gouvernement :fra bi di leen wax ne am na loo xam ne
+wol_44411 1 locuteur_1 1863.489 1863.911 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1863.911 1865.480 <o,f0,male> jamono daf ko wees
+wol_44411 1 locuteur_1 1865.480 1865.835 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1865.835 1870.094 <o,f0,male> muy [r] tënk ñii
+wol_44411 1 locuteur_1 1870.094 1870.592 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1870.592 1871.794 <o,f0,male> bàyyi ñii
+wol_44411 1 locuteur_1 1871.794 1872.272 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1872.272 1874.545 <o,f0,male> te ñun ñëpp ñu bokk ci réew mi tiim ndab li
+wol_44411 1 locuteur_1 1874.545 1875.015 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1875.015 1878.350 <o,f0,male> kon su fekkee ne bool bi Sénégal la ñun ñëpp ay sénégalais :fra lañ
+wol_44411 1 locuteur_1 1878.350 1878.710 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1878.710 1880.971 <o,f0,male> kenn amul droit :fra di tënk benn loxo
+wol_44411 1 locuteur_1 1880.971 1881.351 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1881.351 1882.762 <o,f0,male> bàyyi beneen loxo mu koy jiitu
+wol_44411 1 locuteur_1 1882.762 1883.510 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1883.510 1885.236 <o,f0,male> kon loolu war nañu ci mun a bàyyi xel
+wol_44411 1 locuteur_1 1885.236 1885.718 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1885.718 1888.023 <o,f0,male> te ñu ngi ñaan gouvernement :fra bi aussi :fra ñu bàyyi ci xel
+wol_44411 1 locuteur_1 1888.023 1888.397 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1888.397 1890.429 <o,f0,male> ndax ñu tënk ñu mooy ñu tënk béykat yi rek
+wol_44411 1 locuteur_1 1890.429 1891.778 <o,f0,male> tout :fra à :fra fait :fra tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 1891.778 1893.322 <o,f0,male> ñun bés bu ñu taxawoon ne jënduñ gerte
+wol_44411 1 excluded_region 1893.322 1896.344 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1896.344 1896.719 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1896.719 1900.035 <o,f0,male> fàttaliku fàtte xaju fi
+wol_44411 1 locuteur_1 1900.035 1900.399 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1900.399 1904.287 <o,f0,male> gànnaaw sunu Sunuor bu gerte gi demee bay sukuraat
+wol_44411 1 locuteur_1 1904.287 1904.778 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1904.778 1909.589 <o,f0,male> Ablaye Wade sànni gerte naan nañ dem béyi tabanaane [rire] fii la ñu fekk
+wol_44411 1 locuteur_1 1909.589 1909.998 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1909.998 1911.000 <o,f0,male> am déet
+wol_44411 1 locuteur_1 1911.000 1911.492 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1911.492 1913.805 <o,f0,male> [b] ne gerte daf ko sonal
+wol_44411 1 locuteur_1 1913.805 1914.298 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1914.298 1916.270 <o,f0,male> ñun ñoo futteeku dugg ci àll ba
+wol_44411 1 locuteur_1 1916.270 1916.740 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1916.740 1921.259 <o,f0,male> di jël gerte gi dio ko valoriser :fra di ko def ci ay contenaires :fra muy dem Vietnam wala muy dem Corée
+wol_44411 1 locuteur_1 1921.259 1921.635 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1921.635 1922.809 <o,f0,male> avant :fra muy dem Chine
+wol_44411 1 locuteur_1 1922.809 1923.888 <o,f0,male> ah ok :fra avant :fra Chine la woon
+wol_44411 1 locuteur_2 1923.888 1925.024 <o,f0,male> depuis :fra 2009
+wol_44411 1 locuteur_1 1925.024 1925.383 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1925.383 1929.353 <o,f0,male> 2010 ci la Abdoulaye Wade libéraliser :fra pour :fra ne ko gerte gi da koo sonal
+wol_44411 1 excluded_region 1929.353 1930.446 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1930.446 1930.692 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1930.692 1932.990 <o,f0,male> ne ku waay neex jënd fu la neex nga jëndee
+wol_44411 1 locuteur_1 1932.990 1934.181 <o,f0,male> fu la neex nga yóbbu
+wol_44411 1 locuteur_2 1934.181 1936.898 <o,f0,male> loolu lu ko wara loon nit ñi dañoo tële woon
+wol_44411 1 locuteur_1 1936.898 1937.272 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1937.272 1938.545 <o,f0,male> usines :fra yi tële
+wol_44411 1 locuteur_1 1938.545 1938.909 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1938.909 1940.661 <o,f0,male> gerte gi béykat bi di ko mbapat
+wol_44411 1 excluded_region 1940.661 1942.778 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1942.778 1943.303 <o,f0,male> wallaay :ar
+wol_44411 1 locuteur_2 1943.303 1944.660 <o,f0,male> kañ nga fi gëj a dégg impayé :fra
+wol_44411 1 locuteur_1 1944.660 1945.140 <o,f0,male> %hum bon :fra
+wol_44411 1 locuteur_2 1945.140 1950.641 <o,f0,male> état :fra di def état :fra huiliers :fra protocol :fra état :fra huilier :fra di jël ay dix :fra milliards :fra douze :fra milliards :fra di ko jox usines :fra yi
+wol_44411 1 locuteur_1 1950.641 1951.061 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1951.061 1952.078 <o,f0,male> at bu jot
+wol_44411 1 locuteur_1 1952.078 1952.868 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1952.868 1956.431 <o,f0,male> ñu futteeku en :fra tant :fra que :fra sénégalais :fra dugg ci ak suñu néew
+wol_44411 1 excluded_region 1956.431 1956.911 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 1956.911 1961.678 <o,f0,male> [r] di jënd gerte gi di ko yóbbu Viétnam lu ne daj nañ ko ci
+wol_44411 1 locuteur_1 1961.678 1962.090 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1962.090 1965.695 <o,f0,male> di ko jëndee ci béykat bi loo xam ne ba 2012
+wol_44411 1 locuteur_1 1965.695 1966.068 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1966.068 1967.101 <o,f0,male> bim ñëwee
+wol_44411 1 locuteur_1 1967.101 1967.451 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1967.451 1969.495 <o,f0,male> ci la gerte commencé :fra jar trois :fra cent :fra jëm kaw
+wol_44411 1 locuteur_1 1969.495 1969.954 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1969.954 1977.782 <o,f0,male> [r] ba 2014 président :fra Macky Sall ñu ngi ko ciy gërëm ci loolu mu andil ñu protocol :fra boo xam ne gerte gi dootu ñu ko contourné :fra muy dem Vietnam waaye day dem Cine directement :fra
+wol_44411 1 locuteur_1 1977.782 1979.051 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1979.051 1979.874 <o,f0,male> loolu ca ** la
+wol_44411 1 locuteur_1 1979.874 1980.352 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1980.352 1983.377 <o,f0,male> loolu yëpp ñun ñu dund ko ba gerte sukuraat ba mu nekkoon
+wol_44411 1 excluded_region 1983.377 1984.232 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1984.232 1984.711 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1984.711 1987.159 <o,f0,male> ñëpp di ko xëcoo tey ñun ñu fàtte ñu tegee ñu
+wol_44411 1 excluded_region 1987.159 1988.081 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1988.081 1988.407 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1988.407 1989.385 <o,f0,male> ne ñun du ñu nitu dara
+wol_44411 1 locuteur_1 1989.385 1989.671 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1989.671 1992.515 <o,f0,male> wala ñun ñooy def naan da ñuy exporté :fra emploi :fra
+wol_44411 1 excluded_region 1992.515 1995.681 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 1995.681 1997.672 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 1997.672 1998.165 <o,f0,male> gis nga
+wol_44411 1 locuteur_1 1998.165 1998.825 <o,f0,male> %hum
+wol_44411 1 locuteur_2 1998.825 2001.074 <o,f0,male> [b] nit dafay am kóllare
+wol_44411 1 locuteur_1 2001.074 2001.833 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2001.833 2002.840 <o,f0,male> te filière :fra bii
+wol_44411 1 locuteur_1 2002.840 2003.444 <o,f0,male> %hum
+wol_44411 1 locuteur_2 2003.444 2004.367 <o,f0,male> su yegg see fii
+wol_44411 1 excluded_region 2004.367 2005.887 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2005.887 2006.249 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2006.249 2007.570 <o,f0,male> am nañ ci cër bu rëy
+wol_44411 1 locuteur_1 2007.570 2009.741 <o,f0,male> tout :fra à :fra fait :fra tout :fra à :fra fait :fra ça :fra il :fra faut :fra le :fra reconnaitre :fra
+wol_44411 1 locuteur_2 2009.741 2010.699 <o,f0,male> am nañ ci cër bu rëy
+wol_44411 1 locuteur_1 2010.699 2011.424 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2011.424 2013.324 <o,f0,male> gerte suy dem bay jar trois :fra cent :fra ak lu teg
+wol_44411 1 locuteur_1 2013.324 2013.740 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2013.740 2014.482 <o,f0,male> am nañ ci cër
+wol_44411 1 excluded_region 2014.482 2015.456 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 excluded_region 2015.456 2016.961 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2016.961 2017.441 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2017.441 2020.339 <o,f0,male> loolu sa wax sa mbaaxi morom wàññiwul si sa mbaax dara
+wol_44411 1 locuteur_1 2020.339 2021.282 <o,f0,male> tout :fra à :fra fait :fra tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 2021.282 2022.440 <o,f0,male> ñun doo gis ñu ŋàññi kenn
+wol_44411 1 locuteur_1 2022.440 2022.737 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2022.737 2023.870 <o,f0,male> mosoo dégg ñu wax kenn lu bon
+wol_44411 1 excluded_region 2023.870 2024.848 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 2024.848 2026.421 <o,f0,male> El Hadj Abdoulaye yaree wu ñu ko xamu ñu ko
+wol_44411 1 excluded_region 2026.421 2027.055 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2027.055 2027.869 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2027.869 2032.048 <o,f0,male> waaye nag am nañ matuwaay boo xam ne suñu xalaat kenn mënu ñu ko teree wax
+wol_44411 1 locuteur_1 2032.048 2032.754 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2032.754 2033.858 <o,f0,male> mais :fra nañ ko wax ci teggin
+wol_44411 1 locuteur_1 2033.858 2034.274 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2034.274 2037.205 <o,f0,male> wax ko ak maslaa wax ko aussi :fra ak %e fasaa
+wol_44411 1 locuteur_1 2037.205 2037.563 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2037.563 2039.684 <o,f0,male> ba nga xam ne su ñu la waxee di nga xam luñ la wax lan la
+wol_44411 1 locuteur_1 2039.684 2040.046 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2040.046 2040.829 <o,f0,male> loolu moo fi nekk
+wol_44411 1 locuteur_1 2040.829 2041.269 <o,f0,male> [r] %hum
+wol_44411 1 locuteur_2 2041.269 2045.402 <o,f0,male> kon su fekkee ne fi mu ne nii njaqare googu ñuy am mooy ñu bloqué :fra
+wol_44411 1 locuteur_1 2045.402 2045.943 <o,f0,male> [r] %hum %hum
+wol_44411 1 locuteur_2 2045.943 2048.098 <o,f0,male> exportation :fra bi mën naa am
+wol_44411 1 locuteur_1 2048.098 2048.410 <o,f0,male> %hum
+wol_44411 1 locuteur_2 2048.410 2050.540 <o,f0,male> pour :fra huiliers :fra yi mën a am nañ toog ñu waxtaan
+wol_44411 1 excluded_region 2050.540 2056.891 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2056.891 2057.235 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2057.235 2058.592 <o,f0,male> mooy béykat bi na ci gis njëriñ
+wol_44411 1 locuteur_1 2058.592 2074.989 <o,f0,male> intérêt :fra tout :fra à :fra fait :fra foofu laa buggoon ñëw est :fra ce :fra que :fra tey état :fra bi loolu ngay ñuy ragal peut :fra être :fra ñu def leen ko di fàttali ne lu ko jiitu [r] andi woon nañ leen fi ay ay chartes :fra yu ñu leen fi tegaloon ci wàllug taxes :fra yeeg yu ñu ne nangam [r] yooyu yëpp gàllankoor mais :fra ñu ngi xalaat ngeen bëgg jënd ba pare [r] bëgg yóbbu ñu ne du ngeen ko fi yóbbu
+wol_44411 1 locuteur_1 2074.989 2089.712 <o,f0,male> est :fra ce :fra que :fra tey [r] li doon gën a yomb nga xam ne njëriñu béykat bi la mooy yéen waa COPEGA yi da ngeen wax ne da ngeen jëndee trois :fra cent :fra wala trois :fra cent :fra vingt :fra cinq :fra [r] état :fra ne buggu ma gerte gi génn mais :fra lu tax waa état :fra du tax ne man de quatre :fra cent :fra laay jëndee [r] su ko defee béykat yi
+wol_44411 1 excluded_region 2089.712 2093.614 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 2093.614 2096.986 <o,f0,male> loolu moo tax ma ne [b] énoom su fekkee ne dañ bugg gerte
+wol_44411 1 locuteur_1 2096.986 2100.243 <o,f0,male> %hum
+wol_44411 1 locuteur_2 2100.243 2101.500 <o,f0,male> nañ ko jëndee prix :fra du marché :fra
+wol_44411 1 locuteur_1 2101.500 2101.855 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2101.855 2104.092 <o,f0,male> prix :fra planché :fra la ñu wax
+wol_44411 1 locuteur_1 2104.092 2104.512 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2104.512 2106.764 <o,f0,male> même :fra su fekkee ne mën nañoo jënd état :fra moo ñu ëpp doole
+wol_44411 1 excluded_region 2106.764 2108.599 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 2108.599 2112.156 <o,f0,male> bi mu fi indee protoc :fra état :fra huiliers :fra di jël ay douze :fra milliards :fra treize :fra milliards :fra ki ko jox
+wol_44411 1 locuteur_1 2112.156 2112.576 <o,f0,male> %hum
+wol_44411 1 locuteur_2 2112.576 2120.353 <o,f0,male> di ko jox huiliers :fra yi campagne :fra su jeexee ñu ne [r] la mu waroon jar sur :fra le :fra plan :fra internaional :fra état :fra di daf ne %e lu yées loolu lay jar
+wol_44411 1 locuteur_1 2120.353 2120.787 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2120.787 2126.583 <o,f0,male> léegi su paree campagne :fra léegi différence :fra bi li nga xam ne aussi :fra comme :fra masalan su waroon jar si addina bi trois :fra cent :fra
+wol_44411 1 locuteur_1 2126.583 2126.841 <o,f0,male> waa
+wol_44411 1 locuteur_2 2126.841 2140.565 <o,f0,male> [r] mu ne deux :fra cent :fra lañ koy jëndee cent :fra franc :fra yooyu nga xam ne mooy différence :fra bi état :fra da koy dajale jox ko huiliers :fra yi [b] mu nekk ay douze :fra milliards :fra treize :fra milliards :fra loolu ñun ñoo ko fi jëlee [rire] ñun ñoo ne ko gerte gi jarul ngay def ay douze :fra millions :fra treize :fra millions :fra di ko jox huiliers :fra yi
+wol_44411 1 locuteur_1 2140.565 2140.873 <o,f0,male> waaw
+wol_44411 1 locuteur_2 2140.873 2142.574 <o,f0,male> ñu koy def si seen poche :fra parce :fra que :fra ay privé :fra lañ
+wol_44411 1 locuteur_1 2142.574 2142.922 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2142.922 2144.817 <o,f0,male> te duñ sénégalais :fra sax ñu ci bëri duñ sénégalais :fra
+wol_44411 1 locuteur_1 2144.817 2145.434 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2145.434 2147.489 <o,f0,male> ma ne ko gardé :fra sa xaalis
+wol_44411 1 locuteur_1 2147.489 2147.845 <o,f0,male> waaw
+wol_44411 1 locuteur_2 2147.845 2151.965 <o,f0,male> ñun gerte gi danañ ko mën a jëndee prix :fra international :fra te yow doo ci def benn douze :fra milliards :fra te loolu la ñu def
+wol_44411 1 locuteur_1 2151.965 2153.177 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2153.177 2154.776 <o,f0,male> gannaaw loolu ñu andil ñu taxe :fra
+wol_44411 1 locuteur_1 2154.776 2155.435 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2155.435 2156.778 <o,f0,male> subventionné :fra tu ñu léegi la ñu daan joxe
+wol_44411 1 excluded_region 2156.778 2157.187 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_2 2157.187 2159.072 <o,f0,male> [r] ku daan joxe léegi bay recevoir :fra
+wol_44411 1 excluded_region 2159.072 2160.140 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2160.140 2161.696 <o,f0,male> %hum %hum tout :fra à :fra fait :fra
+wol_44411 1 locuteur_2 2161.696 2165.017 <o,f0,male> amuñ kenn ku nekk si filière :fra bi ku mos a def si gafa gi * état :fra ko jënd
+wol_44411 1 locuteur_1 2165.017 2165.437 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2165.437 2168.210 <o,f0,male> am na at boo xam ne ñoo ci def douze :fra kii neuf :fra milliards :fra
+wol_44411 1 excluded_region 2168.210 2173.982 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2173.982 2174.459 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2174.459 2179.157 <o,f0,male> [bb] te ñu ne mooy subventionné :fra état :fra bi subventionné :fra état :fra bi lu muy subventionné :fra
+wol_44411 1 excluded_region 2179.157 2186.847 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2186.847 2187.553 <o,f0,male> %hum %hum
+wol_44411 1 excluded_region 2187.553 2189.851 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2189.851 2190.249 <o,f0,male> %hum %hum
+wol_44411 1 excluded_region 2190.249 2195.008 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2195.008 2195.561 <o,f0,male> loolooy dëgg
+wol_44411 1 locuteur_2 2195.561 2197.086 <o,f0,male> balaa maa dee ñu naan ay subventions :fra
+wol_44411 1 excluded_region 2197.086 2198.383 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2198.383 2198.751 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2198.751 2200.488 <o,f0,male> lijjanti boppam ba béy li miy béy
+wol_44411 1 locuteur_1 2200.488 2200.841 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2200.841 2202.731 <o,f0,male> kon moo moom gerteem ku ko neex la koy jaay
+wol_44411 1 locuteur_1 2202.731 2204.269 <o,f0,male> tout :fra à :fra fait :fra loolooy dëgg
+wol_44411 1 locuteur_2 2204.269 2205.373 <o,f0,male> ñoom nag am nañ doole
+wol_44411 1 locuteur_1 2205.373 2205.735 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2205.735 2206.622 <o,f0,male> mën nañoo téye
+wol_44411 1 locuteur_1 2206.622 2207.363 <o,f0,male> %hum %hum [r]
+wol_44411 1 locuteur_2 2207.363 2209.245 <o,f0,male> waaye terewul ñun tamit ci réew mi lañ bokk
+wol_44411 1 locuteur_1 2209.245 2209.571 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2209.571 2210.566 <o,f0,male> danañ wax suñu xalaat
+wol_44411 1 locuteur_1 2210.566 2210.964 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2210.964 2212.267 <o,f0,male> wax suñ bëgg-bëgg
+wol_44411 1 excluded_region 2212.267 2214.619 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2214.619 2214.993 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2214.993 2216.271 <o,f0,male> loolu moom kenn mënu ñu ko tere
+wol_44411 1 locuteur_1 2216.271 2216.977 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2216.977 2218.963 <o,f0,male> ci teggin nag lañ koy def parce :fra que :fra
+wol_44411 1 locuteur_1 2218.963 2219.383 <o,f0,male> %hum
+wol_44411 1 locuteur_2 2219.383 2222.514 <o,f0,male> ñaawuñ [r] %e ŋàññuñ kenn
+wol_44411 1 locuteur_1 2222.514 2222.931 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2222.931 2224.341 <o,f0,male> ñàkkuén teggi kenn
+wol_44411 1 excluded_region 2224.341 2226.549 <o,,unknown> ignore_time_segment_in_scoring
+wol_44411 1 locuteur_1 2226.549 2227.040 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2227.040 2230.899 <o,f0,male> am nañ xàq ci dëkk bi am nañ ay droits :fra ci dëkk bi
+wol_44411 1 locuteur_1 2230.899 2231.199 <o,f0,male> %hum %hum
+wol_44411 1 locuteur_2 2231.199 2232.579 <o,f0,male> dañ koy laaj ba mu mot sëkk
+wol_44411 1 locuteur_1 2232.579 2233.587 <o,f0,male> ok :en [r] mais :fra tey

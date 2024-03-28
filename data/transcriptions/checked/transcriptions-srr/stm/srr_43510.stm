@@ -1,0 +1,279 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:31 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 7 of 240110
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_43510 1 excluded_region 0.000 362.815 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 Locuteur1 362.815 379.108 <o,f1,male> comme :fra ne laytanuma ndiiki commune :fra ne ka ref commune :fra na andoona yee wene ga nan a seereer wene nan a olof [musique] donc :fra xan a faax teen souvent :fra i layaa a olof fa a seereer jaxasan donte sax i nanee a olof [musique] i ɓaat o mbaxtantaa mene xaye affaire :fra a koƥ ale. [musique]
+srr_43510 1 Locuteur1 379.108 406.100 <o,f1,male> Yoon teen fo natango es Mamadou Ndiaye ta layel Modou Mbacke a gen maana saax le Bangaj [musique] i mbaxtaantaa koƥ ale bo ndiik rek parce :fra que :fra a koƥ ka ref ka andoona yee ten jegu solo oxu leyna a koƥ ale xan o lay lanq ke, lay taxar ke, lay sax nqeñ ne sax andoona yee koy wiin we a jega ma andoona yee nqaƴee teen a yiif den [musique] sax .
+srr_43510 1 Locuteur1 406.100 420.411 <o,f1,male> Xar taxu i mbara aara koƥ ale je :fra pense :fra que :fra kene jaratee sax o kiin a layel o ten parce :fra que :fra i mbara ande a koƥ ale teen o ñoow no ngiin fo o ngiin o ɓaal a ref [musique] .
+srr_43510 1 Locuteur1 420.411 439.303 <o,f1,male> [musique] A koƥ ale ten o feet no ngiin o ɓaal a ref kene xan i expliquer :fra a nuun ke taxna i lay kene parce :fra que :fra wiin we bo layoona yee o ñoow no kiin oxe koƥ ale oxey taxar ke oxey nangam fo nangam ga mbooga yee caaxaan o.
+srr_43510 1 Locuteur1 439.303 453.984 <o,f1,male> To toujours :fra kan laya nuun ee roog saqe dara ngir caaxaan [musique] ka teg fop no aduna fe pour :fra oxu refna a jirña o kendum xaam coox a nuun o njiriñ onqa andoona yee rek ten eetitka pour :fra laya nuun ee ken um laya ndigil o.
+srr_43510 1 Locuteur1 453.984 466.319 <o,f1,male> Taxar a njegangee nqeñ ne i nqaaɗaq ka jek ken layel oxygène :fra ten soom i soxla'u teen oxygène :fra fe bo i nqaaɗnayo ka i njega genre :fra ke na layel gaz :fra carbonique :fra .
+srr_43510 1 Locuteur1 466.319 482.439 <o,f1,male> Ga'aa oxigene :fra fe i soxla'u mais :fra gaz :fra carbonique :fra fe ten taxar ke a soxla'u bon :fra a jega échange :fra na andoona yee teen ten ref entre :fra in fo taxar ke. Donc :fra bo o ɗeetangaan i yaqanga taxar ke i yaqaa mbakin ne andoona yee ten i nqottaa oxigene :fra fe pour mbaago ñoow.
+srr_43510 1 Locuteur1 482.439 494.572 <o,f1,male> Donc :fra bon waagaam o lay ee o ñoow in oxoy dépendre :fra a no koƥ ale xataa ;um ɓaat o lay ee o ñoow in oxey dépendre :fra a na koƥ ale.
+srr_43510 1 Locuteur1 494.572 507.988 <o,f1,male> Parce :fra que :fra koy wiin we foogaam ee ka jeg mayu ka andoona yee comprendre :fra iranooyo parce :fra que :fra o ñoow ole i ñoowaa, i ñoowtaa ke i ñoowtaa boog na koƥ ale xatu.
+srr_43510 1 Locuteur1 507.988 523.534 <o,f1,male> Xar i ñoowtaa saaƈ fo ku waagoona lay rek xalaatin ñaaman na lanq ke xatu ,foof le i yeraa no lanq ke xatu, kon fop na environnent :fra yo.
+srr_43510 1 Locuteur1 523.534 537.713 <o,f1,male> Donc :fra o ñoow in fop oxey no lanq ke to lanq kene ga njeg relation :fra na andoona yee den a njegu ndeerum fo taxar kene o yaqanga taxar ke yaqa lanq ke .
+srr_43510 1 Locuteur1 537.713 553.414 <o,f1,male> Parce :fra que :fra taxar ke den na mixe:fra e a lanq ke bo k ena layel érosion :fra manaam nqeñ ne garanga a leelkee ke faaxna lanq ke a ɓisin jegkee wala boog roog fe deɓanga a teƥ a ɗomu foof le waagkee ɓisaalekee faax na no lanq ke a inoor teen.
+srr_43510 1 Locuteur1 553.414 567.314 <o,f1,male> Taxar ke ga a ci'aa lanq ke doole donc :fra foogaam ee kene oxu refna a waraa xaƴ teen yiif, i layanga environnement :fra i lay ee affaire :fra taxar soom .
+srr_43510 1 Locuteur1 567.314 583.205 <o,f1,male> Refee taxar soom environnement :fra ka yaaj o layanga environnement :fra ka yaaj yaam nqeñ ne sax andoona yee ten i nqaɗaqyo oxey teen to nqeñ ne i ɗeeta ye a commencer :fra a yaqwaa boon ndet mene axin relation :fra jega ndeer nqeñ ne fo taxar ke.
+srr_43510 1 Locuteur1 583.205 606.309 <o,f1,male> Parce :fra que :fra a jega émission :fra des :fra gaz :fra a :fra effet :fra de :fra serre :fra a jeg tooke fa andoona yee ten xa auto in axene manaam produit :fra ke na yipel mene ga ndeta na asamaan fe a yaqa kene layel la :fra couche :fra ozones :fra to kene fop ka i mbarno moytu surtout :fra fog in maraicher :fra ke i mbi' a meen émission :fra speciale :fra pour :fra les :fra pesticide :fra.
+srr_43510 1 Locuteur1 606.309 620.689 <o,f1,male> Mais :fra bo ndiik rokaam no xuur fe tang kana mais :fra a jega o qoya ga'ma ke ta yipa lanq ke a doya waar parce :fra que :fra ke andoona yee woxey yipan no lan ke sokoy o rokoox xa masque :fra roku xa gant :fra anda eye moos kene faaxee waay.
+srr_43510 1 Locuteur1 620.689 632.610 <o,f1,male> Parce :fra que :fra a wora xile a rokangang xan a fi'ong tig a tegwanga ndeerof xan a fi'ong tig o roku xa masque :fra o roku xa gant :fra sokoy yipan no lanq ke yipan no ka andoona yee ko warno ñaam o feet.
+srr_43510 1 Locuteur1 632.610 648.896 <o,f1,male> Woxey foaga yee woxay a aaraa xooxof mais :fra aariro xooxof parce :fra que :fra kene yipoona no lanq ke xan a sag no gañcax fa soko koy o ɓaat no ñaam .Modou Ndiaye je :fra pense :fra que :fra sensiblisation :fra i mbi'aa wiin we mbara nangilwaa ke layuma ndiiki rek refee xam xam ka i mbetanda nuun kene, nuun moƴno anda in.
+srr_43510 1 excluded_region 648.896 854.788 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 Locuteur1 854.788 869.893 <o,f1,male> Kon o fog ole fat i ndam ee i aaranga environnement :fra fe ta ref a koƥ ale a qoox in i aaraayo. I yaqanga environnement :fra fe fat a wor a in ee a qoox in i yaqa.
+srr_43510 1 Locuteur1 869.893 920.054 <o,f1,male> Parce :fra que i inukee fo wod, i inukee fo nqeex ,i inukee fo a kid a yaqwu ,i inukee fo a caf a yaqwu kon foogaam ee kene oxu layeena ten to saq yiif wara ande kay a ka ga'eenaayo .Mais :fra maak we anda ke da moƴitna in ga moƴ'u in environnement :fra maak we ga mboŋit'uyo taxar a nqooxaa qooq ala andoona yee yoonee fo dara yipkee teen engrais :fra chimique :fra a topatu lanq ke jega tos yip taaga gayaa xooxaa donc :fra kene xato i inin meen. Duɓaaɓ ke ngara nax a in a imposer :fra a in i utiliser :fra a engrais :fra chimique :fra yaqaa taxar in ke njeeƈ ne moƴaa sum taxar ke moƴa mbañu mais :fra ga'i période :fra ne i ndefna rek.
+srr_43510 1 Locuteur1 920.054 934.025 <o,f1,male> Xaye ref le :fra 6 juin :fra foogaam um jumangee nene soɓooga roog fe deɓ yaaga de mbooge changement :fra nene mat ka gara gara rek a fool a gar nene .
+srr_43510 1 Locuteur1 934.025 948.686 <o,f1,male> Xar atun to o layanga kene atun ta lay e co ba njom'and a in waay kene roog garu .Mais :fra roog garu kay parce :fra que :fra roog ka fi' meen tig nu yaqin ta timaa ɗeeta nuun o kiin sax ba fi'anonga qenu o gefin ka layka yee o xene koy cungim setanin bo and me ta sagaa.
+srr_43510 1 Locuteur1 948.686 961.666 <o,f1,male> Gomme :fra ande ke fi'ananma cungim xaƴin ɗeetan roog a fi'ana nuun a koƥ ale bata naat a at a nuun a sipa nuun ten nu yaqan bo jafejafe ngar so koy nu ande yee ken mbi'aayo ten naa yaqaa koƥ ale o fog ole.
+srr_43510 1 Locuteur1 961.666 975.573 <o,f1,male> Fat i ndakna yiif in ande ke i mbi'aa a qoox in i loraayo parce :fra que :fra koy o qooxoox a xooxanga jegee kaa,f jegee aareer a xan a ɗom de ndiig a jeg ndiig faaxee xan a ɗom de.
+srr_43510 1 Locuteur1 975.573 986.090 <o,f1,male> Donc :fra kene i layaa nuun nu mbara nqaƴ teen a yiif a paax a paax donc :fra i tontu'anga kene fop andoona eye ten i layu meen ndiki an waru geenu teen, an waru geenu teen .
+srr_43510 1 Locuteur1 986.090 998.656 <o,f1,male> Parce :fra que :fra jegee o leŋ oxa andoona yee waree geenu pour :fra a koƥ ale a xaƴel .
+srr_43510 1 Locuteur1 998.656 1009.256 <o,f1,male> In fop mbaru ngeenu teen mais :fra i layanga lay ee agent :fra eaux :fra et :fra foret :fra ten waru aar a koƥ ale kaam foogee i mbugee koox in refee agent :fra eaux :fra et :fra foret :fra ten waru aar a koƥ ale
+srr_43510 1 Locuteur1 1009.256 1023.751 <o,f1,male> Population :fra ne fop mbaru inu oxu refna a dam ee kene tigeso o ñoowes oxay na koƥ ale, adna es fop oxay na koƥ ale. O dam teen o ga'anga oxa naa yaqaa tegeen na ƭat bo ta ande ken ta fi'aa faaxee
+srr_43510 1 Locuteur1 1023.751 1036.775 <o,f1,male> Parce :fra que :fra ka jeg ka wiin we a mbecitna koy période :fra nene i ndefna o layanga te nam i mbi'kaayo cegel ke, taxar ke ten i njefandikoorayo mais :fra anda ke na layel waadin ɗoy upit ɗoy.
+srr_43510 1 Locuteur1 1036.775 1052.945 <o,f1,male> Waadin ɗoy upit ɗoy parce :fra que :fra woxey godaa taxar ke ɓaataa ke andoona yee ten taxu cegel ke nqeexel. Xar cegel ke nqeexel a teƥ ake maya to daaƭ jegatee we koy ke andoona yee ten o fañitkan ten ref taxar ke to taxar ke den na ata kene.
+srr_43510 1 Locuteur1 1052.945 1074.132 <o,f1,male> Bon fat i ɗeetahin ken i mbi'aa a paax, a fi'angaan rek Aissatou i mbet antenne :fra ne rek no 7171714, a fi'angaan o fog ole oxu naa nangilwaa to jeg xam xam fa andoona yee a waaga jiriñ adna fe fop.
+srr_43510 1 Locuteur1 1074.132 1082.315 <o,f1,male> Parce :fra que :fra comme :fra ke i layna nuun rek ka i opof mene rek mais :fra nuun nqupu in xam xam fuuf i mbuga koy nu parciciper :fra no émission :fra ne yoq teen xam xam nuun parce :fra que :fra kene i laya in fop mbogunooyo .
+srr_43510 1 excluded_region 1082.315 1084.892 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 excluded_region 1084.892 1137.809 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 excluded_region 1137.809 1246.815 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 Locuteur3 1246.815 1275.091 <o,f1,male> [musique]
+srr_43510 1 Locuteur1 1275.091 1277.158 <o,f1,male> alo
+srr_43510 1 Locuteur4 1277.158 1277.827 <o,f1,female> alo
+srr_43510 1 Locuteur1 1277.827 1279.849 <o,f1,male> oui:fra alo oui :fra
+srr_43510 1 Locuteur4 1279.849 1280.984 <o,f1,female> Mbaa jam
+srr_43510 1 Locuteur1 1280.984 1283.621 <o,f1,male> jam soom kay alhadoulilah fog oxe nam ne'e fo ma xooytitaa
+srr_43510 1 Locuteur4 1283.621 1284.855 <o,f1,female> Wa maxey meen rek,
+srr_43510 1 Locuteur1 1284.855 1286.412 <o,f1,male> jam soom mam o xooytitaa
+srr_43510 1 Locuteur4 1286.412 1289.200 <o,f1,female> Maxey xooytitaa mene mbin Ablaye Dar,
+srr_43510 1 Locuteur1 1289.200 1290.633 <o,f1,male> Ablay Sarr gen mam ,
+srr_43510 1 Locuteur4 1290.633 1292.973 <o,f1,female> Abdoulaye Dar gen mbin ()
+srr_43510 1 Locuteur1 1292.973 1294.943 <o,f1,male> Abdoulaye Sarr
+srr_43510 1 Locuteur4 1294.943 1298.148 <o,f1,female> waaw maxey nangilwaa émission :fra ne wax deg yala a jega solo lool
+srr_43510 1 Locuteur1 1298.148 1300.423 <o,f1,male> jerejef jerejef jerejef
+srr_43510 1 Locuteur4 1300.423 1303.271 <o,f1,female> %e Mais :fra ken layna na engrais :fra fene
+srr_43510 1 Locuteur1 1303.271 1304.046 <o,f1,male> axa
+srr_43510 1 Locuteur4 1304.046 1309.588 <o,f1,female> vraiment :fra ndigil o ndaa koy wiin we ga ngimatee a qoox den xaye xaye anda um xooxooganga o qoles
+srr_43510 1 Locuteur1 1309.588 1310.295 <o,f1,male> %hum %hum
+srr_43510 1 Locuteur4 1310.295 1316.552 <o,f1,female> wax deg yala kaam, kaam fi'ka ka moƴna ñof manaam duuf ta faax um continuer :fra jeg xaalises ɓek no poses.
+srr_43510 1 Locuteur1 1316.552 1317.151 <o,f1,male> axa
+srr_43510 1 Locuteur4 1317.151 1323.812 <o,f1,female> Yaam kaam jikaa kam xalaatka yee ñaamkinum um lay ee fat um ()mais :fra a soɓ anda yee oxu refna ke utiliser :fra a ten o ñaamaa,
+srr_43510 1 Locuteur1 1323.812 1324.349 <o,f1,male> axa
+srr_43510 1 Locuteur4 1324.349 1328.535 <o,f1,female> Foogaam e xan o fi' ka taxna wergu yaramof a moƴo yoku.
+srr_43510 1 Locuteur1 1328.535 1329.802 <o,f1,male> bilay bilay
+srr_43510 1 Locuteur4 1329.802 1335.522 <o,f1,female> I ndaa koy xaya moom wiin we ka aranger :fra ne den a ɗeeta ndaa ɗeeta ka aranger :fra na population :fra
+srr_43510 1 Locuteur1 1335.522 1337.621 <o,f1,male> c':fra est :fra ca :fra kene koy surtout :fra ca :fra
+srr_43510 1 Locuteur4 1337.621 1339.837 <o,f1,female> I vraiment :fra émission :fra ken laya jega solo lool ,
+srr_43510 1 Locuteur1 1339.837 1341.112 <o,f1,male> jerejef Abdoulaye Sarr
+srr_43510 1 Locuteur4 1341.112 1342.435 <o,f1,female> Maxey sim na fop
+srr_43510 1 Locuteur1 1342.435 1344.145 <o,f1,male> jerejef Abdoulaye Sarr vraiment :fra
+srr_43510 1 excluded_region 1344.145 1345.100 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 Locuteur4 1345.100 1347.227 <o,f1,female> jeregen jef Abdoulaye Dar layong Abdoulaye Dar
+srr_43510 1 Locuteur1 1347.227 1348.699 <o,f1,male> Abdoulaye Dar
+srr_43510 1 Locuteur4 1348.699 1349.482 <o,f1,female> oui :fra i
+srr_43510 1 Locuteur1 1349.482 1351.685 <o,f1,male> Abdoulaye Dar Abdoulaye Dar jerejef Abdoulaye Dar
+srr_43510 1 excluded_region 1351.685 1353.015 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 Locuteur1 1353.015 1366.928 <o,f1,male> A jega a jega solo vraimenet :fra i content :fra na a paax a paax ke layoona ndigil o parce :fra que :fra wiin we koy ke layoona ndigil o wiin we nangaete ngalataa o wod fo ɓaal no gen den.
+srr_43510 1 Locuteur1 1366.928 1391.931 <o,f1,male> Parce :fra que :fra o kiin oxe ke o fi'aa and xile kene kat in fi'angaan xan a waago cuq o kiin warano moytu nu nga'a adna fe yaqwa ko jek a jeki rek ga o kiin mene nu moof mene mbaxtana bata wat o yen de ndamit ee ka jeg tension :fra AVC damun mais :fra kene koy i mbara nqaƴ teen a yiif in ande kat fat i nqendan lanq in ke ɗeetaqin ke i ñaamaa alo
+srr_43510 1 Locuteur5 1391.931 1393.275 <o,f1,female> oui :fra Mame Waly
+srr_43510 1 Locuteur1 1393.275 1394.469 <o,f1,male> way Baye Zale
+srr_43510 1 Locuteur5 1394.469 1395.243 <o,f0,female> Na wotu yee
+srr_43510 1 Locuteur1 1395.243 1396.446 <o,f0,male> Na fi'o yee jam soom
+srr_43510 1 Locuteur5 1396.446 1397.350 <o,f0,female> Maxey siare'aa nuun
+srr_43510 1 Locuteur1 1397.350 1398.680 <o,f0,male> arikala alhamdulila,
+srr_43510 1 Locuteur5 1398.680 1400.856 <o,f0,female> siare'a invité:fra of fene Modou Ndiaye
+srr_43510 1 Locuteur1 1400.856 1402.056 <o,f0,male> jerejef jerejef
+srr_43510 1 excluded_region 1402.056 1403.404 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 Locuteur1 1403.404 1404.572 <o,f0,male> jerejëf
+srr_43510 1 Locuteur5 1404.572 1407.019 <o,f1,female> bon :fra men ndokna a jega solo lool
+srr_43510 1 Locuteur1 1407.019 1408.103 <o,f0,male> ax merci :fra
+srr_43510 1 Locuteur5 1408.103 1410.524 <o,f0,female> fa lay fe vraiment :fra a xoola
+srr_43510 1 Locuteur1 1410.524 1411.181 <o,f0,male> jerejef
+srr_43510 1 Locuteur5 1411.181 1415.316 <o,f0,female> o koyo oxe sutuna ndiki rek ka jeg mata layna mi kaam contre :fra maaga
+srr_43510 1 Locuteur1 1415.316 1416.120 <o,f0,male> axa
+srr_43510 1 Locuteur5 1416.120 1420.642 <o,f0,female> Parce :fra que :fra ka ta lay ee ndiko yakamti a pour :fra daaw xaalisof ret ɓek no poosof
+srr_43510 1 Locuteur1 1420.642 1421.179 <o,f0,male> trés :fra bien :fra
+srr_43510 1 Locuteur5 1421.179 1423.445 <o,f0,female> A reɗ'anga yee ka o ñaaman xan o xendanin
+srr_43510 1 Locuteur1 1423.445 1424.281 <o,f0,male> wala
+srr_43510 1 Locuteur5 1424.281 1427.475 <o,f0,female> Mais :fra ka war o ande aussi :fra o ñaamangiran ɓasil no kiin den na ñaamkan
+srr_43510 1 Locuteur1 1427.475 1428.270 <o,f0,male> Den naa ñaamkan
+srr_43510 1 Locuteur5 1428.270 1431.884 <o,f0,female> To kaaga ta ɓisna aussi :fra a waaga woñtuwiid ba gar a rok no teen to yegkiran
+srr_43510 1 Locuteur1 1431.884 1432.980 <o,f0,male> To yegkiran
+srr_43510 1 Locuteur5 1432.980 1436.907 <o,f0,female> kon vraiment :fra ke andoona yee bugiin mo jafandikoor
+srr_43510 1 Locuteur1 1436.907 1437.339 <o,f0,male> %hum %hum
+srr_43510 1 Locuteur5 1437.339 1440.094 <o,f0,female> () cooxin domi Adama te jafandikoorin a lorin
+srr_43510 1 Locuteur1 1440.094 1441.169 <o,f0,male> jerejef
+srr_43510 1 Locuteur5 1441.169 1442.891 <o,f0,female> bu boba xam jeg taga bakaad
+srr_43510 1 Locuteur1 1442.891 1444.097 <o,f0,male> kene koy ten
+srr_43510 1 excluded_region 1444.097 1446.173 <o,,unknown> ignore_time_segment_in_scoring
+srr_43510 1 Locuteur1 1446.173 1446.770 <o,f0,male> %hum %hum
+srr_43510 1 Locuteur5 1446.770 1450.496 <o,f0,female> ke ta layna ndigil o vraiment :fra o ga'angaan pesticide :fra kene i ñaamaayo
+srr_43510 1 Locuteur1 1450.496 1450.891 <o,f0,male> axa
+srr_43510 1 Locuteur5 1450.891 1452.342 <o,f0,female> i ten moƴu loraa in
+srr_43510 1 Locuteur1 1452.342 1453.050 <o,f0,male> bilahi
+srr_43510 1 Locuteur5 1453.050 1458.763 <o,f0,female> o qoya yaga koy il :fra a :fra parfaitement :fra raison :fra o goor o duluñ ola andoona yee ka précoce :fra a 1 2 rek ta ret took
+srr_43510 1 Locuteur1 1458.763 1459.297 <o,f0,male> Ta inu took
+srr_43510 1 Locuteur5 1459.297 1462.060 <o,f0,female> Mais :fra xel le motkee cer ke saɗikkee
+srr_43510 1 Locuteur1 1462.060 1462.599 <o,f0,male> Mukk
+srr_43510 1 Locuteur5 1462.599 1467.458 <o,f0,female> Parce :fra que :fra kene ke i ñaamaa, ñaam andoona yee %e ten ref ke na lora in.
+srr_43510 1 Locuteur1 1467.458 1467.873 <o,f0,male> axa
+srr_43510 1 Locuteur5 1467.873 1469.962 <o,f0,female> Ten i moƴu mbugoyo to faaxee na in
+srr_43510 1 Locuteur1 1469.962 1470.545 <o,f0,male> Bilay
+srr_43510 1 Locuteur5 1470.545 1476.971 <o,f0,female> Kon vraiment :fra i ndeta ndet bo monsieur :fra le :fra maire :fra a jega initiative :fra na ta atna a lay ee fat i mbi'aayo a tos ake andoona yee owey mbida a mbi'anooyo .
+srr_43510 1 Locuteur1 1476.971 1477.522 <o,f0,male> Jaay fe
+srr_43510 1 Locuteur5 1477.522 1483.869 <o,f0,female> Vraiment :fra kaam foog ee i ndamangaayo no kaaga kon organique :fra fene i ndamanga teen kon pesticide :fra xan i mbaagin o moytoox.
+srr_43510 1 Locuteur1 1483.869 1484.777 <o,f0,male> bilahi bilahi
+srr_43510 1 Locuteur5 1484.777 1496.643 <o,f0,female> Me kene nu layna ndiiki xotaa leel ke yiin kene yiin xota a timbaajin ainsi :fra de :fra suite :fra roog soom a fi'angaan nek roog soom woru ndeer mene bo o fada no ndiig na yaqanee o jeg engrais :fra fa andoona yee xan o waagno wasaree no xa qolof.
+srr_43510 1 Locuteur1 1496.643 1498.890 <o,f0,male> Bila bilay to jegkiro sax sutno poosof
+srr_43510 1 Locuteur5 1498.890 1502.356 <o,f0,female> Fi' ten tuti effort :fra rek rek watin na xa qolof ()
+srr_43510 1 Locuteur1 1502.356 1503.240 <o,f0,male> Walay laya ndigil
+srr_43510 1 Locuteur5 1503.240 1506.276 <o,f0,female> Kaam foog e oxu naa retaa, retaa koy bo andatiro me o saga.
+srr_43510 1 Locuteur1 1506.276 1507.112 <o,f0,male> a o numtu me re'oona
+srr_43510 1 Locuteur5 1507.112 1508.601 <o,f0,female> vraiment :fra wara waaga woñtu koy ,
+srr_43510 1 Locuteur1 1508.601 1509.498 <o,f0,male> ()
+srr_43510 1 Locuteur5 1509.498 1509.743 <o,f0,female> deparal
+srr_43510 1 Locuteur1 1509.743 1510.476 <o,f1,male> bilahi
+srr_43510 1 Locuteur5 1510.476 1512.967 <o,f0,female> ɗeetatin xoxof and ke galangkoronga xar o,
+srr_43510 1 Locuteur1 1512.967 1513.443 <o,f0,male> Bilay
+srr_43510 1 Locuteur5 1513.443 1520.735 <o,f0,female> Surtout :fra () comme :fra ne Modou laytuna rek yaga bo ndiik in way utiliser :fra a chimi chimi :fra i nga'ee teen rendement :fra i nga'ee teen daraa yaqaa a Koƥ ale tout :fra .
+srr_43510 1 Locuteur1 1520.735 1521.576 <o,f0,male> A yaqaa koƥ ale de
+srr_43510 1 Locuteur5 1521.576 1526.377 <o,f0,female> Pourquoi :fra pas :fra koy i ndakwiid ke à :fra la :fra phase :fra de :fra départ :fra koy ndetoyo no Organique :fra fe andoona yee ten maam ke mbi'oogu
+srr_43510 1 Locuteur1 1526.377 1527.270 <o,f0,male> To wiin we fop ga njir,
+srr_43510 1 Locuteur5 1527.270 1531.664 <o,f0,female> A kon vraiment :fra il :fra est :fra temps :fra que :fra i changer :fra oyo comportement :fra
+srr_43510 1 Locuteur1 1531.664 1532.077 <o,f0,male> Bilay
+srr_43510 1 Locuteur5 1532.077 1535.126 <o,f0,female> vraiment :fra comme :fra i ndeta bo ande kene i mbi'aa faaxee na in
+srr_43510 1 Locuteur1 1535.126 1535.540 <o,f0,male> axa
+srr_43510 1 Locuteur5 1535.540 1536.622 <o,f0,female> oxey lora in
+srr_43510 1 Locuteur1 1536.622 1547.199 <o,f0,male> Bilaay oxey xene de jerejef jerejef oxene ref Saliou Diouf i simnan a paaxa paax ta ref un :fra paysan :fra leader :fra formateur :fra no saax le maana o Faraar
+srr_43510 1 Locuteur1 1547.199 1559.238 <o,f0,male> Vraiment :fra a dam no calel ke a paax a paax ke ta layna ndigil o parce :fra que :fra o kiin oxe a lay ke jefandikoorkeeroona warino coox o kiin te jefandikoorin to Saliou ka lay ka jegna importance :fra
+srr_43510 1 Locuteur1 1559.238 1573.378 <o,f0,male> Parce :fra que :fra woxey jikwan foog e numtuwiidkee me na wo () comme :fra par :fra exemple :fra a refanga aareer a waaga fi'el transformation :fra a fi'el diwliin a ɓaat o numtiwiid no mbindof to ankiro teen tig o jik diwliin faaga gar jawtin.
+srr_43510 1 Locuteur1 1573.378 1586.978 <o,f0,male> Ta atong jafejafe to kene fop ka i mbar o nqaƴ teen a yiif in ga'aa duɓaaɓ we ga naxaa in ga ken xu ga'pona mene ta explorter :fra an ta garaa mene en :fra afrique :fra ka jega tooke ta ref engrais :fra .
+srr_43510 1 Locuteur1 1586.978 1600.817 <o,f0,male> Pais :fra in wene bo i mbugna sut produit :fra in kene refna mene ɓisin a den no saate den comme :fra ay kaafin cereale :fra a ñaawin affaire :fra kene ga ɓisan laboratoire :fra ndax jegee tooke; a jeganga tooke da lay a nuun non :fra non :fra i soxlare mais :fra xa tax kene.
+srr_43510 1 Locuteur1 1600.817 1623.930 <o,f0,male> I mbagee ɗeet ke malna in i mbi'an .A tos ake way meen oxu refna formation :fra ke way meen compos :fra ka yooɓ bo fi'anel formation :fra compos ka yooɓ bo o fi'aa composof yipaa na xa saaku ƴiiɗ ne fop o fi'aa yipa na xa saaku bo ƴiid ne fag na ndiig ne rok xan jeg ka andoona yee sax ten xupu engrais :fra fe jikoogoona. alo.
+srr_43510 1 Locuteur6 1623.930 1625.124 <o,f1,male> Alo Khadim
+srr_43510 1 Locuteur1 1625.124 1626.758 <o,f1,male> wa siriñ oxe nam fi'o waay
+srr_43510 1 Locuteur6 1626.758 1627.761 <o,f1,male> wa jam soom
+srr_43510 1 Locuteur1 1627.761 1629.532 <o,f1,male> nam gon le fo mam o xooytitaa
+srr_43510 1 Locuteur6 1629.532 1631.037 <o,f1,male> Arona Ba ndopn
+srr_43510 1 Locuteur1 1631.037 1632.122 <o,f1,male> Arona
+srr_43510 1 Locuteur6 1632.122 1633.528 <o,f1,male> Ba ndoo, Ba ndoon
+srr_43510 1 Locuteur1 1633.528 1634.664 <o,f1,male> Arona Bandone
+srr_43510 1 Locuteur6 1634.664 1635.530 <o,f1,male> i
+srr_43510 1 Locuteur1 1635.530 1636.964 <o,f1,male> na fi'o yee Ba Arona
+srr_43510 1 Locuteur6 1636.964 1638.003 <o,f1,male> jam soom kay
+srr_43510 1 Locuteur1 1638.003 1639.467 <o,f1,male> barikala kay alhamdulila
+srr_43510 1 Locuteur6 1639.467 1640.306 <o,f1,male> *
+srr_43510 1 Locuteur1 1640.306 1641.170 <o,f1,male> alhamdulila
+srr_43510 1 Locuteur6 1641.170 1643.237 <o,f1,male> Nuun way ngoorgoorluwaa dee ,
+srr_43510 1 Locuteur1 1643.237 1643.972 <o,f1,male> jerejef
+srr_43510 1 Locuteur6 1643.972 1645.503 <o,f1,male> A paax a paax a paax ,
+srr_43510 1 Locuteur1 1645.503 1645.931 <o,f1,male> jerejef
+srr_43510 1 Locuteur6 1645.931 1648.601 <o,f1,male> () a jega ma ta yoqitna ,
+srr_43510 1 Locuteur1 1648.601 1650.064 <o,f1,male> axa mam teen?
+srr_43510 1 Locuteur6 1650.064 1652.466 <o,f1,male> Waa o ɗeetanga xaye ,
+srr_43510 1 Locuteur1 1652.466 1652.927 <o,f1,male> axa
+srr_43510 1 Locuteur6 1652.927 1654.597 <o,f1,male> taxar ke,
+srr_43510 1 Locuteur1 1654.597 1654.991 <o,f1,male> axa
+srr_43510 1 Locuteur6 1654.991 1656.579 <o,f1,male> we naa ɗegaa den
+srr_43510 1 Locuteur1 1656.579 1657.036 <o,f1,male> axa
+srr_43510 1 Locuteur6 1657.036 1660.298 <o,f1,male> den naa yaqaayo ()
+srr_43510 1 Locuteur1 1660.298 1660.811 <o,f1,male> axa
+srr_43510 1 Locuteur6 1660.811 1664.017 <o,f1,male> *
+srr_43510 1 Locuteur1 1664.017 1664.613 <o,f1,male> axa
+srr_43510 1 Locuteur6 1664.613 1667.046 <o,f1,male> ga'aa taxar ke wene naa ɗegaa den,
+srr_43510 1 Locuteur1 1667.046 1667.646 <o,f1,male> axa
+srr_43510 1 Locuteur6 1667.646 1674.697 <o,f1,male> den na yaqaa yaq wena ()
+srr_43510 1 Locuteur1 1674.697 1675.086 <o,f1,male> axa
+srr_43510 1 Locuteur6 1675.086 1677.320 <o,f1,male> ka jeg'u na ta godtoogeena
+srr_43510 1 Locuteur1 1677.320 1677.911 <o,f1,male> axa
+srr_43510 1 Locuteur6 1677.911 1682.350 <o,f1,male> I to bo xaye lanq ke ga mbiqat a mbiq.
+srr_43510 1 Locuteur1 1682.350 1683.003 <o,f1,male> Bilaay
+srr_43510 1 Locuteur6 1683.003 1686.097 <o,f1,male> No wiin we nqupatu lanq ke,
+srr_43510 1 Locuteur1 1686.097 1687.395 <o,f1,male> Wiin we nqupatu lanq ke,
+srr_43510 1 Locuteur6 1687.395 1690.420 <o,f1,male> xaye o ɗeetanga xaye comme :fra kay wo xe me
+srr_43510 1 Locuteur1 1690.420 1691.171 <o,f1,male> axa
+srr_43510 1 Locuteur6 1691.171 1696.364 <o,f1,male> *
+srr_43510 1 Locuteur1 1696.364 1696.924 <o,f1,male> %hum %hum
+srr_43510 1 Locuteur6 1696.924 1701.720 <o,f1,male> a double :fra a xaye we ndefna men xaye, a double a den
+srr_43510 1 Locuteur1 1701.720 1703.272 <o,f1,male> Ndigil o moos ndigil o ,
+srr_43510 1 Locuteur6 1703.272 1705.135 <o,f1,male> *
+srr_43510 1 Locuteur1 1705.135 1706.338 <o,f1,male> ndigil o a paax a paax
+srr_43510 1 Locuteur6 1706.338 1711.832 <o,f1,male> Ndaa ke i mbar'ina mbaag o njeg na koƥ ale, mbaagkatirano fi'
+srr_43510 1 Locuteur1 1711.832 1712.439 <o,f1,male> axa
+srr_43510 1 Locuteur6 1712.439 1714.421 <o,f1,male> YAam () no lanq ke
+srr_43510 1 Locuteur1 1714.421 1715.411 <o,f1,male> trés :fra bien :fra
+srr_43510 1 Locuteur6 1715.411 1719.066 <o,f1,male> Iyo kaaga bug'um teen at ka andoona yee
+srr_43510 1 Locuteur1 1719.066 1719.662 <o,f1,male> axa
+srr_43510 1 Locuteur6 1719.662 1720.784 <o,f1,male> Participer :fra
+srr_43510 1 Locuteur1 1720.784 1735.195 <o,f1,male> Jerejef Ba Arona Ba maana no saax le o Nodon in wey ngidmang a paax a paax ke layoona ndigil o parce :fra que :fra wiin we na ngodaa rek den na yaqaayo to koy chaque :fra jour :fra ka i mbaxtaanaa fo den layaa dene ke ƭat a layna.
+srr_43510 1 Locuteur1 1735.195 1755.465 <o,f1,male> Mais :fra koy fat o content :fra parce :fra que :fra me ta refatna ande a refanga ka i sooga commencer :fra wiin we mbaga lay ee a wiin we i nanafulee mais :fra comme :fra wiin we depuis :fra ƴiid na bo xaye in way layaa fa den presque :fra ndik ta fi' o xiid foogaam ee oxu damateena rek xan a tegel na ƭat .alo, alo
+srr_43510 1 Locuteur7 1755.465 1756.225 <o,f1,male> *
+srr_43510 1 Locuteur1 1756.225 1757.149 <o,f1,male> yunga jam way?
+srr_43510 1 Locuteur7 1757.149 1758.933 <o,f1,male> Na fi'o yee ?
+srr_43510 1 Locuteur1 1758.933 1760.783 <o,f1,male> siriñ oxe nam ne'e fo mam o xooytitaa waay ?
+srr_43510 1 Locuteur7 1760.783 1763.193 <o,f1,male> Njase yo supa
+srr_43510 1 Locuteur1 1763.193 1765.198 <o,f1,male> NJase Supa
+srr_43510 1 Locuteur7 1765.198 1767.024 <o,f1,male> II Njas Supa Njase Njaay
+srr_43510 1 Locuteur1 1767.024 1769.120 <o,f1,male> Njase Njaay Supa Supa seareer wala
+srr_43510 1 Locuteur7 1769.120 1769.691 <o,f1,male> i
+srr_43510 1 Locuteur1 1769.691 1770.770 <o,f1,male> wa d' :fra accord :fra `
+srr_43510 1 Locuteur7 1770.770 1775.620 <o,f1,male> Mi kat affaire :fra taxar ke lundi faana aprés :fra kaam bug xoyit me mais :fra heureusement :fra crédit :fra es ka fag quoi :fra
+srr_43510 1 Locuteur1 1775.620 1777.484 <o,f1,male> ndigil o waay ndigilo Njase fi'a faax
+srr_43510 1 Locuteur7 1777.484 1783.624 <o,f1,male> %e Vraiment :fra a jega instant :fra ka ga'uma Ndongo sax bo layano ten parce :fra que :fra sax in a jega jamano ka yaqaayo saas ke,
+srr_43510 1 Locuteur1 1783.624 1784.376 <o,f1,male> axa
+srr_43510 1 Locuteur7 1784.376 1789.314 <o,f1,male> To tiye me ta refna () nu mbuganga ta siire.
+srr_43510 1 Locuteur1 1789.314 1789.857 <o,f1,male> axa
+srr_43510 1 Locuteur7 1789.857 1792.374 <o,f1,male> Gan ndet ka nu teg ma o kiin
+srr_43510 1 Locuteur1 1792.374 1792.839 <o,f1,male> axa
+srr_43510 1 Locuteur7 1792.839 1794.360 <o,f1,male> o kiin Supa nu teginooyo ma,
+srr_43510 1 Locuteur1 1794.360 1794.730 <o,f1,male> d':fra accord :fra
+srr_43510 1 Locuteur7 1794.730 1797.084 <o,f1,male> fo ay Julbet in lakasin a fi'angaan
+srr_43510 1 Locuteur1 1797.084 1797.742 <o,f1,male> d':fra accord :fra
+srr_43510 1 Locuteur7 1797.742 1804.291 <o,f1,male> xan, xan a () waag a kene mais :fra jega wiin we heure :fra ne da ngodaa, a jega wa andopna yee fajar a ngodaa to anda yee o kiin inoorkee o ɓoof,
+srr_43510 1 Locuteur1 1804.291 1804.938 <o,f1,male> axa
+srr_43510 1 Locuteur7 1804.938 1805.482 <o,f1,male> a gariid mene
+srr_43510 1 Locuteur1 1805.482 1806.196 <o,f1,male> Bilahi
+srr_43510 1 Locuteur7 1806.196 1809.515 <o,f1,male> a jega wa andoona yee kiran bo njeeƈ ne muda a ngodaayo.
+srr_43510 1 Locuteur1 1809.515 1810.251 <o,f1,male> Ndigil o
+srr_43510 1 Locuteur7 1810.251 1814.400 <o,f1,male> So me ta refna o ga'anga o kiin o xoɓatin jamano fe ka doywar.
+srr_43510 1 Locuteur1 1814.400 1815.043 <o,f1,male> axa
+srr_43510 1 Locuteur7 1815.043 1820.838 <o,f1,male> o ga'anga o kiin o xoɓatin ka layka yee ka soxodtaam nangam, a roka sutwa ka yaqanaam to andam mais :fra a soɓanga yee wo
+srr_43510 1 Locuteur1 1820.838 1821.711 <o,f1,male> ndigilo
+srr_43510 1 Locuteur7 1821.711 1825.229 <o,f1,male> ko xot oxa nand nena Njase, wala nand nena Mbaye wala nen lakas soɓin Supa lay ne
+srr_43510 1 Locuteur1 1825.229 1825.728 <o,f1,male> %hum
+srr_43510 1 Locuteur7 1825.728 1826.961 <o,f1,male> wo fi' taxar ke nene
+srr_43510 1 Locuteur1 1826.961 1827.396 <o,f1,male> %hum %hum
+srr_43510 1 Locuteur7 1827.396 1834.571 <o,f1,male> Ndiiki xan a xooyka population :fra fa a waxtan fa den a lay a den ee a () den ndefu meen oxu ɗeguna xan tegong kene tegong kaana.
+srr_43510 1 Locuteur1 1834.571 1835.260 <o,f1,male> Trés :fra bien :fra
+srr_43510 1 Locuteur7 1835.260 1839.280 <o,f1,male> A fiMangaan koy oxu refna xan a and xooxof to ku fi'eena o ande wo fi'un lay'le o ten.
+srr_43510 1 Locuteur1 1839.280 1839.821 <o,f1,male> Trés :fra bien :fra
+srr_43510 1 Locuteur7 1839.821 1847.363 <o,f1,male> Ndaa xaye bo xoyoona bo soɓoona o kiin ta godaa mene o ret xoya () wala o xoya () ta garka lay kaye oxene ka xañan yaam a ƭatum refee teen.
+srr_43510 1 Locuteur1 1847.363 1848.286 <o,f1,male> *
+srr_43510 1 Locuteur7 1848.286 1849.239 <o,f1,male> To anda sax le felee
+srr_43510 1 Locuteur1 1849.239 1858.583 <o,f1,male> Sax le felee bilay laya ndigil, laya ndigil a paax a paax. In woy ngidmang a paxa paax ta ref NJase NJaay no saax le maana Supa sereer.
+srr_43510 1 Locuteur1 1858.583 1874.833 <o,f1,male> Ke layoona a jega solo a paax parce :fra que :fra o leŋ ten rek ke layna mene ndiiki rek o leŋ waagee aar a koƥ ta ref agent :fra eaux :fra et :fra foret :fra ta ref agent:fra de :fra développement :fra communautaire :fra ke .o leŋ waagee aar a koƥ ale mais :fra population :fra ne fok da ndam teen kene layoona ndigilo i commencer :fra and sax ka xaƴa ka i mbadidafule mene Supa
+srr_43510 1 Locuteur1 1874.833 1887.051 <o,f1,male> Parce :fra que :fra caate ka yoona formation :fra to ka i mbug o nqaƴ bo ndajale population :fra ne fop i mbi'an a den formation :fra okom i mbi'ananga nuun formation :fra bo pare so koy i mbi'an a nuun comité :fra de :fra veille :fra.
+srr_43510 1 Locuteur1 1887.051 1903.496 <o,f1,male> Comité :fra de :fra veille :fra nene xan a jeg président :fra, a jeg sécrétaire :fra général :fra ,a jeg commissaire :fra au :fra compte :fra. Parce:fra xan a jeg xaalis fa andoona ye xan a rokiida teen parce :fra que :fra ka jeg wa andoona yee ga saɗka qoox ba sadiq na a qoox koy ba mbi' tig ka i mbugnu ndegletin mene avant :fra nu mbadiida men a in ten taxu i mbug o monter :fra mene comité :fra de :fra veille :fra na andoona yee nu nga'anga o kiin ta goda kan nqooykan.
+srr_43510 1 Locuteur1 1903.496 1917.416 <o,f1,male> Nuun comité :fra ne ta gar nu layin ee a kene kat i laya nuune ka fañtel ndikoy comme :fra i layang ee waasi o continuer :fra fi'an fook o jeg amende :fra na tegane'oona nuun andu po yaa ta refka.A refanga teemeed nu layin ee xan o rabid teemeed.
+srr_43510 1 Locuteur1 1917.416 1930.582 <o,f1,male> A fañanga sokoy nu soog o ngariid me na in kene i inwaa teen .A jega caaten mayu ka andoona yee i mbi'an mais :fra Supa ka i mbadidafulee meen no affaire :fra formation :fra ke mais :fra a fela nga roog formation :fra ke na ngara xam gar mene xam fiya na den formation :fra xam monter :fra comité:fra nene.
+srr_43510 1 Locuteur1 1930.582 1946.278 <o,f1,male> A felanga roog jerejef Njase ke layoona a jega njiriñ mais :fra koy pour :fra le :fra moment :fra boon nqaƴaful parce :fra que :fra bon layna yee kan mbog rek i nga'anga kiin i nqoɓatiidkee jegee njiriñ o leŋ xooykee o kiin a layin ee diw a xay yaqaa ta gara lay ee diw layaxam o ten .
+srr_43510 1 Locuteur1 1946.278 1961.010 <o,f1,male> Kene sax foogaam ee fogee no calel ke .O ga'anga o kiin ta yaqa laqwi maana o xot numero :fra o xoyit lay ee ga'aam a diw ta yaqaa mbit bereb sangam a ref yeng a refanga minuit :fra yo xan i ngar soɓin maaga. Donc :fra je :fra pense :fra que :fra kene jegeae problème :fra oxu na xoɓata xooyti xotu téléphone :fra ole o xoyit.
+srr_43510 1 Locuteur1 1961.010 1972.157 <o,f1,male> To ba i ngarke sax lay ee diwo l' :fra essentiel :fra daal ke interesser :fra na in fat i ngar soɓin maaga ta fi'aa ke ta fi'aa i sanction :fra ne in Modou Ndiaye foogaam ee oxene ke ta layna %e war a jeg teen ka layoona.
+srr_43510 1 excluded_region 1972.157 2169.347 <o,,unknown> ignore_time_segment_in_scoring

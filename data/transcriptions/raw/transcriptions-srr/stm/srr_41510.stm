@@ -1,0 +1,121 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:03 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 3 of 230323
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_41510 1 Locuteur1 0.000 17.560 <o,f1,female> visiter :fra it chaque :fra jour :fra mom kam gara no sit fe ɗet mesurer :fra la :fra densité :fra ret xad bala recolte :fra fad na koy um commencer :fra anga recolte :fra a toujours :fra maxey mene sauf :fra les :fra dimanche :fra dimanche :fra a fada nga wala vendredi :fra i naro reposer :fra magam jagala repos :fra ke mi
+srr_41510 1 Locuteur1 17.560 30.391 <o,f1,female> dimanche :fra de leyame i niowtu wala semaine :fra lakas um layadene vendredi xaye ba i njaliko yo comme :fra vendredi ka yaca raɓ heure :fra jouli fe ka fadida yenisay um laye dene fat i ñoot nu bes vendredi wala bes dimanche
+srr_41510 1 Locuteur2 30.391 41.861 <o,f1,female> so wo xa i mbato gar noo ne o fiya bo produit :fra of a an delin kene yin xa i mbato ngar ten yam no kene ka cuq no marketing fe
+srr_41510 1 Locuteur1 41.861 53.287 <o,f1,female> ok nem fiya bo produit :fra es a an del yenisay na xa sachet :fra xemi jegam xa sachet xa ando naye ga mbinel projet leng encadrer :fra axam taga de mbinelo yo logo es a mbinelo yo
+srr_41510 1 Locuteur1 53.287 69.393 <o,f1,female> wo tele numero :fra telephone :fra es ando naye o jika nga den mu wago na ret xano ga am ga telephone :fra fe mi a jege it xa sac 25 kilos xa ando naye kam fi un no gon entreprise :fra es nda a jega xa sac xa ando itam kam jik wan nene ko ga kan rek nda waag kiro ande na mi xatu
+srr_41510 1 Locuteur2 69.393 74.109 <o,f1,female> %hum kaga jeg ke jafe jafe na wo
+srr_41510 1 excluded_region 74.109 86.583 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 excluded_region 86.583 97.956 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur2 97.956 105.508 <o,f1,female> normalement :fra meme :fra o logo of a refa nge teen contact :fra of a wara ref teen ndax win we nga anga noyo a mbaag ngo contacter :fra te
+srr_41510 1 Locuteur1 105.508 118.663 <o,f1,female> i wey kaga mom a wara waago jeg nda a jega client :fra ke ando naye it njambirano yo parce :fra que :fra dans :fra ce :fra cas :fra fe ando naye ka jika ko jik wan te jik wa tin ko lakas bugo o an client :fra fa ten te jik wa
+srr_41510 1 Locuteur1 118.663 135.007 <o,f1,female> o fiya nga ten contacler :fra ten a jika ngan directement :fra o xe te jik wa tina directement :fra wo a adresser :fra ka donc :fra ka jega client :fra ka leyo nga ye mbuge numéro :fra télephone :fra to comme :fra ko jik wa exiger :fra kino den waga eliminer :fra numero :fra telephone :fra ne comme :fra waxay jarnda waxay ga a teen a xoxof
+srr_41510 1 Locuteur2 135.007 141.310 <o,f1,female> so instant :fra kene wo ka jeg wa ando naye ko ka lero nge wene xay et ko livrer :fra aden produit :fra of
+srr_41510 1 Locuteur1 141.310 161.359 <o,f1,female> i mi a jega client :fra ka ando naye bom jala sax kam sorale a den yam kam anda ye xana ŋoto yo produit :fra ne chaque :fra année :fra mina livrer :fra aden kaga nangan mo sorale a a jeg client ;fra ka ando naye koy ga mbeta xamnda a jega client :fra ka ando naye koy miñamo jala fo den nda ana ŋota temps :fra par :fra année :fra um sorale a den
+srr_41510 1 Locuteur2 161.359 170.365 <o,f1,female> so waga nanga jala fo wa ndef na mene Fatick in Dackar in wene yin
+srr_41510 1 excluded_region 170.365 186.019 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur2 186.019 187.858 <o,f1,female> so usine :fra ke na ngiro jala fo den
+srr_41510 1 excluded_region 187.858 205.118 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur2 205.118 213.581 <o,f1,female> so mam mam carrement :fra ando naye bo i ndet xay i ndet anga maga xa i nga oyo ye kene reine :fra du :fra sel :fra njegun
+srr_41510 1 Locuteur1 213.581 225.870 <o,f1,female> ok xaye bote re ina ye xay gan ndet u boutique :fra Cheikh nda nuun non :fra jega te fojem actuellement :fra nda i commencer :fra anga livrer a mem livrer :fra a ay boutique :fra Cheikh Gueye in mene yin xanu mbago ndet ma ndet xa sachet :fra nga xa sachet :fra
+srr_41510 1 Locuteur1 225.870 245.071 <o,f1,female> xa ando naye a mbine Marie Diouf fo numero telephone :fra es wala no we ando naye kam livrer :fra an vers :fra vers :fra prodas in mene yiin o waago bin taga sac es fo numero telephone es a part :fra kaga koy ko gaka um livrer :fra a nda ga kiro numero :fra telephone :fra es
+srr_41510 1 Locuteur2 245.071 249.817 <o,f1,female> yaga xaye jeg probleme :fra nawo de xaya impacter :fra kene of
+srr_41510 1 Locuteur1 249.817 250.613 <o,f1,female> non :fra non:fra
+srr_41510 1 Locuteur2 250.613 251.309 <o,f1,female> calel of wala
+srr_41510 1 Locuteur1 251.309 252.707 <o,f1,female> kaga jege impact :fra teen
+srr_41510 1 Locuteur2 252.707 253.116 <o,f1,female> %hum %hum
+srr_41510 1 excluded_region 253.116 264.805 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 264.805 274.153 <o,f1,female> jiko ran xaye yimbatox o saak of xaye wuk tin lakas a xoto sac :fra of a soɗit taga fojem donc :fra sens :fra ɗik ke fop a waga jeg teen impact :fra
+srr_41510 1 Locuteur2 274.153 281.220 <o,f1,female> kon wo jegiro comme :fra genre :fra jafe jafe wala cono pour :fra o jiku produit :fra of
+srr_41510 1 excluded_region 281.220 295.070 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 295.070 303.075 <o,f1,female> parce :fra que :fra client :fra ke ngaro ge fojem a maye nga bala i njik wa kaolack xana fangiɗ parce :fra que :fra kaolack enclaver :fra e in
+srr_41510 1 Locuteur1 303.075 314.433 <o,f1,female> jegam jafe jafe a cikax parce :fra que :fra jegam jafe jafe enclavement :fra fene sit fe ka enclaver :fra pour :fra o roq men no ndig ka jafeñ konn kaga jafe jafe a cikax i njegano yo
+srr_41510 1 Locuteur2 314.433 327.978 <o,f1,female> so xaye no produit :fra of xaye o kina commander :fra angan commander :fra angan bo o bo o manaam o waro livrer :fra in ka coxang xalis fe ndi ka cunga ba daaw pa pare
+srr_41510 1 excluded_region 327.978 329.204 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 329.204 345.561 <o,f1,female> mi koy moom bo o commaander axam etan fiyo ga num nda kam arreter :fra in parce :fra que :fra kam jegg ten wa ando naye ndamb dira mo ten bo ndik des millions ka ando naye kam saqanelo ten mi bo o livrer :fra bo commander :fra ataxam mene ko li ko verser :fra axam commander :fra axa mona um livrer :fra ongo ten
+srr_41510 1 Locuteur2 345.561 348.963 <o,f1,female> so wo ga coxango yo xaliss so o sogo coxa den
+srr_41510 1 excluded_region 348.963 356.573 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur2 356.573 359.401 <o,f1,female> yam des :fra fois :fra ka jega wana commander :fra ang bo paré to ndabid ke
+srr_41510 1 excluded_region 359.401 359.893 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 excluded_region 359.893 362.088 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 362.088 372.771 <o,f1,female> wawaw kaga moom jeg am teno cas :fra wa ando naye ka commander :fra a a saqanam des :fra millions to bo fa ndik ndabmb diram topa ciñ den lam tan to dawinum a impacter :fra axam a paax
+srr_41510 1 excluded_region 372.771 374.665 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur2 374.665 380.743 <o,f1,female> te texu bo bugona bo bugona livrer :fra o kin
+srr_41510 1 Locuteur1 380.743 380.989 <o,f1,female> %hum hum
+srr_41510 1 Locuteur2 380.989 382.350 <o,f1,female> foko daw xalis bo pare
+srr_41510 1 Locuteur1 382.350 382.752 <o,f1,female> %hum %hum
+srr_41510 1 excluded_region 382.752 385.515 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 excluded_region 385.515 387.671 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 excluded_region 387.671 389.692 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 excluded_region 389.692 402.373 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 excluded_region 402.373 413.503 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 excluded_region 413.503 419.527 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur2 419.527 425.078 <o,f1,female> so waga meri tona o leye mi kirango yo o coup :fra la ga
+srr_41510 1 Locuteur1 425.078 425.356 <o,f1,female> %hum %hum
+srr_41510 1 Locuteur2 425.356 428.319 <o,f1,female> a ndeta nga ba mbi ngo ten est :fra ce :fra que :fra jeg kiro problème :fra aussi :fra
+srr_41510 1 Locuteur1 428.319 440.617 <o,f1,female> non :fra waga meritu ma ça :fra veut :fra dire :fra andam xaye famille :fra den on :fra est :fra en :fra famille :fra comme :fra in mbog calel ke rek nanu parce :fra que :fra waga ça :fra fait :fra des :fra années :fra depuis :fra 2000 maxey jala fa den
+srr_41510 1 Locuteur1 440.617 451.849 <o,f1,female> wala ay 2005 kene fop ina njala yo comme :fra xaye a re anga ye o xot anga le :fra cas :fra no boutique :fra leng wan livrer :fra a fojem kaga kam mbisan fojem bata fagiɗ te ref dam
+srr_41510 1 Locuteur1 451.849 458.157 <o,f1,female> parce :fra jega ma dama noona boutique :fra a saqu xana ande o xaga ngo rafid
+srr_41510 1 Locuteur2 458.157 471.106 <o,f1,female> [b] question :fra ne bug uma ten refe nama fiya bo bo ka fi nen poser :fra axongo ten sax namo fiya bo ga xa client :fra ke wo dal
+srr_41510 1 Locuteur1 471.106 472.566 <o,f1,female> nam fiya bo ga a den
+srr_41510 1 Locuteur2 472.566 472.871 <o,f1,female> i
+srr_41510 1 excluded_region 472.871 474.940 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 474.940 486.774 <o,f1,female> non :fra client :fra kemi kam nan re fa den no reseau :fra sociaux :fra ke par :fra watshap :fra wala par messager :fra mayu dal à :fra travers :fra vocal :fra ke ten leya yo client :fra ke ndef na dans :fra la :fra sous :fra région :fra
+srr_41510 1 Locuteur1 486.774 499.322 <o,f1,female> we ndef na Senegal koy nanga mo deplacer :fra wa de :fra temps :fra en :fra temps :fra ret no mbinof sax waxtan fo wo usine :fra ke waga ret no de :fra temps :fra en :fra temps :fra ma den visite :fra a refa nga boutique :fra ke mom in mboy nga ra face :fra à :fra face :fra
+srr_41510 1 Locuteur2 499.322 501.532 <o,f1,female> so usine :fra ke par :fra virement :fra coxango yo ndi ²
+srr_41510 1 Locuteur1 501.532 508.078 <o,f1,female> non :fra usine :fra ke kam ley nge ka i njik wa den à :fra travers :fra la :fra coopérative :fra o coxa nga coopérative :fra ne coopérative :fra ne jik wa den te v
+srr_41510 1 excluded_region 508.078 510.610 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur2 510.610 514.160 <o,f1,female> %hum so compte :fra ne so cooperative :fra dena coxa ngo yo xalis
+srr_41510 1 Locuteur1 514.160 519.307 <o,f1,female> cooperative :fra ka gara jik casse :fra wala o raw nanga cooperative :fra ne yo a virer :fra ange a raf dingo
+srr_41510 1 Locuteur2 519.307 521.121 <o,f1,female> so na fiyo bo fog no cooperative :fra ne
+srr_41510 1 Locuteur1 521.121 534.777 <o,f1,female> non cooperative :fra nene moom ka ley ka in sosu noyo parce :fra ka ref in we na ŋoxa fojem fop i mboka tor leye fojem fop i ɓokator leye pour :fra i mbis fojemole mbaambir il :fra faut :fra i creer :fra yo cooperative :fra naga i mbiyu u mbax taan ten ne créer :fra yo cooperative :fra
+srr_41510 1 Locuteur1 534.777 551.464 <o,f1,female> projet :fra ke encadrer :fra a in i creer :fra o yo ino yo im gar aderan um gar adhérer :fra ten membre :fra fog teen mbida itam sensibliser :fra lakas ke pour :fra a mbong ten parce :fra i anda ye tot :fra ou :fra tard :fra pour :fra i mbi face :fra aux :fra industrie :fra xan i mboka toroyo kaga wara lou i mbi cooperative :fra nana
+srr_41510 1 Locuteur2 551.464 554.314 <o,f1,female> so mene fop wene fop a mboga no cooperative :fra
+srr_41510 1 Locuteur1 554.314 557.555 <o,f1,female> la :fra plus :fra part :fra mom no sit ke moom a mboga yo no cooperative :fra
+srr_41510 1 Locuteur1 557.555 576.171 <o,f1,female> mi na jik wana xoxes a refa nga exportation :fra ke mbisa mana client :fra jegum maga rek mina livrer :fra ana na xoxes te verser :fra anam xalises no compte :fra es ka verser :fra a na compte :fra es um livrer :fra in fojemum a refa nga industrie :fra ke ndef na mene koy retim wedan ka xoxes pour :fra jik wana xoxes ka i njeg cooperative :fra na i mber na i njek na
+srr_41510 1 Locuteur1 576.171 588.438 <o,f1,female> ten i jagle ten i jagle ta a cikaxa le a jika nga a jik wa tinan livrer :fra ana xoxes encaisser :fra od xalises e% ina commencer :fra ka mbiya na xam un :fra bon :fra de :fra commande :fra a envoyer :fra am un :fra bon :fra de :fra commande :fra
+srr_41510 1 Locuteur1 588.438 603.817 <o,f1,female> um envoyer a den une :fra facture :fra proforma :fra envoyer :fra am versement :fra par :fra virement :fra um livrer :fra a den facture :fra wanda papiers :fra ke de ndet kaga moom wagan mo fi parce:fra que :fra quant :fra meme :fra fi am gestion o ndik
+srr_41510 1 Locuteur1 603.817 617.451 <o,f1,female> mina bindo da les :fra facture :fra proforma :fra envoyer :fra a den kam binan envoyer :fra reta saisir :fra envoyer :fra ina den den de envoyer :fra angam bon :fra de :fra commande :fra im ndetin saisir :fra facture :fra proforma :fra envoyer :fra ina den
+srr_41510 1 Locuteur1 617.451 630.641 <o,f1,female> de mberse anam xalis fe kaga moom refe parce :fra que :fra journalièrement :fra mina enrigistre :fra oda gestion :fra es mais :fra à :fra la :fra fin :fra d :fra année :fra nak tenum rab da un :fra comptable :fra te fiya nam les mfra états :fra financière :fra
+srr_41510 1 Locuteur1 630.641 644.871 <o,f1,female> fagna a re a 62 millions chiffres :fra d :fra affaire :fra es fagum faak heure :fra nene uno ruma 92 millions :fra jegum en :fra 2022 fene i sutor na
+srr_41510 1 Locuteur1 644.871 658.150 <o,f1,female> donc :fra chaque :fra année :fra chiffres :fra d :fra affires :fra es ka yoqo xa par :fra rapport :fra les :fra années :fra passées :fra ino ano naye ko perter :fra ogu waaw wax deg ne o jikora
+srr_41510 1 excluded_region 658.150 673.800 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur2 673.800 676.129 <o,f1,female> [rire] kon nu mbey nga a tena qox nuun
+srr_41510 1 excluded_region 676.129 683.461 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 683.461 685.706 <o,f1,female> na ngan mo dawa bo jeg
+srr_41510 1 excluded_region 685.706 689.638 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 689.638 702.453 <o,f1,female> o fiya ngan ten refu ye plan :fra de :fra trésorier :fra of ten refu ye foko fok o an ke dépenser :fra ona fop ke dépenser :fra uma fop kam sutan à :fra la :fra fin :fra d :fra année :fra bo an benefice :fra es
+srr_41510 1 excluded_region 702.453 706.025 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 706.025 711.477 <o,f1,female> jega ma facture :fra ku jik wuma parexemple :fra [b] kam fiya nanga facture :fra parexemple :fra
+srr_41510 1 Locuteur1 711.477 727.563 <o,f1,female> nem fiya ga ano entreprise :fra reine :fra du :fra sel :fra client :fra fe jik wumanama ne e mama genu fop um livrer :fra in xar jik wanum 20 mille :fra sacs :fra [conv] de 25 kilos :fra
+srr_41510 1 Locuteur1 727.563 731.018 <o,f1,female> ñame niger 500 tonnes :fra tonne :fra nu ref na
+srr_41510 1 excluded_region 731.018 735.487 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 735.487 744.585 <o,f1,female> ga ano nene fi ta facture :fra es bo à :fra la :fra fin :fra d :fra année :fra ke jik wona no kene koy ke ref na charge :fra fe xano sutin an ke ref na benefice :fra es
+srr_41510 1 Locuteur1 744.585 761.085 <o,f1,female> actuellement :fra commander :fra em mayu to jegim ka livrer :fra uma parce :fra fo jemole faga a fiya ngan commander :fra anga jour :fra na ando naye fojema jega koy kam fang ɗa bo jik production :fra fa win lakas livrer :fra in waw parce :fra mene ndamtir soom refu meen
+srr_41510 1 Locuteur1 761.085 772.569 <o,f1,female> jega nga client :fra o jik wanga o jik wan win lakas we o commander :fra angam to jegim kam xota production :fra lakas ke kam gara jek no we ando naye in mbog calel pour :fra livrer :fra ana den meme :fra um commander :fra ange to
+srr_41510 1 Locuteur1 772.569 785.319 <o,f1,female> a soɓ um jeg mayu den de njeg sax kam gara ñima na xoxes o ndik ñima na den ñima na den bala ando naye den xana mbago njeg ka ando naye xana mbaŋo njala tren a nga tena qox ten um ga tena xoxes de nga tena qox den um commander :fra ange soɓ um faŋiɗ
+srr_41510 1 excluded_region 785.319 800.329 <o,,unknown> ignore_time_segment_in_scoring
+srr_41510 1 Locuteur1 800.329 814.520 <o,f1,female> xana galam may ke humidité :fra wena njika ga leyange qualiter :fra nene i mbugu parexemple :fra a refa nga Niger ka leyange fat grain :fra ne magin fata xool xano ande kaga o livrer :fra a den aussi :fra a refa nga we ando naye ka njeɓaɗa
+srr_41510 1 Locuteur1 814.520 825.880 <o,f1,female> xana ande grain :fra ndeɓ ne mbugu wala fojem fo moku mbugu xano anke client :fra fe demander :fra na dal [b] kaga ka jega waga ɓis client :fra comme :fra à :fra travers :fra la coopérative :fra fene
+srr_41510 1 Locuteur1 825.880 838.349 <o,f1,female> i mbis a client :fra fojemole te fad e% patisen a leye fojemole i mbugiran waw kaga waga jeg parce :fra que :fra soit :fra te xuɓ a xuɓa nga njang kirano wala te jeg impureté :fra mais :fra mi moom
+srr_41510 1 Locuteur1 838.349 849.538 <o,f1,female> e% mi en :fra tant :fra que :fra reine :fra mom livrer :fra a fulim qualiter :fra es te leyame buginum parce :fra que :fra i mbisa fule directement :fra pour :fra a qox in client :fra fe na jika ten na gad wa frais :fra fe yin kene yi
+srr_41510 1 Locuteur1 849.538 864.903 <o,f1,female> mais :fra ina nana a paax den de ɗomat waye frais :fra fe ka chere :fra client :fra fe i njikoxa ken i njikoram mene mais :fra ka i topan a refa nga dal Cote d'ivoire bo contanaire :fra ala te te rabid frais :fra um a rabid frais um
+srr_41510 1 Locuteur1 864.903 879.930 <o,f1,female> kaga no frais :fra transit :fra uma foga a refa nga we i njik wa Niger ka i njik wan bo tooko auto :fra la transport :fra fe te rab din kaga mom jege frais :fra anda ye transport :fra o fo de :fra douagne :fra ma mais :fra nak quand :fra meme :fra i ana ye temps kene mom fop ka yoqu frais :fra fe ka

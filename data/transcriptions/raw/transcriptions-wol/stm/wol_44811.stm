@@ -1,0 +1,648 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:03:57 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by PROPRIETAIRE, version 2 of 230619
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_44811 1 inter_segment_gap 0.000 5.229 <o,f0,> 
+wol_44811 1 inter_segment_gap 5.229 32.310 <o,f0,> 
+wol_44811 1 locuteur_1 32.310 59.609 <o,f1,male> samedi :fra fukki fan ak juróom-ñaar ci weeru décembre :fra ñaari waxtu %e ñetti waxtu jot na [r] ci %e studio :fra Aly Momar %e Aly Lo ci Alfayda FM 90 point :fra 1 [r] kaddu gi di addoo fii ci Medina Baye di leen nuyu bu baax a baax di leen gërëm di kleen sant [r] si ànd bi ngeen def ak Alfayda FM di jaajëfal également :fra ñi nga xamante ni ñi ngi ñuy suivre :fra un :fra peu :fra partout :fra dans :fra le :fra monde :fra ñi ñuy bàyyi xel également :fra ci internet :fra bi [r] ci WWW.radioalfayda.net ñu ngi leen di %e jaajëfal bu baax a baax
+wol_44811 1 locuteur_1 59.609 86.205 <o,f1,male> partie :fra technique :fra Waly Majoie Seck réalisation :fra El Hadj Ibrahima Gueye présentation :fra Serigne Moussa Kane [r] dellu si waat nañ mbokk yi si seen %e beneen émission :fra bi nga xamante ni muy comme :fra ni ñu ko waxee woon %e b£es bii ñu weesu [r] dellu si waat nañ ak ki nga xamante ni moom mooy Thierno Amath Sadji bi nga xamante ni [r] moom mooy point :fra focal :fra %e force :fra paysane :fra bu %e li projet :fra bii nga xamante ne moom mooy %e Agri Jeunes tekki ndaw ñi [r]
+wol_44811 1 locuteur_1 86.205 105.714 <o,f1,male> di %e jëm ak ñoom horizon :fra deux :fra mpille :fra %e vingt cinq :fra donc :fra %e waxoon nañ leen [r] li ko tax a jug ak mbébét meeg lépp waxoon nañu tamit ci li nga xamante ni [r] mooy ñi ko composé :fra ak objectifs :fra yi nga xamante ne am na ko [r] ak %e li nga xamante ni nag la ñuy def ba bénéficié :fra wu ak cyble :fra bi nga xamante ni %e Agri Jeunes am na ko [r]
+wol_44811 1 locuteur_1 105.714 120.712 <o,f1,male> donc :fra %e communes :fra yi muy yi muy yi muy yi muy intervenir :fra tamit fii ci Kaolack xam ngeen ko ak li nga xamante ni moom mooy %e Agri Jeunes ci biir Sanagal régions :fra yi nga xamnte ni yi nga xamante ni moom la tànn [r] bokk na ci région :fra de :fra Kaolack bi nga xamante moo ñu soxal [r]
+wol_44811 1 locuteur_1 120.712 134.342 <o,f1,male> donc :fra %e ki nga xamante ni moom mooy Thierno Amath Sadji nag moom mooy point :fra focal :fra bi nga xamante ni [r] %e ma nga dëkk ca Latmengue waaye tamit %e zone :fra bi yëpp daf koy sillonné :fra [r] donc :fra %e di wër li nga xamante ni moom mooy doxalinu waa projet :fra bi [r]
+wol_44811 1 locuteur_1 134.342 160.255 <o,f1,male> projet :fra bi fàttali leen rek %e dafay day dafa dafa dafay viser :fra cent :fra cinquante :fra mille :fra jeunes :fra donc :fra %e quarante :fra cinq :fra mille :fra [r] ci %e jigéen ñi donc :fra cinquante :fra pour :fra cent :fra ci jigéen ñi nga xamante ni [r] ay ndaw lañ war a nekk ci li nga xamante ni moom mooy seen liggéeyu bopp yi yëngal suuf seen cëgal guy [r] ba nga xamante ni dinañ mën a demal seen bopp %e wàllum %e mbay meeg [r] wàllum napp geeg %e lépp loo xamante ni rek %e daf leen di jëmale kanam
+wol_44811 1 locuteur_1 160.255 175.462 <o,f1,male> mi ngi nas ay projets :fra gaag orientations :fra yeeg yëpp yi ci aju [r] waxtaanee woon nañu ko dañ koy gën a %e yaatal tey nag %e dinañ waxtaanee li nga xamante ni [r] moommooy force :fra paysane :fra [r] moom la ñuy fas yéene waxtaanee tey ak ki nga xamante ni moom mooy Thierno Amath Sadji [r] Thierno
+wol_44811 1 locuteur_2 175.462 177.072 <o,f1,male> waaw sëñ Moussa
+wol_44811 1 locuteur_1 177.072 177.953 <o,f1,male> ñu ngi ziar
+wol_44811 1 locuteur_2 177.953 179.943 <o,f1,male> %e fay nañ la bu baax a baax a baax
+wol_44811 1 locuteur_1 179.943 181.190 <o,f1,male> ñu bàyyi la nga nuyoog mbokki auditeurs :fra yi
+wol_44811 1 locuteur_2 181.190 191.847 <o,f1,male> %e mbooloo mi ñu ngi leen di nuyu ku nekk ci turam ak santam %e di jiital %e ci nuyoo bi ñi nga xam ne ñoom ñoo tax ñu toog fii mooy maanaam %e projet :fra Agri Jeunes
+wol_44811 1 locuteur_1 191.847 192.488 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 192.488 196.448 <o,f1,male> ndax %e lëk bu lekkee alóom rek na ci gërëmee coy
+wol_44811 1 locuteur_1 196.448 197.172 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 197.172 200.197 <o,f1,male> %e Agri Jeunes nag am na dispositif :fra boo xam ne jël na k
+wol_44811 1 locuteur_1 200.197 200.422 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 200.422 202.839 <o,f1,male> %e looloo tax waral ñaareelu pàcc bi
+wol_44811 1 locuteur_1 202.839 203.246 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 203.246 204.739 <o,f1,male> ñu mën koo faram-fàccee
+wol_44811 1 excluded_region 204.739 206.241 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 206.241 206.712 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 206.712 209.787 <o,f1,male> ak lan mooy cëram ci doxalinu Agri Jeunes
+wol_44811 1 locuteur_1 209.787 210.328 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 210.328 213.316 <o,f1,male> donc :fra ci njël() njëlbéen bi rek maa ngi gërëm sama kilifa
+wol_44811 1 locuteur_1 213.316 213.737 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 213.737 216.174 <o,f1,male> %e sama njiit %e mon :fra leader :en natinal :fra
+wol_44811 1 locuteur_1 216.174 216.668 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 216.668 219.739 <o,f1,male> mu nekk président :fra national :fra %e bu force :fra paysane :fra
+wol_44811 1 locuteur_1 219.739 220.264 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 220.264 221.766 <o,f1,male> muy l( :fra honorable :fra Aliou Dia
+wol_44811 1 locuteur_1 221.766 222.562 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 222.562 226.904 <o,f1,male> %e man nag maa ngi nekk fii di yore point :fra focal :fra trois :fra régions :fra
+wol_44811 1 locuteur_1 226.904 227.375 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 227.375 227.972 <o,f1,male> kaolack
+wol_44811 1 locuteur_1 227.972 228.279 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 228.279 228.750 <o,f1,male> Kaffrine
+wol_44811 1 excluded_region 228.750 230.505 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 230.505 241.416 <o,f1,male> %hum %hum d' :fra accord :fra [bb] waaw mi ngi noonu Thierno Amath Sadji [tx] point :fra focal :fra ñetti régions :fra yooyu di Kaolack [r] %e Fatick ak Kaffrine mi nga xamante ni projet :fra Agri Jeunes daf fay yëngatu bu %e bu baax a baax [r]
+wol_44811 1 locuteur_1 241.416 248.491 <o,f1,male> laataa ñuy dugg ci li nga xamante ni moom mooy force :fra paysane :fra bi nga xamante ni moom la ñu fas yéene waxtaanee tey [r] ñu def rappel :fra bu ndaw rek ci li nga xamante ni moom mooy agri Jeunes
+wol_44811 1 locuteur_2 248.491 257.849 <o,f1,male> %e donc :fra Agri Jeunes comme :fra ni ñu ko waxee rek [r] %e [b] mbir projet :fra boo xam ne la itteem saa su nekk rek mooy fexe jeunes :fra yi am xëy
+wol_44811 1 locuteur_1 257.849 258.157 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 258.157 260.944 <o,f1,male> %e li turam sax firdeel na ko
+wol_44811 1 excluded_region 260.944 262.934 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 262.934 263.405 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 263.405 268.887 <o,f1,male> ndax seetlu nañ ne %e xale yu bëri dañuy jóge seen i gox dem feneen
+wol_44811 1 locuteur_1 268.887 269.381 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 269.381 270.733 <o,f1,male> ñii di defi ambulant :fra
+wol_44811 1 locuteur_1 270.733 270.968 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 270.968 272.977 <o,f1,male> ñeneen di def leneen parce :fra que :fra amuñu pexe
+wol_44811 1 locuteur_1 272.977 273.574 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 273.574 280.341 <o,f1,male> agri Jeunes nag approche :fra am mooy fexe ba jeunes :fra yu bëri yi nga xam ne ñoo nekk ci àll yi wala jeunes :fra yooyu demoon màngaani
+wol_44811 1 locuteur_1 280.341 280.757 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 280.757 282.006 <o,f1,male> énu indi leen seen i gox
+wol_44811 1 locuteur_1 282.006 282.438 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 282.438 287.531 <o,f1,male> accompagner :fra leen jox leen ay financements :fra ba seen nekkin gën a jëm kanam ba ñoom duñ talati leneen
+wol_44811 1 locuteur_1 287.531 287.831 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 287.831 289.297 <o,f1,male> xanaa dañuy tànn kay ñeneen
+wol_44811 1 locuteur_1 289.297 289.751 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 289.751 297.011 <o,f1,male> ñëw waaye ñoom danañ samp seen nekkin gën a dem jëm kanam ci à :fra travers :fra projets :fra yi nga xam ne moom la Agri Jeunes di leen di accompagner :fra
+wol_44811 1 locuteur_1 297.011 310.643 <o,f1,male> %hum %hum [r] alors :fra %e ci biir Agri Jeunes yooyu %e góor ñaa ngi ci jigéen ñaa ngi ci %e li nga xamante ni moom la Agri Jeunes nas ci li nga xamante ni moom mooy %e wàllu wàllu wàllu ñaari pàcc yooyu
+wol_44811 1 locuteur_2 310.643 316.313 <o,f1,male> donc :fra comme :fra nim ko waxee rek Agri Jeunes daa ne %e lépp loo xam ne moom la ñuy def
+wol_44811 1 locuteur_1 316.313 316.671 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 316.671 318.832 <o,f1,male> ci mbirum accompagnement :fra
+wol_44811 1 locuteur_1 318.832 319.174 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 319.174 320.421 <o,f1,male> ci mbirum financement :fra
+wol_44811 1 locuteur_1 320.421 320.750 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 320.750 323.834 <o,f1,male> ak yooyu yëpp nañ ko xaaj ñaari xaaj
+wol_44811 1 locuteur_1 323.834 324.247 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 324.247 326.350 <o,f1,male> juróom fukk su dee téeméer
+wol_44811 1 locuteur_1 326.350 326.675 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 326.675 328.167 <o,f1,male> juróom fukk yi naénu nekk góor
+wol_44811 1 excluded_region 328.167 329.532 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 329.532 329.890 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 329.890 332.427 <o,f1,male> mais :fra ci biir góor ñeeg jigéen ñooñu aussi :fra
+wol_44811 1 locuteur_1 332.427 332.759 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 332.759 335.055 <o,f1,male> am na ñoo xam ne sóoraale nañ leen
+wol_44811 1 locuteur_1 335.055 335.520 <o,f1,male> muy ñan
+wol_44811 1 locuteur_2 335.520 339.071 <o,f1,male> mooy ñi nga xam ne saa dañ leen beddi
+wol_44811 1 locuteur_1 339.071 339.428 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 339.428 345.937 <o,f1,male> ñooñu dinañ leen boole ci ñii am na ñoo xam ne aussi :fra peut :fra être :fra %e seen am nañu wàññeeku si seen cër
+wol_44811 1 locuteur_1 345.937 346.300 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 346.300 348.400 <o,f1,male> ñooñu aussi :fra ci projet :fra bi lañ bokk
+wol_44811 1 locuteur_1 348.400 348.657 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 348.657 352.932 <o,f1,male> A1gri Jeunes nee na leen nañ leen jëlal %e jël en :fra considération :fra boole leen ci
+wol_44811 1 locuteur_1 352.932 353.180 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 353.180 354.091 <o,f1,male> parce :fra que :fra ay jeunes :fra lañ
+wol_44811 1 locuteur_1 354.091 354.371 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 354.371 355.676 <o,f1,male> am nañ idée :fra
+wol_44811 1 locuteur_1 355.676 355.986 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 355.986 358.722 <o,f1,male> am nañ xalaat boo xam ne saa suñ leen accompagne :fra
+wol_44811 1 locuteur_1 358.722 358.993 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 358.993 360.173 <o,f1,male> vraiment :fra danañu réussir :fr
+wol_44811 1 locuteur_1 360.173 360.530 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 360.530 362.560 <o,f1,male> ba li nga xam ne moom lañ doon def
+wol_44811 1 locuteur_1 362.560 362.904 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 362.904 364.355 <o,f1,male> mooy maanaam dem ci marché :fra yi
+wol_44811 1 locuteur_1 364.355 364.590 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 364.590 365.376 <o,f1,male> dem ci mbedd yi
+wol_44811 1 excluded_region 365.376 367.519 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 367.519 379.442 <o,f1,male> ok :en [r] alors :fra %e donc :fra %e moom mooy taxawaayu Agri Jeunes tekki ndaw ñi [r] jëm ak ñoom %e horizon :fra deux :fra mille :fra vingt :fra cinq :fra ci %e gàtt beeg [r] dégg ngeen Thierno Amath %e Sadji ni mu ko %e ni mu ko daaneelee [r]
+wol_44811 1 locuteur_1 379.442 386.328 <o,f1,male> ñu dugg nag tey ci %e thème :fra mu tey bi nga xamante moom la ñu fas yéene waxtaanee [r] moom mooy force :fra paysane :fra xanaa loolu dafa jëm ci wàllu béy rek de
+wol_44811 1 locuteur_2 386.328 389.731 <o,f1,male> %e non :fra non :fra force :fra paysane :fra %e je :fra crois :fra que :fra ku ko wax
+wol_44811 1 locuteur_1 389.731 390.104 <o,f1,male> %hum
+wol_44811 1 locuteur_2 390.104 397.535 <o,f1,male> je :fra crois :fra que :fra énu bëri dañuy seen xel day daj borom mbaxane mu xonk mi en :fra général :fra Aliou Dia
+wol_44811 1 locuteur_1 397.535 397.861 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 397.861 401.521 <o,f1,male> moom mooy la :fra personne :fra morale :fra de :fra %e force :fra paysane :fra
+wol_44811 1 locuteur_1 401.521 401.863 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 401.863 405.309 <o,f1,male> force :fra paysane :fra nag plateforme :fra paysane :fra boo xam ne la ëmb na lépp
+wol_44811 1 locuteur_1 405.309 405.666 <o,f1,male> %hum
+wol_44811 1 locuteur_2 405.666 407.403 <o,f1,male> dañu ko tuddee paysane :fra
+wol_44811 1 locuteur_1 407.403 407.745 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 407.745 417.550 <o,f1,male> mais :fra ëmb na béykat ëmb na sàmmkat ëmb na nappkat si Kaolack bi ñu dëkk nii y' :fra %e eu :fra am na bokk cellules :fra yu bëri au :fra niveau :fra de :fra force :fra paysane :fra
+wol_44811 1 locuteur_1 417.550 417.901 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 417.901 424.458 <o,f1,male> marché :fra géej gii am na cellule :fra force :fra paysane :fra donc :fra lépp lañ boole mais :fra soo déggee paysane :fra bi rek da ngay wax ne mbéy rek la
+wol_44811 1 locuteur_1 424.458 424.956 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 424.956 428.074 <o,f1,male> déedéet bokk sàmm parce :fra que :fra kiy napp
+wol_44811 1 excluded_region 428.074 428.811 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 428.811 429.170 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 429.170 430.494 <o,f1,male> kuy sàmm day béy
+wol_44811 1 locuteur_1 430.494 430.904 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 430.904 433.363 <o,f1,male> béykat bi aussi :fra i tam ci liggéeyam la nekk
+wol_44811 1 locuteur_1 433.363 433.653 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 433.653 437.663 <o,f1,male> donc :fra ñu ngi ko %e sas nag en :fra mille :fra neuf :fra cent :fra quatre :fra vingt :fra quatre :fra
+wol_44811 1 locuteur_1 437.663 437.968 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 437.968 445.797 <o,f1,male> yàlla def %e booba am gisuñu woon kuréel goo xam ne dina mun a jël en :fra charge :fra besoins :fra et :fra aspirations :fra béykat yi
+wol_44811 1 locuteur_1 445.797 446.422 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 446.422 450.363 <o,f1,male> ñu ne nag léegi il :fra faut :fra que :fra ñu samp kuréel goo xam ne béykat bi dana ci gis boppam
+wol_44811 1 locuteur_1 450.363 450.720 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 450.720 454.305 <o,f1,male> béykat bi na am dana xam fu muy jooyee naqaram
+wol_44811 1 locuteur_1 454.305 454.647 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 454.647 458.068 <o,f1,male> béykat bi dina xam naka lay def ba nekkinam gën a jëm kanam
+wol_44811 1 locuteur_1 458.068 458.487 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 458.487 462.887 <o,f1,male> loolu lañ foofa lañ ko sampee ci teewaay Banque Mondiale it
+wol_44811 1 locuteur_1 462.887 463.323 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 463.323 471.664 <o,f1,male> %e samp force :fra paysane :fra muy yëngatu yëngatu yëngatu ba fi mu ne nii [r] mu ngi ci cinq :fra cent :fra cinquante :fra collectivités :fra territoriales :fra yi nga xam ne ñoo nekk Sénégal
+wol_44811 1 locuteur_1 471.664 472.402 <o,f1,male> moom force :fra paysane :fra
+wol_44811 1 locuteur_2 472.402 474.523 <o,f1,male> voilà :fra ak quatorze :fra régions :fra yi aussi :fra ñu ngi ci
+wol_44811 1 locuteur_1 474.523 487.369 <o,f1,male> %hum %hum [r] alors :fra %e wax nga ko béykat baa nga ci nappkat bi sa() sàmmkat baa ngi ci [r] est :fra ce :fra que :fra du jafe du jefe ñoom ñëpp nga boole leen ci benn ci benn unité :fra rek ne leen aywa léegi liggéey bi nii nii la ñu ciy * nu ngeen ko daan defee
+wol_44811 1 locuteur_2 487.369 497.240 <o,f1,male> non :fra du jafe parce :fra que :fra bu nekk rek daa am pàccam am na collège :fra bi nga xam ne ñoom ñoo nekk ci wàllu càmm
+wol_44811 1 locuteur_1 497.240 497.660 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 497.660 500.017 <o,f1,male> am na collège :fra boo xam ne ci wàllu napp la nekk
+wol_44811 1 locuteur_1 500.017 500.373 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 500.373 511.918 <o,f1,male> ak %e les :fra agriculteurs :fra donc :fra ñooñu ku nekk daa am autonomie :fra boppam ak xalaati boppam boo xam ne dina ko def pour :fra nekkinu béykat yooyu wala nekkinu sàmmkat yooyu wala nekkinu nap() nappkat yooyu
+wol_44811 1 locuteur_1 511.918 512.228 <o,f1,male> %hum
+wol_44811 1 locuteur_2 512.228 512.801 <o,f1,male> jëm kanam
+wol_44811 1 locuteur_1 512.801 513.177 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 513.177 515.533 <o,f1,male> mais :fra ci biir fiñ ko chapoter :fra nag
+wol_44811 1 locuteur_1 515.533 515.998 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 515.998 518.372 <o,f1,male> mais :fra foofu la ñu waxtaanee ku nekk jafe-jafeem
+wol_44811 1 locuteur_1 518.372 518.915 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 518.915 524.356 <o,f1,male> te tëral plan :fra d' :fra action :fra wala plan :fra d' :fra activité :fra boo xam ne mooy ba topp bëgg-bëgg ak jëmin yi
+wol_44811 1 excluded_region 524.356 526.024 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 526.024 529.752 <o,f1,male> %hum %hum léegi si ñett %e suñ ko déggee maanaam ñetti collèges :fra yëpp
+wol_44811 1 excluded_region 529.752 532.597 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 excluded_region 532.597 533.303 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 excluded_region 533.303 535.347 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 excluded_region 535.347 537.357 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_2 537.357 537.659 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_1 537.659 547.286 <o,f1,male> activité :fra forces :fra paysane :fra yi nga xamante ni %e moo xam ci ci ci ci mbéy mi moo xam ci napp gi moom mooy ci xam ci ci càmm gi [r] mais :fra daé, ko dañ ko def %e collège :fra par :fra collège :fra
+wol_44811 1 locuteur_2 547.286 547.861 <o,f1,male> voilà :fra
+wol_44811 1 locuteur_1 547.861 550.143 <o,f1,male> waaw nañ ñëw ci ci ci ci ci mbéy mi
+wol_44811 1 locuteur_2 550.143 554.496 <o,f1,male> voilà :fra ci mbéy mi je :fra crois :fra que :fra toujours :fra %e force :fra paysane :fra daf cee ràññeeku
+wol_44811 1 locuteur_1 554.496 554.793 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 554.793 558.549 <o,f1,male> je :fra crois :fra que :fra %e force :fra paysane :fra comission :fra nationale :fra bi
+wol_44811 1 locuteur_1 558.549 558.947 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 558.947 564.128 <o,f1,male> distribution :fra yëpp da ngeen koy gis force :fra paysane :fra bokk ci représenté :fra par :fra honorable :fra Aliou Dia
+wol_44811 1 locuteur_1 564.128 564.465 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 564.465 569.063 <o,f1,male> [r] %e ci yeneen activités :fra parce :fra que :fra procéssus :fra boo xam ne processus :fra développement :fra agriculture :fra
+wol_44811 1 locuteur_1 569.063 569.437 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 569.437 572.964 <o,f1,male> force :fra paysane :fra taxaw na ci
+wol_44811 1 locuteur_1 572.964 573.367 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 573.367 575.775 <o,f1,male> programe :fra national :fra développement :fra de :fra l' :fra agriculture :fra
+wol_44811 1 locuteur_1 575.775 576.067 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 576.067 580.938 <o,f1,male> yeneen programme :fra juste :fra bi %e acte :fra trois :fra de :fra la :fra décentralisation :fra
+wol_44811 1 locuteur_1 580.938 581.246 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 581.246 582.922 <o,f1,male> bi nga xam ne moo samp PSE
+wol_44811 1 locuteur_1 582.922 583.278 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 583.278 586.263 <o,f1,male> PSE plan :fra Sénégl émergent :fra dans :fra son :fra volet :fra agriculture :fra
+wol_44811 1 locuteur_1 586.263 586.625 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 586.625 596.115 <o,f1,male> %e force :fra paysane :fra joué :fra na ci lu bëri ci ci ci %e ci activité :fra yooyu deuxièment :fra ausi :fra force :fra paysane :fra [r] ci réforme :fra focières :fra
+wol_44811 1 locuteur_1 596.115 596.416 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 596.416 601.792 <o,f1,male> %e paysane :fra %e force :fra paysane :fra aussi :fra temps :fra %e am na jéego yu mu ci def parce :fra que :fra joxe na ci xalaatam
+wol_44811 1 locuteur_1 601.792 602.165 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 602.165 602.536 <o,f1,male> %hum
+wol_44811 1 locuteur_1 602.536 617.854 <o,f1,male> [r] ci %e réforme :fra foncière :fra yooyu nga xamante ni %e béykat yi dañuy am jafe-jafe ngir jote ci suuf soosu [r] waaye tamit dañuy am jafe-jafe ngir jot ci %e l' :fra engrais :fra bi [r] waaye tamit dañuy am jafe-jafe pour :fra écoulement :fra seen seen i produits :fra yi [r] lan moo ciy taxawaayu force :fra paysane :fra
+wol_44811 1 locuteur_2 617.854 622.833 <o,f1,male> force :fra paysane :fra taxawaayam mooy maanaam nekk %e benn centinelle :fra
+wol_44811 1 locuteur_1 622.833 623.257 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 623.257 624.944 <o,f1,male> entre :fra paysa :fra bi
+wol_44811 1 locuteur_1 624.944 625.183 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 625.183 627.807 <o,f1,male> ak les :fra décideurs :fra su ma nee décideurs :fra nag
+wol_44811 1 locuteur_1 627.807 628.163 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 628.163 629.330 <o,f1,male> y' :fra a :fra l' :fra état :fra
+wol_44811 1 locuteur_1 629.330 629.743 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 629.743 631.375 <o,f1,male> y' :fra a :fra des :fra des :fra entreprises :fra
+wol_44811 1 excluded_region 631.375 632.170 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 632.170 632.575 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 632.575 636.375 <o,f1,male> donc :fra moom rôle :fra de :fra facilitation :fra lay def
+wol_44811 1 locuteur_1 636.375 636.670 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 636.670 638.307 <o,f1,male> béykat bi am na lu mu soxla
+wol_44811 1 excluded_region 638.307 642.849 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 642.849 643.243 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 643.243 648.647 <o,f1,male> %e béykat yi am na lu muy jooytu nañ ko jottali fañ ko war a jo() %e jottalee
+wol_44811 1 locuteur_1 648.647 649.004 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 649.004 650.600 <o,f1,male> au :fra niveau :fra de :fra l' :fra assemblée :fra nationale :fra
+wol_44811 1 locuteur_1 650.600 650.962 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 650.962 652.842 <o,f1,male> au :fra niveau :fra du :fra haut :fra conseil :fra
+wol_44811 1 locuteur_1 652.842 653.097 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 653.097 655.311 <o,f1,male> ak niveau :fra ministère :fra de :fra l' :fra agriculture :fra
+wol_44811 1 excluded_region 655.311 656.489 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 656.489 664.490 <o,f1,male> %hum %hum [r] collège :fra béykat bi béykat yi dafa dafa ci biir force :fra paysane :fra nga ni daj na cinq :fra cent :fra quatre :fra vingt :fra trois :fra collectivités :fra locales :fra yi yëpp
+wol_44811 1 excluded_region 664.490 666.460 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 666.460 688.971 <o,f1,male> alors :fra que :fra ba léegi nii béykat yi da nga si gis yoo xam te ne yii am jafe-jafe ci ci yii ñu wax nii yëpp dañoo amul xibaar bi dafa yegg si wul s ñoom [r] wala dañoo am yéen yéen da ngeen am jafe-jafe ci wàllu sensibilisation :fra [r] ngir yëgal leen ni force :fra paysane :fra kat yéen la fi nekkal pàcc bii nga xam te moom la ñu jagleel béykat yi [r] bu ngeen amee lu leen neex wala lu leen naqari bu ngeen amee ay soxla wala ay mbëbët fii ngeen koy waxee [r] te joteeguñ ci loolu
+wol_44811 1 locuteur_2 688.971 692.231 <o,f1,male> ci loolu je :fra crois :fra que :fra %e sëñ Moussa
+wol_44811 1 locuteur_1 692.231 692.589 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 692.589 697.071 <o,f1,male> %e ñëpp xam nañ Sadji au :fra niveau :fra de :fra la :fra région :fra de :fra Kaolack
+wol_44811 1 locuteur_1 697.071 697.634 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 697.634 699.448 <o,f1,male> li may défendre :fra béykat yi
+wol_44811 1 locuteur_1 699.448 699.824 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 699.824 709.417 <o,f1,male> bo %e ci loolu ñu ne nañ ne il :fra faut :fra que :fra ñu trouvé :fra une :fra stratégie :fra boo xam ne béykat bi dana am une :fra indépendance :fra totale :fra indépendance :fra totale :fra bi mooy
+wol_44811 1 locuteur_1 709.417 709.885 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 709.885 720.435 <o,f1,male> béykat bi il :fra faut :fra que :fra ñu gën a organiser :fra wu naka la ñuy organiser :fra woo mooy maanaam jël ay dispositifs :fra parce :fra que :fra dañoo ne des :fra dispositifs :fra suñ ko jëlee rek béykat bi dina am indépendance :fra su boppam
+wol_44811 1 locuteur_1 720.435 720.806 <o,f1,male> muy
+wol_44811 1 locuteur_2 720.806 722.857 <o,f1,male> [r] benn dispositif :fra bi mooy maanaam
+wol_44811 1 locuteur_1 722.857 723.278 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 723.278 728.165 <o,f1,male> béykat bi ci boppam na créé :fra une :fra banque :fra cérélière :fra de :fra solodarité :fra
+wol_44811 1 excluded_region 728.165 732.819 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 732.819 733.167 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 733.167 736.207 <o,f1,male> ba nga xam ne képp koo xam ne béy nga dugub
+wol_44811 1 locuteur_1 736.207 736.517 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 736.517 741.241 <o,f1,male> nga génneesa cinquante :fra kilos :fre ne def naa ko ci action :fra de :fra solidarité :fra ci banque :fra bi
+wol_44811 1 locuteur_1 741.241 741.659 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 741.659 743.416 <o,f1,male> su ngeen boolee suñ boolee lépp
+wol_44811 1 locuteur_1 743.416 743.835 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 743.835 750.881 <o,f1,male> je :fra crois :fra que :fra a na période :fra boo xam ne béykat bi ci lay sonn te béykat bi ci période :fra boobu la~, leen di %e gën a faagaale
+wol_44811 1 locuteur_1 750.881 751.333 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 751.333 752.424 <o,f1,male> mooy mois :fra d' :fra août :fra
+wol_44811 1 locuteur_1 752.424 752.953 <o,f1,male> ok :fra
+wol_44811 1 locuteur_2 752.953 753.750 <o,f1,male> dara du am
+wol_44811 1 locuteur_1 753.750 754.121 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 754.121 757.552 <o,f1,male> mais :fra avec :fra cette :fra banque :fra céréalière :fra de :fra solidarité :fra
+wol_44811 1 locuteur_1 757.552 757.881 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 757.881 760.798 <o,f1,male> dina permettre :fra ñoom dëkk yooyu wala gox yooyu
+wol_44811 1 locuteur_1 760.798 761.139 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 761.139 762.771 <o,f1,male> képp ku ci am problème :fra
+wol_44811 1 locuteur_1 762.771 763.078 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 763.078 767.623 <o,f1,male> nga génnee ci banque :fra boobu jox ko ko au :fra lieu :fra muy dem ci commerçant :fra yu mag yi
+wol_44811 1 excluded_region 767.623 772.277 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 excluded_region 772.277 773.873 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 773.873 778.067 <o,f1,male> est :fra ce :fra que :fra béykay yëpp yëg nañ %e banque :fra banque :fra banque :fra céréalière :fra boobu
+wol_44811 1 locuteur_2 778.067 779.365 <o,f1,male> moom maanaam dama ne
+wol_44811 1 locuteur_1 779.365 779.709 <o,f1,male> %hum
+wol_44811 1 locuteur_2 779.709 783.340 <o,f1,male> il :fra faut :fra que :fra ñaari mécanisme :fra yooyu énu créé :fra ko pour :fra béykat bi am indépendance :fra
+wol_44811 1 locuteur_1 783.340 806.938 <o,f1,male> waa mais :fra yéen ñi nga xamante ne nag Amath %e Thierno yéen ñii yéen a yoroon force :fra paysane :fra yéen a am xalaat bi yéenay orientze :fra [r] yéenay desorienté :fra yéenay wax béykat bi fii ak fii ngeen di jaar [r] suuf si nii lañ ko réglé :fra yéen tamit bu ngeen demee ba weeru août :fra bu ngee bu ngeen nekk ci seen i jafe-jafe [r] période :fra bii nii ngeen war a def pour :fra pour :fra de f ko mais :fra qu' :fra est :fra ce ;:fra qui :fra vous :fra empêche :fra ngeen ngeen ngeen ngeen ngeen mettre :fra en :fra place :fra ak li nga xam te ne moom mooy banque :fra boobu [r] waxtaanee ko ak béykat yi ci seen
+wol_44811 1 excluded_region 806.938 809.128 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 809.128 809.632 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 809.632 815.049 <o,f1,male> muy maanaam banque :fra céréalière :fra de :fra %e de :fra producteurs :fra
+wol_44811 1 locuteur_1 815.049 815.470 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 815.470 819.390 <o,f1,male> am na aussi :fra une :fra mutuelle :fra de :fra solidarité :fra des :fra producteurs :fra
+wol_44811 1 locuteur_1 819.390 819.873 <o,f1,male> très :fra bien :fra
+wol_44811 1 locuteur_2 819.873 821.851 <o,f1,male> mais :fra tout :fra celà :fra c' :fra est :fra un :fra processus :fra
+wol_44811 1 excluded_region 821.851 823.031 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 823.031 823.449 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 823.449 824.380 <o,f1,male> il :fra faut :fra organiser :fra
+wol_44811 1 locuteur_1 824.380 824.800 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 824.800 830.319 <o,f1,male> petit :fra à :fra petit :fra nga leen di conscientiser :fra di leen di sensibiliser :fra ba ñoom ñu approprier :fra
+wol_44811 1 locuteur_1 830.319 830.847 <o,f1,male> projet :fra bi
+wol_44811 1 locuteur_2 830.847 831.400 <o,f1,male> projet :fra bi
+wol_44811 1 excluded_region 831.400 834.684 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 834.684 835.119 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 835.119 836.539 <o,f1,male> programme :fra boobu ça :fra voue :fra à :fra l' :fra échec :fra
+wol_44811 1 locuteur_1 836.539 836.989 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 836.989 839.518 <o,f1,male> donc :fra ñun avec :fra l' :fra expérience :fra qu' :fra on :fra a :fra
+wol_44811 1 locuteur_1 839.518 839.871 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 839.871 841.782 <o,f1,male> ak pas :fra mal :fra de :fra programmes :fra yu fi newoon
+wol_44811 1 locuteur_1 841.782 842.202 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 842.202 843.400 <o,f1,male> yoo xam ne échec :fra la
+wol_44811 1 locuteur_1 843.400 843.842 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 843.842 850.016 <o,f1,male> ñun ci %e capitaliser :fra ci expérience :fra boobu seet nag kañ lañuy def une :fra démarche :fra inclusive :fra
+wol_44811 1 locuteur_1 850.016 850.388 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 850.388 857.255 <o,f1,male> ba nga xam ne et :fra participative :fra ba nga xam ne nit ñi danañ ko approprier :fra mu nekk une :fra banque :fra boo xam ne par :fra et :fra pour :fra les :fra producteurs :fra
+wol_44811 1 locuteur_1 857.255 863.845 <o,f1,male> laataa ñuy tëj collège :fra %e béykat yi [r] lan moo war a doon seen taxawaayci biir %e force :fra paysane :fra [b] béykat yi
+wol_44811 1 locuteur_2 863.845 866.566 <o,f1,male> béykat yi seen taxawaay mooy maanaam mu ngi mel ni pénc la
+wol_44811 1 locuteur_1 866.566 867.218 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 867.218 870.686 <o,f1,male> pénc moom nit ku nekkay wax xalaatam
+wol_44811 1 locuteur_1 870.686 871.044 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 871.044 873.260 <o,f1,male> %e xeebuñ benn xalaat
+wol_44811 1 locuteur_1 873.260 873.668 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 873.668 877.886 <o,f1,male> képp koo xam ne am nga xalaati yaatal %e ubbil nañ la suñ buntu
+wol_44811 1 locuteur_1 877.886 878.174 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 878.174 884.348 <o,f1,male> képp koo xam ne bugg nga aussi :fra wax na ngay na nga ñuy nan la béykat bi di def ba bu nekkinam gën a jëm kanam
+wol_44811 1 locuteur_1 884.348 884.619 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 884.619 889.498 <o,f1,male> ubbil naén la suñ bunt waa nous :fra sommes :fra %e à :fra la :fra disposition :fra de :fra tout :fra le :fra monde :fra
+wol_44811 1 locuteur_1 889.498 889.869 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 889.869 893.929 <o,f1,male> je :fra crois :fra que :fra au :fra niveau :fra de :fra la :fra région :fra de :fra Kaolack ak Kaffrine ñu ñu bëri xam nañ ma
+wol_44811 1 locuteur_1 893.929 894.233 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 894.233 899.208 <o,f1,male> %e ci combats :fra yi may mener :fra pour :fra vraiment :fra indi indépendance :fra totale :fra du du du du des :fra agriculteurs :fra
+wol_44811 1 locuteur_1 899.208 910.919 <o,f1,male> ok :en [r] ñu dugg ci %e beneen collège :fra bi ñu fàttali mbokk yi ñu ngi ci %e émission :fra bii di [r] Agri Jeunes tekki ndaw ñi jëm ak ñoom horizon :fra deux :fra mille :fra vingt :fra cinq :fra tey nag li ñuy waxtaanee moom mooy force :fra paysane :fra [r]
+wol_44811 1 locuteur_1 910.919 914.668 <o,f1,male> dégg ngeen %e ki nga xama te ne moom mooy Thierno Amath Sadji ni mu ci wax ci [r] collège :fra bu njëkk bi
+wol_44811 1 excluded_region 914.668 917.115 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 917.115 922.255 <o,f1,male> laataa ñuy ñëw ci zones :fra d' :fra interventions :fra bi donc :fra dama bëgg wax rek ci %e wàllum li nga xam te ne moom mooy napp yi [r]
+wol_44811 1 locuteur_1 922.255 925.454 <o,f1,male> collège :fra bi nga xam te ni moom moo moom moo moo uuf nappkat yi
+wol_44811 1 locuteur_2 925.454 929.927 <o,f1,male> %e nappkat yi ça :fra c' :fra est :fra la :fra même :fra chose :fra que :fra béykat yi ñoom it dañoo organiser :fra wu
+wol_44811 1 locuteur_1 929.927 930.790 <o,f1,male> mais :fra bokkuñu li ñuy def
+wol_44811 1 locuteur_2 930.790 933.837 <o,f1,male> non :fra non :fra bokkuénu moo tax ma ni dañoo organiser :fra wu
+wol_44811 1 locuteur_1 933.837 934.254 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 934.254 937.352 <o,f1,male> xam nga waxuñu ne dañu lëkkaloo ak béykat yi
+wol_44811 1 locuteur_1 937.352 937.641 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 937.641 938.901 <o,f1,male> mais ;dea dañoo organiser :fra wu
+wol_44811 1 locuteur_1 938.901 939.442 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 939.442 941.977 <o,f1,male> am seen xalaat parce :fra que :fra réalités :fra yi bokkuñu
+wol_44811 1 locuteur_1 941.977 942.412 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 942.412 946.288 <o,f1,male> waa réalités :fra yi ba nekk ca béykat bi
+wol_44811 1 locuteur_1 946.288 946.541 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 946.541 947.530 <o,f1,male> nekkul ca nappkat bi
+wol_44811 1 locuteur_1 947.530 947.839 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 947.839 950.448 <o,f1,male> donc :fra ñoom am nañ seen propre :fra réalité :fra
+wol_44811 1 locuteur_1 950.448 950.774 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 950.774 952.080 <o,f1,male> di waxtaane ci seen biir
+wol_44811 1 locuteur_1 952.080 952.388 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 952.388 955.011 <o,f1,male> seet naka la ñuy def ba développé :fra napp gi
+wol_44811 1 locuteur_1 955.011 955.373 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 955.373 959.326 <o,f1,male> naka la ñuy def ba na() napp gi au :fra moins :fra ba ki nga xam ne mooy napp
+wol_44811 1 excluded_region 959.326 961.743 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 excluded_region 961.743 963.434 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 963.434 963.724 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 963.724 965.613 <o,f1,male> naka lay def ba jëriñoo li ci liggéeyam
+wol_44811 1 locuteur_1 965.613 970.578 <o,f1,male> ok :en [r] alors :fra %e troisième :fra collège :fra bi moom mooy collège :fra bi ëmb ñi nga xam ne ñoom ñooy sàmmkat yi
+wol_44811 1 locuteur_2 970.578 978.464 <o,f1,male> %e sàmmkat bi moom c' :fra est :fra la :fra même :fra chose :fra parce :fra que :fra ñoom %e ci mbirum càmm moom am na progré :fra bu rëy
+wol_44811 1 locuteur_1 978.464 978.754 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 978.754 982.189 <o,f1,male> parce :fra que :fra dans :fra le :fra cadre :fra de :fra de :fra dévelop() %e du :fra développement :fra de :fra l' :fra élevage :fra
+wol_44811 1 locuteur_1 982.189 982.575 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 982.575 992.402 <o,f1,male> %e nguur gi am na jéego yu mu ci def ba ñoom neenañ léegi sax autosuffisance :fra donc :fra ci loolu aussi :fra ñu ngi informer :fra nit ñi pour :fra ñu approcher :fra wu au :fra niveau :fra des :fra projets :fra
+wol_44811 1 locuteur_1 992.402 992.760 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 992.760 994.707 <o,f1,male> parce :fra que :fra %e Fongtab a ngi fi
+wol_44811 1 locuteur_1 994.707 995.125 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 995.125 996.733 <o,f1,male> day financé :fra l' :fra élevage :fra
+wol_44811 1 locuteur_1 996.733 997.122 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 997.122 999.922 <o,f1,male> ak yeneen financement :fra yoo xam ne dañ leen di accompagner :fra
+wol_44811 1 locuteur_1 999.922 1000.247 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1000.247 1003.458 <o,f1,male> soit :fra man ma accompagner :fra leen defal leen des :fra projets :fra structurants :fra
+wol_44811 1 locuteur_1 1003.458 1003.893 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1003.893 1005.759 <o,f1,male> ba nga xam ne ñoom dañ ci bénéficier :fra wu
+wol_44811 1 locuteur_1 1005.759 1010.953 <o,f1,male> waa mais :fra léegi moom càmm gi moom %e Amath ñi ko ñi ko ñeme bëriwul dara ndax càcc gi de
+wol_44811 1 locuteur_2 1010.953 1017.287 <o,f1,male> waaw mais :fra loolu moom je :fra crois :fra que :fra dispositifs :fra yu bëri nit ñi ngi koy jël en :fra en :fra général :fra sax nit ñi
+wol_44811 1 locuteur_1 1017.287 1017.752 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1017.752 1021.988 <o,f1,male> léegi moom %e presque :fra seen gétt yi ñu ngi koy def seen kër yi
+wol_44811 1 locuteur_1 1021.988 1022.391 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1022.391 1023.850 <o,f1,male> pour :fra au :fra moins :fra mieux :fra sécuriser :fra
+wol_44811 1 locuteur_1 1023.850 1024.152 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1024.152 1030.380 <o,f1,male> waaw nit ki nag moom ah day def rek mais :fra mu xam nga càcc moom munoo koo munoo ùmunoo ko sóoraale
+wol_44811 1 locuteur_1 1030.380 1030.742 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1030.742 1034.021 <o,f1,male> waaw suy jóg soo jógee bëccëg mën naa jóg guddi
+wol_44811 1 locuteur_1 1034.021 1034.382 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1034.382 1036.189 <o,f1,male> soo jógee guddi mën naa jóg bëccëg
+wol_44811 1 locuteur_1 1036.189 1036.514 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1036.514 1038.767 <o,f1,male> l' :fra essentiel :fra est :fra que :fra nga jël ay mesures :fra yoo xam ne
+wol_44811 1 locuteur_1 1038.767 1039.013 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1039.013 1040.672 <o,f1,male> au :fra moins :fra da nga protéger :fra sa cheptelle :fra
+wol_44811 1 locuteur_1 1040.672 1057.042 <o,f1,male> %hum %hum [r] alors :fra %e thierno Amath Sadji moom mooy %e ki fi teewal %e mooy point :fra focal :fra ñetti régions :fra yi di %e Kaolack Fatick ak %e Kaffine ci li nga xam te ne moom mooy projet :fra Agri Jeunes [r] tekki ndaw ñi jëm ak ñoom atum deux :fra mille :fra %e vingt :fra cinq :fra
+wol_44811 1 locuteur_1 1057.042 1065.949 <o,f1,male> tey ñuy waxtaane li nga xam te ne [r] moom mooy force :fra %e paysane :fra [r] %e ginnaaw force :fra paysane :fra ak li mu ëmb yëpp am na zone :fra yoo xamante ni ci lay intervenir :fra
+wol_44811 1 locuteur_2 1065.949 1066.441 <o,f1,male> waaw
+wol_44811 1 locuteur_1 1066.441 1075.663 <o,f1,male> ndax Sénégal fukki régions :fra ak ñeent jub %e li nga xam ne moom mooy agri Jeunes teewul ci fukki régions :fra ak ñeent yi [r] zone :fra d':fra intervention :fra yi nga xamante ni fa la fa la fa la fa la force :fra paysane :fra di intervenir :fra
+wol_44811 1 locuteur_2 1075.663 1080.552 <o,f1,male> voilà :fra zone :fra d' :fra intervention :fra yim intervenir :fra par :fra rapport :fra ak Agri Jeunes yi
+wol_44811 1 locuteur_1 1080.552 1080.974 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1080.974 1083.337 <o,f1,male> %e pour :fra une :fra %e précision :fra
+wol_44811 1 locuteur_1 1083.337 1083.741 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1083.741 1088.053 <o,f1,male> %e Agri Jeunes daa sgné :fra un :fra contrat :fra de :fra performance :fra
+wol_44811 1 locuteur_1 1088.053 1088.379 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1088.379 1089.678 <o,f1,male> ak force :fra paysane :fra
+wol_44811 1 locuteur_1 1089.678 1090.162 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1090.162 1092.063 <o,f1,male> comme :fra ni mu ko defee ak yeneen kuréel
+wol_44811 1 locuteur_1 1092.063 1092.406 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1092.406 1107.351 <o,f1,male> mais :fra ñun contrat :fra de :fra performance :fra yi daa am communes :fra yi ñu jox %e yàlla def na ci au :fra niveau :fra des :fra vcommunes :fra on :fra a trois:fra régions :fra yoo xam ne %e nekk nañ fa mooy maanaam benn région :fra bi c' :fra est la :fra région :fra de :fra Kaolack
+wol_44811 1 locuteur_1 1107.351 1107.663 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1107.663 1114.320 <o,f1,male> on :fra a trois :fra communes :fra yu nekk dans :fra la :fra région :fra de :fra Kaolack muy Ngathie Mbadakhoune ak Ndiago
+wol_44811 1 locuteur_1 1114.320 1115.717 <o,f1,male> ok :en Ngathie Mbadakhoune ak
+wol_44811 1 excluded_region 1115.717 1116.282 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_2 1116.282 1118.210 <o,f1,male> dans :fra la :fra région :fra de :fra Fatick on :fra Colobane
+wol_44811 1 locuteur_1 1118.210 1118.648 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1118.648 1120.968 <o,f1,male> Colobane c' :fra est :fra dans :fra le :fra département :fra de :fra Gosaas
+wol_44811 1 locuteur_1 1120.968 1121.298 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1121.298 1123.034 <o,f1,male> dans :fra la :fra région :fra de :fra Louga
+wol_44811 1 locuteur_1 1123.034 1123.455 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1123.455 1124.507 <o,f1,male> on :fra a Mbeuleukhe
+wol_44811 1 locuteur_1 1124.507 1124.931 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1124.931 1126.037 <o,f1,male> on :fra a :fra Banding
+wol_44811 1 locuteur_1 1126.037 1126.415 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1126.415 1127.491 <o,f1,male> on :fra a :fra Niomre
+wol_44811 1 excluded_region 1127.491 1128.984 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_2 1128.984 1133.739 <o,f1,male> donc :fra ñooñu ñoo nekk suñu zone :fra d' :fra intervention :fra au :fra niveau :fra du :fra dispositif :fra de :fra de :fra de :fra Agri Jeunes
+wol_44811 1 locuteur_1 1133.739 1134.064 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1134.064 1136.314 <o,f1,male> voilà :fra [r] ci biir loolu
+wol_44811 1 locuteur_1 1136.314 1136.535 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1136.535 1138.746 <o,f1,male> intervention :fra yi am na liggéey bim ñu sas
+wol_44811 1 locuteur_1 1138.746 1139.060 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1139.060 1140.147 <o,f1,male> foog naa suñu continuer :fra
+wol_44811 1 locuteur_1 1140.147 1140.489 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1140.489 1145.830 <o,f1,male> dinañ leen wax sas bi ñu sas parce :fra que :fra con() contrat :fra de :fra performance :fra mooy maanaam SDP bi
+wol_44811 1 locuteur_1 1145.830 1146.267 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1146.267 1168.375 <o,f1,male> am na dañ ne la jox nañ la lii waaye fii lañ bëgg nga yegg ñu signé :fra agri Jeunes signé :fra ñur war a respecter :fra contrat :fra de :fra performance :fra boobu donc :fra ci loolu ci %e juróom-ñetti communes :fra yi nga xam ne moom la ñu intervenir :fra mooy dans :fra les :fra régions :fra de :fra [b] Kaolack Fatick pour :fra colobane avec :fra Colobane et :fra %e fële Louga
+wol_44811 1 locuteur_1 1168.375 1169.529 <o,f1,male> Louga ak quatre :fra communes :fra
+wol_44811 1 excluded_region 1169.529 1171.069 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_2 1171.069 1173.966 <o,f1,male> waaw non :fra parce :fra que :fra nañ ko répartir :fra rek la
+wol_44811 1 locuteur_1 1173.966 1174.339 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1174.339 1183.359 <o,f1,male> parce :fra que %e am nañoo xam ne dañuy intervenir :fra dans :fra dans :fra la :fra région :fra de * ñeneen parce :fra que :fra il :fra y' :fra a :fra [r] %e MSD
+wol_44811 1 excluded_region 1183.359 1185.525 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1185.525 1185.950 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1185.950 1190.525 <o,f1,male> il :fra y' :fra a :fra la :fra centrale :fra d' :fra achat :fra de :fra Keur Socé qui intervient :fra dans :fra Latmingué Ndiédiène et :fra Ndiafate
+wol_44811 1 locuteur_1 1190.525 1191.021 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1191.021 1191.397 <o,f1,male> waaw
+wol_44811 1 locuteur_1 1191.397 1197.595 <o,f1,male> contrat :fra de :fra performance :fra yi nga xam te ne signé :fra ngeen ko ak %e agri Jeunes [r] %e lan moo ci gën a fës
+wol_44811 1 locuteur_2 1197.595 1203.289 <o,f1,male> voilà :fra contrat :fra de :fra performance :fra bi ci gën a fës nag ci activités :fra yu mooy maanaam juróom lañ
+wol_44811 1 locuteur_1 1203.289 1203.829 <o,f1,male> juróom lañ
+wol_44811 1 locuteur_2 1203.829 1205.912 <o,f1,male> ku nekk dañ ko mené :fra
+wol_44811 1 locuteur_1 1205.912 1206.331 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1206.331 1209.009 <o,f1,male> soo ko mené :fra it am na résultat :fra bién lay xaare
+wol_44811 1 locuteur_1 1209.009 1209.336 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1209.336 1211.286 <o,f1,male> donc :fra %e par :fra rapport :fra aux :fra activités :fra
+wol_44811 1 locuteur_1 1211.286 1211.575 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1211.575 1219.401 <o,f1,male> foog ñu organiser :fra ay rencontres :fra de :fra sensibilisation :fra de :fra communication :fra et :fra d' :fra inforation :fra au :fra profil :fra des :fra jeunes :fra [r] mooy maanaam fexe ba jëunes :fra yi
+wol_44811 1 locuteur_1 1219.401 1219.785 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1219.785 1220.919 <o,f1,male> élus :fra locaux :fra yi
+wol_44811 1 excluded_region 1220.919 1222.211 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1222.211 1222.461 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1222.461 1225.359 <o,f1,male> au :fra ak %e les :fra personnes :fra influentes :fra
+wol_44811 1 excluded_region 1225.359 1229.124 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1229.124 1229.612 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1229.612 1231.047 <o,f1,male> ñooñu danañ fexe
+wol_44811 1 locuteur_1 1231.047 1231.406 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1231.406 1234.663 <o,f1,male> ba ñooñu xam lan mooy Agri Jeunes
+wol_44811 1 locuteur_1 1234.663 1235.103 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1235.103 1236.699 <o,f1,male> naka la ñuy def ba
+wol_44811 1 locuteur_1 1236.699 1237.078 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1237.078 1238.099 <o,f1,male> bénéficié :fra wu c
+wol_44811 1 locuteur_1 1238.099 1238.424 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1238.424 1248.352 <o,f1,male> inaka la ñuy def ba nga xam ne jeunes :fra yi nga xam ne énoo nekk gox am informations :fra yu yaatu yoo xam ne [r] dinañ mën a incrire :fra ci plateforme :fra bi nga xam ne [r] moom la force :fra paysne :fra si samp
+wol_44811 1 locuteur_1 1248.352 1248.713 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1248.713 1252.550 <o,f1,male> ci biir force :fra loolu it aussi :fra force :fra paysane :fra am na ñu mu fay samp
+wol_44811 1 locuteur_1 1252.550 1252.906 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1252.906 1260.644 <o,f1,male> parce :fra que :fra à :fra partir :fra de :fra mardi :fra am na fukki xale ak %e juróom-benn yoo xam ne war nañ leen former :fra
+wol_44811 1 locuteur_1 1260.644 1261.325 <o,f1,male> talaata jii
+wol_44811 1 locuteur_2 1261.325 1262.553 <o,f1,male> waa talaata gii
+wol_44811 1 excluded_region 1262.553 1264.373 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1264.373 1264.730 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1264.730 1271.595 <o,f1,male> war nañ leen former :fra naka la ñuy waxtaanee ak jeunes :fra yi naka la ñuy cueillir :fra des :fra données :fra
+wol_44811 1 locuteur_1 1271.595 1271.984 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1271.984 1281.111 <o,f1,male> parce :fra que :fra dinañ leen jox des :fra des :fra fiches :fra des :fra sensibilisation :fra et :fra des :fra fiches :fra de :fra d' :fra orientation :fra yi nga xam ne ñoom danañ ko remplir :fra jox ñu ko ñun au :fra %e au :fra niveau :fra de :fra force :fra paysane :fra
+wol_44811 1 locuteur_1 1281.111 1281.484 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1281.484 1284.979 <o,f1,male> parce :fra que :fra dina am %e dispositif :fra bi ñu tëral
+wol_44811 1 locuteur_1 1284.979 1285.305 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1285.305 1288.986 <o,f1,male> ba nga xam ne information :fra bu am rek ñun danañ boole information :fra yi regroupé :fra ko
+wol_44811 1 locuteur_1 1288.986 1289.352 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1289.352 1291.639 <o,f1,male> doog koy jox %e agri Jeunes
+wol_44811 1 locuteur_1 1291.639 1291.929 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1291.929 1294.798 <o,f1,male> voilà :fra donc :fra ñooñu danañ subir :fra une :fra formation :fra de :fra deux :fra jours :fra
+wol_44811 1 locuteur_1 1294.798 1295.190 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1295.190 1297.437 <o,f1,male> %e sur :fra techniques :fra de :fra collectes :fra de :fra données :fra
+wol_44811 1 locuteur_1 1297.437 1297.835 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1297.835 1299.930 <o,f1,male> et :fra de :fra sensibilisation :fra au :fra niveau :fra des :fra jeunes :fra ruraux :fra
+wol_44811 1 locuteur_1 1299.930 1300.242 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1300.242 1301.229 <o,f1,male> mais :fra ñooñu itam
+wol_44811 1 excluded_region 1301.229 1304.059 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1304.059 1304.892 <o,f1,male> ndaw ñooñu
+wol_44811 1 locuteur_2 1304.892 1305.877 <o,f1,male> voilà :fra ndaw ñooñu
+wol_44811 1 excluded_region 1305.877 1310.054 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1310.054 1310.485 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1310.485 1315.193 <o,f1,male> xam nga %e comme :fra ni sa turandoo doon wax rek
+wol_44811 1 excluded_region 1315.193 1316.059 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1316.059 1316.479 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1316.479 1324.150 <o,f1,male> foog naa ne yow moom moola jàngal wolof yi ñuy làkk [rire] %e ñun ñooñu ñu ngi leen di tuddee keppaari koom
+wol_44811 1 locuteur_1 1324.150 1325.456 <o,f1,male> keppaaru koom d' :fra accord :fra
+wol_44811 1 locuteur_2 1325.456 1326.366 <o,f1,male> keppaari koom
+wol_44811 1 excluded_region 1326.366 1329.221 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1329.221 1329.591 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1329.591 1332.585 <o,f1,male> ak yeneen ak yeneen ñun keppaari koom
+wol_44811 1 excluded_region 1332.585 1337.171 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_2 1337.171 1346.793 <o,f1,male> wala dinañ ko encadré :fra former :fra ba xam-xamam màcc ba képp koo xam ne [r] jaaxle na ci wàllu développement :fra rek kooku dina la orienter :fra donc :fra ñooñu la ñuy former :fra ji
+wol_44811 1 locuteur_1 1346.793 1347.274 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1347.274 1357.724 <o,f1,male> talaata ba seen xam-xam màcc ci mbir moomu ñu yóbbu leen ci commune :fra d' :fra origine :fra bi parce :fra que :fra dañoo ne chaque :fra commune :fra dañoo jël deux :fra waa par :fra rapport :fra à :fra la :fra situation :fra géographique :fra
+wol_44811 1 excluded_region 1357.724 1358.858 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 excluded_region 1358.858 1359.739 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1359.739 1360.152 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1360.152 1363.135 <o,f1,male> kenn benn benn keppaari koom nekk fii
+wol_44811 1 locuteur_1 1363.135 1363.406 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1363.406 1368.013 <o,f1,male> beneen keppaari koom nekk fële nga xam ne ñoom danañ mën a couvrir :fra tous :fra tous :fra tous :fra les :fra térritoires :fra communales :fra
+wol_44811 1 locuteur_1 1368.013 1368.325 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1368.325 1369.122 <o,f1,male> d' :fra intervention :fra
+wol_44811 1 locuteur_1 1369.122 1369.493 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1369.493 1370.046 <o,f1,male> %hum
+wol_44811 1 locuteur_1 1370.046 1371.555 <o,f1,male> ñu %e bu weesoo ci bu
+wol_44811 1 excluded_region 1371.555 1377.928 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1377.928 1378.330 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1378.330 1386.113 <o,f1,male> léegi fi mu ne nii nag dinañ accompagner :fra jeunes :fra ruraux :fra yi ci formali() formulation :fra projet :fra bi xam nga waxtaan wi weesu
+wol_44811 1 locuteur_1 1386.113 1386.437 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1386.437 1388.863 <o,f1,male> waxoon nga ne jeunes :fra boo xam ne xamul fu mu jëm
+wol_44811 1 locuteur_1 1388.863 1389.218 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1389.218 1392.069 <o,f1,male> jeunes :fra boo xam ne au :fra moins ;:frra am na xalaat mais :fra naka la koy kii
+wol_44811 1 excluded_region 1392.069 1394.583 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1394.583 1395.562 <o,f1,male> ok :en d' :fra accord :fra
+wol_44811 1 locuteur_2 1395.562 1399.354 <o,f1,male> jeune :fra bi danañ ko accompagner :fra par :fra rapport :fra à :fra son :fra idée :fra de :fra projet :fra
+wol_44811 1 locuteur_1 1399.354 1399.805 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1399.805 1401.361 <o,f1,male> xam nga xelaat la am
+wol_44811 1 locuteur_1 1401.361 1401.830 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1401.830 1403.651 <o,f1,male> waaw ñun ci biir xalaat boobu
+wol_44811 1 locuteur_1 1403.651 1403.960 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1403.960 1413.823 <o,f1,male> yàlla may ñu xam-xam yoo xam-xam bu màcc boo xam ne ñun danañ mën a danañ la mën a réorienté :fra ba mu jox la %e activité :fra boo xam ne soo ci commencé :fra dinañ la bind
+wol_44811 1 locuteur_1 1413.823 1414.205 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1414.205 1416.106 <o,f1,male> voilà :fra loolu moom mooy ñaareelu activités :fra yi
+wol_44811 1 locuteur_1 1416.106 1416.525 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1416.525 1422.617 <o,f1,male> ñetteelu activité :fra yi mooy li ñuy def nii participation :fra %e participer :fra à :fra des :fra émission :fra thématiques :fra
+wol_44811 1 locuteur_1 1422.617 1422.912 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1422.912 1425.303 <o,f1,male> ndax thème :fra bu njëkk ba
+wol_44811 1 excluded_region 1425.303 1425.790 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1425.790 1426.143 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1426.143 1427.882 <o,f1,male> mooy maanaam lan mooy agri agri Jeunes :fra
+wol_44811 1 locuteur_1 1427.882 1428.284 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1428.284 1431.639 <o,f1,male> tey lan mooy force :fra paysane :fra ci dispositif :fra Agri Jeunes
+wol_44811 1 locuteur_1 1431.639 1432.041 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1432.041 1437.662 <o,f1,male> donc :fra loolu [r] ñun am nañ yoo xam ne %e émissions :fra yoo xam ne danañ ko def
+wol_44811 1 locuteur_1 1437.662 1437.937 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1437.937 1443.166 <o,f1,male> parce :fra que :fra nii tey ñu ngi fi mais :fra dinañ ñëwaat ñëwaat ba nga xam ne [r] li nga xam ne moom lañ ñu sasoon
+wol_44811 1 locuteur_1 1443.166 1443.513 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1443.513 1447.397 <o,f1,male> muy contrat :fra de :fra performance :fra yi ñu remplir :fra ko par :fra rapport :fra aux :fra émissions :fra thématiques :fra
+wol_44811 1 locuteur_1 1447.397 1447.769 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1447.769 1456.683 <o,f1,male> waaw ñeenteel ba mooy maanaam organisation :fra des :fra média() et :fra %e de :fra médiation :fra sociale :fra médiation :fra sociale :fra
+wol_44811 1 locuteur_1 1456.683 1457.308 <o,f1,male> mooy lan
+wol_44811 1 locuteur_2 1457.308 1460.107 <o,f1,male> médiation :fra sociale :fra neenañ xam nga jeunes :fra yi
+wol_44811 1 locuteur_1 1460.107 1460.635 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1460.635 1463.448 <o,f1,male> dangaa gis %e maanaam Serigne Moussa
+wol_44811 1 locuteur_1 1463.448 1464.022 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1464.022 1471.179 <o,f1,male> jàng na am na ses :fra diplômes :fra il :fra vaut :fra moom lan la bugg a dugg ci agro :fra business :en
+wol_44811 1 locuteur_1 1471.179 1471.790 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1471.790 1477.107 <o,f1,male> waaye sëñ Moussa amul suuf
+wol_44811 1 locuteur_1 1477.107 1477.747 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1477.747 1479.282 <o,f1,male> ñun
+wol_44811 1 excluded_region 1479.282 1480.830 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 excluded_region 1480.830 1483.077 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1483.077 1483.496 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1483.496 1487.034 <o,f1,male> ñun dinañ def médiation :fra sociale :fra boobu ak familiale :fra
+wol_44811 1 locuteur_1 1487.034 1487.395 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1487.395 1489.400 <o,f1,male> ba nga xam ne muy borom kµµër ga
+wol_44811 1 locuteur_1 1489.400 1489.744 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1489.744 1491.324 <o,f1,male> wala collectivité :fra terrotoriale :fra ba
+wol_44811 1 excluded_region 1491.324 1497.503 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1497.503 1497.849 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1497.849 1500.072 <o,f1,male> te am na lañ ñu ci sas
+wol_44811 1 locuteur_1 1500.072 1500.687 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1500.687 1502.590 <o,f1,male> mooy maanaam par :fra rapport :fra aux :fra résultats :fra
+wol_44811 1 locuteur_1 1502.590 1502.920 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1502.920 1505.289 <o,f1,male> mooy maanaam ci %e résultats :fra yi
+wol_44811 1 locuteur_1 1505.289 1505.589 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1505.589 1511.037 <o,f1,male> am na loo xam ne lii de fii nge() laa bugg mooy maanaam tant :fra de :fra jeunes :fra
+wol_44811 1 locuteur_1 1511.037 1511.485 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1511.485 1516.873 <o,f1,male> femmes :fra jeunes :fra mooy su ma nee jeune :fra moom c' :fra est :fra perso() et :fra %e aussi :fra
+wol_44811 1 locuteur_1 1516.873 1517.174 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1517.174 1518.681 <o,f1,male> ak des :ra femmes :fra yi aussi :fra
+wol_44811 1 locuteur_1 1518.681 1519.097 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1519.097 1519.754 <o,f1,male> ci lañ bokk
+wol_44811 1 locuteur_1 1519.754 1520.094 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1520.094 1525.091 <o,f1,male> tant :fra de :fra de :fra de :fra jeunes :fra et :fra de :fra femmes :fra ñoom la ñu war a defal médaitaion :fra sociale :fra et :fra familiale :fra
+wol_44811 1 locuteur_1 1525.091 1525.391 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1525.391 1531.243 <o,f1,male> ci juróom yi nag on :fra a :fra mission :fra de :fra suivie :fra mooy maanaam def nañ loolu yëpp nag
+wol_44811 1 locuteur_1 1531.243 1531.658 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1531.658 1532.771 <o,f1,male> kooku mission :fre de :fra suivie :fra la
+wol_44811 1 excluded_region 1532.771 1533.738 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1533.738 1534.158 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1534.158 1536.778 <o,f1,male> loolu mooy information :fra bi
+wol_44811 1 excluded_region 1536.778 1540.111 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_1 1540.111 1540.471 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1540.471 1542.164 <o,f1,male> médiation :fra sociale :fra et :fra familiale ;fra
+wol_44811 1 locuteur_1 1542.164 1542.524 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1542.524 1551.492 <o,f1,male> yooyu yëpp nag danañ def mission :fra de :fra suivie :fra ndax loolu est :fra ce :fra que :fra benn bëri na ci nit ñindax nit ñi jëfee nañ ko
+wol_44811 1 locuteur_1 1551.492 1552.032 <o,f1,male> ok :en
+wol_44811 1 locuteur_2 1552.032 1560.967 <o,f1,male> voilà :fra donc :fra loolu moom mooy juróomi pàcc yinga xam ne moom la ñu jox te ñu ngi ko war koo liggéey [r] te %e au :fra plus :fra tard :fra
+wol_44811 1 locuteur_1 1560.967 1561.447 <o,f1,male> %hum %hum
+wol_44811 1 locuteur_2 1561.447 1567.796 <o,f1,male> %e ñaari weer ci kanam war nañoo fekk ñu lépp %e suñ activités :fra yeeg yooyu yëpp %e jeex
+wol_44811 1 locuteur_1 1567.796 1572.485 <o,f0,male> kon daal bu ma déggee fii ak fevrier :fra [r] war ngeen a joxe seen rapport :fra %e lépp def finalité :fra
+wol_44811 1 locuteur_2 1572.485 1574.193 <o,f0,male> normalzment :fra fin :fra janvier :fra
+wol_44811 1 locuteur_1 1574.193 1574.776 <o,f0,male> fin :fra janvier :fra
+wol_44811 1 locuteur_2 1574.776 1575.484 <o,f0,male> voilà :fra
+wol_44811 1 locuteur_1 1575.484 1580.794 <o,f0,male> fu ngeen toll ci ci ci ci ci li nga xamamante ne mooy yii yëpp ngeen sasoo ci contrat :fra de:fra performance :fra yi
+wol_44811 1 excluded_region 1580.794 1585.137 <o,,unknown> ignore_time_segment_in_scoring
+wol_44811 1 locuteur_2 1585.137 1587.923 <o,f0,male> contrat :fra de :fra performance :fra bi ni nga ko waxee nii mooy
+wol_44811 1 locuteur_1 1587.923 1588.393 <o,f0,male> %hum
+wol_44811 1 locuteur_2 1588.393 1590.129 <o,f0,male> première :fra étape :fra bi ñu ngi koy def
+wol_44811 1 locuteur_1 1590.129 1590.610 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_1 1590.610 1592.066 <o,f0,male> yéen a ngi koy déroulé :fra
+wol_44811 1 locuteur_2 1592.066 1594.346 <o,f0,male> ñu ngi koy déroulé :fra parce :fra que :fra on :fra fait :fra ñu ngi def émission :fra
+wol_44811 1 locuteur_1 1594.346 1594.706 <o,f0,male> waaw
+wol_44811 1 locuteur_2 1594.706 1596.300 <o,f0,male> deuxième :fra étape :fra bi
+wol_44811 1 locuteur_1 1596.300 1596.600 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1596.600 1600.122 <o,f0,male> ñu ngi koy dëgmali talaata parce :fra que :fra danañ former :fra des :fra relais :fra
+wol_44811 1 locuteur_1 1600.122 1600.582 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1600.582 1601.816 <o,f0,male> suñ former :fra relais :fra yi nag
+wol_44811 1 locuteur_1 1601.816 1602.229 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1602.229 1612.597 <o,f0,male> ñu organiser :fra des :fra sciences :fra de :fra sensibilisation :fra d' :fra information :fra et :fra de :fra communication :fra au :fra niveau :fra des :fra communes :fra à :fra partir :fra d' :fra planification :fra bien :fra définie :fra [r] parce :fra que :fra ñun le :fra faire :fra faire :fra la ñuy def
+wol_44811 1 locuteur_1 1612.597 1613.137 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1613.137 1614.823 <o,f0,male> comme :fra ni ko Agri Jeune defee
+wol_44811 1 locuteur_1 1614.823 1615.134 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1615.134 1618.110 <o,f0,male> la :fra stratégie :fra de :fra Agri Jeune c' :fra est :fra la :fra stratégie :fra du :fra faire :fra faire :fra
+wol_44811 1 locuteur_1 1618.110 1618.511 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1618.511 1621.653 <o,f0,male> ñun aussi :fra noonu la ñuy def parce :fra que :fra nit ñi nga xam ne ñoom la ñu jël ci communes :fra ya
+wol_44811 1 locuteur_1 1621.653 1622.095 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1622.095 1623.234 <o,f0,male> dinañ leen formé :fra
+wol_44811 1 locuteur_1 1623.234 1623.556 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1623.556 1624.791 <o,f0,male> ba seen xam-xam màcc
+wol_44811 1 locuteur_1 1624.791 1625.146 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1625.146 1630.542 <o,f0,male> ñu def campagne :fra de :fra seznsibilisation :fra et :fra d' :fra information :fra ak présenté :fra leen nag ñii ñooy keppaari koom yi ci commune :fra bi
+wol_44811 1 locuteur_1 1630.542 1631.011 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1631.011 1632.480 <o,f0,male> ñu commencé :fra seen activité :fra
+wol_44811 1 locuteur_1 1632.480 1632.858 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1632.858 1639.946 <o,f0,male> donc :fra nous :fra ñun démarches :fra yi boo xam ne la une :fra démarche :fra participative :fra et :fra inclusive :fra la ñuy def étape :fra par :fra étape :fra voilà :fra
+wol_44811 1 locuteur_1 1639.946 1649.679 <o,f0,male> [r] bëgg naa ñu toogb ñu ñu ñu wëlbatiku léegi ci tuuti ci li nga xam ne mooy médiation :fra [r] %e familiale :fra et :fra sociale :fra bi nga xamante ni [r] %e jafe-jafe la de Sadji
+wol_44811 1 locuteur_2 1649.679 1650.119 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_1 1650.119 1658.248 <o,f0,male> parce :fra que :fra jotee ci suuf moom Sénégal jamono jii [r] %hum dafay métti lool surtout :fra boo nekkee ndaw nag %e war a war a boog war a yëngatu bëgg a yëngatu sa cëggal guy
+wol_44811 1 locuteur_2 1658.248 1660.695 <o,f0,male> voilà :fra donc :fra je :fra crois :fra que :fra loolu fépp la
+wol_44811 1 locuteur_1 1660.695 1661.154 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1661.154 1666.426 <o,f0,male> suuf moom foo ko déggee rek %e xamal ne intérêt :fra bi posé :fra na
+wol_44811 1 locuteur_1 1666.426 1667.027 <o,f0,male> ok :en
+wol_44811 1 locuteur_2 1667.027 1673.842 <o,f0,male> donc :fra mais :fra nag %e par :fra rapport :fra ak collectivité :fra territoriales :fra ak ni ñu xamee les :fra réformes :fra bi am léegi
+wol_44811 1 locuteur_1 1673.842 1674.159 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1674.159 1677.012 <o,f0,male> par :fra rapport :fra à :fra l' :fra acte :fra trois :fra de :fra la :fra décentralisation :fra
+wol_44811 1 locuteur_1 1677.012 1677.367 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1677.367 1680.062 <o,f0,male> nga xam ne il :fra y' :fra a :fra une :fra communalisation :fra intégrale :fra
+wol_44811 1 locuteur_1 1680.062 1680.474 <o,f0,male> %hum %hum
+wol_44811 1 locuteur_2 1680.474 1682.324 <o,f0,male> léegi amatul ñetti

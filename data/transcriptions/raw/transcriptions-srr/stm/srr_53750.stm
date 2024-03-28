@@ -1,0 +1,105 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:55 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 4 of 230306
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_53750 1 Locuteur1 0.000 5.451 <o,f1,male> attaque:fr attaque :fra bune si tool bi attaque :fra boko beye bo duge dinga xame ne li da am attaque:fr
+srr_53750 1 Locuteur1 5.451 13.013 <o,f1,male> bode sax yi dinga gis xob yi bude gunor da dafa gis si biir xob yi ñuy naaw nonu
+srr_53750 1 Locuteur1 13.013 21.632 <o,f1,male> am na ay febar tamit da sam da gis ki bi xawa jaune :fra amna febar you bëri yuy yank dugub bi di yank mais :fra di yaak gerte gi
+srr_53750 1 Locuteur1 21.632 29.052 <o,f1,male> nafa bëri facon:frabo gis sa tol bi mu jaune :fra wala mu am ay sax yu bëri lolu mooy wone ne tol bi amna attaque:fra
+srr_53750 1 Locuteur1 29.052 39.896 <o,f1,male> naka nga wara def pour :fra safara attaque: fra yoyu
+srr_53750 1 Locuteur1 39.896 49.611 <o,f1,male> amna ay produit:fra yu bëri pour :fra safara attaque :fra yoyu mais :fra produit:fra duñu gën mooy moje produit :fra moom muje book sisa tol
+srr_53750 1 Locuteur1 49.611 59.260 <o,f1,male> bo gise guror mu yank sa tol mën nga commencer di rey bude bëri wul rey rey mais:fra budeme ba bëri nak dengay dem fiñuy jaye produit :fra ñu jaay lako nga dem traiter :fra ñëw traiter:ko
+srr_53750 1 Locuteur1 59.260 64.830 <o,f1,male> quelles :fra sont:fra les:fra dose:fra dose :fra yi nak bërina bërina wute na bërina façon :fra parce :fra que :fra produit :fra yi bërina
+srr_53750 1 excluded_region 64.830 67.802 <o,,unknown> ignore_time_segment_in_scoring
+srr_53750 1 excluded_region 67.802 69.101 <o,,unknown> ignore_time_segment_in_scoring
+srr_53750 1 Locuteur1 69.101 81.427 <o,f1,male> dese yi bërina a insecte :fra yi daño bëri insecte:fra bu neek da am dose boko wara appliquer :fra tey bo jëloon demi :fra bo demon uti Traoré fils :fra
+srr_53750 1 Locuteur1 81.427 90.981 <o,f1,male> deley wax 50ml par 15 litres :fra ndox bo demoon fenen deley wax bo jënde produit :fra dengay lire :fra etiquette :fra bi deñ fey bind fofu dosage :fra bi
+srr_53750 1 Locuteur1 90.981 98.692 <o,f1,male> produit :fra bo jënd dengay xool si etiquette:fra bi deñ lay bindal dose :fra bi nangam la pour :fra nangam litre :fra ndox la ngen bayi si xel bu baax
+srr_53750 1 excluded_region 98.692 107.079 <o,,unknown> ignore_time_segment_in_scoring
+srr_53750 1 Locuteur2 107.079 114.909 <o,f1,male> amana ñu bëri comprendre :fra ñu ko dey wat dey melni lu jaune:fra ben jaune :fra i jaune :fra bey commencer wac nonu ngay xame ne gerte gi ñor na
+srr_53750 1 Locuteur2 114.909 127.858 <o,f1,male> beneen bi bo ame attaque :fra kan nga wara wo li ma lay conseiller :fra mu gëna gax si yeen bo ame probleme :fra njëkala wo agence :fra bu neek Ankar :fra bu neek bu gëna jege
+srr_53750 1 Locuteur2 127.858 136.582 <o,f1,male> agence :fra Ankar :fra fo dem amna fa boko wowe mom dinañu wo buñu wowe ñun ñoy DPV :fra dinañ intervenir :fra num gëna gawe
+srr_53750 1 Locuteur2 136.582 146.042 <o,f1,male> mais :fra wo directement :fra DPV :fra ñun dinañu def fula mais :fra bo wowe Ankar bi Ankar wo ñu ñun buñu wowe rek dinañ bayi lep luñuy def ñu ñow safara seen probleme:fra yi
+srr_53750 1 Locuteur2 146.042 153.154 <o,f1,male> yakar ne 1er question :fra yi ñu wax fi sank je:fra pense :fra que :fra def na resumer:fra %e
+srr_53750 1 Locuteur2 153.154 159.133 <o,f1,male> tontu na question :fra yi yëp rek Babou
+srr_53750 1 Locuteur2 159.133 169.035 <o,f1,male> njoko kana njoko dial o fogo le nan gilox na in meke no sate fe lul seseen i yoon u fo den programme :fra 4R
+srr_53750 1 Locuteur2 169.035 188.876 <o,f1,male> yon u ten fo partenaire :fra technique :fra ke ando na ye den ndefu wa DRDR :fra yoon ten fo wa SDRR :fra mais :fra yoon ten fo wa Ancar :fra yoon ten fo relais :fra ke andona ye aussi :fra den ndefu wo ando na ye den sime meke a ndef we moƴ ma mata nuuno yo mikoy ne koro xe Gning a ley tuna ngiki rek fogame
+srr_53750 1 Locuteur2 188.876 201.099 <o,f1,male> na mbeta ndoga le ley ama nuune e no parteneriat :fra fe i njeg na fo wa 4Rno projet neke PAM leyama nune ke ga'ma mene no mobilisation :fra kam did bo xoyit ndiki ley ne waaw
+srr_53750 1 Locuteur2 201.099 209.587 <o,f1,male> midi nam fi a émission :fra no Ndef leng c' :fra est :fra la:fra première :fra fois :fra um ga mobilisation :fra fa nan nene mais :fra heureusement :fra a leya ye kam ga te jila num yit
+srr_53750 1 Locuteur2 209.587 219.721 <o,f1,male> a anda pas pas nuun a anda aussi :fra noke ando naye nen ndam tuyu projet :fra fe to wama ley sax no gon nuun xaye
+srr_53750 1 Locuteur2 219.721 234.939 <o,f1,male> kam leye o fadanga Niakhar xaye mu fado na rek ajega agent :fra Ankar :fra a jega ma agent :fra kene o wa ma nda xaƴa souvent :fra résultat :fra ke de mbago njega no sate yoke mbera no njeng o mbiƴo lakay parce :fra que :fra pokatoxa leke jeg na mene xaye kam fod mana nan gil wa
+srr_53750 1 Locuteur2 234.939 245.756 <o,f1,male> yam ka leya nuun kam yoon fo xa journaliste :fra xaye kam mbisi da den yon fo kene ke ye fod ma mana nan gil wa we na ndepondra ka fi ne rewe de moƴu def ko xoox saxe e goor we
+srr_53750 1 Locuteur2 245.756 257.109 <o,f1,male> i kene koy a lal taye xaye no programme :fra %e TSE:fra fe président :fra de :fra la :fra république :fra lal taye rewe aussi a njega yo wax deg fa yala a afada koy i coxa den koy na xa qola xe in
+srr_53750 1 Locuteur2 257.109 262.952 <o,f1,male> de bago mbi iko yo exploitation :fra agricole :fra parce :fra que :fra i nga a ye wa mbar loox na yo [applaude]
+srr_53750 1 Locuteur2 262.952 270.003 <o,f1,male> refe ye kam saɗar ko jego tewo leng de xa a refe kaga de refe ye far fo rewe yit de nda ge i ndet lu ye no jamano fe ndiki
+srr_53750 1 Locuteur2 270.003 278.816 <o,f1,male> no rewe yonɗ no ra yo no ka far na na qoq na qoq dingna qoq ƴind fo lakas fo lakas goor we moom o nan ne nena Papa Ndiaye o maas reso ten leya chaque :fra jour :fra no radio :fra le
+srr_53750 1 Locuteur2 278.816 288.720 <o,f1,male> range a moof na qagara kene a mbolota rek wene mbolo a mbiya yo to fogame jamano fe i ndef na ndiki koy arefa jamano fa ñof na andona ye ndinga ñofa ñofa la ando na ye
+srr_53750 1 Locuteur2 288.720 292.278 <o,f1,male> o xu ñofeer na rek o moytu wange xay ngor ke gaƴong a ciño yo
+srr_53750 1 Locuteur2 292.278 304.479 <o,f1,male> yam nanam ndiki nu leya affaire :fra engrais :fra fe leya ley na ndiki mais :fra wagimo comprendre :fra o djeg suqi of so gar genu mana koy bugo geen wa Gning ñal fo yenge koy ñal jegim engrais :fra jegim engrais :fra jega engrais :fra
+srr_53750 1 Locuteur2 304.479 312.160 <o,f1,male> xaƴa kay ko gar lam tiid kay les techniques :fra fe o fi'ka pour :fra o wago xot engrais :fra faga fo ban wax tu wara no yip no qola la aussi :fra
+srr_53750 1 Locuteur2 312.160 321.124 <o,f1,male> nda o refa nga ye o korfatum fatum koy fatum fatum fatum bo ding ne naan birdit o sogo yip ka engrais fogame jirin kirang dara mba o nane
+srr_53750 1 Locuteur2 321.124 335.222 <o,f1,male> kon koy fat i mbato goor gorui andata nge it i njega technicien :fra ka ndef na fa in fat i ngar laam ta den a djega relais :fra ka andona ye e aleyano yo owey mekefat i ngar leya den de suridnoyo faley fe mende mbar na a coxit
+srr_53750 1 Locuteur2 335.222 344.509 <o,f1,male> xada leyit mete waru na ley parce :fra que :fra a leyaan ndiki attaque :fra a jega nga o fola fole e waw parce :fra que :fra kat Pape Made dialo gu DPV :fra a gen saate fa i ngoya DPV :fra ka ley kine i nana ken ley na
+srr_53750 1 Locuteur2 344.509 356.658 <o,f1,male> foog re koy fo o leya ngan a relever te ley na Gning Gning a ley na xete war na leyit xana leyin foga me bo DRDR :fra a nanu na bo roga feda xanu nga équipe :fra na ngar na mene yo a sank xa auto :fra dena xene na pompé :fra ayo
+srr_53750 1 Locuteur2 356.658 364.113 <o,f1,male> [applaude] kon koy i mbuga nga changement :fra de :fra comportement :fra me u bunga nga yit kena leyel changement :fra climatique :fra fene i bago yon foden ñofo yo
+srr_53750 1 Locuteur2 364.113 370.808 <o,f1,male> parce :fra que :fra changement :fra climatique :fra fe ke tax na dal te doy waar leya num ndiki roog fe ka deɓa ma i ngalet teer na xaye demb
+srr_53750 1 Locuteur2 370.808 380.210 <o,f1,male> donc :fra i mi dal en :fra tant :fra que :fra directeur :fra radio :fra ndef leng kam leya nuune parteneriat :fra fe jeg ma fo wiin we te te gar koy a leyel 4R
+srr_53750 1 Locuteur2 380.210 391.113 <o,f1,male> te jeg no légilience :fra fe no ka ando na ye ka dam tana in kat no gaak ne a jeg kate dam ta ne in na qoqale te jeg kate dam ta in no assurance :fra industriel :fra conn koy projet :fra kene yasam de miñ meen [applaude]
+srr_53750 1 Locuteur2 391.113 398.258 <o,f1,male> mais :fra yasam ku i anda teer na yasam i njaɓo laam tik d' :fra accord :fra am koy ye goor we ley naye i ande nam i dose ta yo engrais :fra fe
+srr_53750 1 Locuteur2 398.258 408.442 <o,f1,male> nda it nu njega technicien :fra ka ando na ye nu lam ta ngana den xana leya nuun nam tige a doser :fra tel kon wax deg fa yala njoko njal njoko njal bo jaf le na gara
+srr_53750 1 Locuteur3 408.442 416.058 <o,f0,unknown> merci :fra directeur :fra ndef lenga o fogo le pel nange doya
+srr_53750 1 Locuteur3 416.058 422.678 <o,f0,unknown> pel nange doya te seɗ ne muda to wene mbara njaga auto :fra
+srr_53750 1 Locuteur3 422.678 431.929 <o,f0,unknown> a ƴaaƴ kilométre :fra xar mben ɓetu faleng a donu pour :fra o num toox Fatick a fela lool ajega o njiriñ lol nda
+srr_53750 1 Locuteur3 431.929 439.719 <o,f0,unknown> nda nof na nan na xox barke saxa i mbexey nan ke leye na a paax
+srr_53750 1 Locuteur3 439.719 449.192 <o,f0,unknown> i nana ngaan fat i njema teen ke i mbaag na te roga tex kena xoyel changement :fra a sup tax
+srr_53750 1 Locuteur3 449.192 455.412 <o,f0,unknown> o qirina yata yata doy teen waar i lace anda sup tax
+srr_53750 1 Locuteur3 455.412 464.300 <o,f0,unknown> nda a sup tax waga tux bo i njeg jam yam ndiki Pape Made a leya na nuun jewo fe a sup toxa
+srr_53750 1 Locuteur3 464.300 470.472 <o,f0,unknown> kana wara ɓut te sum be jum te wara sum te ɓut be goy
+srr_53750 1 Locuteur3 470.472 476.352 <o,f0,unknown> nu cuga a teɓnu ga kiran nanu cu ngerun te mbisi din kene ne e changement :fra
+srr_53750 1 Locuteur3 476.352 486.762 <o,f0,unknown> kaga na ne el no jawu fe te ne el climatique :fra changement :fra faga nak ino fo qox in fete soɓ na i ƴaƴa tok lang ke i ñow na nge fo ten koy jambo suɓ toox
+srr_53750 1 Locuteur3 486.762 494.958 <o,f0,unknown> xa a yaag wag ke soti na in de fat i njaɓin ke leye na mene fop fet i gis ten tig
+srr_53750 1 Locuteur3 494.958 501.031 <o,f0,unknown> ndet ñoow kin to roga tax mba i ndet nax xana mbisi da in a sup tax ndax ɓisid kirana in
+srr_53750 1 Locuteur3 501.031 503.539 <o,f0,unknown> xana mbisi din axa kay a ɓatax reka ref ka
+srr_53750 1 Locuteur3 503.539 513.958 <o,f0,unknown> to roga tax i yo %e emission :fra nene waag angan semaine :fra nu ref na a jeg sate fa i ndet na i mbi in ma
+srr_53750 1 Locuteur3 513.958 523.489 <o,f0,unknown> a jeg solo le te jeg solo na mi parce :fra que :fra xaye tax wena ndama xam njuxa projet ne bo ndik
+srr_53750 1 Locuteur3 523.489 535.477 <o,f0,unknown> te tama xa le ata mor gan xana ande a tam war gal ten i mbaru mbi ndax kat a xox kana tigo fop ndefe sud
+srr_53750 1 Locuteur3 535.477 541.012 <o,f0,unknown> xox kana tigo fop ndefe sud sun yomber
+srr_53750 1 Locuteur3 541.012 549.030 <o,f0,unknown> projet :fra na yoon na fa jamano in a mego or fo me jeng na o njax le an
+srr_53750 1 Locuteur3 549.030 555.315 <o,f0,unknown> a yona in teen no xam xam no wax tan fo na pi ka mayero
+srr_53750 1 Locuteur3 555.315 562.350 <o,f0,unknown> nda fok i mera noox projet :fra nan ne bo i mera noox projet :fra andona ye ga i leman ndax a jega xalis
+srr_53750 1 Locuteur3 562.350 569.065 <o,f0,unknown> iyo o jega nga xaliso dara mbitik fa in ka fud rek te pare
+srr_53750 1 Locuteur3 569.065 576.466 <o,f0,unknown> i mbato num tu ma i nde i na nu mbasa na in xaq apaax relais :fra ke ndef na meen
+srr_53750 1 Locuteur3 576.466 584.595 <o,f0,unknown> te ref Maman Philo te ref Rosolie fe ref na lul njonjon
+srr_53750 1 Locuteur3 584.595 597.662 <o,f0,unknown> ndamit yo den na gil wa den ndamit yo den na gil wa den yama waga o wo ndam ta Serir Sagne fe ref na kam commune :fra ne
+srr_53750 1 Locuteur3 597.662 604.769 <o,f0,unknown> a nan gil waan ku de ñañ na meen ku de leya nuun meen ma Serir a ngotun
+srr_53750 1 Locuteur3 604.769 612.740 <o,f0,unknown> kon kay nanaye Serir jas noru fo nuun sa nda ki noox yo sate xar ɓen tadik fo sate ɓetu fa leng men projet ne refu kam Départemnt :fra
+srr_53750 1 Locuteur3 612.740 620.326 <o,f0,unknown> 36 villages :fra te i ñofa ñofu muk projet :fra xa i leya o xum village daɗu no calel ke
+srr_53750 1 Locuteur3 620.326 626.541 <o,f0,unknown> kum sate dandu no caleel ke kate geka nena koy ley kinum
+srr_53750 1 Locuteur3 626.541 633.960 <o,f0,unknown> menak o xan ɗata le con saɗa kinoox yo a paax menu ndak na cafa ke nuun nu ndak ma moƴ na jol ma
+srr_53750 1 Locuteur3 633.960 642.163 <o,f0,unknown> a fela nga roog samaine :fra ne na ndoki da taxar ke xaya ndokid [applaude] yaam fi yam commende :fra fe bo pare [applaude]
+srr_53750 1 Locuteur3 642.163 652.875 <o,f0,unknown> hum commune :fra nu re na a qaja rek sate nu ref na a ɓis taxar a ndalo njibin yam i mbanor taxa 15 Aout fe neke i mbi na mbina neke rek a teɓa ke ka ɓar u ngar
+srr_53750 1 Locuteur3 652.875 663.740 <o,f0,unknown> Pape Made o xey leya in ñal ne rek no Jokalante ndero feet bo lundi :fra a jega teɓa ka na cu gel meen kon taxar ke xana ngar
+srr_53750 1 Locuteur3 663.740 673.077 <o,f0,unknown> nu jim ka den xana may koy tar kasu tar kasu ke yala ɗinga ke de njim ka den maga ndaxa feda fada nga de bago ndata
+srr_53750 1 Locuteur3 673.077 679.926 <o,f0,unknown> a bago njik wa wala de bago ñama fo ɓasil den [applaude] taxar leng ka
+srr_53750 1 Locuteur3 679.926 686.739 <o,f0,unknown> a ndet ka no tano la ndax de ñow fo fo jemo le mba ɓago a nim no fo jemole bo ŋaay ka te [applaude]
+srr_53750 1 Locuteur3 686.739 695.456 <o,f0,unknown> kon njimik yo den [applaude] a fela nga nuun o feet nu commencer :fra mbaka a sema ke gaƴa den ma taxar ke gara nga rek du ndal fo commence :fra sipa den kam fe a somb simba le ɓuta
+srr_53750 1 Locuteur3 695.456 701.306 <o,f0,unknown> reboisement :fra caku kana taxa te xona
+srr_53750 1 Locuteur3 701.306 708.024 <o,f0,unknown> garid ndiki woqa sembale te juga suma kam fa reka nduf ndaxar na kam fa tuxuj rek upine siɓa num
+srr_53750 1 Locuteur3 708.024 716.676 <o,f0,unknown> a wa ret de nda xana son de kena moƴa teen ten refu a sembale a neew neew fata jeg semaine :fra
+srr_53750 1 Locuteur3 716.676 738.097 <o,f0,unknown> a sembale mbut be goy a yip fofi ba a xeƴa jima gan taaga ndaxar naga ne geen wa nu ngaƴ tin yiif [applaude] i conatana lool na paax Chef :fra de :fra village :fra jërëjëf a kum naxa le moom i nga an war gal nda kunu ngum nuna xa i ngum noox kupun pour :fra lul ndundur ndam yo kene [applaude] jërëgen jëf
+srr_53750 1 Locuteur4 738.097 741.512 <o,f1,unknown> `njoko njal kom ye i commencer : fra a

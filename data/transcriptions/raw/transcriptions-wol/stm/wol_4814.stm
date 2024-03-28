@@ -1,0 +1,146 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 09:18:50 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 3 of 230206
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_4814 1 locuteur_2 0.000 2.817 <o,f1,male> fonds :fra yi nga xam ne nii %e ministre :fra de :fra la :fra microfinance :fra teg na ko
+wol_4814 1 locuteur_2 2.817 7.098 <o,f1,male> fonds :fra yooyu tey jii bu fekkoon ne dana daj bu fekkoon dana daj dëkk yi
+wol_4814 1 locuteur_1 7.098 7.597 <o,f1,male> %hum %hum
+wol_4814 1 locuteur_1 7.597 10.469 <o,f1,male> dana am solo trop :fra te kuy liggéey danga ca mën a gñn
+wol_4814 1 excluded_region 10.469 16.920 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_3 16.920 17.924 <o,f1,female> %hum %hum
+wol_4814 1 locuteur_2 17.924 18.884 <o,f1,male> boo xoolee cycle :fra bi
+wol_4814 1 excluded_region 18.884 22.847 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_2 22.847 34.113 <o,f0,male> waaye am na ñoo xamante ne dañuy dem ba la ñu amoon sax dañu koy jaayaat maanaam au :fra lieu :fra que :fra mu mu mu amélioré :fra seen performances :fra dafa leen di daf leen indil ay contre :fra performances :fra ba seen la ñu amoon sax dañu koy far di jaayaat
+wol_4814 1 locuteur_2 34.113 38.835 <o,f0,male> maa ngi rappelé :fra wu ci benn %e benn kuréel boo xam ne doon naa ko defal enquête :fra 2004
+wol_4814 1 locuteur_1 38.835 39.316 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_2 39.316 49.767 <o,f0,male> am na ci benn paa boo xamante ne dane man de damaa jaaxle ndax de [b] maa de %e lii ma gis xawma ko ndax man kat bor bi may fay [b] damay jaay sama fas ak samab charette :fra soog koy soog koy fay
+wol_4814 1 excluded_region 49.767 52.225 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_2 52.225 55.792 <o,f0,male> kon tax loolu tax na intitution :fra de :fra microfinance :fra yi
+wol_4814 1 locuteur_1 55.792 56.408 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_2 56.408 63.157 <o,f0,male> war nañoo xoolaat naka lañuy gën a fexee ba jàppale [bb] ba jàppale kuréel yi
+wol_4814 1 excluded_region 63.157 68.836 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 excluded_region 68.836 70.467 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_1 70.467 70.982 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_2 70.982 72.545 <o,f0,male> war nañoo wax ak banques :fra yu mag yi
+wol_4814 1 locuteur_1 72.545 72.889 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_2 72.889 75.477 <o,f0,male> ndax itam %e banques :fra yu ndaw yi
+wol_4814 1 excluded_region 75.477 77.177 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_2 77.177 86.423 <o,f0,male> fa ñuy lebee xalis nag bu fekkee ni xaalis booba fa ñu koy lebee xaalis ba dafa jóg aussi :fra itam ñoom itam duñu mën a la ñu la ñu leble fokk ñu jógal taux :fra ba
+wol_4814 1 locuteur_1 86.423 86.767 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_2 86.767 93.313 <o,f0,male> moo tax fi xam ne nii mooy kuréel gu mag gi mooy BCEAO taux :fra de :fra sortie :fra ba fa banque :fra xaalis bay jógee foofa Etats :fra yi dañu cee war a wax
+wol_4814 1 locuteur_3 93.313 94.385 <o,f0,female> %hum %hum
+wol_4814 1 locuteur_2 94.385 100.539 <o,f0,male> comme :fra ni Europe def ndax bu fekkee ne taux :fra ba ay 1% la 1 1,5% et :fra cetera :fra yooyu dana mën nekk ak ***
+wol_4814 1 locuteur_2 100.539 106.869 <o,f0,male> mais :fra comme :fra ñu am ñoo xam ne nii def nañu en :fra tout :fra cas :fra awma ci information :fra bu leer mais :fra je pense :fra que :fra c' :fra est :fra au :fra tour de 4% lay lay gñnee foofu
+wol_4814 1 locuteur_2 106.869 113.187 <o,f0,male> kon bu fay gñnee foofu aussi :fra te bu demee ci banques :fra yi banque :fra bi mënul a fexe ba gñn %e 8 9%
+wol_4814 1 locuteur_2 113.187 124.779 <o,f0,male> 7 8 9% %hum léegi nag kee itam bu ko jëlee bëgg ci teg ay commissions !fra am ak ay nangam nangam fokk mu dem 15 jàpp 18 wala 13 jàpp 14 bu fekkee ne Etat :fra bi Etat :fra bi jàppu ci
+wol_4814 1 locuteur_2 124.779 131.791 <o,f0,male> kon loolu man jàpp naa ne tey jii agenda :fra bi xam ne Afrique tracé :fra na ko muy agenda :fra 2002 2063 bi
+wol_4814 1 locuteur_2 131.791 133.253 <o,f0,male> [b] pour :fra l' :fra accès :fra des :fra femmes :fra aux financements :fra
+wol_4814 1 locuteur_1 133.253 133.814 <o,f0,male> %hum %hum
+wol_4814 1 inter_segment_gap 133.814 134.610 <o,f0,>
+wol_4814 1 locuteur_2 134.610 141.730 <o,f0,male> kooku tey jii Etat yi dañ Etats :fra yi dañu koo war a approprié :fra bu ñu ko approprié :fra ñu wàcce ko ci suuf kuréel yi approprié :fra ko ñu bokk ci liggéey mu am synergie :fra
+wol_4814 1 locuteur_1 141.730 142.400 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_2 142.400 158.105 <o,f0,male> ndax jàpp naa ne bu fekkee synergie :fra amu ci aussi :fra itam toujours :fra problèmatique :fra bu fiancement :fra [mic] jigéen ñi dafay dafay dafay taxa() dafay taxaw ou :fra sinon :fra lenn dong mooy alternative :fra bi mooy li ma la wax mooy caisse :fra * yi moom la jigéen ñi fas yéene rabatre :fra wu fas yéene ci ndax ñu ngi ciy lijanti seen soxla
+wol_4814 1 locuteur_1 158.105 163.155 <o,f0,male> %hum %hum waaw defe naa ne loolu war ngeen ñu cee mën a faram fàcceel tuuti %e Fatou Seye [rire] fi mu junj léegi nii
+wol_4814 1 locuteur_3 163.155 168.199 <o,f0,female> waaw [mic] fi Ibrahima wax de foofu dafa am solo muy keesu avec :fra yi nga xam ne ñoo nekk si dëkk yi
+wol_4814 1 excluded_region 168.199 170.982 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_3 170.982 177.625 <o,f0,female> [mic] muy kees yu am solo ndax kooku tax na kees bi ma bi ma leen waxee dama naan leen dafa am am na importance :fra
+wol_4814 1 locuteur_1 177.625 179.073 <o,f0,male> yooyu naka la demee kees yooyu
+wol_4814 1 locuteur_3 179.073 181.371 <o,f0,female> kees yi mooy kees yoo xam ne dañu koy def si dëkk bi
+wol_4814 1 locuteur_1 181.371 181.805 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 181.805 186.021 <o,f0,female> jigéen ñi bokk [mic] soo bokkee dangay dangay denc di leb
+wol_4814 1 locuteur_1 186.021 186.709 <o,f0,male> dangay denc di leb
+wol_4814 1 locuteur_3 186.709 187.908 <o,f0,female> dangay dem denc di leb
+wol_4814 1 locuteur_1 187.908 188.546 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 188.546 191.925 <o,f0,female> kees yooyu bari na kees yoo xam ne ni léegi dafa mel ni boutique :fra sax
+wol_4814 1 excluded_region 191.925 193.765 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_1 193.765 194.394 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 194.394 200.900 <o,f0,female> [mic] ndax man kees bi du ma fi fe() du ma ci bokkee [mic] su weer bi deewee bu ma soxlaa saabu waa kees ba dinañ ma ko jëndal jox ma ko
+wol_4814 1 locuteur_3 200.900 205.677 <o,f0,female> [i] su ma soxlaa diwlin sax même :fra ceeb sax su ma ko soxla woon ñu jox ma ko
+wol_4814 1 excluded_region 205.677 209.061 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_3 209.061 215.269 <o,f0,female> am na ñoo xam ne par :fra %e ñett weer bi dinañu natt ñetti yoon am na ñuy natt ñeenti yoon kenn ku nekk rek ni ngeen waxtaanee ba
+wol_4814 1 excluded_region 215.269 218.616 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_3 218.616 221.638 <o,f0,female> [mic] soo dikkee loxo bee itam dañu koy waxtaanee [mic] loxo bi ñaata la
+wol_4814 1 locuteur_1 221.638 222.109 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 222.109 231.717 <o,f0,female> juróomi loxo doo ko weesu am na ñuy def 500 loxo 500 nga xam ne %e [mic] semaine bu ne danga mën natt 2500 [r] am na ñuy def 1000F kenn ku nekk daal ni nga ko mënee rek
+wol_4814 1 locuteur_3 231.717 234.533 <o,f0,female> nu ngeen waxtaanee ba jubóo ci rek yéenay waxtaan ba jubóo ci
+wol_4814 1 locuteur_1 234.533 235.098 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 235.098 247.049 <o,f0,female> loolu kees googu dina la may li nga naroon a yàqate nga dem dugal ko fa buñu demee ba école :fra ubbi ñi nga xam ne néew nañu doole te kees gi nag li ci ëpp solo dafay ànd ak solidarité :fr
+wol_4814 1 locuteur_3 247.049 251.239 <o,f0,female> [mic] ndax semaine :fra bu nekk ku ci bokk natt booy natt rek danga joxe solidarité :fra
+wol_4814 1 locuteur_3 251.239 258.669 <o,f0,female> te solidarité :fra yooyu ci biir dëkk bi ñi nga xam ne am nañ tolof-tolof bu ñu dikkee dañu leen di dimbali ci solidarité :fra
+wol_4814 1 locuteur_3 258.669 272.359 <o,f0,female> xale yu ndaw yi nga xam ne groupe :fra de :fra jeux :fra yi mooy xale yi nga xam ne dañoo nekk ci biir dëkk yi [mic] muy xale yu tuuti yi commencé :fra %e liy door a juddu ba ba ñuy am ñetti at nga xam ne dañuy nekk ci %e ci kii bi ci groupe :fra de :fra jeu :fra bi
+wol_4814 1 locuteur_3 272.359 278.641 <o,f0,female> xale yooya itam dañ leen di jàppale ndax xale yooyu dañ leen di toggal ndéki xam nañ ne xale mënta mënoo koo yore xëy suba yore ko 8H ba midi :fra
+wol_4814 1 locuteur_1 278.641 279.093 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 279.093 287.430 <o,f0,female> xale boobu bu ko yaayam indee si ngo() [mic] bu bëccëgee bu ñu demee ba ay 10h jot ña ko yore dañu leen di toggal ndéki ñu leen ciy jox li ñuy ndéki ba wàcc jot
+wol_4814 1 locuteur_3 287.430 294.429 <o,f0,female> xale yooyu dañu leen siy jàppale [mic] lu mel ne école :fra yi bu ñu amee problème :fra solidarité :fra yooyu dañ ciy dindi di leen jàppale
+wol_4814 1 locuteur_3 294.429 300.129 <o,f0,female> képp koo xam ne waxoon naa ko feebar ñëw na dañuy dindi di la jàppale si solidarité :fra bi
+wol_4814 1 locuteur_3 300.129 303.716 <o,f0,female> loo xam ne soxlas dëkk [mic] bi la daal lu aju ci dëkk bi daal moom
+wol_4814 1 locuteur_1 303.716 304.080 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 304.080 314.749 <o,f0,female> dëkk bi ku fi nekk rek képp koo xam ne am na soxla te ñu xam ne yow mii soxla bi [mic] néew nga ci doole dañuy jël ci keesu avec :fra bi ñu jàppale la ci solidarité :fra yi solidarité :fra yi moom kenn du ko séddale amul séddal
+wol_4814 1 locuteur_3 314.749 325.462 <o,f0,female> bu ñu nattee tamit bu ñuy commencé :fra kees gi itam ni ñuy waxee loxo bi tant :fra la ni la ñuy wax ne kees gi de feeg nangami weer lañu koy séddale lañu koy toj
+wol_4814 1 locuteur_3 325.462 333.515 <o,f0,female> toj bee itam bu ñuy kees gee itam li ñu leen di wax jigéen ñi fexe leen ba bu ñu ko séddalee na ngeen ci def loo xam ne dina leen jàppale ci liggéey
+wol_4814 1 locuteur_3 333.515 339.713 <o,f0,female> wante waxuñu la nga toj kees gi rek bari na ñoo xam ne dañuy xaar ba évñement :fra ñëw ñu toj ñiy jënd ay yére ñii jëndee lii
+wol_4814 1 locuteur_3 339.713 344.470 <o,f0,female> wante ñun [mic] li ñu leen di sensibiliser :fra mooy fexeel ba bu ñuy jël bu ñu tojee kees bi la nga fa am
+wol_4814 1 locuteur_1 344.470 344.886 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 344.886 349.193 <o,f0,female> nga def ci dara loo xam ne bu ëllëgee dina la mën a jaral leneen dina tax ngay mën a [mic] yokk sa natt
+wol_4814 1 locuteur_3 349.193 359.688 <o,f0,female> [r] ci biir kees gee itam bu semaine :fra bu nekk bu ñu nattee lu mat weer dañuy commencé :fra di leble képp koo xam ne am na soxla xaalis ci dëkk bi te nga bokk ca kees ga dañu lay dikk lebal
+wol_4814 1 locuteur_3 359.688 370.256 <o,f0,female> bu fekkente ne dëkk bi am na ay ñetti kees ay ñeenti kaas bu ñu nattee kees gi nga xam ne dafa natt te xaalisam ay membres :fra am soxla wu ñu ko mën ngaa dikk lebal ko kees geneen kees gi nga xam ne moo nekk si deëkk bi
+wol_4814 1 locuteur_3 370.256 377.748 <o,f0,female> nga keneen yeneen kees gi ndax dañuy def dëkk bi day de() ñun bi ñuy commencé :fra [i] man sama village :fra ñu ngi commencé :fra woon si benn kees tey ñu ngi ci ñeenti kees
+wol_4814 1 locuteur_3 377.748 385.798 <o,f0,female> kees yooya itam képp koo xam ne yore nga xaalis boo xam ne [mic] soxla woo ko beneen kees bu ko soxla mën ngaa dem xaalis ba nga lebal ko keneen kees googa mu lebal ay membres :fra am
+wol_4814 1 locuteur_3 385.798 392.944 <o,f0,female> su ma leblee sama soxla li mu li mu egsi su ma soxlaa ma dikk ñu lebal ma 3 mois :fra ma def ci sama yenn soxla yu bari
+wol_4814 1 locuteur_3 392.944 400.461 <o,f0,female> kees yooyu tey jàppale na ñu bari bari na ñoo xam ne dañu ciy def am ba %e kii %e programme :fra mu tabaski bi ay opération :fra tabaski
+wol_4814 1 excluded_region 400.461 401.542 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_1 401.542 401.917 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 401.917 406.197 <o,f0,female> am na ñu ciy def jënd ak a jaay am na lu nekk ña kees yooyu jur na ko léegi ci dëkk yi
+wol_4814 1 locuteur_1 406.197 406.667 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 406.667 415.190 <o,f0,female> am na ñoo xam ne jënd nañ ci ay xar fekk na woon amuñu xar ñu toj ñu dem jëndi xar ñeneen ñu lebal leen ñu def [mic] kenn ku nekk daal yaa xam li ngay liggéey ñun nag bu ñu lay lebal xaalis li ñu lay wax
+wol_4814 1 locuteur_1 415.190 415.678 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 415.678 423.495 <o,f0,female> bu ñu la lebalee na nga ko def ci lu loo xam ne day yokkute wante dem leb lekk moom dañu koy tere ndax boo ko defee bu ëllëgee mën na laa indil %e
+wol_4814 1 excluded_region 423.495 424.164 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_3 424.164 430.642 <o,f0,female> dangay gis koo xam ne kees ga bu ñu koy toj dangay gis ñoo xam ne dañuy am 100000F ñii am 150000F kenn ku nekk noo fa noo fa doon nattee rek
+wol_4814 1 inter_segment_gap 430.642 431.462 <o,f0,>
+wol_4814 1 locuteur_1 431.462 431.462 <o,f0,male> %hum
+wol_4814 1 inter_segment_gap 431.462 431.707 <o,f0,>
+wol_4814 1 locuteur_3 431.707 437.228 <o,f0,female> moom boolu lem la boo cappee tuuti sa loxo tuuti ngay mar boo dugalee sa loxo ba ca biirb [rire] mu fees dell
+wol_4814 1 excluded_region 437.228 439.947 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_3 439.947 442.947 <o,f0,female> boolu lem la rek [rire] noo ci dugale sa loxo noonu la siy taqe [rire]
+wol_4814 1 excluded_region 442.947 444.415 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_1 444.415 444.741 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 444.741 453.318 <o,f0,female> bari na jigéen ñoo xam ne dematuñu sax daanaka presque :fra ci mutuel yi ci kees yooyu rek lañu nekk ci la ñuy leb dëgg te lu waay am ci dëkk bee itam danga ko fi indi ndax semaine :fra bu nekk
+wol_4814 1 locuteur_1 453.318 453.897 <o,f0,male> %hum
+wol_4814 1 locuteur_3 453.897 459.562 <o,f0,female> boo dajalee sa 1000F xam nga mutuel ba sori na la ma dajale sama 1000F indi dugal ci kees gi
+wol_4814 1 locuteur_3 459.562 474.609 <o,f0,female> kii am 2500 dikk dugal kii am 3000 am dikk dugal ñu dajale suñu dajalee ba pare [mic] bu énu réglé :fra ba ne am naénu tant :fra [mic] mbooloo mi ko soxla ne man de %hum kii nee na soxla naa 50000 kii ne soxla naa 100000F suñu paree [mic] énu dindi lebal ñu lebal kenn
+wol_4814 1 locuteur_1 474.609 475.007 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 475.007 478.406 <o,f0,female> bu ëllëgee bu amee 3 mois :fra nga delloosi [mic] te interet :fra bi nga ciy teg
+wol_4814 1 locuteur_1 478.406 478.949 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 478.949 480.378 <o,f0,female> lu néew lay doon
+wol_4814 1 locuteur_1 480.378 480.939 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 480.939 483.578 <o,f0,female> [conv] interet :fra interet :fra bu néew nga ciy teg
+wol_4814 1 locuteur_1 483.578 484.085 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 484.085 492.131 <o,f0,female> te loolu nga ci tegaat bu ñu demee ba toj kees ga [mic] ak bénéfice :fra yi nga xam ne bu énu doon jënd ndax tey bu dee oma bu dee omo bi ngay raxas ci sa kër
+wol_4814 1 locuteur_1 492.131 492.584 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 492.584 500.680 <o,f0,female> kees gi weer bu dee mu jox la ko bu weer wi deewaatee nga dikk fay si bu dee saabu [b] bi ngay fóotee lépp loo soxla [b] da la koy jox kees gi dañu la koy lebal
+wol_4814 1 locuteur_1 500.680 501.096 <o,f0,male> %hum %hum
+wol_4814 1 locuteur_3 501.096 504.426 <o,f0,female> su ko moo tax mane la kees gi dafa dem ba soppiku mel ne ay boutique :fra ci dëkk yi
+wol_4814 1 excluded_region 504.426 506.072 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_3 506.072 512.246 <o,f0,female> presque :fra kees gaa ngi ko indi te lépp loo fa jógee [i] danga koy delloosiwaat si sa bor [mic] bénéfice :fra la boo xam ne ci sa bopp ngay delloosiwaat
+wol_4814 1 locuteur_3 512.246 525.270 <o,f0,female> bu ñu demee ba toj kees gi bu amee bu fekkee ni [mic] neenaénu suénu kees gii [mic] ñaari at lay am énu door koy toj wala at lay am ñu door koy toj buñu ko tojee [mic] buñu séddalee xaalis bi ba kenn ku nekk la nga nattoon ñu delloosi la su ko defee ñu jël solidarité :fra yi def ko ci activité :fra dëkk bi
+wol_4814 1 locuteur_3 525.270 530.174 <o,f0,female> énu jël li nga xam ne mooy interet :fra yi ak %e ak kii ak bénéfice :fra yi dañu koy séddalewaat membres :fra yi
+wol_4814 1 locuteur_1 530.174 530.735 <o,f0,male> %hum %hum %hum
+wol_4814 1 locuteur_3 530.735 533.431 <o,f0,female> séddalewaat ko membres :fra yi su ko defee ñu commencé :fra waat
+wol_4814 1 excluded_region 533.431 536.083 <o,,unknown> ignore_time_segment_in_scoring
+wol_4814 1 locuteur_3 536.083 536.508 <o,f0,female> %hum
+wol_4814 1 locuteur_1 536.508 541.168 <o,f0,male> donc :fra ce :fra qui :fra veut :fra dire :fra que :fra %e ay interet :fra da ciy daciy daciy am am wala nu ngeen def ba am bé()

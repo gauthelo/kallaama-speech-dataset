@@ -1,0 +1,801 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:35 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 3 of 230502
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_33210 1 Locuteur1 0.000 0.701 <o,f1,female> me
+srr_33210 1 Locuteur2 0.701 1.414 <o,f1,male> %hum %hum
+srr_33210 1 excluded_region 1.414 88.842 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 excluded_region 88.842 145.074 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur2 145.074 146.262 <o,f1,male> alo oui :fra
+srr_33210 1 Locuteur_3 146.262 147.298 <o,f1,male> *
+srr_33210 1 Locuteur2 147.298 148.242 <o,f1,male> waaw
+srr_33210 1 Locuteur_3 148.242 151.164 <o,f1,male> waw mbede jam way
+srr_33210 1 Locuteur2 151.164 152.637 <o,f1,male> iyo jam soom way bata may
+srr_33210 1 Locuteur_3 152.637 153.877 <o,f1,male> jam somo alkhamdoulila
+srr_33210 1 Locuteur2 153.877 155.649 <o,f1,male> gon le pogoxe
+srr_33210 1 Locuteur_3 155.649 158.939 <o,f1,male> gole de kam rawan koy mexey xoytita mana a Thialé
+srr_33210 1 Locuteur2 158.939 159.997 <o,f1,male> a Thiale
+srr_33210 1 Locuteur_3 159.997 160.962 <o,f1,male> axa
+srr_33210 1 Locuteur2 160.962 163.093 <o,f1,male> iyo in way nan gilwang
+srr_33210 1 Locuteur_3 163.093 163.718 <o,f1,male> kam rawa gonle
+srr_33210 1 Locuteur2 163.718 164.541 <o,f1,male> iyo
+srr_33210 1 Locuteur_3 164.541 172.925 <o,f1,male> i ka in ka i nga a wene nu cona te ka garder :fra a o goxole widna meke a Thiale
+srr_33210 1 Locuteur2 172.925 174.092 <o,f1,male> %hum %Hum
+srr_33210 1 Locuteur_3 174.092 178.273 <o,f1,male> ka saqa a loq dena loqa to den mbaru () wiin we
+srr_33210 1 Locuteur2 178.273 179.181 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur_3 179.181 185.916 <o,f1,male> kene soom im lamta ndax den ga njeg a kayta la ando naye a mbaga dena loqa
+srr_33210 1 Locuteur2 185.916 187.475 <o,f1,male> iyo
+srr_33210 1 Locuteur_3 187.475 189.564 <o,f1,male> *
+srr_33210 1 Locuteur2 189.564 190.384 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur_3 190.384 192.546 <o,f1,male> parce :fra que :fra ga i nga in men
+srr_33210 1 Locuteur4 192.546 193.794 <o,f1,male> ɓati ley te leer
+srr_33210 1 Locuteur2 193.794 194.567 <o,f0,male> i kene somo lamta
+srr_33210 1 Locuteur_3 194.567 196.379 <o,f1,male> axa kene im lam ta
+srr_33210 1 Locuteur2 196.379 198.329 <o,f1,male> wena loka
+srr_33210 1 Locuteur_3 198.329 199.159 <o,f1,male> i
+srr_33210 1 Locuteur2 199.159 200.917 <o,f1,male> we ndax ga njega kayit
+srr_33210 1 Locuteur_3 200.917 202.904 <o,f1,male> i ndax wene ga njega kayit
+srr_33210 1 Locuteur4 202.904 205.920 <o,f1,male> njege kayit njege kayta leŋ i
+srr_33210 1 Locuteur_3 205.920 207.717 <o,f1,male> *
+srr_33210 1 Locuteur2 207.717 208.944 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur_3 208.944 210.574 <o,f1,male> te leye ndetar tena garder :fra a maga
+srr_33210 1 Locuteur2 210.574 211.402 <o,f1,male> %hum %Hum
+srr_33210 1 Locuteur_3 211.402 214.335 <o,f1,male> to o xesa nga ga ndetar faga a loqa
+srr_33210 1 Locuteur2 214.335 215.045 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur_3 215.045 218.193 <o,f1,male> to ten waru fañit a loktala
+srr_33210 1 Locuteur2 218.193 218.757 <o,f1,male> %hum %Hum
+srr_33210 1 Locuteur_3 218.757 222.013 <o,f1,male> i lamta kene koy
+srr_33210 1 Locuteur2 222.013 225.397 <o,f1,male> iyo d' :fra accord :fra i nana question :fra ne i mbinaan
+srr_33210 1 Locuteur_3 225.397 226.114 <o,f1,male> iyo ok :en
+srr_33210 1 Locuteur4 226.114 239.426 <o,f1,male> a fiya nga rek mene xana jeg intervention :fra na fima ten a lok a lok lo leŋ coxit ke autorisation :fra pour :fra ndaxar a lokel parce :fra que :fra deja :fra a refa nga a kota le a kota le sax moƴu a lokale
+srr_33210 1 Locuteur4 239.426 250.323 <o,f1,male> sam a kota le o lal ngana nge sax xana jeg na god tona ndaxar ne mais :fra bo loka ko ndasa loka to ko gaña ndaxar ne ko fasan bon o leŋ coxke o kiin autorisation :fra pour :fra te loka ndaxar
+srr_33210 1 Locuteur2 250.323 252.765 <o,f1,male> kam waxtan le sax Khadim i leyano yo
+srr_33210 1 Locuteur4 252.765 253.706 <o,f1,male> i leyan kam fe
+srr_33210 1 Locuteur2 253.706 254.244 <o,f1,male> a lok foge
+srr_33210 1 Locuteur4 254.244 264.764 <o,f1,male> a lok moƴu yaqa ndaxar oxu i soɓna ten moom o xaga moom jege wasanit lok ndaxar faxsan jege wasanit bon wo fene xoyit na Thialé ko raw gonle kene dal i mbang ngo tontu Waly
+srr_33210 1 Locuteur2 264.764 276.884 <o,f1,male> iyo in way ngid mana paax o xene rawna gonle Khadim a xoyit bo cale fogame wena loka mene a mana nga émission :fra en ta nan gilwano yo
+srr_33210 1 Locuteur2 276.884 290.317 <o,f1,male> fogum xana tegino yo a laŋ yaam kene o leŋ coxe den autorisation :fra ye mbaɗ yo a lok lokayo taxar ke mbara den kene o leŋ coxte ten autorisation :fra
+srr_33210 1 Locuteur5 290.317 290.955 <o,f1,male> alo
+srr_33210 1 Locuteur2 290.955 291.558 <o,f2,male> alo
+srr_33210 1 Locuteur5 291.558 292.830 <o,f1,male> waw alo
+srr_33210 1 Locuteur2 292.830 293.321 <o,f1,male> alo
+srr_33210 1 Locuteur5 293.321 295.366 <o,f1,male> oui :fra alo o o pogoxe nam fiyo waay
+srr_33210 1 Locuteur2 295.366 296.317 <o,f1,male> jam som kay
+srr_33210 1 Locuteur2 296.317 297.270 <o,f1,male> maxey simna nuun
+srr_33210 1 Locuteur2 297.270 298.591 <o,f1,male> maxoy tita
+srr_33210 1 Locuteur5 298.591 300.368 <o,f1,male> *
+srr_33210 1 Locuteur2 300.368 301.251 <o,f1,male> nam gonle ye
+srr_33210 1 Locuteur5 301.251 304.456 <o,f1,male> () kam raxwa gonle koy
+srr_33210 1 Locuteur2 304.456 305.172 <o,f1,male> ko rawa go le
+srr_33210 1 Locuteur5 305.172 306.471 <o,f1,male> axa
+srr_33210 1 Locuteur2 306.471 309.705 <o,f1,male> axa aca bismila in way nan gilwang
+srr_33210 1 Locuteur5 309.705 310.718 <o,f1,male> Grand :fra Waly
+srr_33210 1 Locuteur4 310.718 311.535 <o,f1,male> oui :fra
+srr_33210 1 Locuteur5 311.535 313.421 <o,f1,male> in way ziare ang a paax waay
+srr_33210 1 Locuteur4 313.421 314.799 <o,f1,male> delo ziar waay
+srr_33210 1 Locuteur5 314.799 318.594 <o,f1,male> nana nuun o wod fo o ɓaal
+srr_33210 1 Locuteur4 318.594 319.867 <o,f1,male> alahouma amiinyarabin alamin
+srr_33210 1 Locuteur5 319.867 325.450 <o,f1,male> barikala wa emission :fra ne koy camano kene fop kam yaca nan o manquer :fra a quoi :fra
+srr_33210 1 Locuteur4 325.450 325.883 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur5 325.883 329.142 <o,f1,male> parce :fra que :fra xaƴa ka i ndam u ten taxu waag inumo nan gilu quoi :fra
+srr_33210 1 Locuteur4 329.142 330.562 <o,f1,male> i temps :fra fe rek temps :fra fe
+srr_33210 1 Locuteur5 330.562 334.683 <o,f1,male> xaye koy ten taxu leye () kenu leya aussi :fra
+srr_33210 1 Locuteur4 334.683 335.347 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur5 335.347 341.927 <o,f1,male> vraiment :fra a jega ka ando naye wax degg yala a jega solo lol parce :fra que :fra ke koɓale moom
+srr_33210 1 Locuteur4 341.927 342.116 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur5 342.116 346.159 <o,f1,male> xaƴa () nda wax deg refe a ɗat
+srr_33210 1 Locuteur4 346.159 346.866 <o,f1,male> %hum%hum
+srr_33210 1 Locuteur5 346.866 353.254 <o,f1,male> i parce :fra que :fra mene maxey imaginer :fra aye bo i ndet ina bata paam rek ()
+srr_33210 1 Locuteur4 353.254 353.654 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur5 353.654 365.364 <o,f1,male> roga dogala ngan xaƴa oxu soɓ naye rogo () goda na cegelof saatin kene yiin fogame saas ke ndima ngama() bo cegel ke ñama ba kor yaga korum a ŋay fele quoi :fra
+srr_33210 1 Locuteur4 365.364 366.310 <o,f1,male> %hum fele vraiment :fra
+srr_33210 1 Locuteur5 366.310 371.969 <o,f1,male> i no cote :fra laga moom individuel :fra fok nu yaco ley ten no coté :fra lene
+srr_33210 1 Locuteur4 371.969 373.583 <o,f1,male> te ref ndigil yaal mbin
+srr_33210 1 Locuteur5 373.583 376.000 <o,f1,male> i ke teguna no coté :fra laga encore :fra
+srr_33210 1 Locuteur4 376.000 376.994 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur5 376.994 382.939 <o,f1,male> te ref o tewo xene ando naye ka leyewa Mbako ndax ()
+srr_33210 1 Locuteur4 382.939 384.966 <o,f1,male> i fo Mbako a ne a Mbako sax
+srr_33210 1 Locuteur5 384.966 387.927 <o,f1,male> wo fene leyena Mbako te leye fo wa Mbako
+srr_33210 1 Locuteur4 387.927 389.599 <o,f1,male> non :fra a ne a Mbako sax a ne a Mbako
+srr_33210 1 Locuteur5 389.599 394.476 <o,f1,male> [rire] wala mais :fra ka jeg ka ando naye ga a quɗ ke ndefna koɓale
+srr_33210 1 Locuteur4 394.476 395.067 <o,f1,male> i
+srr_33210 1 Locuteur5 395.067 398.069 <o,f1,male> te rewe tu na ŋoyta xana mbing wino yo
+srr_33210 1 Locuteur4 398.069 398.790 <o,f1,male> i
+srr_33210 1 Locuteur5 398.790 405.090 <o,f1,male> ndik kaga koy o kin o kinoxe koy wax deg fok te god koy a jeg kate kene na
+srr_33210 1 Locuteur4 405.090 405.863 <o,f1,male> waga
+srr_33210 1 Locuteur5 405.863 406.403 <o,f1,male> wagiro god ndaxar
+srr_33210 1 Locuteur4 406.403 407.056 <o,f1,male> waga koy
+srr_33210 1 Locuteur5 407.056 410.597 <o,f1,male> fok aussi :fra anda njaw caw moom fok te jeg
+srr_33210 1 Locuteur4 410.597 412.146 <o,f1,male> njaw wage ñak c':fra est :fra obligatoire :fra
+srr_33210 1 Locuteur5 412.146 427.460 <o,f1,male> ten taxu koy ba leyna ye a ŋod kuɗin kene yiin nangam nangam da yoqe sax ka leye ka ngar bon pin in ke a ŋod taxar in ke non :fra non :fra kene o leŋ fi kiran kon yaga de mbanjan na qox den au :fra lieu :fra nu ngara de mbanjana qox den () bo a jeg u ka bug uma lamit quoi :fra
+srr_33210 1 Locuteur4 427.460 428.563 <o,f1,male> non :fra a mosa
+srr_33210 1 Locuteur5 428.563 429.179 <o,f1,male> o jega nga
+srr_33210 1 Locuteur4 429.179 429.670 <o,f1,male> a mosa
+srr_33210 1 Locuteur5 429.670 431.500 <o,f1,male> ndaxar kam mbinef comme :fra niin nke rek
+srr_33210 1 Locuteur4 431.500 432.095 <o,f1,male> iyo
+srr_33210 1 Locuteur5 432.095 440.657 <o,f1,male> a bugo god ten pour :fra lasa keɓin kene yiin action :fra kene est :fra ce :fra que :fra kaga mesure :fra num waro wago fi pour :fra fi in
+srr_33210 1 Locuteur4 440.657 443.706 <o,f1,male> i maga yal mbin
+srr_33210 1 Locuteur5 443.706 444.240 <o,f1,male> iyo
+srr_33210 1 Locuteur4 444.240 449.420 <o,f1,male> iyo a fela ngan sax waga couper :fra rek o nan gilwa in na o saqa nga poste :fra radio :fra
+srr_33210 1 Locuteur5 449.420 450.474 <o,f1,male> i
+srr_33210 1 Locuteur4 450.474 452.478 <o,f1,male> me o saqa nga poste :fra radio :fra
+srr_33210 1 Locuteur5 452.478 453.315 <o,f1,male> i
+srr_33210 1 Locuteur4 453.315 460.690 <o,f1,male> waga couper :fra o nan gilwa in a fela ngan it o xar no téléphone :fra of mais :fra a refa nga ndaxar ne kam mbinof a refu
+srr_33210 1 Locuteur5 460.690 461.104 <o,f1,male> a
+srr_33210 1 Locuteur4 461.104 464.098 <o,f1,male> o soxla u nan nene latiin wala a texa keɓ
+srr_33210 1 Locuteur5 464.098 465.291 <o,f1,male> i
+srr_33210 1 Locuteur4 465.291 472.052 <o,f1,male> ko bin ka a demande :fra rek atin mairie :fra jege rabid wana nene ko at kan maga rek ley soxla of
+srr_33210 1 Locuteur5 472.052 472.464 <o,f1,male> i
+srr_33210 1 Locuteur4 472.464 477.241 <o,f1,male> xana ley ngoye ɓeri mene ɓeer meke a refa nga ndaxar bugona maaf koy
+srr_33210 1 Locuteur5 477.241 478.583 <o,f1,male> iyo
+srr_33210 1 Locuteur4 478.583 481.574 <o,f1,male> naga xin o buga ngano maaf
+srr_33210 1 Locuteur5 481.574 485.608 <o,f1,male> i non :fra non :fra pa maaf maafo moom ko éliminer :fra kan completement :fra
+srr_33210 1 Locuteur4 485.608 486.602 <o,f1,male> iyo a qoda le
+srr_33210 1 Locuteur5 486.602 489.622 <o,f1,male> mi kenm leya ten refuye manam ndaxar ne rek
+srr_33210 1 Locuteur4 489.622 489.959 <o,f1,male> i
+srr_33210 1 Locuteur5 489.959 491.040 <o,f1,male> o soxla ten nene
+srr_33210 1 Locuteur4 491.040 492.751 <o,f1,male> a lat wala a teex
+srr_33210 1 Locuteur5 492.751 494.848 <o,f1,male> i a latin kene yiin
+srr_33210 1 Locuteur4 494.848 500.486 <o,f1,male> maga mbindi a demande :fra o atin mairie :fra i
+srr_33210 1 Locuteur2 500.486 502.196 <o,f1,male> mene xana jeg o ndiko nduluñonga leran
+srr_33210 1 Locuteur4 502.196 505.267 <o,f1,male> waga bo ɓatno lerin sax Khadim a saka nga poste :fra radio
+srr_33210 1 Locuteur2 505.267 517.936 <o,f1,male> ko soxla ka soxla ten a naaq fata fiya demande :fra bala te xelafo gar mairie :fra fata mbisin ma chef :fra du :fra village :fra a mbisangan ma chef :fra du :fra village :fra te signer :fra ba ƴut parce :fra que :fra o ataa ngan mairie :fra to chef :fra du :fra village :fra signer :fra e mairie :fra signer :fra kiran
+srr_33210 1 Locuteur2 517.936 531.539 <o,f1,male> o mbisin ma chef :fra du :fra village :fra signer :fra i o li ten autorisation :fra délégage :fra ko bugo watin tena naq o atin mairie :fra a soɓ chef :fra du :fra village :fra signer :fra ba ƴut o ata ngan mairie :fra xana signer :fra el so o soog no ɓis no agent :fra eaux :fra et :fra foret :fra fe te signer :fra an ngo ten
+srr_33210 1 Locuteur2 531.539 539.776 <o,f1,male> ba xelan fo signer :fra xana gar ba fi constat :fra a fiya nga constat :fra fe ba ande ndaxar nene kat a wage god te sog nga coɗ a autorisation :fra
+srr_33210 1 Locuteur2 539.776 550.422 <o,f1,male> kaga nene deme ora kene jege cono fa leŋ to rabid kiro dara xaƴa kay te ref saax la ando naye a goɗa souvent :fra agent :fra eaux :fra et :fra foret :fra fe buga nga gar xano coxin carburant :fra maga soma do ()
+srr_33210 1 Locuteur4 550.422 551.633 <o,f1,male> alo oui :fra
+srr_33210 1 Locuteur6 551.633 552.524 <o,f1,female> alo
+srr_33210 1 Locuteur4 552.524 554.418 <o,f1,male> waaw an leyun
+srr_33210 1 Locuteur6 554.418 555.605 <o,f1,female> nu mbede jam
+srr_33210 1 Locuteur4 555.605 557.392 <o,f1,male> jam soom waay bata may
+srr_33210 1 Locuteur6 557.392 558.588 <o,f1,female> im ndila
+srr_33210 1 Locuteur4 558.588 559.582 <o,f1,male> alkhadoulila
+srr_33210 1 Locuteur6 559.582 561.642 <o,f1,female> kam rawa gon le
+srr_33210 1 Locuteur4 561.642 562.397 <o,f1,male> iyo
+srr_33210 1 Locuteur2 562.397 563.173 <o,f1,male> xoytita man
+srr_33210 1 Locuteur6 563.173 568.510 <o,f1,female> kam nan affaire :fra a lokale kam lamta ndax rewe na loka yo xa cuuɗ xa beeru xe koy xar nu leyu ten
+srr_33210 1 Locuteur2 568.510 570.835 <o,f1,male> xa cuuɗ xa beeru xe
+srr_33210 1 Locuteur6 570.835 572.228 <o,f1,female> no i
+srr_33210 1 Locuteur2 572.228 573.796 <o,f1,male> wene
+srr_33210 1 Locuteur6 573.796 574.035 <o,f1,female> a
+srr_33210 1 Locuteur2 574.035 582.849 <o,f1,male> wo dal fexeyi bo loka xa cuuɗ xa beeru xe ba gañ ndaxar ne heure :fre fu soɓonga koy o loka xa cuuɗ xa beeruxe bo gaañ ndaxar ne jega probleme :fra
+srr_33210 1 Locuteur2 582.849 594.737 <o,f1,male> i to kaga koy fogame ñako o anda nga ye wagiro ñako lok bo yaqo xaƴa lokake o ana nga ye koy waga fexeybo jeg xa cuuɗ xa beeruxe to yaqiro ndaxr ne waga no fi
+srr_33210 1 Locuteur2 594.737 602.253 <o,f1,male> mais :fra ke leer na ba leer te refuye bo seɓe ena maga loka xa cuuɗ xa beer bo lakele ten xa cuuɗ xa quɓu xano jeg probleme :fra kene dalref tontax ne Waly
+srr_33210 1 Locuteur4 602.253 615.302 <o,f1,male> waw o tewo xene raw na gonum kem ɓatan kan Khadim ten refuye %e a lokale %e bo o loka ande wagiro leye faqit kiro
+srr_33210 1 Locuteur2 615.302 616.170 <o,f1,male> bismila
+srr_33210 1 Locuteur4 616.170 617.082 <o,f1,male> alo
+srr_33210 1 Locuteur7 617.082 618.787 <o,f1,male> alo
+srr_33210 1 Locuteur2 618.787 622.728 <o,f1,male> alo Signe noxe nam fiyo fo mamo xoytit
+srr_33210 1 Locuteur7 622.728 623.968 <o,f1,male> alo
+srr_33210 1 Locuteur2 623.968 625.725 <o,f1,male> wa alo in way nanang aca bismila
+srr_33210 1 Locuteur7 625.725 632.502 <o,f1,male> [b] bismila ko wañka radio :fra le rekalo
+srr_33210 1 Locuteur4 632.502 636.987 <o,f1,male> alo ka nan nene jeguro retour :fra de deplacer :fra wu o ndik
+srr_33210 1 Locuteur7 636.987 638.526 <o,f1,male> alo Mame Waly
+srr_33210 1 Locuteur4 638.526 640.060 <o,f1,male> waaw e Pasteur :fra
+srr_33210 1 Locuteur7 640.060 641.543 <o,f1,male> i na fio koy
+srr_33210 1 Locuteur4 641.543 643.038 <o,f1,male> sant a roga paax waay
+srr_33210 1 Locuteur7 643.038 645.656 <o,f1,male> mexey simna nuun te xenda na nuun jam
+srr_33210 1 Locuteur4 645.656 647.034 <o,f1,male> amin waay
+srr_33210 1 Locuteur7 647.034 651.913 <o,f1,male> leye maxey sant a a nuun dal no calel ke mbiya yo
+srr_33210 1 Locuteur4 651.913 653.089 <o,f1,male> alkhadoulila
+srr_33210 1 Locuteur7 653.089 655.415 <o,f1,male> xeɗa o yaloxe ɓato damta nuun
+srr_33210 1 Locuteur4 655.415 656.057 <o,f1,male> amiin
+srr_33210 1 Locuteur7 656.057 665.687 <o,f1,male> nunu leytuna koy a jega ke ga ma xucuma naxa quraxeka jega oxa garna a dam a ndaklu bo ande ka ka fardu ka
+srr_33210 1 Locuteur4 665.687 666.220 <o,f1,male> iyo
+srr_33210 1 Locuteur7 666.220 671.033 <o,f1,male> te xaƴin maga bote jeg a a pe te weer te gara ɗoka a xot te leye o juuɗo weru xaad tum
+srr_33210 1 Locuteur4 671.033 672.005 <o,f1,male> xe
+srr_33210 1 Locuteur7 672.005 674.995 <o,f1,male> yaga ten et u ret maga a fard ngut ne a xaƴin maga
+srr_33210 1 Locuteur4 674.995 675.913 <o,f1,male> cey
+srr_33210 1 Locuteur7 675.913 678.587 <o,f1,male> iyo kaga aussi:fra nu mbara mbatid ten yiif
+srr_33210 1 Locuteur4 678.587 679.279 <o,f1,male> iyo
+srr_33210 1 Locuteur7 679.279 683.139 <o,f1,male> lakas ke bug uma lamit ten refuye loi :fra nen leyna
+srr_33210 1 Locuteur4 683.139 683.681 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur7 683.681 690.231 <o,f1,male> te o mbida nga a demande :fra delais :fra ne pod numo manam a mban delais :fra ne ware ena tontox
+srr_33210 1 Locuteur4 690.231 690.915 <o,f1,male> iyo
+srr_33210 1 Locuteur7 690.915 697.339 <o,f1,male> comme :fra ba soɓina ye a naaq ka bugo yen o bina demande :fra oxe warna valider :fra in a yeex bata yen bata gaño kiin
+srr_33210 1 Locuteur4 697.339 698.568 <o,f1,male> xe kaga moom
+srr_33210 1 Locuteur7 698.568 702.063 <o,f1,male> wo fo xoxof est :fra ce :fra que :fra jegay droit :fra porter :fra plainte :fra fo an waeo porter :fra plainte :fra
+srr_33210 1 Locuteur4 702.063 702.657 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur7 702.657 707.714 <o,f1,male> yam fogam o leya nga loi :fra keke moƴ na may ka dimle a oxe na executer :fra an
+srr_33210 1 Locuteur4 707.714 708.604 <o,f1,male> te ref ndigil
+srr_33210 1 Locuteur7 708.604 712.758 <o,f1,male> nda we mbarena executer :fra loi :fra lek lek nange ci a den dole
+srr_33210 1 Locuteur4 712.758 713.888 <o,f1,male> %hum %hum te ref ndigil
+srr_33210 1 Locuteur7 713.888 720.039 <o,f1,male> iyo kaga dal ten lam togum loi :fra ne prevoir :fra na bina demande :fra () pour :fra tontu wel
+srr_33210 1 Locuteur4 720.039 720.444 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur7 720.444 724.874 <o,f1,male> a soɓa nga to tontu wande bo probleme :fra a jeg ten wofa xoxof namo waro fi
+srr_33210 1 Locuteur4 724.874 727.751 <o,f1,male> %hum %hum kaga lera pasteur :fra
+srr_33210 1 Locuteur7 727.751 728.115 <o,f1,male> merci :fra
+srr_33210 1 Locuteur4 728.115 731.521 <o,f1,male> iyo Khadim fogum nana question :fra ne a paax
+srr_33210 1 Locuteur2 731.521 738.039 <o,f1,male> nanam question :fra na a paxa paax ke leyona a jega solo parce :fra que :fra im nana nga faley fe a paax ka leye a jega nga ndaxar na ando naye ka menancer :fra
+srr_33210 1 Locuteur4 738.039 738.866 <o,f1,male> i
+srr_33210 1 Locuteur2 738.866 748.597 <o,f1,male> te fi a demande :fra delais :fra na waru fod je :fra pense :fra que :fra kene jege delais :fra parce :fra que :fra ca :fra depend :fra no a demande :fra ake nede ngarit na maga
+srr_33210 1 Locuteur4 748.597 749.271 <o,f1,male> i
+srr_33210 1 Locuteur2 749.271 761.872 <o,f1,male> parce :fra que :fra waga ret soɓ maga a demande :fra agent :fra eaux :fra et :fra foret :fra waro ret te fi constat :fra mbiño lakas a jeg wa ad wonga to ba xela fo gar na wo te ret no we ad wonga maga dingante fe koy te reta a ɗetig waga ndaxar ne waga yen
+srr_33210 1 Locuteur4 761.872 763.463 <o,f1,male> te ref ndigil
+srr_33210 1 Locuteur2 763.463 776.869 <o,f1,male> o leŋ jege daan fa tege ona taga mais :fra a menancer :fra anga ba menancer :fra waga ndeta kiin a leyine reti o ndeta nam ndax ke xene leyna nene yo i ngara bo mbi le :fra constat :fra leye a constater :fra ande ndaxar nene kat ka menancer :fra
+srr_33210 1 Locuteur2 776.869 780.159 <o,f1,male> a waga yaq ndiki ka i ndalfo leye a ndaxar ne ka menancer :fra
+srr_33210 1 Locuteur4 780.159 780.735 <o,f1,male> ɗegeen
+srr_33210 1 Locuteur2 780.735 787.650 <o,f1,male> maga fodka ref a coxit autorisation :fra xana soɓ te signer :fra in mana ()a ley nge reti o ɗegin i parce :fra que :fra a menancer :fra anga rek nange te jega cung
+srr_33210 1 Locuteur2 787.650 801.634 <o,f1,male> ga leya nuun ne reti o godin i mais :fra a soɓa nga ye koy vraiment :fra %e ka o gar leye ka menancer :fra nene rek wala o leye ka mata ndokos fok te gar ba ɗet ndax ke leyona nene yo parce :fra que :fra ka jeg wa ando naye ka ngara leya ka menancer :fra a soɓa menancer :fra
+srr_33210 1 Locuteur2 801.634 813.873 <o,f1,male> %hum %hum mais :fra ba garna bata an xile kene ka menancer :fra ka dalfa leyonge reti o goden xana ci yong autorisation :fra ()
+srr_33210 1 Locuteur4 813.873 830.236 <o,f1,male> merci :fra beaucoup :fra Khadim kem ɓatka ten rek ande a leya ye xa quraxe ko ga a nete leytuna c' :fra est :fra vraiment :fra parce :fra que :fra sax kene jegam tena ɗetlax yaam ka roka no xurole a waaxwa naak a dakin
+srr_33210 1 Locuteur4 830.236 846.976 <o,f1,male> te ref ma leɓa a ɓatanga dakwani din semaine :fra prochaine :fra o ga ta xota naqa laga a qico ndang te ref tokum te ɓis anda ye o xaga ɗik fo daduk a mbiya ngan o xuro laga tig refka te maga to te ref ndigil kon vraiment :fra constat :fra fene pasteur :fra a fi na
+srr_33210 1 Locuteur2 846.976 847.670 <o,f1,male> constat :fra fa njegu solo yo
+srr_33210 1 Locuteur4 847.670 850.154 <o,f1,male> i ngid man tena paaxpaax ŋendanan a roog
+srr_33210 1 Locuteur2 850.154 852.452 <o,f1,male> rewe ga mbiyan i yenisaay ka doqa no quroxole
+srr_33210 1 Locuteur4 852.452 855.725 <o,f1,male> yaam ka jel na kene ten ka fiya meke des :fra émission :fra
+srr_33210 1 Locuteur2 855.725 856.286 <o,f1,male> d':fra accord :fra
+srr_33210 1 Locuteur4 856.286 856.730 <o,f1,male> na diine fe
+srr_33210 1 Locuteur2 856.730 857.324 <o,f1,male> d' :fra accord :fra
+srr_33210 1 Locuteur4 857.324 859.491 <o,f1,male> vraiment :fra i ngid mana paax to sant an
+srr_33210 1 Locuteur2 859.491 860.298 <o,f1,male> merci :fra pasteur :fra
+srr_33210 1 Locuteur4 860.298 863.047 <o,f1,male> a keen ceka gen wu alo oui :fra
+srr_33210 1 Locuteur8 863.047 864.450 <o,f1,male> `alo
+srr_33210 1 Locuteur4 864.450 865.933 <o,f1,male> oui
+srr_33210 1 Locuteur8 865.933 867.513 <o,f1,male> Waly Diouf
+srr_33210 1 Locuteur4 867.513 868.762 <o,f1,male> waaw an leyun
+srr_33210 1 Locuteur8 868.762 870.437 <o,f1,male> miyo mi Amath Diene
+srr_33210 1 Locuteur4 870.437 871.394 <o,f1,male> a
+srr_33210 1 Locuteur8 871.394 873.653 <o,f1,male> Amath gen Mbako Gul
+srr_33210 1 Locuteur4 873.653 876.275 <o,f1,male> a Ba Hamath xe Ba Hamath waay Diene
+srr_33210 1 Locuteur8 876.275 880.579 <o,f1,male> so wagimo dara o leya nga ley rek kamaes ka ɓuta bo wagatimo ley
+srr_33210 1 Locuteur4 880.579 881.353 <o,f1,male> bilay Diene
+srr_33210 1 Locuteur8 881.353 885.034 <o,f1,male> kete niana na nuun yasam roga fi in ku kina bug na yasama jegin
+srr_33210 1 Locuteur4 885.034 886.323 <o,f1,male> amin waay Diene amiin
+srr_33210 1 Locuteur8 886.323 887.865 <o,f1,male> yasam roga fiya na nuun kenu mbug na
+srr_33210 1 Locuteur4 887.865 889.099 <o,f1,male> amiin waay Diene
+srr_33210 1 Locuteur8 889.099 891.683 <o,f1,male> ka fiya nen kames a ɓuta bo wag katimo ley
+srr_33210 1 Locuteur4 891.683 893.784 <o,f1,male> o miñ mbamir ina paax waay Bab Hamad
+srr_33210 1 Locuteur8 893.784 895.564 <o,f1,male> yasam roga fiya na nuun jam
+srr_33210 1 Locuteur4 895.564 897.026 <o,f1,male> alahouma amiin yarabin Diene
+srr_33210 1 Locuteur8 897.026 899.600 <o,f1,male> kenu mbung na yasam nu njegin boog
+srr_33210 1 Locuteur4 899.600 901.024 <o,f1,male> amiin amiin waay
+srr_33210 1 Locuteur8 901.024 903.257 <o,f1,male> ken leya moom ken leya fop partage :fra o
+srr_33210 1 Locuteur4 903.257 904.694 <o,f1,male> aminn amiin yarabin
+srr_33210 1 Locuteur8 904.694 907.664 <o,f1,male> jerejef waay kam kam beg bo wagimo ley
+srr_33210 1 Locuteur4 907.664 908.253 <o,f1,male> joko njal
+srr_33210 1 Locuteur2 908.253 909.148 <o,f1,male> jerejef
+srr_33210 1 Locuteur4 909.148 915.324 <o,f1,male> njoko njal jerejef Bab Hamad e Khadim i content :fra na na tena a paax o xaga ka rek kilifa in
+srr_33210 1 Locuteur2 915.324 915.734 <o,f1,male> jerejef
+srr_33210 1 Locuteur4 915.734 917.315 <o,f1,male> a gen tamit no saate fe Mbako Gur
+srr_33210 1 Locuteur2 917.315 918.137 <o,f1,male> Mbako Gur
+srr_33210 1 Locuteur4 918.137 918.768 <o,f1,male> a leyel Hamad Diéne
+srr_33210 1 Locuteur2 918.768 919.352 <o,f1,male> Hamad Diéne
+srr_33210 1 Locuteur4 919.352 921.094 <o,f1,male> i o koro maak kam goor we
+srr_33210 1 Locuteur2 921.094 921.511 <o,f1,male> jerejef
+srr_33210 1 Locuteur4 921.511 922.160 <o,f1,male> o kino paax
+srr_33210 1 Locuteur2 922.160 923.071 <o,f1,male> yasam te miñ meen
+srr_33210 1 Locuteur4 923.071 923.677 <o,f1,male> o kiin roog
+srr_33210 1 Locuteur2 923.677 924.257 <o,f1,male> jajef
+srr_33210 1 inter_segment_gap 924.257 924.443 <o,f1,> 
+srr_33210 1 Locuteur4 924.443 929.313 <o,f1,male> oxa ando naye yuit a le i ana ngan i anda ngiran ka i leya mene oxey rafetlu wan mute tolwa
+srr_33210 1 Locuteur2 929.313 930.101 <o,f1,male> jerjef
+srr_33210 1 Locuteur4 930.101 931.331 <o,f1,male> nda init mu i tolwa rek Khadim
+srr_33210 1 Locuteur2 931.331 932.069 <o,f1,male> fat i ñana
+srr_33210 1 Locuteur4 932.069 934.201 <o,f1,male> i way ŋendanan a roog te miñ meen lool
+srr_33210 1 Locuteur2 934.201 934.649 <o,f1,male> amin amiin
+srr_33210 1 Locuteur4 934.649 935.357 <o,f1,male> ta yoon fo o wod
+srr_33210 1 Locuteur2 935.357 936.221 <o,f1,male> aminn yarabal alamin
+srr_33210 1 inter_segment_gap 936.221 936.740 <o,f1,> 
+srr_33210 1 Locuteur4 936.740 937.914 <o,f1,male> njoko njal Ba Hamad i content :fra na a paax
+srr_33210 1 Locuteur2 937.914 938.438 <o,f1,male> amin amin
+srr_33210 1 Locuteur4 938.438 949.002 <o,f1,male> merci :fra beaucoup :fra alo oui :fra alo e khadim ne i leytuna xator aussi :fra kam émission :fra ne ka jeg wa ando naye xay fok i citer :fra leurs :fra noms :fra
+srr_33210 1 Locuteur4 949.002 959.745 <o,f1,male> Serigne Thiaw a Ndioundiouf a fog na xa teɓanong in
+srr_33210 1 Locuteur2 959.745 960.951 <o,f1,male> paysan :fra leaders :fra formateur :fra
+srr_33210 1 Locuteur4 960.951 963.314 <o,f1,male> paysan :fra leaders :fra fo Baye Dione mene o Ngalagne
+srr_33210 1 Locuteur2 963.314 963.965 <o,f1,male> o Ngalagne
+srr_33210 1 Locuteur4 963.965 967.528 <o,f1,male> Ndongo Sagne mene o Ndoj Saliou Diouf o Farare
+srr_33210 1 Locuteur2 967.528 968.182 <o,f1,male> o Farare
+srr_33210 1 Locuteur4 968.182 969.281 <o,f1,male> fa Thiala Badiane
+srr_33210 1 Locuteur2 969.281 970.688 <o,f1,male> Mamadou Faye
+srr_33210 1 Locuteur4 970.688 972.675 <o,f1,male> Mamadou Faye fe xoyit na Mbako sereer
+srr_33210 1 Locuteur2 972.675 973.354 <o,f1,male> Mbako sereer
+srr_33210 1 Locuteur4 973.354 979.047 <o,f1,male> wene fop nga ndef wa ando naye ka ngeg ceek ndaxar a miña fela den
+srr_33210 1 Locuteur2 979.047 979.638 <o,f1,male> a miña fela den
+srr_33210 1 Locuteur4 979.638 981.894 <o,f1,male> to yit vraiment :fra xan i ngidma den a paax to sant a
+srr_33210 1 Locuteur9 981.894 982.438 <o,f1,female> alo
+srr_33210 1 Locuteur2 982.438 983.967 <o,f1,male> alo tewo xe na fiyo waay
+srr_33210 1 Locuteur9 983.967 985.495 <o,f1,female> waaw maxey men
+srr_33210 1 Locuteur2 985.495 987.256 <o,f1,male> jam som mam o xoytita fo nam ne e
+srr_33210 1 excluded_region 987.256 1123.223 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 excluded_region 1123.223 1226.686 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur2 1226.686 1227.286 <o,f1,male> alo oui
+srr_33210 1 Locuteur10 1227.286 1228.413 <o,f1,male> alo
+srr_33210 1 Locuteur2 1228.413 1229.745 <o,f1,male> oui :fra
+srr_33210 1 Locuteur10 1229.745 1230.417 <o,f1,male> waly Diouf
+srr_33210 1 Locuteur2 1230.417 1231.861 <o,f1,male> serigne noxe na fio ma xoytita
+srr_33210 1 Locuteur10 1231.861 1233.474 <o,f1,male> maxey xoytita Som
+srr_33210 1 Locuteur2 1233.474 1233.917 <o,f1,male> Som
+srr_33210 1 Locuteur4 1233.917 1235.044 <o,f1,male> Som o ne el nam
+srr_33210 1 Locuteur10 1235.044 1235.781 <o,f1,male> o Sow Baol
+srr_33210 1 Locuteur4 1235.781 1237.041 <o,f1,male> nam gonof
+srr_33210 1 Locuteur10 1237.041 1238.601 <o,f1,male> mi Mbatiori ne em
+srr_33210 1 Locuteur2 1238.601 1239.431 <o,f1,male> nam
+srr_33210 1 Locuteur10 1239.431 1240.497 <o,f1,male> Mbathiori
+srr_33210 1 Locuteur4 1240.497 1241.214 <o,f1,male> a Mbathiori
+srr_33210 1 Locuteur2 1241.214 1243.798 <o,f1,male> mbathioli Mbathioli bismila wo i nan gilwa
+srr_33210 1 Locuteur10 1243.798 1248.667 <o,f1,male> mais :fra émission :fra ne nuun a felay mais :fra taxar ke moom a koda le jadwe
+srr_33210 1 Locuteur2 1248.667 1249.409 <o,f1,male> %hum
+srr_33210 1 Locuteur4 1249.409 1250.390 <o,f1,male> iyo Mbathiori
+srr_33210 1 Locuteur10 1250.390 1255.990 <o,f1,male> iyo me anda andaye manam bo o kina fañ tange tig wo wo warno fañan xoxof
+srr_33210 1 Locuteur4 1255.990 1256.644 <o,f1,male> %hum %Hum
+srr_33210 1 Locuteur4 1256.644 1263.215 <o,f1,male> mais :fra anda a jega o tewo leŋoxa xoyit men leye bo Mbako bo Moutem bo Some bo Pentiou Sereer
+srr_33210 1 excluded_region 1263.215 1264.262 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur10 1264.262 1268.040 <o,f1,male> mene te refna ref kam pop ina lene bo mana leyel a Ngokhogne
+srr_33210 1 Locuteur4 1268.040 1268.743 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur10 1268.743 1277.029 <o,f1,male> manam ka xetorna fo japil sax saɗano god yam yam o eaux :fra et :fra foret :fra xey kam in kene in fa qox in ino etno mbaña qoox in
+srr_33210 1 Locuteur4 1277.029 1277.933 <o,f1,male> axa jerejef
+srr_33210 1 Locuteur10 1277.933 1286.148 <o,f1,male> yama mete ref na cegel in jegate kate ñamna yo kon anda ye i njaɓe ino moƴo mbañta yo taxar in sax ino moƴu no mbañta yo
+srr_33210 1 Locuteur4 1286.148 1286.984 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur10 1286.984 1290.917 <o,f1,male> manam faley moom a wage o mosan anda me wana mbiyan
+srr_33210 1 Locuteur4 1290.917 1291.741 <o,f1,male> %Hum %hum
+srr_33210 1 Locuteur10 1291.741 1298.440 <o,f1,male> a a waga ref lakas mais :fra anda me Som moom mene moom ()
+srr_33210 1 Locuteur4 1298.440 1298.828 <o,f1,male> iyo
+srr_33210 1 Locuteur10 1298.828 1300.384 <o,f1,male> o beta nge o ten xoɓatel
+srr_33210 1 Locuteur4 1300.384 1301.693 <o,f1,male> te ref ndigil Mbatiori
+srr_33210 1 Locuteur10 1301.693 1308.154 <o,f1,male> kon anda ye wana mbiyan moom anda me kon anda ye o kiin inorke Som e ka god ka taxar o Mbako
+srr_33210 1 Locuteur4 1308.154 1309.005 <o,f1,male> axa axa
+srr_33210 1 Locuteur10 1309.005 1311.336 <o,f1,male> jerejef waay kene rek bug umo ley ten
+srr_33210 1 Locuteur4 1311.336 1311.859 <o,f1,male> iyo
+srr_33210 1 Locuteur10 1311.859 1312.619 <o,f1,male> d' :fra accord :fra
+srr_33210 1 Locuteur4 1312.619 1319.909 <o,f1,male> iyo i njoka njal a paax Mbathiori a xoyit no saate fe Som a fog no commune :fra Ngoyé Mbayar
+srr_33210 1 Locuteur2 1319.909 1320.641 <o,f1,male> Ngoyé Mbayar
+srr_33210 1 Locuteur4 1320.641 1326.592 <o,f1,male> nete ley tuna rek ga a koɓale in fop ka i mbaro ngorngorlu ten
+srr_33210 1 excluded_region 1326.592 1349.797 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur4 1349.797 1350.289 <o,f1,male> alo oui :fra
+srr_33210 1 Locuteur2 1350.289 1350.950 <o,f1,male> alo
+srr_33210 1 Locuteur11 1350.950 1351.787 <o,f2,female> alo
+srr_33210 1 Locuteur4 1351.787 1354.434 <o,f1,male> waaw
+srr_33210 1 Locuteur11 1354.434 1355.667 <o,f1,female> alo waaw
+srr_33210 1 Locuteur2 1355.667 1357.823 <o,f1,male> waw tewo nam fio fo mam o xoytita
+srr_33210 1 Locuteur11 1357.823 1358.424 <o,f1,female> alo
+srr_33210 1 Locuteur4 1358.424 1359.743 <o,f1,male> oui :fra kanla :wol
+srr_33210 1 Locuteur11 1359.743 1360.823 <o,f1,female> alo
+srr_33210 1 Locuteur2 1360.823 1362.511 <o,f1,male> alo in way nanang bismila
+srr_33210 1 Locuteur11 1362.511 1363.240 <o,f1,female> alo
+srr_33210 1 Locuteur2 1363.240 1364.369 <o,f1,male> alo in way nanang bismila
+srr_33210 1 excluded_region 1364.369 1365.977 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur11 1365.977 1366.019 <o,f1,female> me
+srr_33210 1 Locuteur2 1366.019 1366.702 <o,f1,male> a
+srr_33210 1 Locuteur11 1366.702 1369.684 <o,f1,female> maxey sim na nuun a paax waay kam rawa gon le
+srr_33210 1 Locuteur2 1369.684 1370.334 <o,f1,male> nam ne e
+srr_33210 1 Locuteur11 1370.334 1374.301 <o,f1,female> me meke o Ngalagne im xoytita
+srr_33210 1 Locuteur2 1374.301 1376.582 <o,f1,male> bismila in way nana gilwang tewoxe Ngalagne
+srr_33210 1 Locuteur11 1376.582 1379.810 <o,f1,female> i nuun de () koɓale
+srr_33210 1 Locuteur2 1379.810 1381.089 <o,f1,male> a
+srr_33210 1 Locuteur11 1381.089 1390.149 <o,f1,female> to a koɓale ka i in wa inu ya ka i ŋodik i nga ate xa cuuɗ dax wiin a ŋodida mene bo Diaré ga ŋodida meen i ŋa ate o juɗo leŋo leŋ to o Ngalagne o leŋ gode ka weg el
+srr_33210 1 Locuteur2 1390.149 1391.071 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur4 1391.071 1394.254 <o,f1,male> alo
+srr_33210 1 Locuteur11 1394.254 1395.802 <o,f1,female> ndiki kene xan andu ten
+srr_33210 1 Locuteur2 1395.802 1397.099 <o,f1,male> me
+srr_33210 1 Locuteur11 1397.099 1398.659 <o,f1,female> a
+srr_33210 1 Locuteur2 1398.659 1404.879 <o,f1,male> anda nuun ke refna probleme :fra ke cate ke ten refu ye saate fu refna i mbiya maga comité:fra de :fra veille :fra
+srr_33210 1 Locuteur11 1404.879 1405.846 <o,f1,female> i
+srr_33210 1 Locuteur2 1405.846 1418.534 <o,f1,male> et :fra d' :fra alerte oxu de ngana te fiya maga ka referna a ndat ka i coxa den numero :fra in leya dene fada ŋoyit waga koy den mbiyeru calel den anda ye o kino leŋ wala wiin daduk mbage ndef no caate xarɓaxay fo ɓetu ɗik
+srr_33210 1 Locuteur4 1418.534 1419.028 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur2 1419.028 1421.939 <o,f1,male> commune :fra ne caate xarɓaxay fo ɓetu ɗiko
+srr_33210 1 Locuteur11 1421.939 1422.306 <o,f1,female> i
+srr_33210 1 Locuteur2 1422.306 1427.945 <o,f1,male> xaye ka i ngarka mene o feet i ngarit mana o feet i ngarit mene donc :fra nuun population :fra ne ando naye nen ngenu o Ngalagne axu nu nga na te gara men a yaqa xa quraxe wala te goda sa taxar ke mais :fra njegyo fula nu ndaxino yo a fañanga nu ŋoyit
+srr_33210 1 Locuteur2 1427.945 1443.595 <o,f1,male> mais :fra kaga nu ngana mene de ŋoda koɓale ba yaqino yo nu njega ten responsabliter :fra parce :fra que :fra nuun ŋaƴu den ndeta den bata yaqa koɓ nuun nale
+srr_33210 1 Locuteur4 1443.595 1444.240 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur2 1444.240 1448.554 <o,f1,male> o leŋ ware inora mana a gara xendana sax nuun nuun mbaru ngenanoyo saax nuun
+srr_33210 1 Locuteur4 1448.554 1449.151 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur2 1449.151 1457.089 <o,f1,male> ka i ngara rek pour :fra ndimle a nuun donc :fra kene bugmo leya nuun ten wena inora maga na ngara yo oxu garat na ndaxeno we ando naye koy Waly
+srr_33210 1 Locuteur4 1457.089 1457.556 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur2 1457.556 1461.816 <o,f1,male> owey ŋoɓ tayo saas ke wene moom a njega probleme :fra
+srr_33210 1 Locuteur4 1461.816 1463.605 <o,f1,male> a ana yo ke i mbaxtanit na
+srr_33210 1 Locuteur2 1463.605 1464.759 <o,f1,male> a fiya nen oxa ando naye
+srr_33210 1 Locuteur4 1464.759 1465.311 <o,f1,male> waaw
+srr_33210 1 Locuteur2 1465.311 1466.261 <o,f1,male> njeƴ ne ka sum
+srr_33210 1 Locuteur4 1466.261 1466.917 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur2 1466.917 1468.236 <o,f1,male> o wolin cer ɓor
+srr_33210 1 Locuteur4 1468.236 1468.653 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur2 1468.653 1469.533 <o,f1,male> tegin no laŋ ke
+srr_33210 1 excluded_region 1469.533 1481.431 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur2 1481.431 1481.986 <o,f1,male> alo
+srr_33210 1 Locuteur4 1481.986 1482.720 <o,f1,male> alo oui :fra
+srr_33210 1 Locuteur12 1482.720 1483.415 <o,f1,male> alo
+srr_33210 1 Locuteur2 1483.415 1485.542 <o,f1,male> we Serigne noxe nam ne e fo ma xoytita
+srr_33210 1 Locuteur12 1485.542 1486.078 <o,f1,male> alo
+srr_33210 1 Locuteur4 1486.078 1487.993 <o,f1,male> alo in way nanang a paax bismila
+srr_33210 1 Locuteur12 1487.993 1489.361 <o,f1,male> waly Diouf
+srr_33210 1 Locuteur4 1489.361 1490.153 <o,f1,male> waaw aca bimila
+srr_33210 1 Locuteur12 1490.153 1491.957 <o,f1,male> mba jam rek Diouf
+srr_33210 1 Locuteur4 1491.957 1493.095 <o,f1,male> sant
+srr_33210 1 Locuteur12 1493.095 1494.823 <o,f1,male> jamo ref me
+srr_33210 1 Locuteur4 1494.823 1496.032 <o,f1,male> jam som waay
+srr_33210 1 Locuteur12 1496.032 1497.901 <o,f1,male> *
+srr_33210 1 Locuteur4 1497.901 1499.360 <o,f1,male> alkhadoulila gon le
+srr_33210 1 Locuteur12 1499.360 1501.681 <o,f1,male> maxey xoyta o Diané
+srr_33210 1 Locuteur4 1501.681 1504.033 <o,f1,male> i i o Diané
+srr_33210 1 Locuteur12 1504.033 1505.529 <o,f1,male> o Diané o Diané
+srr_33210 1 Locuteur4 1505.529 1506.011 <o,f1,male> a
+srr_33210 1 Locuteur12 1506.011 1508.251 <o,f1,male> o Diané genum o Diané
+srr_33210 1 Locuteur4 1508.251 1509.217 <o,f1,male> o Diané
+srr_33210 1 Locuteur12 1509.217 1510.690 <o,f1,male> i
+srr_33210 1 Locuteur4 1510.690 1513.549 <o,f1,male> iyo in way nan gilwang Serigne no xene
+srr_33210 1 Locuteur12 1513.549 1516.806 <o,f1,male> *
+srr_33210 1 Locuteur4 1516.806 1517.468 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur12 1517.468 1519.896 <o,f1,male> andim ndaf ndaf ke ka mbañ teloyo
+srr_33210 1 Locuteur4 1519.896 1521.048 <o,f1,male> ndaf ke
+srr_33210 1 Locuteur12 1521.048 1522.014 <o,f1,male> i
+srr_33210 1 Locuteur4 1522.014 1523.791 <o,f1,male> ndaaf ke moƴe mbanjit
+srr_33210 1 Locuteur12 1523.791 1526.057 <o,f1,male> a to wiin we ŋoda deno
+srr_33210 1 Locuteur4 1526.057 1532.848 <o,f1,male> i we na ŋoda den anda ye comme :fra in i nga e den to we ndefan na in maga ŋoyit ke yo kaga i mbage ten tig
+srr_33210 1 Locuteur12 1532.848 1536.341 <o,f1,male> ba ngoda ten a ngen Mbako a ŋoda xa cuɗa xe
+srr_33210 1 Locuteur4 1536.341 1538.508 <o,f1,male> i o xene gena Mbako koy a goda ndaf
+srr_33210 1 Locuteur12 1538.508 1541.066 <o,f1,male> so i ndaɓa den de ƴufa yo
+srr_33210 1 Locuteur4 1541.066 1543.370 <o,f1,male> mbexeyo koy nu anda kon den rek
+srr_33210 1 Locuteur12 1543.370 1550.486 <o,f1,male> *
+srr_33210 1 Locuteur4 1550.486 1551.450 <o,f1,male> alo oui :fra
+srr_33210 1 Locuteur12 1551.450 1553.748 <o,f1,male> a
+srr_33210 1 Locuteur4 1553.748 1554.989 <o,f1,male> me
+srr_33210 1 Locuteur12 1554.989 1555.658 <o,f1,male> i
+srr_33210 1 Locuteur4 1555.658 1559.548 <o,f1,male> wene mbexey yo i anda kon den wene na ŋoda ɓaak ke a ƴufa
+srr_33210 1 Locuteur12 1559.548 1560.837 <o,f1,male> i
+srr_33210 1 Locuteur4 1560.837 1564.498 <o,f0,male> i mbexeyo i anda den parce :fra que :fra kaga tegirano yo fen
+srr_33210 1 Locuteur12 1564.498 1566.886 <o,f0,male> iyo kam beta den rek de
+srr_33210 1 Locuteur4 1566.886 1572.860 <o,f0,male> iyo tegirano yo fen ndaaf mom oxana rima sax oxa cerofa ƴufa ware gara godan
+srr_33210 1 Locuteur2 1572.860 1573.413 <o,f0,male> effectivement :fra
+srr_33210 1 Locuteur12 1573.413 1575.029 <o,f0,male> njoko njal boog
+srr_33210 1 Locuteur4 1575.029 1576.579 <o,f0,male> i joko njal
+srr_33210 1 Locuteur12 1576.579 1577.898 <o,f0,male> kene bug umo ley ten
+srr_33210 1 Locuteur4 1577.898 1581.032 <o,f0,male> jerejef a mosa serigne noxe
+srr_33210 1 Locuteur2 1581.032 1581.699 <o,f0,male> mene kay ɗaaf
+srr_33210 1 Locuteur4 1581.699 1583.711 <o,f0,male> oxene Khadim nana no oxey xoyta bo o Djane
+srr_33210 1 Locuteur2 1583.711 1584.197 <o,f0,male> Djane
+srr_33210 1 Locuteur4 1584.197 1588.968 <o,f0,male> nda koy a jege wate indexer :fra na ye ka ŋoda yo ɗaaf nda ye de nga na den ga ƴufo yo
+srr_33210 1 Locuteur2 1588.968 1589.450 <o,f0,male> ga ƴuf
+srr_33210 1 Locuteur4 1589.450 1592.971 <o,f0,male> to leya num mene ande Khadim i mbaage ndef mu ref na alo oui :fra
+srr_33210 1 Locuteur13 1592.971 1594.542 <o,f2,male> oui :fra
+srr_33210 1 Locuteur4 1594.542 1596.752 <o,f1,male> il :fra faut :fra fra Alo
+srr_33210 1 Locuteur13 1596.752 1597.480 <o,f1,male> Alo
+srr_33210 1 Locuteur4 1597.480 1598.200 <o,f1,male> waaw
+srr_33210 1 Locuteur13 1598.200 1600.300 <o,f1,male> *
+srr_33210 1 Locuteur2 1600.300 1602.350 <o,f1,male> alo ano xene fo ma xooy tita
+srr_33210 1 Locuteur13 1602.350 1603.070 <o,f1,male> Alo
+srr_33210 1 Locuteur2 1603.070 1604.620 <o,f1,male> alo bismilah in way nanang a paax
+srr_33210 1 Locuteur13 1604.620 1605.940 <o,f1,male> waaw
+srr_33210 1 Locuteur2 1605.940 1608.110 <o,f1,male> aca wo i nan gil wa
+srr_33210 1 Locuteur13 1608.110 1609.193 <o,f1,male> Alo
+srr_33210 1 Locuteur4 1609.193 1611.073 <o,f1,male> Alo in in way nanang de
+srr_33210 1 Locuteur13 1611.073 1612.623 <o,f1,male> maxey ziare a paax
+srr_33210 1 excluded_region 1612.623 1613.863 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur13 1613.863 1616.673 <o,f1,male> waaw a jega ka bug ma ten
+srr_33210 1 Locuteur2 1616.673 1618.233 <o,f1,male> ma xoyti ta
+srr_33210 1 Locuteur13 1618.233 1624.572 <o,f1,male> i comme :fra ke Khadim a ley na ndiki yete leyna ye oxu bug na mafa laat ko binka a kayit
+srr_33210 1 Locuteur2 1624.572 1625.353 <o,f1,male> a
+srr_33210 1 Locuteur13 1625.353 1631.132 <o,f1,male> Khadim ka leye () bugna goda laat ko binka a kayit
+srr_33210 1 Locuteur2 1631.132 1633.906 <o,f1,male> o buga god a teex fa a laat
+srr_33210 1 Locuteur13 1633.906 1634.774 <o,f1,male> i
+srr_33210 1 Locuteur2 1634.774 1635.803 <o,f1,male> mamo god tane
+srr_33210 1 Locuteur13 1635.803 1638.383 <o,f1,male> pin ke comme :fra ole ref na mbine
+srr_33210 1 Locuteur2 1638.383 1639.890 <o,f1,male> iyo mbine niim ne mbine
+srr_33210 1 Locuteur13 1639.890 1640.256 <o,f1,male> i
+srr_33210 1 Locuteur2 1640.256 1641.877 <o,f1,male> ko fi ka demande :fra
+srr_33210 1 Locuteur13 1641.877 1642.243 <o,f1,male> i
+srr_33210 1 Locuteur2 1642.243 1643.579 <o,f1,male> o ɓisin ma chef :fra du :fra village :fra
+srr_33210 1 Locuteur4 1643.579 1644.829 <o,f1,male> etit no yaal saate fa
+srr_33210 1 inter_segment_gap 1644.829 1644.972 <o,f1,> 
+srr_33210 1 Locuteur2 1644.972 1645.242 <o,f1,male> te signer :fra in
+srr_33210 1 Locuteur13 1645.242 1646.129 <o,f1,male> i
+srr_33210 1 Locuteur2 1646.129 1646.915 <o,f1,male> o atin mairie :fra
+srr_33210 1 Locuteur13 1646.915 1647.463 <o,f1,male> i
+srr_33210 1 Locuteur2 1647.463 1651.213 <o,f1,male> te signer :fra in o mbisin ma agent :fra eaux :fra et :fra foret :fra te signer :fra an ngo ten o gar goda naqof anda ke tax na
+srr_33210 1 Locuteur13 1651.213 1652.262 <o,f1,male> i xa a
+srr_33210 1 Locuteur2 1652.262 1654.360 <o,f1,male> refe ye ko jeg ndaxarof fañ telo ten
+srr_33210 1 Locuteur13 1654.360 1654.954 <o,f1,male> axa
+srr_33210 1 Locuteur2 1654.954 1656.657 <o,f1,male> mais :fra ka wore in ndax wo jegu ndaxar ne
+srr_33210 1 Locuteur13 1656.657 1657.530 <o,f1,male> axa
+srr_33210 1 Locuteur2 1657.530 1658.863 <o,f1,male> ndax ko rerin fo fog fapof
+srr_33210 1 Locuteur13 1658.863 1659.255 <o,f1,male> i
+srr_33210 1 Locuteur2 1659.255 1661.280 <o,f1,male> wala wa fog tona ŋel
+srr_33210 1 Locuteur4 1661.280 1670.959 <o,f1,male> wala wa fog tona ŋel ande awa ref ndaxar na ando naye ka yongel wiina yonga taga o xañan ta den yook ne o bug no god kene taxu o mado xe xot decision :fra kene mais :fra refe ye ke jeg ndaxarof te fañ tango ten
+srr_33210 1 Locuteur13 1670.959 1675.936 <o,f1,male> xa a kene koy nu manam loi :fra ken leyna kene ()
+srr_33210 1 Locuteur2 1675.936 1676.540 <o,f1,male> a
+srr_33210 1 Locuteur13 1676.540 1679.776 <o,f1,male> comme :fra ca :fra kene moƴu im leratinin comme :fra ne leyit ona
+srr_33210 1 Locuteur2 1679.776 1681.575 <o,f1,male> wala kene yo koy
+srr_33210 1 Locuteur13 1681.575 1682.811 <o,f1,male> jajef waay
+srr_33210 1 Locuteur2 1682.811 1683.393 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur13 1683.393 1688.065 <o,f1,male> comme :fra o tewo xene xoyit na a leya andim xoyit na andim na ŋoda taxar ke den
+srr_33210 1 Locuteur2 1688.065 1688.599 <o,f1,male> axa
+srr_33210 1 Locuteur13 1688.599 1693.666 <o,f1,male> *
+srr_33210 1 Locuteur4 1693.666 1694.341 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur13 1694.341 1699.254 <o,f1,male> i a mera le xoyit na Mbako to te leye ka i ŋoda saas ke den
+srr_33210 1 Locuteur4 1699.254 1699.978 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur13 1699.978 1705.741 <o,f1,male> fat fat wiin we respecter :fra ino yo comme :fra wa anda ye o mako ten taxu a jega ka ando naye bugin mo ley
+srr_33210 1 Locuteur4 1705.741 1706.762 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur13 1706.762 1718.737 <o,f1,male> () meme :fra saas ke sax ga ŋodelo yo ()
+srr_33210 1 Locuteur4 1718.737 1718.963 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur13 1718.963 1720.576 <o,f1,male> () merci :fra
+srr_33210 1 Locuteur2 1720.576 1723.623 <o,f1,male> saas ke ŋodel saas ke ŋodel maga leyo
+srr_33210 1 Locuteur4 1723.623 1734.897 <o,f1,male> i no Khadim %e i ndid mina paax %e contribution :fra fe a mosa o pogo xene mais :fra mete ɓaat na ley rek ten refu ye saas ke de de commencer :fra na ye ka ñaɓ tano yo
+srr_33210 1 Locuteur2 1734.897 1735.721 <o,f1,male> ka ñaɓ tan
+srr_33210 1 excluded_region 1735.721 1749.093 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur4 1749.093 1750.031 <o,f1,male> ɗegirong sax Waly
+srr_33210 1 Locuteur2 1750.031 1750.395 <o,f1,male> waw
+srr_33210 1 Locuteur4 1750.395 1754.074 <o,f1,male> mais :fra ga saate fu ne ena oxe ne una ka jeg taga firnde
+srr_33210 1 Locuteur2 1754.074 1755.173 <o,f1,male> ka jeg ta firnde
+srr_33210 1 Locuteur4 1755.173 1757.787 <o,f1,male> to wofe gena saate faga bo xoyit manam defendre :fra saate of
+srr_33210 1 Locuteur2 1757.787 1758.132 <o,f1,male> i
+srr_33210 1 Locuteur4 1758.132 1760.231 <o,f1,male> o kino kiin xoxof ando nda andiro o lakas
+srr_33210 1 Locuteur2 1760.231 1760.634 <o,f1,male> waaw
+srr_33210 1 Locuteur4 1760.634 1774.154 <o,f1,male> donc mbexeyo bo oxu refna fata an xoxum rek saax lu ne ena a waga refe a jege wana inora maga a ngara a ŋoda yo kaga tax de ne elo yo o kino kiin xoxof ando ba leŋa ga e manam saxlene ga ne el ga yaqa ndool iniin affaire :fra kene mais :fra mbexey yo bo ley fo mbasil ne
+srr_33210 1 Locuteur4 1774.154 1782.054 <o,f1,male> wo fe ando naye genan saax laga leyi fo ɓaslof leya dene a nu nana kena leyel saaxin a ne e ten ban mbog ten o lakas a fi naga o lakas a fi naga a fiya ngan saax laga nika tan
+srr_33210 1 Locuteur2 1782.054 1783.826 <o,f1,male> axa te ref ndigil
+srr_33210 1 Locuteur4 1783.826 1790.505 <o,f1,male> to ande xa ñaɓa xene de ñaɓ tayo saas ke ka wara saas tokin ke saan ne dena mbat nayo a fiya ngan a suma nale attaquer :fra in ku garna attaquer :fra in te xon
+srr_33210 1 Locuteur4 1790.505 1795.920 <o,f1,male> to to kene sax khadim ka jel na kene o maka leya xame kene faaxe
+srr_33210 1 excluded_region 1795.920 1809.001 <o,,unknown> ignore_time_segment_in_scoring
+srr_33210 1 Locuteur4 1809.001 1810.280 <o,f1,male> alo oui :fra
+srr_33210 1 Locuteur14 1810.280 1811.669 <o,f1,male> alo
+srr_33210 1 Locuteur2 1811.669 1814.115 <o,f1,male> waaw an leyun
+srr_33210 1 Locuteur14 1814.115 1815.538 <o,f1,male> alo wa
+srr_33210 1 Locuteur2 1815.538 1816.607 <o,f1,male> bismila alo
+srr_33210 1 Locuteur14 1816.607 1817.822 <o,f1,male> alo Waly
+srr_33210 1 Locuteur2 1817.822 1819.138 <o,f1,male> oui :fra
+srr_33210 1 Locuteur14 1819.138 1820.876 <o,f1,male> Waly Diouf
+srr_33210 1 Locuteur2 1820.876 1826.191 <o,f1,male> wañi radio :fra o saqa nga post :fra radio :fra éco :fra fe ka ɗom i mbaag ke nanir
+srr_33210 1 Locuteur14 1826.191 1827.149 <o,f1,male> alo Waly
+srr_33210 1 Locuteur2 1827.149 1828.355 <o,f1,male> waaw
+srr_33210 1 Locuteur14 1828.355 1830.123 <o,f1,male> *
+srr_33210 1 Locuteur2 1830.123 1832.421 <o,f1,male> ma xooy tita
+srr_33210 1 Locuteur14 1832.421 1833.374 <o,f1,male> alo
+srr_33210 1 Locuteur2 1833.374 1835.568 <o,f1,male> ma xooy tita
+srr_33210 1 Locuteur14 1835.568 1837.178 <o,f1,male> alo waaw
+srr_33210 1 Locuteur2 1837.178 1838.338 <o,f1,male> waa maxey nanang de
+srr_33210 1 Locuteur14 1838.338 1840.840 <o,f1,male> me
+srr_33210 1 Locuteur2 1840.840 1841.479 <o,f1,male> iyo
+srr_33210 1 Locuteur14 1841.479 1844.799 <o,f1,male> *
+srr_33210 1 Locuteur2 1844.799 1852.196 <o,f1,male> aca bismila in way nan gilwanga a paxa paax koro xe aca bismila wo rek i nan gilwa yo axa bon
+srr_33210 1 Locuteur14 1852.196 1852.551 <o,f1,male> alo
+srr_33210 1 Locuteur4 1852.551 1854.152 <o,f1,male> oui :fra in way nanang bismila
+srr_33210 1 Locuteur2 1854.152 1854.757 <o,f1,male> alo
+srr_33210 1 Locuteur14 1854.757 1856.933 <o,f1,male> alo
+srr_33210 1 Locuteur4 1856.933 1860.929 <o,f1,male> me depalcer :fra wi o ndik yaci () alo
+srr_33210 1 Locuteur14 1860.929 1862.667 <o,f1,male> Alo waxey nana ke i leya
+srr_33210 1 Locuteur4 1862.667 1864.144 <o,f1,male> maxey nanang a paax wo ano
+srr_33210 1 Locuteur14 1864.144 1867.585 <o,f1,male> miyo mi Mamadou Dieng gena Ndofene
+srr_33210 1 Locuteur4 1867.585 1869.238 <o,f1,male> Mamadou Dieng a Ndofene
+srr_33210 1 Locuteur14 1869.238 1872.364 <o,f1,male> iyo ()
+srr_33210 1 Locuteur4 1872.364 1875.424 <o,f1,male> iyo ba iyo Bab Mamadou in way nan gilwanga a paax
+srr_33210 1 Locuteur14 1875.424 1878.108 <o,f1,male> te ref ten refa nu meen Chef du village :fra a Ndofeen
+srr_33210 1 Locuteur4 1878.108 1881.626 <o,f1,male> a i waay leya ndigil Bab Mamadou Chef :fra de :fra village :fra
+srr_33210 1 Locuteur14 1881.626 1882.407 <o,f1,male> nam nu mbi u ye
+srr_33210 1 Locuteur4 1882.407 1884.351 <o,f1,male> in way saat a roga a paax waay Dieng
+srr_33210 1 Locuteur14 1884.351 1887.443 <o,f1,male> () no taxar ke nu ne a yo
+srr_33210 1 Locuteur4 1887.443 1888.175 <o,f1,male> i
+srr_33210 1 Locuteur14 1888.175 1893.481 <o,f1,male> kam jeg ten cono fo ɗomu no ŋola ngene xaye rek i ndefa yo
+srr_33210 1 Locuteur4 1893.481 1894.784 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur14 1894.784 1898.050 <o,f1,male> yaam anda a koom ka i frontiere :fra fo saate mayu
+srr_33210 1 Locuteur4 1898.050 1898.984 <o,f1,male> i
+srr_33210 1 Locuteur14 1898.984 1902.145 <o,f1,male> owe owe kam moof bo rewe ngara leyame
+srr_33210 1 Locuteur4 1902.145 1902.628 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur14 1902.628 1904.509 <o,f1,male> `e saax le owey ŋoda a koɓale
+srr_33210 1 Locuteur4 1904.509 1905.143 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur14 1905.143 1911.455 <o,f1,male> im xoyit telephone :fra koy te xaƴam kam fa te taxu yata gat na koy a ret na koɓale a jaɓ lax mayu
+srr_33210 1 Locuteur4 1911.455 1912.059 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur14 1912.059 1912.917 <o,f1,male> a ɓisida den
+srr_33210 1 Locuteur4 1912.917 1913.751 <o,f1,male> iyo
+srr_33210 1 Locuteur14 1913.751 1917.315 <o,f1,male> te ande tigo no gogod we
+srr_33210 1 Locuteur4 1917.315 1918.178 <o,f1,male> iyo
+srr_33210 1 Locuteur14 1918.178 1923.623 <o,f1,male> im retma bon fetola rewe ndako ndeta ndet na koɓale a mbuf ka umbel a nget fo Farare
+srr_33210 1 Locuteur4 1923.623 1924.290 <o,f1,male> iyo
+srr_33210 1 Locuteur14 1924.290 1926.556 <o,f1,male> a ndokidna koɓ ino le ba ŋoɗ ten lool
+srr_33210 1 Locuteur4 1926.556 1927.536 <o,f1,male> ndeti kene
+srr_33210 1 Locuteur14 1927.536 1930.186 <o,f1,male> so im dako xoyin te leyame comme :fra nene demo oru
+srr_33210 1 Locuteur4 1930.186 1930.660 <o,f1,male> i
+srr_33210 1 Locuteur14 1930.660 1939.111 <o,f1,male> e ka fat rewe ndeta a ŋodiko yo xa cuɗa xe comme :fra saate fa lakas ka inora ma to to o kin inoru o Farare a reta xotik laɓ ke
+srr_33210 1 Locuteur4 1939.111 1939.553 <o,f1,male> iyo
+srr_33210 1 Locuteur14 1939.553 1940.575 <o,f1,male> im leya dene i ŋodik yo
+srr_33210 1 Locuteur4 1940.575 1942.052 <o,f1,male> a xebla dene ŋodik yo
+srr_33210 1 Locuteur14 1942.052 1947.138 <o,f1,male> i to to mi kam fañit u saxes bo o leŋ o leŋ saɗe ret na koɓale a godik
+srr_33210 1 Locuteur4 1947.138 1947.617 <o,f1,male> kaga ref
+srr_33210 1 Locuteur14 1947.617 1951.916 <o,f1,male> nda de inora o Farare o Soumnane o Mbof a ngara ŋoda koɓale bata xool be qac
+srr_33210 1 Locuteur4 1951.916 1952.633 <o,f1,male> te ref ndigil
+srr_33210 1 Locuteur14 1952.633 1953.121 <o,f1,male> nene yo
+srr_33210 1 Locuteur4 1953.121 1955.388 <o,f1,male> %hum %hum a doya waar
+srr_33210 1 Locuteur14 1955.388 1962.771 <o,f1,male> kan mbaru mbago ndam ten a tama saɗ kub oxu ref na jega probleme :fra of xaye ()in mbiyu kaga nam nu mbi tu kaga
+srr_33210 1 Locuteur4 1962.771 1965.480 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur14 1965.480 1965.875 <o,f1,male> alo
+srr_33210 1 Locuteur4 1965.875 1967.009 <o,f1,male> iyo in way nanang
+srr_33210 1 Locuteur14 1967.009 1968.701 <o,f1,male> waxey nana kem leya
+srr_33210 1 Locuteur4 1968.701 1969.474 <o,f1,male> i
+srr_33210 1 Locuteur14 1969.474 1973.142 <o,f1,male> ndiki koy kam bug u nu in wata nga
+srr_33210 1 Locuteur4 1973.142 1973.572 <o,f1,male> iyo
+srr_33210 1 Locuteur14 1973.572 1978.424 <o,f1,male> nu ley nu leyfo population :fra ke comme :fra in mbogu arrondissement :fra fe i mbog mairie :fra
+srr_33210 1 Locuteur4 1978.424 1979.311 <o,f1,male> i
+srr_33210 1 Locuteur14 1979.311 1981.865 <o,f1,male> ande in mbogu() fa leŋ fe
+srr_33210 1 Locuteur4 1981.865 1983.604 <o,f1,male> in mbogu arrodissement :fra fe
+srr_33210 1 Locuteur14 1983.604 1986.022 <o,f1,male> nda koy mairie :fra Thiare maga i mbaxwe yo
+srr_33210 1 Locuteur4 1986.022 1987.170 <o,f1,male> a Thiare nu mbaxwe
+srr_33210 1 Locuteur14 1987.170 1989.506 <o,f1,male> i a Thiare i mbaxwe ina Ndofene
+srr_33210 1 Locuteur4 1989.506 1991.335 <o,f1,male> leya ndigil
+srr_33210 1 Locuteur14 1991.335 1994.281 <o,f1,male> nda koy () maxey na commune :fra Ndiob
+srr_33210 1 Locuteur4 1994.281 1994.497 <o,f1,male> iyo
+srr_33210 1 Locuteur14 1994.497 1996.410 <o,f1,male> mais :fra danaka dena yaka a koɓ in
+srr_33210 1 Locuteur4 1996.410 1997.600 <o,f1,male> iyo leya ndigil
+srr_33210 1 Locuteur14 1997.600 1998.323 <o,f1,male> i
+srr_33210 1 Locuteur4 1998.323 1999.212 <o,f1,male> iyo
+srr_33210 1 Locuteur14 1999.212 2001.458 <o,f1,male> kene a paax bo i ata meen ka ando naye
+srr_33210 1 Locuteur4 2001.458 2001.982 <o,f1,male> iyo
+srr_33210 1 Locuteur14 2001.982 2010.126 <o,f1,male> xana jeg cono parce :fra que :fra wiin we ŋodke yo to wena inora o Farare in a Sumnan in o Mbofin a ngara ŋodida koɓale i moofoyo kaga and wage ref
+srr_33210 1 Locuteur4 2010.126 2012.066 <o,f1,male> %hum kaga wage ref Bab Mamadou
+srr_33210 1 Locuteur14 2012.066 2013.085 <o,f1,male> ande faaxe
+srr_33210 1 Locuteur4 2013.085 2014.692 <o,f1,male> faxe %hum %hum
+srr_33210 1 Locuteur14 2014.692 2021.857 <o,f1,male> in ga coror fo Gagalagne Diaklem o Filan o Farare Ndiop bo Diathi le fop ino cororu yo
+srr_33210 1 Locuteur4 2021.857 2027.147 <o,f1,male> %hum ga i ndokiro yo rek comme ne ne %hum situationb :fra geographique :fra fe rek
+srr_33210 1 Locuteur14 2027.147 2032.721 <o,f1,male> kene nu leyano yo commune :fra ka ando naye *()da mbod na koɓale comme :fra eaux :fra et :fra foret :fra fa leŋ rek i mbogu
+srr_33210 1 Locuteur4 2032.721 2033.246 <o,f1,male> i
+srr_33210 1 Locuteur14 2033.246 2040.562 <o,f1,male> nu moga ngfa i bo prefet :fra a dama den so o kina inor mana a gara janga na den intervention :fra o xotlak ka dak nik na den anda ye kaga refe calel
+srr_33210 1 Locuteur4 2040.562 2042.164 <o,f1,male> leya ndigil leya ndigil
+srr_33210 1 Locuteur14 2042.164 2043.884 <o,f1,male> ande refe calel
+srr_33210 1 Locuteur4 2043.884 2045.719 <o,f1,male> iyo kaga re calel mosu
+srr_33210 1 Locuteur14 2045.719 2051.612 <o,f1,male> mi bug imo ley no affaire :fra kene nda jaflene kam jeg ten cono fa ɗomu kam jik credi :fra xoyta xoyit bo son
+srr_33210 1 Locuteur4 2051.612 2052.212 <o,f1,male> ndeti kene rek
+srr_33210 1 Locuteur14 2052.212 2058.170 <o,f1,male> rewe saate fe a content :fra noyo na kotale njege xa cuuɗ muk to () naxa cuuɗaxe saate fe
+srr_33210 1 Locuteur4 2058.170 2058.929 <o,f1,male> bilay walay
+srr_33210 1 Locuteur14 2058.929 2060.393 <o,f1,male> i
+srr_33210 1 Locuteur4 2060.393 2061.027 <o,f1,male> iyo
+srr_33210 1 Locuteur14 2061.027 2063.831 <o,f1,male> fada ngorgorlu ten Waly in fop in mbogu arrondissement :fra
+srr_33210 1 Locuteur4 2063.831 2065.145 <o,f1,male> bilay walay Dieng
+srr_33210 1 Locuteur14 2065.145 2074.422 <o,f1,male> ka i mbaro yekor no calel ke ara koɓale mi fene kaaf ke ndef na mene a ndufel mi fo xoxes kam leya ye () oxu ga ma o mata koɓale
+srr_33210 1 Locuteur4 2074.422 2076.755 <o,f1,male> o loka wala o goda
+srr_33210 1 Locuteur14 2076.755 2082.773 <o,f1,male> retam bo fulane we sax a sika xam fo o sereer to ngir i ara koɓale soom ten taxu
+srr_33210 1 Locuteur4 2082.773 2084.835 <o,f1,male> bilay walay mosa a mosa
+srr_33210 1 Locuteur14 2084.835 2088.050 <o,f1,male> kene koy gan mbaro ngorgorlu ten comme :fra nuun nun ndefa nu in men
+srr_33210 1 Locuteur4 2088.050 2088.564 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur14 2088.564 2091.122 <o,f1,male> kam dama na nuun rek chef :fra du :fra village :fra moom ka daman mairie :fra rek
+srr_33210 1 Locuteur4 2091.122 2092.615 <o,f1,male> bilay Dieng kaga ref ndigil
+srr_33210 1 Locuteur14 2092.615 2093.429 <o,f1,male> a daman xoxum
+srr_33210 1 Locuteur4 2093.429 2095.294 <o,f1,male> %hum %hum iyo
+srr_33210 1 Locuteur14 2095.294 2096.334 <o,f1,male> mairie :fra fe
+srr_33210 1 Locuteur4 2096.334 2105.709 <o,f1,male> iyo iyo o jokonjal alo oui :fra xa i tontu win Khadim cungi im xoto xene no ɓako le alo
+srr_33210 1 Locuteur15 2105.709 2106.290 <o,f1,male> alo
+srr_33210 1 Locuteur4 2106.290 2107.450 <o,f1,male> alo oui :fra
+srr_33210 1 Locuteur15 2107.450 2108.353 <o,f1,male> a Waly
+srr_33210 1 Locuteur4 2108.353 2109.605 <o,f1,male> %hum %hum ano ye
+srr_33210 1 Locuteur15 2109.605 2112.392 <o,f1,male> Diouf waay miyo miyo mi Abidin
+srr_33210 1 Locuteur4 2112.392 2113.968 <o,f1,male> e Ba Abidin
+srr_33210 1 Locuteur15 2113.968 2114.995 <o,f1,male> a Diouf waay Diouf
+srr_33210 1 Locuteur4 2114.995 2116.308 <o,f1,male> e Ziare waay
+srr_33210 1 Locuteur15 2116.308 2117.486 <o,f1,male> nam nu mbiyu waay
+srr_33210 1 Locuteur4 2117.486 2118.920 <o,f1,male> in way meen rek koroxe Dione
+srr_33210 1 Locuteur15 2118.920 2122.040 <o,f1,male> faley fe mosa xina de nuun way no paax axin de
+srr_33210 1 Locuteur4 2122.040 2123.794 <o,f1,male> iyo waay Dione jerejef
+srr_33210 1 Locuteur15 2123.794 2125.857 <o,f1,male> jerjef jerejef me
+srr_33210 1 Locuteur4 2125.857 2126.570 <o,f1,male> iyo
+srr_33210 1 Locuteur15 2126.570 2130.001 <o,f1,male> probleme :fra ke nam kene leyo nga
+srr_33210 1 Locuteur4 2130.001 2131.826 <o,f1,male> iyo Bab Mamadou axa
+srr_33210 1 Locuteur15 2131.826 2133.051 <o,f1,male> ten i saku de
+srr_33210 1 Locuteur4 2133.051 2134.585 <o,f1,male> a axa
+srr_33210 1 Locuteur15 2134.585 2139.901 <o,f1,male> koɓ ina faga tak tak tak to cambur ŋodun ka yonga mene a ndena put
+srr_33210 1 Locuteur4 2139.901 2141.338 <o,f1,male> xe a doya waar
+srr_33210 1 Locuteur15 2141.338 2143.853 <o,f1,male> a inora ta leŋa ander na mene njawta a put
+srr_33210 1 Locuteur4 2143.853 2144.806 <o,f1,male> a ndena put
+srr_33210 1 Locuteur15 2144.806 2151.518 <o,f1,male> ndiki i soɓu soɓ kumo tew mana im leyne waaw an man gene te o Diane
+srr_33210 1 Locuteur4 2151.518 2152.194 <o,f1,male> o ja [rire]
+srr_33210 1 Locuteur15 2152.194 2159.366 <o,f1,male> me an xebli du din nuun mene te radio :fra le Diob leyu ye a koɓale wete mais :fra est :fra ce :fra que :fra anda me koɓ Ndiob a deyna
+srr_33210 1 Locuteur4 2159.366 2160.360 <o,f1,male> axa
+srr_33210 1 Locuteur15 2160.360 2163.652 <o,f1,male> te xa a roog moƴu andim mete deyna mais :fra mene o Diakhao a jege
+srr_33210 1 Locuteur4 2163.652 2164.925 <o,f1,male> axa te ref ndigil
+srr_33210 1 Locuteur15 2164.925 2167.879 <o,f1,male> mene o Diakhao a jege a koɓo NDiob tim fara mene
+srr_33210 1 Locuteur4 2167.879 2168.473 <o,f1,male> i
+srr_33210 1 Locuteur15 2168.473 2169.209 <o,f1,male> Ngalagne a deyu
+srr_33210 1 Locuteur4 2169.209 2169.753 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur15 2169.753 2172.928 <o,f1,male> i probleme :fra ke xana leyonga ten i njegu
+srr_33210 1 Locuteur4 2172.928 2175.459 <o,f1,male> i ke Bab Mamadou leyna ten i sutu
+srr_33210 1 Locuteur15 2175.459 2177.817 <o,f1,male> i kem doon ka ten
+srr_33210 1 Locuteur4 2177.817 2178.102 <o,f1,male> iyo
+srr_33210 1 Locuteur15 2178.102 2182.200 <o,f1,male> a commencer :fra ayo ŋoda saas ke ga am saas na gode na naxa qol in xaye
+srr_33210 1 Locuteur4 2182.200 2184.510 <o,f1,male> xe ndeti kene rek cey way
+srr_33210 1 Locuteur15 2184.510 2187.272 <o,f1,male> kaga koymi mat ()
+srr_33210 1 Locuteur4 2187.272 2188.226 <o,f1,male> wo donu tena ngidof
+srr_33210 1 Locuteur15 2188.226 2195.060 <o,f1,male> kam cunga rek oxu ga ma te ŋaay mene sas bilahi xam xoyo eaux :fra et :fra foret :fra fe numero :fra um oxey fo mi
+srr_33210 1 Locuteur4 2195.060 2195.921 <o,f1,male> d' :fra accord :fra iyo
+srr_33210 1 Locuteur15 2195.921 2197.090 <o,f1,male> jeregen jef
+srr_33210 1 Locuteur4 2197.090 2201.354 <o,f1,male> iyo Ba Aboudin %e Khadim i njokana njal a paax
+srr_33210 1 Locuteur2 2201.354 2202.177 <o,f1,male> Ba Aboudin
+srr_33210 1 Locuteur4 2202.177 2205.650 <o,f1,male> yaam sax tenit a fog a no we war uma citer :fra
+srr_33210 1 Locuteur2 2205.650 2206.494 <o,f1,male> te ref ba Aboudin
+srr_33210 1 Locuteur4 2206.494 2214.002 <o,f1,male> kilifa in maga no mbin Diene a ref koy o koroxa ando naye tenit roog moƴu roog ka xirin no ndaxar
+srr_33210 1 Locuteur2 2214.002 2215.073 <o,f1,male> no affaire :fra ndaxar
+srr_33210 1 Locuteur4 2215.073 2216.030 <o,f1,male> jambar dego
+srr_33210 1 Locuteur2 2216.030 2216.497 <o,f1,male> jajef
+srr_33210 1 Locuteur4 2216.497 2223.861 <o,f1,male> i ngid mana a paax e sant an nda a fiya ngan Khadim xan i ngot la :fra question :fra du :fra chef :fra de :fra village :fra te ref Bab Mamadou
+srr_33210 1 Locuteur2 2223.861 2224.705 <o,f1,male> alo
+srr_33210 1 Locuteur4 2224.705 2226.445 <o,f1,male> tontu wi a Bab Mamadou
+srr_33210 1 Locuteur16 2226.445 2226.965 <o,f1,female> alo
+srr_33210 1 Locuteur2 2226.965 2228.449 <o,f1,male> alo oui
+srr_33210 1 Locuteur16 2228.449 2230.722 <o,f1,female> waaw Khadim
+srr_33210 1 Locuteur2 2230.722 2232.102 <o,f1,male> ano xene waay
+srr_33210 1 Locuteur16 2232.102 2233.413 <o,f1,female> nam nu mbi u koy
+srr_33210 1 Locuteur2 2233.413 2234.908 <o,f1,male> in way meen rek ano ye
+srr_33210 1 Locuteur16 2234.908 2237.148 <o,f1,female> e kene Maman Amy yo a Sarare
+srr_33210 1 Locuteur2 2237.148 2239.582 <o,f1,male> Maman Amy nam fio waay Maman Amy o Sarare
+srr_33210 1 Locuteur16 2239.582 2240.534 <o,f1,female> maxey men rek
+srr_33210 1 Locuteur2 2240.534 2241.768 <o,f1,male> jam som kay alkhadoulilah
+srr_33210 1 Locuteur16 2241.768 2242.672 <o,f1,female> alo
+srr_33210 1 Locuteur2 2242.672 2243.626 <o,f1,male> wa maman Amy
+srr_33210 1 Locuteur4 2243.626 2244.745 <o,f1,male> in way nan gil wang a paax
+srr_33210 1 Locuteur16 2244.745 2246.183 <o,f1,female> i tonton Waly
+srr_33210 1 Locuteur2 2246.183 2247.846 <o,f1,male> Faye waay in way njaɓang a paax
+srr_33210 1 Locuteur16 2247.846 2248.479 <o,f1,female> waay kay Diouf
+srr_33210 1 Locuteur2 2248.479 2249.659 <o,f1,male> jam soom waay Faye
+srr_33210 1 Locuteur16 2249.659 2252.427 <o,f1,female> e émission :fra xaye moom wage doy de
+srr_33210 1 Locuteur2 2252.427 2253.557 <o,f1,male> alkhamdoulila
+srr_33210 1 Locuteur16 2253.557 2256.257 <o,f1,female> xaye moom machaalah
+srr_33210 1 Locuteur2 2256.257 2257.381 <o,f1,male> nene yo waay faye
+srr_33210 1 Locuteur16 2257.381 2259.894 <o,f1,female> nda ke fopa ley na ten jegu de Tonton Waly
+srr_33210 1 Locuteur2 2259.894 2261.050 <o,f1,male> te ref ndigil it
+srr_33210 1 Locuteur16 2261.050 2265.115 <o,f1,female> ga a mi fene roog fe yoor wa xama anda ye bo jikeer ma xa cuuɗ deen kin
+srr_33210 1 Locuteur2 2265.115 2266.024 <o,f1,male> ɗeti kene
+srr_33210 1 Locuteur16 2266.024 2270.387 <o,f1,female> ga a koɓ ina lene yate gode na yaga koɓale weta fulan Tonton Waly
+srr_33210 1 Locuteur2 2270.387 2271.490 <o,f1,male> so
+srr_33210 1 Locuteur16 2271.490 2273.026 <o,f1,female> we ngodo guna i ande yo den
+srr_33210 1 Locuteur2 2273.026 2273.566 <o,f1,male> i
+srr_33210 1 Locuteur16 2273.566 2280.026 <o,f1,female> ga ŋum nogu a sareet den a ngara ndok mene a ŋoda yo to in way xaye koy rewe na inora mene kama Sarare
+srr_33210 1 Locuteur2 2280.026 2280.387 <o,f1,male> i
+srr_33210 1 Locuteur16 2280.387 2281.767 <o,f1,female> to anda ye a Sarare fo ()
+srr_33210 1 Locuteur2 2281.767 2282.163 <o,f1,male> i
+srr_33210 1 Locuteur16 2282.163 2291.923 <o,f1,female> mbage ŋod () ndate mi moom retim garim nda dena ndeta to ku de ndet na ndeer mene fo () ka num ta den a leya dene in a koɓ in wetan to ga de num tu wida to o ga ne i mat rit nayo
+srr_33210 1 Locuteur2 2291.923 2293.553 <o,f1,male> ɗeti kene a ɗoma
+srr_33210 1 Locuteur16 2293.553 2300.197 <o,f1,female> soko koy xaye koy wa in olwa i ander na made ngen na a ngimina sareet den a ngara a mbeta koɓ inale bata xool qac ande kene yo refe a ɗat
+srr_33210 1 Locuteur2 2300.197 2301.991 <o,f1,male> a doya waar a doya waar
+srr_33210 1 Locuteur16 2301.991 2303.251 <o,f1,female> a doya waar de Tonton Waly
+srr_33210 1 Locuteur2 2303.251 2304.099 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur16 2304.099 2309.899 <o,f1,female> () a fel angam a fel xaye wena mbiya kene ka xoɓatid kaden nda kam ande a ƴuɗ refe dara
+srr_33210 1 Locuteur2 2309.899 2310.862 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur16 2310.862 2314.243 <o,f1,female> to fa ngen ka jeg dole to adna moom o leŋ ande
+srr_33210 1 Locuteur2 2314.243 2314.920 <o,f1,male> fa ngen ka miñ de
+srr_33210 1 Locuteur16 2314.920 2323.349 <o,f1,female> yaam xaye wagamo xoyit téléphone :fra waga njeg probléme :fra o feet oxa na mi a ret qol ke den a jeg probleme :fra kaga somo yaam i mbga no ndegle moom comme :fra bonjour :fra
+srr_33210 1 Locuteur2 2323.349 2324.986 <o,f1,male> vraiment :fra te ref ndigil Maman Amy
+srr_33210 1 Locuteur16 2324.986 2327.642 <o,f1,female> tonton Waly émission :fra ne jega solo lol waay
+srr_33210 1 Locuteur2 2327.642 2328.655 <o,f1,male> iyo merci :fra beaucoup :fra
+srr_33210 1 Locuteur16 2328.655 2330.069 <o,f1,female> ok :en merci :fra
+srr_33210 1 Locuteur2 2330.069 2335.423 <o,f1,male> i ŋid mina paax Khadim Maman amy Faye Sarare a ref auditrice :fra fa maak
+srr_33210 1 Locuteur4 2335.423 2336.123 <o,f1,male> oxene auditrice :fra fa mako
+srr_33210 1 Locuteur2 2336.123 2339.240 <o,f1,male> no radio :fra le vraiment :fra a ref ya in fa na xela na in
+srr_33210 1 Locuteur4 2339.240 2340.066 <o,f1,male> bilay bilay
+srr_33210 1 Locuteur2 2340.066 2342.813 <o,f1,male> oxa ando naye xalatum ka mos yam nana nete ley tuna
+srr_33210 1 Locuteur4 2342.813 2343.236 <o,f1,male> nete leyit na a mosa
+srr_33210 1 Locuteur2 2343.236 2353.649 <o,f1,male> ande a waag a genu a defendre :fra mais :fra a gaya mayu nan wene sax a wara tax o kiin o ret nga bo bugo yaq o leye mi de sedamo fi kene yaam diw
+srr_33210 1 Locuteur4 2353.649 2354.233 <o,f1,male> bilay bilay
+srr_33210 1 Locuteur2 2354.233 2358.002 <o,f1,male> mais :fra le :fra chef :fra de :fra village :fra ka poser :fra question :fra
+srr_33210 1 Locuteur4 2358.002 2358.415 <o,f1,male> Ngalagne
+srr_33210 1 Locuteur2 2358.415 2360.397 <o,f1,male> no chef :fra de :fra village :fra fe Ndofeen
+srr_33210 1 Locuteur4 2360.397 2361.201 <o,f1,male> ndofeen ndofeen
+srr_33210 1 Locuteur2 2361.201 2369.875 <o,f1,male> i parce :fra que :fra mene foko o repondre :fra Khadim no question :fra ne parce :fra que :fra kam foge en :fra terme :fra de :fra l' :fra arrondissement :fra ten i ndefa nu meen
+srr_33210 1 Locuteur4 2369.875 2386.340 <o,f1,male> axa anda kene ten ref ke ando naye ka jaxlan wiin we fop a mo a den in i ndefe mene pour :fra commune :fra Ndiob wala commune :fra thiare Ndialgi au :fra de :fra la :fra de :fra l':fra arrondissement :fra sax leyong de ke jelna arrondissement :fra ne rek bone departement :fra ne
+srr_33210 1 Locuteur2 2386.340 2386.863 <o,f1,male> iyo
+srr_33210 1 Locuteur4 2386.863 2397.005 <o,f1,male> den i leyta ke i leya mene conserner :fra e commune :fra Ndiob soom arrondissement :fra Ndiob fopo fo departement :fra ne Fatick fo Senegal fop
+srr_33210 1 Locuteur2 2397.005 2397.588 <o,f1,male> fop
+srr_33210 1 Locuteur4 2397.588 2408.672 <o,f1,male> parce :fra que :fra code:fra forestier :fra fe xaƴe o leŋ to o ndeta ngan c' :fra est :fra vrai :fra a jega frontiere :fra mene entre :fra thiare :fra yiin Diawle yiin Mbelakadiawin mais :fra arrondissement :fra fa leŋ feyo a
+srr_33210 1 Locuteur2 2408.672 2409.260 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur4 2409.260 2414.505 <o,f1,male> charte :fra ke na ñaƴa no commune :fra Ndiob dena ñaƴa Diawle a ñaƴa partout :fra samo mado xe tegun men
+srr_33210 1 Locuteur2 2414.505 2415.019 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur4 2415.019 2419.399 <o,f1,male> a fiya ngan a jega ma ando naye wiin we ga njuma men
+srr_33210 1 Locuteur2 2419.399 2419.699 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur4 2419.699 2421.998 <o,f1,male> kem fañata nan ten refe a koɓale wete
+srr_33210 1 Locuteur2 2421.998 2422.638 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur4 2422.638 2429.647 <o,f1,male> a koɓ wetan xana wetel na koɓa koɓale weta nge bon njirño ngum i ndefanu mene kon jega te njiriñ
+srr_33210 1 Locuteur2 2429.647 2430.348 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur4 2430.348 2431.997 <o,f1,male> kena fañtel ka fañtel
+srr_33210 1 Locuteur2 2431.997 2432.527 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur4 2432.527 2435.881 <o,f1,male> me ando naye koy tena xoxel tena wegel a wetel
+srr_33210 1 Locuteur2 2435.881 2436.819 <o,f1,male> %hum %hum
+srr_33210 1 Locuteur4 2436.819 2438.091 <o,f1,male> maga ()

@@ -1,0 +1,732 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 09:48:13 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by ACER ASPIRE, version 7 of 230223
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_44113 1 locuteur_2 0.000 0.290 <o,f1,male> li gën
+wol_44113 1 locuteur_1 0.290 0.937 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 0.937 4.042 <o,f1,male> mooy que :fra nerica mën na fa adapté :fra
+wol_44113 1 locuteur_1 4.042 4.704 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 4.704 6.187 <o,f1,male> mais :fra li gën mooy suuf su xaw a woyof
+wol_44113 1 locuteur_1 6.187 6.713 <o,f1,male> %hum
+wol_44113 1 locuteur_2 6.713 8.341 <o,f1,male> pas :fra suuf su dëgër mais :fra suuf su xaw a woyof
+wol_44113 1 locuteur_1 8.341 8.752 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 8.752 11.598 <o,f1,male> boo xam ne vraiment :fra %e ndox mi bu ñëwee
+wol_44113 1 locuteur_1 11.598 11.955 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 11.955 14.041 <o,f1,male> vraiment mën na may may kii bi ndox
+wol_44113 1 locuteur_1 14.041 14.437 <o,f1,male> %hum
+wol_44113 1 locuteur_2 14.437 18.112 <o,f1,male> mais :fra mën na ko gàncax mën na am ndox mais :fra tamit du du du du du du poser :fra beaucoup :fra de problème :fra
+wol_44113 1 locuteur_1 18.112 18.528 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 18.528 19.788 <o,f1,male> donc :fra suuf su profond :fra
+wol_44113 1 locuteur_1 19.788 20.139 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 20.139 21.297 <o,f1,male> maanaam bëriwul xeer
+wol_44113 1 locuteur_1 21.297 21.803 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 21.803 23.287 <o,f1,male> bëriwul gàllankoor
+wol_44113 1 excluded_region 23.287 25.060 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 25.060 25.597 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 25.597 26.978 <o,f1,male> kon loolu mën nga ci jàngat ne
+wol_44113 1 locuteur_1 26.978 27.431 <o,f1,male> %hum
+wol_44113 1 locuteur_2 27.431 29.029 <o,f1,male> mën na tamit adapté :fra si suuf soo xam ne
+wol_44113 1 excluded_region 29.029 29.765 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 29.765 30.434 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 30.434 32.552 <o,f1,male> comme :fra man comme :fra ceeb day adapté :fra foo xam ne ndox la am
+wol_44113 1 locuteur_1 32.552 32.859 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 32.859 34.017 <o,f1,male> comme :fra boo ko génnee si biti tamit
+wol_44113 1 locuteur_1 34.017 34.360 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 34.360 36.623 <o,f1,male> boo amee ñaari suuf soo xam ne bii moo gën a bëri suuf
+wol_44113 1 locuteur_1 36.623 36.926 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 36.926 37.727 <o,f1,male> bii moo gën a bane
+wol_44113 1 locuteur_1 37.727 38.088 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 38.088 40.513 <o,f1,male> doon ceeb bi da nga koy def foo xam ne moo gën a ba() moo gën a bane
+wol_44113 1 locuteur_1 40.513 40.947 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 40.947 42.521 <o,f1,male> ndaxte boo fa defee leneen lu dul ceeb
+wol_44113 1 excluded_region 42.521 44.892 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_2 44.892 45.832 <o,f1,male> donc :fra ci gàttal daal
+wol_44113 1 locuteur_1 45.832 46.249 <o,f1,male> %hum %hum
+wol_44113 1 locuteur_2 46.249 46.849 <o,f0,male> nerica :fra bi
+wol_44113 1 locuteur_1 46.849 47.374 <o,f0,male> %hum
+wol_44113 1 locuteur_2 47.374 50.519 <o,f0,male> mën na nekk si kaw foo ma [mic] foo xam ne gerte la woo
+wol_44113 1 locuteur_1 50.519 50.771 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 50.771 52.352 <o,f0,male> wala ñebe la woon wala dugub la woon
+wol_44113 1 locuteur_1 52.352 52.677 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 52.677 53.057 <o,f0,male> waaw
+wol_44113 1 locuteur_1 53.057 67.605 <o,f0,male> %e tey tey [mic] bu énu waxee ne %e baykat yi [mic] ñi ngi laajte ndax ma dem ci tool yi wala kon ni nga ko waxee léegi ñetti weer yi %e ba nii tey mën nañu gis ne am ñoo xam ne suñu dëkkandoo ñoo xam ne ba léegi jiwu ñu
+wol_44113 1 locuteur_2 67.605 68.166 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 68.166 71.934 <o,f0,male> dañu daan xaaraale ndox mi [i] mais yow sànq yaa ngi doon wax ne mën nañu ji
+wol_44113 1 locuteur_2 71.934 72.514 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 72.514 73.139 <o,f0,male> di xaaraale
+wol_44113 1 locuteur_2 73.139 73.320 <o,f0,male> %hum
+wol_44113 1 locuteur_1 73.320 76.957 <o,f0,male> am waaye nag daf am ay semence :fra yoo xam ne da ngay didi nga di nga ko pré() précisé :fra
+wol_44113 1 locuteur_2 76.957 77.355 <o,f0,male> %hum
+wol_44113 1 locuteur_1 77.355 78.205 <o,f0,male> maanaam si wàllum gerte
+wol_44113 1 locuteur_2 78.205 78.749 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 78.749 79.616 <o,f0,male> mboq moom bokku ci
+wol_44113 1 locuteur_2 79.616 80.464 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 80.464 81.773 <o,f0,male> dugub mën na bokk na ci
+wol_44113 1 locuteur_2 81.773 82.853 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 82.853 85.128 <o,f0,male> ñaar ñooñu gerte dugub ak ceeb
+wol_44113 1 locuteur_2 85.128 85.608 <o,f0,male> ak ceeb
+wol_44113 1 locuteur_1 85.608 86.043 <o,f0,male> ak ceeb
+wol_44113 1 locuteur_2 86.043 86.495 <o,f0,male> %hum
+wol_44113 1 locuteur_1 86.495 87.889 <o,f0,male> ñett yii moom mën nañu ko ji
+wol_44113 1 locuteur_2 87.889 88.212 <o,f0,male> %hum
+wol_44113 1 locuteur_1 88.212 94.870 <o,f0,male> waaye lu ax [mic] fi mu nekk nii si %e loolu nag %e mboq mënuñu ndax mboq %e lu tax
+wol_44113 1 excluded_region 94.870 95.919 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_2 95.919 97.168 <o,f0,male> parce :fra que :fra parce :fra que :fra lu tax
+wol_44113 1 locuteur_1 97.168 97.779 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 97.779 99.611 <o,f0,male> ndaxte %e yeneen xeet yi
+wol_44113 1 locuteur_1 99.611 99.936 <o,f0,male> %hum
+wol_44113 1 locuteur_2 99.936 102.273 <o,f0,male> dèjà :fra ñoo gën a ñoo gën a soxla nawet bu gudd
+wol_44113 1 locuteur_1 102.273 102.813 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 102.813 105.057 <o,f0,male> ba pare ñoo gën a soxla ndox mu bëri
+wol_44113 1 locuteur_1 105.057 106.361 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 106.361 107.226 <o,f0,male> kon tey jii nii
+wol_44113 1 locuteur_1 107.226 107.761 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 107.761 111.462 <o,f0,male> du ma ne mboq wala basi bu ko kenn ji
+wol_44113 1 locuteur_1 111.462 112.077 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 112.077 112.559 <o,f0,male> dama ne
+wol_44113 1 locuteur_1 112.559 113.115 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 113.115 114.647 <o,f0,male> loolu dafa nekk boo amee gàllankoor
+wol_44113 1 locuteur_1 114.647 115.150 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 115.150 115.895 <o,f0,male> mën na xaar
+wol_44113 1 locuteur_1 115.895 116.221 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 116.221 118.863 <o,f0,male> mën na xaar mais :fra tey jii ñun conseil :fra bi ñuy joxe ANCAR
+wol_44113 1 locuteur_1 118.863 119.268 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 119.268 122.120 <o,f0,male> mooy bépp xeetu mbay boobu boo bëggoon ndax te jiiróo la
+wol_44113 1 locuteur_1 122.120 122.968 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 122.968 123.404 <o,f0,male> jël
+wol_44113 1 locuteur_1 123.404 124.099 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 124.099 124.758 <o,f0,male> mais :fra dañu ne
+wol_44113 1 locuteur_1 124.758 125.178 <o,f0,male> %hum
+wol_44113 1 locuteur_2 125.178 127.781 <o,f0,male> su fekkente ne da nga am juróomi xeetu bay yoo xa() yooy bay
+wol_44113 1 locuteur_1 127.781 128.283 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 128.283 130.531 <o,f0,male> bu fekkente ne xam nga mënoo bayan() mënoo jiwandoo ñëpp
+wol_44113 1 locuteur_1 130.531 131.173 <o,f0,male> mënoo dée() déedéet
+wol_44113 1 locuteur_2 131.173 131.744 <o,f0,male> priorité :fra
+wol_44113 1 locuteur_1 131.744 132.218 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 132.218 133.463 <o,f0,male> maanaam li nga war a njëkk a def
+wol_44113 1 locuteur_1 133.463 133.680 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 133.680 134.259 <o,f0,male> mooy gerte
+wol_44113 1 locuteur_1 134.259 134.566 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 134.566 136.520 <o,f0,male> ak dugub ak ceeb
+wol_44113 1 locuteur_1 136.520 137.078 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 137.078 138.131 <o,f0,male> waaye nag su fekkente ne yow
+wol_44113 1 locuteur_1 138.131 138.529 <o,f0,male> %hum
+wol_44113 1 locuteur_2 138.529 139.307 <o,f0,male> yooyu yëpp bayoo ko
+wol_44113 1 locuteur_1 139.307 139.524 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 139.524 140.194 <o,f0,male> mën nga bañ a xaar
+wol_44113 1 locuteur_1 140.194 140.586 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 140.586 142.276 <o,f0,male> yow mboq ngay bay jiyal sa mboq
+wol_44113 1 locuteur_1 142.276 142.654 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 142.654 145.007 <o,f0,male> da fa da fa am question :fra bu am solo bi nga waxoon
+wol_44113 1 excluded_region 145.007 145.441 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 145.441 145.839 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 145.839 149.910 <o,f0,male> mooy %e est :fra ce :fra que :fra da ñuy da ñuy jékki-jékki rek ji
+wol_44113 1 locuteur_1 149.910 150.337 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 150.337 150.996 <o,f0,male> wala da ñuy xaar
+wol_44113 1 locuteur_1 150.996 151.286 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 151.286 153.735 <o,f0,male> loolu bokk na ci lu lu gënn a gàllankoor baykat
+wol_44113 1 locuteur_1 153.735 154.329 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 154.329 157.304 <o,f0,male> maanaam su fekkente ne xamoo ndax ndox mi
+wol_44113 1 locuteur_1 157.304 158.089 <o,f0,male> %hum
+wol_44113 1 locuteur_2 158.089 159.124 <o,f0,male> nawet la wala du nawet
+wol_44113 1 locuteur_1 159.124 159.550 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 159.550 161.997 <o,f0,male> kon léegi ñun wax nañu la ne début :fra juillet :fra bi
+wol_44113 1 locuteur_1 161.997 162.323 <o,f0,male> %hum
+wol_44113 1 locuteur_2 162.323 164.657 <o,f0,male> ndox bu ñëwee bu ñëw [mic] bu tooyee rek mën nga ji ndax nawet bi nawet bi dugg na
+wol_44113 1 locuteur_1 164.657 165.153 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 165.153 167.367 <o,f0,male> bi beneen caractéristique :fra bi ci am solo mooy
+wol_44113 1 locuteur_1 167.367 167.907 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 167.907 169.340 <o,f0,male> dafa am lu tubaab di wax pluie :fra utile :fra
+wol_44113 1 locuteur_1 169.340 169.701 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 169.701 170.661 <o,f0,male> pluie :fra utile :fra mooy
+wol_44113 1 locuteur_1 170.661 171.216 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 171.216 173.700 <o,f0,male> ndox bi est :fra ce :fra que :fra bàq bi tooy na tooyaay goo xam ne
+wol_44113 1 locuteur_1 173.700 174.189 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 174.189 176.016 <o,f0,male> mën na tax ba gàncax gi sax
+wol_44113 1 locuteur_1 176.016 177.645 <o,f0,male> %hum %hum
+wol_44113 1 excluded_region 177.645 178.568 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 178.568 178.946 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 178.946 180.938 <o,f0,male> maanaam sa suuf normalement :fra
+wol_44113 1 locuteur_1 180.938 181.228 <o,f0,male> %hum
+wol_44113 1 locuteur_2 181.228 181.807 <o,f0,male> tubaab dafa ne
+wol_44113 1 locuteur_1 181.807 182.166 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 182.166 183.906 <o,f0,male> bu amee 15 milimètre :fra
+wol_44113 1 locuteur_1 183.906 184.201 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 184.201 184.906 <o,f0,male> ci taw
+wol_44113 1 locuteur_1 184.906 185.534 <o,f0,male> %hum
+wol_44113 1 locuteur_2 185.534 187.488 <o,f0,male> mën nga ji 15 milimètre :fra moo
+wol_44113 1 locuteur_1 187.488 188.067 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 188.067 190.226 <o,f0,male> boo jëloon benn mètre :fra carré :fra
+wol_44113 1 locuteur_1 190.226 191.306 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 191.306 192.717 <o,f0,male> nga sotti ci 15 litres :fra ndox
+wol_44113 1 locuteur_1 192.717 194.074 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 194.074 196.354 <o,f0,male> nga bàyyi ko %e 3 heures :fra de :fra temps :fra
+wol_44113 1 locuteur_1 196.354 196.790 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 196.790 198.660 <o,f0,male> boo gasee xóotay bi ni mu toll si suuf
+wol_44113 1 locuteur_1 198.660 199.010 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 199.010 201.154 <o,f0,male> pour :fra loolu loolu mën na la jiyal gàncax
+wol_44113 1 locuteur_1 201.154 201.546 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 201.546 202.579 <o,f0,male> maanaam 15 milimètre :fra
+wol_44113 1 locuteur_1 202.579 203.031 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 203.031 203.538 <o,f0,male> pluie :fra utile :fra
+wol_44113 1 locuteur_1 203.538 203.881 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 203.881 204.969 <o,f0,male> mën nga ji sa gàncax
+wol_44113 1 locuteur_1 204.969 205.258 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 205.258 209.760 <o,f0,male> donc :fra jaratul baykat bi di naan [r] bàq bi tooyagul wala ndaxte ndo() taw bi léegi jiiróo la
+wol_44113 1 locuteur_1 209.760 210.102 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 210.102 211.443 <o,f0,male> yow boo amee sa semence :fra rek
+wol_44113 1 locuteur_1 211.443 211.806 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 211.806 212.384 <o,f0,male> bu tawee rek
+wol_44113 1 locuteur_1 212.384 212.769 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 212.769 215.243 <o,f0,male> li ci gën parce :fra que :fra perte :fra campagne :fra
+wol_44113 1 locuteur_1 215.243 215.532 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 215.532 217.215 <o,f0,male> moo gën a métti perte jiwu
+wol_44113 1 locuteur_1 217.215 217.671 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 217.671 218.467 <o,f0,male> jiwal
+wol_44113 1 locuteur_1 218.467 218.847 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 218.847 219.697 <o,f0,male> bu saxul bu baax
+wol_44113 1 locuteur_1 219.697 219.987 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 219.987 221.132 <o,f0,male> bu tawaatee nga jiwaat
+wol_44113 1 locuteur_1 221.132 221.547 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 221.547 226.957 <o,f0,male> moo gën ngay ngay xaar ngay xaar ngay xaar finalement :fra nawet bi daal di di la tardé :fra
+wol_44113 1 locuteur_1 226.957 227.176 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 227.176 228.497 <o,f0,male> nga perte :fra lépp li nga li nga doon am
+wol_44113 1 locuteur_1 228.497 228.931 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 228.931 230.686 <o,f0,male> waaw ci loolu aussi :fra mën naa ubbi benn brèche :fra
+wol_44113 1 locuteur_1 230.686 231.223 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 231.223 234.649 <o,f0,male> mooy que :fra tey baykat bi pour :fra nga mën a aar sa bopp
+wol_44113 1 locuteur_1 234.649 234.883 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 234.883 235.590 <o,f0,male> ci wàllu mbay
+wol_44113 1 locuteur_1 235.590 235.913 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 235.913 240.946 <o,f0,male> c' :fra est :fra dangereux :fra nga def li ñuy wax monoculture :fra monoculture :fra nga ne man ceeb rek laay bay
+wol_44113 1 locuteur_1 240.946 241.288 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 241.288 242.574 <o,f0,male> wala man mboq rek laay bay
+wol_44113 1 locuteur_1 242.574 242.936 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 242.936 244.987 <o,f0,male> da ngay war a def li ñuy wax la :fra diversification :fra
+wol_44113 1 locuteur_1 244.987 245.439 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 245.439 247.176 <o,f0,male> mën na war nga mën ci même :fra parcelle :fra bi
+wol_44113 1 locuteur_1 247.176 247.723 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 247.723 249.927 <o,f0,male> il :fra faut :fra nga yaat() nga nga def xeet yu bëri
+wol_44113 1 locuteur_1 249.927 250.614 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 250.614 251.302 <o,f0,male> mu am gerte
+wol_44113 1 locuteur_1 251.302 251.687 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 251.687 252.442 <o,f0,male> am mboq
+wol_44113 1 locuteur_1 252.442 252.876 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 252.876 253.473 <o,f0,male> am basi
+wol_44113 1 locuteur_1 253.473 253.876 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 253.876 254.866 <o,f0,male> am lii am lii
+wol_44113 1 locuteur_1 254.866 255.241 <o,f0,male> %hum
+wol_44113 1 locuteur_2 255.241 256.567 <o,f0,male> ndaxte lii bu ñorul lii ñor
+wol_44113 1 locuteur_1 256.567 257.038 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 257.038 257.960 <o,f0,male> lii bu baaxul lii baax
+wol_44113 1 locuteur_1 257.960 258.268 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 258.268 259.625 <o,f0,male> pour :fra nga nekk en :fra sécurité :fra alimentaire :fra
+wol_44113 1 locuteur_1 259.625 260.023 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 260.023 260.266 <o,f0,male> waaw
+wol_44113 1 locuteur_1 260.266 261.681 <o,f0,male> [i] %e monsieur :fra Tall [mic]
+wol_44113 1 locuteur_2 261.681 261.908 <o,f0,male> waaw
+wol_44113 1 locuteur_1 261.908 269.149 <o,f0,male> %e defe naa ne damay delluwaat tuuti ci ginnaaw maanaam dama bëgg comme :fra ni tubaab ni mu ko waxee dama bëgg définir :fra ñu ANCAR
+wol_44113 1 locuteur_2 269.149 270.072 <o,f0,male> %hum
+wol_44113 1 locuteur_1 270.072 288.355 <o,f0,male> %e ndaxte dañuy ne ANCAR ANCAR ANCAR ANCAR waaye ANCAR ndaxte benn liggéey kese la maanaam ci wàllum %e suuf si la wala %e na gën di gestu ci %e yu bëri fànn yu bëri yoo xam ne bu dul suuf kese rek%e taxawaayu ANCAR dëggantaan dëggantaan dañ bëgg naa foofu tamit ñu delluwaat ci
+wol_44113 1 locuteur_2 288.355 292.711 <o,f0,male> %hum %hum macha :ar allah :ar monsieur :fra Sow ah question :fra bi moom neex na ma lool [rire] ndaxte sànq ba léegi
+wol_44113 1 locuteur_1 292.711 293.313 <o,f0,male> waaw
+wol_44113 1 locuteur_2 293.313 294.280 <o,f0,male> baykat bi la ñu doon wax
+wol_44113 1 locuteur_1 294.280 294.704 <o,f0,male> waaw
+wol_44113 1 locuteur_2 294.704 296.294 <o,f0,male> waaye nag léegi ñëw nañu ci ANCAR
+wol_44113 1 locuteur_1 296.294 301.941 <o,f0,male> [rire] waaw dama gis ne da ngaa xaajale suñu waxtaan wi [rire] donc :fra war nañu dugg balaa ñuy jeexal [rire] li nga wax dégg ma nee na ANCAR la nekk ANCAR la nekk
+wol_44113 1 locuteur_2 301.941 302.120 <o,f0,male> %hum
+wol_44113 1 locuteur_1 302.120 302.902 <o,f0,male> waaw lan mooy ANCAR
+wol_44113 1 excluded_region 302.902 303.625 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 303.625 305.616 <o,f0,male> mais :fra il :fra faut :fra ñu expliqué :fra ko lan mooy tamit ANCAR tamit
+wol_44113 1 locuteur_2 305.616 306.515 <o,f0,male> voilà :fra macha :ar allah :ar
+wol_44113 1 locuteur_1 306.515 306.738 <o,f0,male> waaw
+wol_44113 1 locuteur_2 306.738 307.515 <o,f0,male> ba heureusement :fra
+wol_44113 1 excluded_region 307.515 308.222 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 308.222 308.598 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 308.598 310.301 <o,f0,male> ñu bëri xam nañu ANCAR ci àll bi
+wol_44113 1 locuteur_1 310.301 310.519 <o,f0,male> %hum
+wol_44113 1 locuteur_2 310.519 311.304 <o,f0,male> ku xamul ANCAR rek
+wol_44113 1 locuteur_1 311.304 311.724 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 311.724 312.614 <o,f0,male> ci dëkku taax yi nga nekk
+wol_44113 1 locuteur_1 312.614 312.901 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 312.901 313.884 <o,f0,male> mais :fra dans :fra le :fra monde :fra rural :fra
+wol_44113 1 locuteur_1 313.884 314.246 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 314.246 315.838 <o,f0,male> tey ñu bëri xam nañu ANCAR ANCAR mooy
+wol_44113 1 locuteur_1 315.838 316.080 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 316.080 318.408 <o,f0,male> agence :fra nationale :fra de :fra conseil :fra agricol :fra et rural :fra
+wol_44113 1 locuteur_1 318.408 319.312 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 319.312 321.428 <o,f0,male> maanaam mooy kuréel goo xam ne
+wol_44113 1 locuteur_1 321.428 322.678 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 322.678 324.035 <o,f0,male> mooy nekk ci wetu baykat bi
+wol_44113 1 locuteur_1 324.035 324.658 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 324.658 325.971 <o,f0,male> du indaale benn programme :fra
+wol_44113 1 locuteur_1 325.971 326.943 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 326.943 327.780 <o,f0,male> du indaale dara
+wol_44113 1 locuteur_1 327.780 328.577 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 328.577 329.246 <o,f0,male> mais :fra moom
+wol_44113 1 locuteur_1 329.246 329.554 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 329.554 331.273 <o,f0,male> disponibilité :fra lay indaale ak xam-xamam
+wol_44113 1 locuteur_1 331.273 331.994 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 331.994 332.989 <o,f0,male> mu déglu baykat bi
+wol_44113 1 locuteur_1 332.989 333.289 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 333.289 334.700 <o,f0,male> moom ak baykat bi ñooy fanaandoo
+wol_44113 1 locuteur_1 334.700 335.269 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 335.269 336.166 <o,f0,male> ñooy yendoondoo
+wol_44113 1 locuteur_1 336.166 336.509 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 336.509 337.885 <o,f0,male> ñooy lekkandoo ñooy naandandoo
+wol_44113 1 locuteur_1 337.885 338.337 <o,f0,male> %hum
+wol_44113 1 locuteur_2 338.337 339.549 <o,f0,male> nos :fra agents :fra sont :fra dans :fra les :fra communes :fra
+wol_44113 1 locuteur_1 339.549 340.168 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 340.168 341.185 <o,f0,male> kon soxla baykat bi
+wol_44113 1 locuteur_1 341.185 341.619 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 341.619 345.708 <o,f0,male> lépp luy agriculture :fra luy élevage :fra lépp luy koom-koomu àll
+wol_44113 1 locuteur_1 345.708 346.590 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 346.590 348.157 <o,f0,male> mën nga ko déye ne ko man diw
+wol_44113 1 excluded_region 348.157 348.802 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 348.802 349.145 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 349.145 350.159 <o,f0,male> kon mën na nekk suuf
+wol_44113 1 locuteur_1 350.159 350.526 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 350.526 351.685 <o,f0,male> mën na nekk gàncax
+wol_44113 1 locuteur_1 351.685 352.025 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 352.025 353.115 <o,f0,male> mën na nekk àll
+wol_44113 1 locuteur_1 353.115 353.415 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 353.415 355.395 <o,f0,male> mën na nekk %e nag
+wol_44113 1 locuteur_1 355.395 355.885 <o,f0,male> %hum
+wol_44113 1 locuteur_2 355.885 356.716 <o,f0,male> mën na nekk xar
+wol_44113 1 locuteur_1 356.716 357.075 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 357.075 358.335 <o,f0,male> mën na nekk si wàllu njaay
+wol_44113 1 locuteur_1 358.335 358.742 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 358.742 362.397 <o,f0,male> yow daal yaa ngi yëngatu ci àll bi sa jafe-jafe mooy lii
+wol_44113 1 locuteur_1 362.397 362.799 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 362.799 363.555 <o,f0,male> nga ñëw déye ko ko
+wol_44113 1 locuteur_1 363.555 364.049 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 364.049 367.409 <o,f0,male> kon ANCAR li koy wutale ak yeneen service yu fi doon
+wol_44113 1 excluded_region 367.409 368.097 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 368.097 368.429 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 368.429 370.974 <o,f0,male> mooy souvent :fra ay projet :fra programme :fra dañu doon indaale seen programme :fra
+wol_44113 1 locuteur_1 370.974 371.317 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 371.317 373.416 <o,f0,male> ne baykat yi lii de ñun ñoo leen ko indil
+wol_44113 1 locuteur_1 373.416 373.776 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 373.776 374.484 <o,f0,male> ku mu neex jël
+wol_44113 1 locuteur_1 374.484 374.915 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 374.915 375.678 <o,f0,male> ku mu neex bàyyi
+wol_44113 1 locuteur_1 375.678 376.112 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 376.112 378.446 <o,f0,male> waaye bii moom non :fra non :fra ñun ANCAR
+wol_44113 1 locuteur_1 378.446 378.819 <o,f0,male> %hum
+wol_44113 1 locuteur_2 378.819 379.912 <o,f0,male> comme :fra conseil :fra agricol :fra la
+wol_44113 1 locuteur_1 379.912 380.341 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 380.341 381.993 <o,f0,male> da ngay ñëw ci nekk nekk ci wetu baykat bi
+wol_44113 1 locuteur_1 381.993 382.337 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 382.337 383.117 <o,f0,male> c' :fra est :fra sur :fra demande :fra
+wol_44113 1 locuteur_1 383.117 384.182 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 384.182 385.689 <o,f0,male> maanaam c' :fra est :fra un :fra peu :fra comme :fra le :fra medecin :fra
+wol_44113 1 locuteur_1 385.689 385.944 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 385.944 386.987 <o,f0,male> boo xam ne mu ngi ci bureau :fra am
+wol_44113 1 locuteur_1 386.987 387.294 <o,f0,male> %hum
+wol_44113 1 locuteur_2 387.294 389.972 <o,f0,male> xam nga doo gis ci medecin :fra bu dem ci kër yi di naan lan moo leen
+wol_44113 1 excluded_region 389.972 390.895 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_2 390.895 392.939 <o,f0,male> yow yaa xam li lay métti nga dem ci medecin :fra bi
+wol_44113 1 locuteur_1 392.939 393.185 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 393.185 394.639 <o,f0,male> mais :fra boo ñëwee nag dina la diagnostiqué :fra
+wol_44113 1 locuteur_1 394.639 395.056 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 395.056 398.512 <o,f0,male> boo ñëwee nag agent :fra ANCAR bi doo ñëw rek ne ko man nangam mooy sama problème :fra mu yem ci
+wol_44113 1 locuteur_1 398.512 398.748 <o,f0,male> %hum
+wol_44113 1 locuteur_2 398.748 400.629 <o,f0,male> dafa am lu ñuy wax la :fra reformutaion :fra de :fra la :fra demande :fra
+wol_44113 1 locuteur_1 400.629 401.257 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 401.257 401.896 <o,f0,male> day ñëw
+wol_44113 1 locuteur_1 401.896 402.186 <o,f0,male> %hum
+wol_44113 1 locuteur_2 402.186 405.442 <o,f0,male> nga ne ko man ah sama am-am bi ci wàllu mbay daa wàññeeku
+wol_44113 1 locuteur_1 405.442 406.160 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 406.160 407.017 <o,f0,male> mu ne la loo doon bay
+wol_44113 1 locuteur_1 407.017 414.365 <o,f0,male> RTS Tambacounda [shh] ah waaw dem na waaw xam naa dina ñëwaat 33 981 29 31 waaw monsieur :fra Tall
+wol_44113 1 locuteur_2 414.365 417.767 <o,f0,male> nga ne ko baykat bi ne la man %e ndawu ANCAR bi
+wol_44113 1 locuteur_1 417.767 418.053 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 418.053 419.757 <o,f0,male> man daal dama am wàññeeku si sama mbay
+wol_44113 1 locuteur_1 419.757 419.956 <o,f0,male> %hum
+wol_44113 1 locuteur_2 419.956 420.680 <o,f0,male> daan naa bay mboq
+wol_44113 1 locuteur_1 420.680 421.060 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 421.060 422.584 <o,f0,male> daan naa am %e ñaari tonnes :fra
+wol_44113 1 locuteur_1 422.584 422.891 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 422.891 424.884 <o,f0,male> léegi daal ci sama parcelle :fra bi amatuma
+wol_44113 1 locuteur_1 424.884 425.232 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 425.232 426.382 <o,f0,male> lu dépassé :fra benn tonne :fra
+wol_44113 1 locuteur_1 426.382 426.600 <o,f0,male> %hum
+wol_44113 1 locuteur_2 426.600 427.902 <o,f0,male> damaa am problème :fra xaw ma nan laay def
+wol_44113 1 locuteur_1 427.902 428.485 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 428.485 431.020 <o,f0,male> waa ji du yem rek ci wàññeeku rek mu ne la defal lii ak lii
+wol_44113 1 locuteur_1 431.020 431.500 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 431.500 432.238 <o,f0,male> day ànd ak yow
+wol_44113 1 locuteur_1 432.238 432.755 <o,f0,male> %hum
+wol_44113 1 locuteur_2 432.755 433.506 <o,f0,male> xool parcelle :fra bi [mic]
+wol_44113 1 locuteur_1 433.506 434.044 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 434.044 434.719 <o,f0,male> waxtaan ak yow
+wol_44113 1 locuteur_1 434.719 435.207 <o,f0,male> %hum
+wol_44113 1 locuteur_2 435.207 437.849 <o,f0,male> yan xeetu mbay ngay bay kañ nga koy ji
+wol_44113 1 locuteur_1 437.849 438.280 <o,f0,male> %hum %%hum
+wol_44113 1 locuteur_2 438.280 439.181 <o,f0,male> naka nga koy jiyee
+wol_44113 1 locuteur_1 439.181 439.482 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 439.482 446.783 <o,f0,male> foo jëndee jiw bi est :fra ce :fra que :fra jiw bu baax la bu dee jiw bi baax na est :fra ce :fra que :fra jiw bi aussi :fra temps :fra bi muy jël %e guddul
+wol_44113 1 locuteur_1 446.783 447.271 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 447.271 452.701 <o,f0,male> bu fekkee ne loolu yëppbaax na mu xool est :fra ce :fra que :fra parcelle :fra bi mu koy def est :fra ce :fra que :fra suuf soosu moo moo ci war a dem
+wol_44113 1 locuteur_1 452.701 453.552 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 453.552 454.693 <o,f0,male> bu fekkente ne suus si baax na
+wol_44113 1 locuteur_1 454.693 455.017 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 455.017 459.488 <o,f0,male> est :fra ce :fra que :fra yow normalement :fra %e soo ñëwee waxtu bi nga ko war a jiyee nga koy ji
+wol_44113 1 locuteur_1 459.488 460.104 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 460.104 462.685 <o,f0,male> est :fra ce :fra que :fra boo ko jiyee tamit engrais :fra bi nga ciy def est :fra ce :fra que :fra baax na
+wol_44113 1 locuteur_1 462.685 462.959 <o,f0,male> %hum
+wol_44113 1 locuteur_2 462.959 464.407 <o,f0,male> finalement :fra mën ngeen dem mu gis ne
+wol_44113 1 locuteur_1 464.407 465.040 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 465.040 468.077 <o,f0,male> yow wax dëgg yàlla am nga jiw bu baax [mic] am nga parcelle :fra bu baax
+wol_44113 1 locuteur_1 468.077 468.475 <o,f0,male> %hum
+wol_44113 1 locuteur_2 468.475 472.564 <o,f0,male> ndeketeyoo engrais :fra bi ñu ciy def nim koy defee moo baaxul mu ne la nag yow
+wol_44113 1 locuteur_1 472.564 472.895 <o,f0,male> %hum
+wol_44113 1 locuteur_2 472.895 473.793 <o,f0,male> sa gàllankoor
+wol_44113 1 locuteur_1 473.793 474.090 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 474.090 478.559 <o,f0,male> mooy xeetu engrais :fra bi nga ciy def wala sa gàllankoor mooy lii wala sa gàllankoor mooy lii
+wol_44113 1 locuteur_1 478.559 478.866 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 478.866 480.609 <o,f0,male> mu reformulé :fra mu daal di la ci jàppale nag
+wol_44113 1 locuteur_1 480.609 480.839 <o,f0,male> %hum
+wol_44113 1 locuteur_2 480.839 483.834 <o,f0,male> ne ko saafara si nag nii ak nii nga koy defee [mic] waaw
+wol_44113 1 locuteur_1 483.834 485.414 <o,f0,male> %e monsieur :fra Tall ba tey ANCAR [mic]
+wol_44113 1 locuteur_2 485.414 486.101 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 486.101 500.195 <o,f0,male> wax nga ñu taxawaay ANCAR [i] li muy sumb waa li muy laaj waaye nag ANCAR ci boppam ndax léeg-léeg di na jóg dem nemmeeku ji maanaam baykat yi képp koo xam ne ci suuf lay liggéeyee rek ndax ANCAR dina ko def
+wol_44113 1 locuteur_2 500.195 500.666 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 500.666 500.977 <o,f0,male> waaw
+wol_44113 1 locuteur_2 500.977 505.481 <o,f0,male> waaw doo ANCAR [mic] %e du tëb tëb rek dem seeti baykat yi
+wol_44113 1 locuteur_1 505.481 506.350 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 506.350 508.109 <o,f0,male> la :fra plus :fra part :fra du :fra temps :fra tey jii boo jëlee Tamba
+wol_44113 1 locuteur_1 508.109 508.528 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 508.528 511.746 <o,f0,male> ñi ngi ci %e juróom(ñaari communes :fra
+wol_44113 1 locuteur_1 511.746 512.875 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 512.875 513.646 <o,f0,male> ñu ngi Puloor
+wol_44113 1 locuteur_1 513.646 514.514 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 514.514 515.147 <o,f0,male> ñu ngi Kotiari
+wol_44113 1 locuteur_1 515.147 515.739 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 515.739 516.595 <o,f0,male> ñu ngi Dialokoto
+wol_44113 1 locuteur_1 516.595 517.138 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 517.138 517.735 <o,f0,male> ñu ngi Misira
+wol_44113 1 locuteur_1 517.735 518.404 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 518.404 519.888 <o,f0,male> ñu ngi %e Kusaanaar
+wol_44113 1 locuteur_1 519.888 520.340 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 520.340 521.263 <o,f0,male> ñi ngi Sinthioumalem
+wol_44113 1 locuteur_1 521.263 521.571 <o,f0,male> %hum
+wol_44113 1 locuteur_2 521.571 522.313 <o,f0,male> ñu ngi Koupentoun
+wol_44113 1 locuteur_1 522.313 522.711 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 522.711 523.706 <o,f0,male> ñu ngi Maka kulibantang
+wol_44113 1 locuteur_1 523.706 524.251 <o,f0,male> %hum
+wol_44113 1 locuteur_2 524.251 527.831 <o,f0,male> mu nekk ay communes :fra yoo xam ne pour :fra le :fra moment :fra ANCAR foofu lay yëngatu
+wol_44113 1 locuteur_1 527.831 528.465 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 528.465 531.667 <o,f0,male> donc :fra commune :fra quart :fra bi maanaam le :fra conseil :fra agricol :fra bi fa nekk
+wol_44113 1 locuteur_1 531.667 532.355 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 532.355 534.635 <o,f0,male> moom dafa nekk à :fra la :fra disposition :fra des :fra producteurs :fra
+wol_44113 1 locuteur_1 534.635 535.323 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 535.323 536.499 <o,f0,male> maanaam ku am soxla
+wol_44113 1 locuteur_1 536.499 536.843 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 536.843 537.512 <o,f0,male> mën nga ko ko déye
+wol_44113 1 locuteur_1 537.512 538.001 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 538.001 539.738 <o,f0,male> léeg-léeg nag mu am ay programmes :fra yoo xam ne
+wol_44113 1 locuteur_1 539.738 539.991 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 539.991 541.890 <o,f0,male> day invité :fra ñu bëri informé :fra leen
+wol_44113 1 locuteur_1 541.890 542.180 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 542.180 543.633 <o,f0,male> ma jox leen benn exemple :fra
+wol_44113 1 locuteur_1 543.633 544.682 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 544.682 545.804 <o,f0,male> lundi :fra bii di ñëw rek
+wol_44113 1 locuteur_1 545.804 546.474 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 546.474 547.541 <o,f0,male> war nañu mën a formé :fra
+wol_44113 1 locuteur_1 547.541 548.084 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 548.084 552.657 <o,f0,male> ñaari téeméer ak juróom-ñeenti nit ak benn ñaari téeméer
+wol_44113 1 locuteur_1 552.657 552.836 <o,f0,male> %hum
+wol_44113 1 locuteur_2 552.836 553.942 <o,f0,male> ak juróom-ñeenti nit ak benn
+wol_44113 1 locuteur_1 553.942 554.213 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 554.213 555.462 <o,f0,male> ci nan ci itinéraire :fra technique
+wol_44113 1 locuteur_1 555.462 555.842 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 555.842 557.508 <o,f0,male> naka la ñuy bayee ceeb
+wol_44113 1 locuteur_1 557.508 558.015 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 558.015 561.597 <o,f0,male> mboq gerte ñebe ak yu ak yu demee noonu
+wol_44113 1 locuteur_1 561.597 562.140 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 562.140 564.195 <o,f0,male> kon xam nga mbooloo boobule su ngeen ko dajalee
+wol_44113 1 locuteur_1 564.195 564.569 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 564.569 566.818 <o,f0,male> ngeen glissé :fra waale ci information :fra climatique :fra
+wol_44113 1 locuteur_1 566.818 567.126 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 567.126 568.658 <o,f0,male> changement :fra climat :fra yi ak nangam nangam
+wol_44113 1 locuteur_1 568.658 568.911 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 568.911 570.540 <o,f0,male> comme :fra day nekk information :fra bu yaatu
+wol_44113 1 locuteur_1 570.540 570.902 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 570.902 572.180 <o,f0,male> kooku ñooñu ay relais :fra la ñu
+wol_44113 1 locuteur_1 572.180 572.433 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 572.433 573.229 <o,f0,male> dañ leen di tuddee relais :fra
+wol_44113 1 locuteur_1 573.229 573.523 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 573.523 575.766 <o,f0,male> ndaxte boo ko formé :fra da nga koy naan soo ñïbbee
+wol_44113 1 locuteur_1 575.766 576.073 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 576.073 576.978 <o,f0,male> groupement :fra bi la yebal
+wol_44113 1 locuteur_1 576.978 577.376 <o,f0,male> %hum
+wol_44113 1 locuteur_2 577.376 579.547 <o,f0,male> danañ leen di informé :fra donc :fra ñun noonu la ñuy procédé :fra
+wol_44113 1 locuteur_1 579.547 579.891 <o,f0,male> %hum
+wol_44113 1 locuteur_2 579.891 581.990 <o,f0,male> léeg-léeg nga def ko ci dëkku taax yi ci ville :fra bi
+wol_44113 1 locuteur_1 581.990 582.334 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 582.334 583.239 <o,f0,male> léeg-léeg sa commune :fra
+wol_44113 1 locuteur_1 583.239 583.510 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 583.510 586.568 <o,f0,male> nga dajale ñu bëri ay ateliers :fra d' :fra information :fra et :fra de :fra sensibilisation :fra
+wol_44113 1 locuteur_1 586.568 586.767 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 586.767 587.871 <o,f0,male> wala atelier :fra formation :fra
+wol_44113 1 locuteur_1 587.871 588.215 <o,f0,male> %hum
+wol_44113 1 locuteur_2 588.215 590.332 <o,f0,male> maanaam information :fra mooy le dafa am lu xew
+wol_44113 1 locuteur_1 590.332 590.929 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 590.929 592.032 <o,f0,male> loo leen bëgg a jottali
+wol_44113 1 locuteur_1 592.032 592.684 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 592.684 595.434 <o,f0,male> wala dafa am loo xam ne énoom ñoo la ko jox
+wol_44113 1 locuteur_1 595.434 595.705 <o,f0,male> %hum
+wol_44113 1 locuteur_2 595.705 596.473 <o,f0,male> mais :fra dafa war a yaatu
+wol_44113 1 locuteur_1 596.473 596.827 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 596.827 597.424 <o,f0,male> nga dajale leen
+wol_44113 1 locuteur_1 597.424 597.642 <o,f0,male> %hum
+wol_44113 1 locuteur_2 597.642 601.233 <o,f0,male> ci benn atelier :fra informé :fra leen sensibilisé :fra leen wala dafa am xarale gu bees
+wol_44113 1 locuteur_1 601.233 601.649 <o,f0,male> %hum
+wol_44113 1 locuteur_2 601.649 606.318 <o,f0,male> wala gis nga ne am na xam-xam boo xam ne ñoom war nañu ko mën a jot pour :fra mu gën a yombal seen liggéey
+wol_44113 1 locuteur_1 606.318 606.643 <o,f0,male> %hum
+wol_44113 1 locuteur_2 606.643 607.894 <o,f0,male> nga dajale leen ci atelier :fra yu bëri
+wol_44113 1 locuteur_1 607.894 608.111 <o,f0,male> %hum
+wol_44113 1 locuteur_2 608.111 609.323 <o,f0,male> nga informé :fra leen sensibilisé :fra leen
+wol_44113 1 locuteur_1 609.323 609.758 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 609.758 609.993 <o,f0,male> waaw
+wol_44113 1 locuteur_1 609.993 613.981 <o,f0,male> [i] %e monsieur :fra Tall comme :fra dugg naa ci biir ANCAR te du ma génn te fekkee nag laajuma
+wol_44113 1 locuteur_2 613.981 614.433 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 614.433 615.736 <o,f0,male> %e monsieur :fra Tall ingénieur :fra la
+wol_44113 1 locuteur_2 615.736 616.170 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 616.170 639.775 <o,f0,male> %e ingénieur :fra * bi nga comme :fra bi nga commencé :fra ak léegi [tx] ndax gis nga am ay suuf maanaam ci parties :fra yoo xam ne ci suuf si [r] mu jaaxal la trop :fra bi nga ko commencé :fra nekk ingénieur :fra ba ni tey [i] ndax am na suuf soo xam ne jaaxal na la def nga ci étude :fra ba ni tey mën ngaa xalaat ne étude :fra boobu am na lu ci des
+wol_44113 1 locuteur_2 639.775 643.329 <o,f0,male> %hum %hum voilà :fra merci :fra monsieur :fra Sow bon :fra %e man ingénieur :fra laa
+wol_44113 1 locuteur_1 643.329 643.677 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 643.677 645.349 <o,f0,male> mais :fra ingénieur :fra travaux :fra des :fra eaux :fra et :fra forêt :fra
+wol_44113 1 locuteur_1 645.349 646.181 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 646.181 647.629 <o,f0,male> donc :fra %e sama xam-xam
+wol_44113 1 locuteur_1 647.629 647.991 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 647.991 649.432 <o,f0,male> demul ci analyse :fra suuf
+wol_44113 1 locuteur_1 649.432 650.102 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 650.102 651.386 <o,f0,male> donc :fra ci àll
+wol_44113 1 locuteur_1 651.386 651.893 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 651.893 653.009 <o,f0,male> la gën a la gën a màcc
+wol_44113 1 locuteur_1 653.009 653.461 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 653.461 656.274 <o,f0,male> waaye nag question :fra bi nga ma posé :fra tamit question :fra bu am solo la
+wol_44113 1 locuteur_1 656.274 657.273 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 657.273 660.341 <o,f0,male> suuf su ma jaaxal dëgg-dëgg
+wol_44113 1 locuteur_1 660.341 661.210 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 661.210 662.955 <o,f0,male> parce :fra que :fra du Tamba laa commencé :fra
+wol_44113 1 locuteur_1 662.955 663.626 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 663.626 665.923 <o,f0,male> ñëwoon nañu %e nekkoon naa Ndiarème
+wol_44113 1 locuteur_1 665.923 666.520 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 666.520 667.606 <o,f0,male> Ndiarème suñu zone :fra bi
+wol_44113 1 locuteur_1 667.606 667.986 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 667.986 670.707 <o,f0,male> ñuy intervenir :fra ba ay côté :fra %e Niakhare
+wol_44113 1 locuteur_1 670.707 671.015 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 671.015 671.829 <o,f0,male> ci Fatick bi la bokk
+wol_44113 1 locuteur_1 671.829 672.625 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 672.625 673.958 <o,f0,male> mu am ay xeetu suuf soo xam ne
+wol_44113 1 locuteur_1 673.958 674.573 <o,f0,male> %hum
+wol_44113 1 locuteur_2 674.573 675.695 <o,f0,male> suuf su bëri xorom la
+wol_44113 1 locuteur_1 675.695 677.142 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 677.142 679.096 <o,f0,male> boo ci indee xarele boo xalaat rek
+wol_44113 1 locuteur_1 679.096 679.965 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 679.965 682.064 <o,f0,male> ci wàllu réglé :fra xorom si
+wol_44113 1 locuteur_1 682.064 682.932 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 682.932 683.421 <o,f0,male> du dox
+wol_44113 1 locuteur_1 683.421 683.656 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 683.656 684.120 <o,f0,male> du sotti
+wol_44113 1 locuteur_1 684.120 685.080 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 685.080 686.339 <o,f0,male> mu nekkoon lu ñu jaaxal
+wol_44113 1 locuteur_1 686.339 687.052 <o,f0,male> %hum
+wol_44113 1 locuteur_2 687.052 688.264 <o,f0,male> ñu waxtaan ci ak ñu bëri
+wol_44113 1 locuteur_1 688.264 688.951 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 688.951 690.492 <o,f0,male> xam nga solution :fra bi fan la jógee
+wol_44113 1 locuteur_1 690.492 691.361 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 691.361 693.453 <o,f0,male> dañu jékki-jékki rek benn baykat ne ñu
+wol_44113 1 locuteur_1 693.453 694.400 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 694.400 695.129 <o,f0,male> mal daal gis naa
+wol_44113 1 locuteur_1 695.129 695.925 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 695.925 696.974 <o,f0,male> gis nga xollitu gerte
+wol_44113 1 locuteur_1 696.974 697.978 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 697.978 700.212 <o,f0,male> sama papa loolu la doon jëfandikoo amatuñu benn problème :fra
+wol_44113 1 locuteur_1 700.212 701.064 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 701.064 701.896 <o,f0,male> ñu dem ci toolam
+wol_44113 1 locuteur_1 701.896 702.674 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 702.674 703.398 <o,f0,male> énu gis ne moom
+wol_44113 1 locuteur_1 703.398 703.977 <o,f0,male> %hum
+wol_44113 1 locuteur_2 703.977 704.773 <o,f0,male> xollitu gerte yi
+wol_44113 1 locuteur_1 704.773 705.207 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 705.207 706.094 <o,f0,male> laay sotti ci tool bi
+wol_44113 1 locuteur_1 706.094 706.763 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 706.763 707.510 <o,f0,male> mu daal di labouré :fra
+wol_44113 1 locuteur_1 707.510 708.175 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 708.175 708.862 <o,f0,male> affaire :fra yiy dox
+wol_44113 1 locuteur_1 708.862 710.237 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 710.237 711.482 <o,f0,male> ñu jaar fa nag ñu xam ne kon
+wol_44113 1 locuteur_1 711.482 711.739 <o,f0,male> %hum
+wol_44113 1 locuteur_2 711.739 712.300 <o,f0,male> xam-xam
+wol_44113 1 locuteur_1 712.300 712.602 <o,f0,male> %hum
+wol_44113 1 locuteur_2 712.602 714.290 <o,f0,male> warul jógee ci ingénieur :fra yi rek
+wol_44113 1 locuteur_1 714.290 714.642 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 714.642 715.448 <o,f0,male> dem ci baykat yi
+wol_44113 1 locuteur_1 715.448 715.774 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 715.774 717.906 <o,f0,male> mais :fra aussi :fra baykat yi am nañu connaissance :fra endogène :fra
+wol_44113 1 locuteur_1 717.906 718.141 <o,f0,male> %hum
+wol_44113 1 locuteur_2 718.141 721.506 <o,f0,male> yoo xam ne mën na ko jëfandikoo effectivement :fra daan nañu am problème :fra yu mel noonu
+wol_44113 1 locuteur_1 721.506 721.868 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 721.868 722.719 <o,f0,male> mais yi si gën a bëri
+wol_44113 1 locuteur_1 722.719 723.026 <o,f0,male> %hum
+wol_44113 1 locuteur_2 723.026 724.456 <o,f0,male> dañuy d' :fra abord :fra njëkk a réfléchir :fra
+wol_44113 1 locuteur_1 724.456 724.755 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 724.755 725.433 <o,f0,male> ak baykat bi
+wol_44113 1 locuteur_1 725.433 725.885 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 725.885 729.866 <o,f0,male> ba ñu am des :fra solutions :fra endogènes :fra su amul solution :fra endogène :fra rek ñu jéem a wut yeneen solutions :fra
+wol_44113 1 locuteur_1 729.866 730.228 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 730.228 730.680 <o,f0,male> voilà :fra
+wol_44113 1 locuteur_1 730.680 731.603 <o,f0,male> %e monsieur :fra Tall
+wol_44113 1 locuteur_2 731.603 731.965 <o,f0,male> %hum
+wol_44113 1 locuteur_1 731.965 734.100 <o,f0,male> %e ni ngay en :fra tant :fra que :fra ingénieur :fra eaux :fra et :fra forêt :fra
+wol_44113 1 locuteur_2 734.100 734.733 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 734.733 737.284 <o,f0,male> tey gis nañu ne àll bi tey moom daanaka mën nañu wax ne démb
+wol_44113 1 locuteur_2 737.284 737.628 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 737.628 741.428 <o,f0,male> garab yi amoon amatul [mic] ndax du gàllankoor
+wol_44113 1 locuteur_2 741.428 743.943 <o,f0,male> waaw gàllankoor dëgg la monsieur :fra Sow
+wol_44113 1 locuteur_1 743.943 744.649 <o,f0,male> %hum
+wol_44113 1 locuteur_2 744.649 745.552 <o,f0,male> bokk na sax
+wol_44113 1 locuteur_1 745.552 746.052 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 746.052 747.219 <o,f0,male> loolu yëpp loolu rek
+wol_44113 1 locuteur_1 747.219 747.770 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 747.770 748.829 <o,f0,male> mënoon na motoon na émission :fra
+wol_44113 1 locuteur_1 748.829 749.766 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 749.766 754.687 <o,f0,male> xam nga sànq da nga ma laajoon nan mooy mécanisme :fra d' :fra adaptation :fra et :fra mécanisme :fra d' :fra aténuation :fra
+wol_44113 1 locuteur_1 754.687 755.592 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 755.592 756.877 <o,f0,male> maanaam tey changement :fra climatique :fra
+wol_44113 1 locuteur_1 756.877 757.451 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 757.451 759.428 <o,f0,male> maanaam coppite gi ñu seetlu ci jawu ji
+wol_44113 1 locuteur_1 759.428 759.866 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 759.866 761.418 <o,f0,male> ak jafe-jafe yi mu àndal yëpp
+wol_44113 1 locuteur_1 761.418 761.882 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 761.882 763.182 <o,f0,male> garab rek [mic] moo ko mën a wàññi
+wol_44113 1 locuteur_1 763.182 763.562 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 763.562 764.159 <o,f0,male> li si gën a bëri
+wol_44113 1 locuteur_1 764.159 764.554 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 764.554 765.046 <o,f0,male> garab
+wol_44113 1 locuteur_1 765.046 765.601 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 765.601 767.353 <o,f0,male> bokk na ci li ko gën a mën a wàññi
+wol_44113 1 locuteur_1 767.353 767.741 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 767.741 769.887 <o,f0,male> maanaam tey jii boo jëloon àll
+wol_44113 1 locuteur_1 769.887 771.613 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 771.613 772.413 <o,f0,male> mu am ay garab
+wol_44113 1 locuteur_1 772.413 772.726 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 772.726 775.414 <o,f0,male> xam nga garab particularité :fra bi mu am mooy
+wol_44113 1 locuteur_1 775.414 776.152 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 776.152 777.962 <o,f0,male> %e yow yaa ngi noyyi
+wol_44113 1 locuteur_1 777.962 778.461 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 778.461 780.954 <o,f0,male> yéen ñaar yéen a bokk ngelaw gi
+wol_44113 1 locuteur_1 780.954 782.304 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 782.304 787.225 <o,f0,male> yow li ngay nooyi li ngay nokki ak li ngay li ngay li ngay noy() ak li ngay génne
+wol_44113 1 excluded_region 787.225 788.836 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 788.836 789.154 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 789.154 790.753 <o,f0,male> dafa xaw a juyoo ak garab
+wol_44113 1 locuteur_1 790.753 791.441 <o,f0,male> %hum
+wol_44113 1 locuteur_2 791.441 794.246 <o,f0,male> yow sooy dugal ngelew maanaam sooy noyyi
+wol_44113 1 locuteur_1 794.246 794.662 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 794.662 795.621 <o,f0,male> yow oxygène :fra ngay jël
+wol_44113 1 locuteur_1 795.621 797.032 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 797.032 798.498 <o,f0,male> sooy nokki sooy génne ngelaw bi
+wol_44113 1 excluded_region 798.498 800.289 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_2 800.289 800.796 <o,f0,male> garab nag
+wol_44113 1 locuteur_1 800.796 801.112 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 801.112 803.709 <o,f0,male> contraire :fra bi lay def moom CO2 bi lay jë
+wol_44113 1 locuteur_1 803.709 804.596 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 804.596 806.134 <o,f0,male> moom lay noyyee moom lay dundee
+wol_44113 1 locuteur_1 806.134 806.483 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 806.483 809.155 <o,f0,male> léegi nag gàllankoor bi gën a mag
+wol_44113 1 locuteur_1 809.155 809.626 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 809.626 810.223 <o,f0,male> ci gaz :fra yi
+wol_44113 1 locuteur_1 810.223 810.733 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 810.733 813.353 <o,f0,male> CO2 ci la bokk mooy les :fra gaz :fra à :fra effet :fra de serre :fra
+wol_44113 1 locuteur_1 813.353 814.014 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 814.014 816.755 <o,f0,male> léegi nag gaz :fra à :fra effet :fra de :fra serre :fra yooyu fan lay jógee
+wol_44113 1 excluded_region 816.755 819.415 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 819.415 819.796 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 819.796 821.713 <o,f0,male> mi ngi jógee ñun ci suñu activité :fra
+wol_44113 1 locuteur_1 821.713 822.218 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 822.218 824.015 <o,f0,male> maanaam daay bi ñuy taal
+wol_44113 1 locuteur_1 824.015 824.405 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 824.405 825.893 <o,f0,male> oto yu màgget yi ñuy yor
+wol_44113 1 locuteur_1 825.893 826.296 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 826.296 827.521 <o,f0,male> ak yeneen xeetu activités :fra
+wol_44113 1 excluded_region 827.521 828.353 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_1 828.353 828.716 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 828.716 831.773 <o,f0,male> donc :fra day génne gaz :fra boo xam ne boobu mooy CO2
+wol_44113 1 locuteur_1 831.773 832.218 <o,f0,male> %hum
+wol_44113 1 locuteur_2 832.218 836.098 <o,f0,male> léegi nag gaz :fra boobu su génnee foo xam ne bëri na ay garab
+wol_44113 1 locuteur_1 836.098 836.459 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 836.459 840.625 <o,f0,male> garab yi dañu koy capté :fra kon changement :fra climatique bi du am effet :fra yu bëri
+wol_44113 1 locuteur_1 840.625 841.146 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 841.146 843.950 <o,f0,male> waaye nag léegi contarirement :fra jëlal milieu :fra boo xam ne amatul garab
+wol_44113 1 locuteur_1 843.950 844.547 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 844.547 845.597 <o,f0,male> ce :fra qui :fra veut :fra dire :fra gaz :fra yooyu yëpp
+wol_44113 1 locuteur_1 845.597 845.922 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 845.922 846.700 <o,f0,male> ci jawu bi lay dss
+wol_44113 1 locuteur_1 846.700 847.008 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 847.008 848.105 <o,f0,male> tàngoor foofu lmay gën a méttee
+wol_44113 1 locuteur_1 848.105 848.395 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 848.395 849.426 <o,f0,male> non :fra bi foofu lay wàññeekoo
+wol_44113 1 locuteur_1 849.426 849.625 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 849.625 850.584 <o,f0,male> problème :fra bi foofu lay gën a bëree
+wol_44113 1 locuteur_1 850.584 850.837 <o,f0,male> %hum
+wol_44113 1 locuteur_2 850.837 853.895 <o,f0,male> kon tey garab mooy saafara numéro :fra un :fra
+wol_44113 1 locuteur_1 853.895 854.332 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 854.332 855.379 <o,f0,male> contre :fra les :fra changements :fra climatiques :fra
+wol_44113 1 locuteur_1 855.379 868.583 <o,f0,male> %hum %hum [r] %e ci loolu nag garab ba tey %e bu dee ci wàllum dundin doomu aadama am na jàppalante boo xam ne dina ci jàppale doomu aadama [i] bu dul sax ci dundin [mic] mais :fra boo xoolee ker gi sax
+wol_44113 1 locuteur_2 868.583 869.819 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 869.819 870.995 <o,f0,male> ker ker sax defe naa ne
+wol_44113 1 excluded_region 870.995 871.533 <o,,unknown> ignore_time_segment_in_scoring
+wol_44113 1 locuteur_2 871.533 871.833 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_1 871.833 873.548 <o,f0,male> am na lu gë() lu ci gën a bëri
+wol_44113 1 locuteur_2 873.548 874.127 <o,f0,male> oui :fra
+wol_44113 1 locuteur_1 874.127 881.833 <o,f0,male> ndax doomu aadama boo boo nekkee ci naaj nga jug toog ci taatu garab ci ker gi ndax loolu am na impact :fra wala amul impact :fra
+wol_44113 1 locuteur_2 881.833 884.059 <o,f0,male> amul benn imp() am na benn impact :fra bu rëy a rëy
+wol_44113 1 locuteur_1 884.059 884.584 <o,f0,male> %hum
+wol_44113 1 locuteur_2 884.584 885.307 <o,f0,male> xam nga dañu ne
+wol_44113 1 locuteur_1 885.307 885.924 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 885.924 887.359 <o,f0,male> %e changement :fra climatique :fra bu ñëwee
+wol_44113 1 locuteur_1 887.359 887.752 <o,f0,male> %hum
+wol_44113 1 locuteur_2 887.752 890.247 <o,f0,male> dama bëggoon nit ñi adapté :fra wu ci changement :fra climatique :fra xam nga
+wol_44113 1 locuteur_1 890.247 890.563 <o,f0,male> %hum
+wol_44113 1 locuteur_2 890.563 892.534 <o,f0,male> dama bëggoon nit ñi xam aussi :fra suñu mbokku baykat yi
+wol_44113 1 locuteur_1 892.534 892.799 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 892.799 894.268 <o,f0,male> xëy na demuñu école :fra
+wol_44113 1 locuteur_1 894.268 894.565 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 894.565 895.878 <o,f0,male> mais :fra dañu intelligents :fra
+wol_44113 1 locuteur_1 895.878 896.128 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 896.128 896.960 <o,f0,male> dañu muus
+wol_44113 1 locuteur_1 896.960 897.231 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 897.231 898.028 <o,f0,male> te dañu mun capté :fra
+wol_44113 1 locuteur_1 898.028 898.487 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 898.487 900.253 <o,f0,male> xam nga yu si gën a bëri ku munul bind
+wol_44113 1 locuteur_1 900.253 900.659 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 900.659 901.337 <o,f0,male> day gaaw a capté :fra
+wol_44113 1 locuteur_1 901.337 901.706 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 901.706 902.875 <o,f0,male> moo tax ñun ANCAR
+wol_44113 1 locuteur_1 902.875 903.236 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 903.236 905.136 <o,f0,male> dañuy faral termes :fra yu bees yi
+wol_44113 1 locuteur_1 905.136 905.480 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 905.480 907.271 <o,f0,male> dañu koy répété :fra répété :fra waat de :fra sorte :fra que :fra ñu capté :fra ko
+wol_44113 1 locuteur_1 907.271 907.566 <o,f0,male> %hum %hum
+wol_44113 1 locuteur_2 907.566 909.841 <o,f0,male> bu ñu ubbiwaatee rajo dégg nit wax changement :fra climatique :fra
+wol_44113 1 locuteur_1 909.841 910.022 <o,f0,male> %hum
+wol_44113 1 locuteur_2 910.022 911.053 <o,f0,male> ñu xam ne lii nangam

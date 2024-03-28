@@ -1,0 +1,45 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:51 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 5 of 231225
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_41720 1 Locsuteur1 0.000 17.232 <o,f1,male> Projet :fra 4R no programme :fra alimentaire :fra mondiale :fra to koy aussi :fra we mbinase'una a ref Fonf Vert Climat fo no soutient :fra technique :fra Jokalante fo radio :fra Ndefleng no ke andoona yee ten yetna o nan ole .No partie :fra ɗikandeer le koy question :fra refkaa rek.
+srr_41720 1 Locsuteur1 17.232 33.868 <o,f1,male> Andaam ee kaam cooxkaa parole :fra fe sax o koores yaam ga'anum koy ta xooya relais :fra ke ta jeg a kayit aka nu jalaa koy ndaa koy o kiin waagee damandooraa a caaƭ tadak de aa qoye aa me soit :fra ko refka no emision :fra fe mba o ret maana .
+srr_41720 1 Locsuteur1 33.868 49.287 <o,f1,male> Si :fra non :fra um fadanga Ndefleng moom kaam layka den ee o qoya ka coox'el o micro:fra la koy au :fra lieu :fra ta jal, ta refma a fi'a kene a i d':fra accord :fra raye nuun relais :fra ke moofyo maana ga'aam ee na xaye gan ndeta ngara kene kan mbar'uno njalooyo yaaga um retanga xam laya den ee relais :fra ka Mbellacadiao:fra.
+srr_41720 1 Locsuteur1 49.287 60.240 <o,f1,male> Axa kayit aka rapport :fra ka den ka tarde'u da cung bo emission :fra na Ndefleng da soog o ngara njom'anda kene ke, nu andaxam re anda yee monsieur :fra le :fra maire :fra saɗaam o lay kaaga Ndefleng a woorang re [rire_en_fond] mi moom andaxamo mat ii.
+srr_41720 1 excluded_region 60.240 70.611 <o,,unknown> ignore_time_segment_in_scoring
+srr_41720 1 Locsuteur1 70.611 86.986 <o,f1,male> Kon o sep o ɗikandeero le rek i mbaag o lamit koy te ref lamit ke andna yee koy, ka i lamitkan ta ref yit no ke goor ɗik weeke a layna neeke ndiiki oxu waagna lay no olof waagano lay no olof ta moƴo ñof nu anda yee koyit koy kaam jeg o maag oxa na layaa yee roog fe mosee nangea layel de.
+srr_41720 1 Locsuteur1 86.986 102.147 <o,f1,male> II yaam anda seereer ka lay ee roog fe mosee manaam ba ƴufaagna rek a gurgurna te hay roog fe mosee ndaa ten o layanga te hey roog mat saɗ naa ta retu maaka ba gat koy o layanga te saɗim kay ret maaka gat lay ee roog fe mosee i kon koy i mba ande roog fe a mosa mosel ola andna yee daal ee.
+srr_41720 1 Locsuteur1 102.147 112.655 <o,f1,male> Fat i ande koy a no ñofu ñofu i mbara mbaag o ku kiin a bugna laamit o laamtin ta refna seereer mba no olof kon njokonjal [b] .
+srr_41720 1 Locuteur2 112.655 127.176 <o,f1,male> [b] A jooko njal i ɓaat o simna nuun rek aprés :fra ke jeg question :fra ka in mat i laamta nuun kene ke ten refu yee comme :fra
+srr_41720 1 Locuteur2 127.176 144.293 <o,f1,male> [b] in mban i mba kum information :fra kum i mbaru njeg bo mbaag o commencé :fra rekoltu ke na layel a saxad ta ref 1er question :fra ne [b] oxu andoona yee jega teen kene ka fi'na rek o gar répondre :fra [b] ?
+srr_41720 1 Locuteur2 144.293 159.729 <o,f1,male> Question :fra naaga ref eetaan ne information :fra num i mbaru njeg bo commence :fra commencer :fra a saxad ale neen a ut neen nena saxad fo lakas fo lakas information :fra ne i laamta ?
+srr_41720 1 Locsuteur1 159.729 190.318 <o,f1,male> [b] Fat o leŋ a gar, jegee tew fo o koor oxu refna rek fat a gar i lamta i %e fat a gar no question :fra ne i laamtan [conv] information :fra num i mbaru njeg bo commencer :fra a saxad ale [conv] .
+srr_41720 1 Locsuteur1 190.318 202.635 <o,f1,male> [conv] Pa Djibi Diouf Pa Djibi Faye DJijak ten naa repondre :fra tra question :fra neene [conv] .
+srr_41720 1 Locuteur3 202.635 215.512 <o,f1,male> %e Maxey simna fop waasnuwaa fop xaq waasana fop xaq %e garid contribution :fra yit laya o raɓ yiifes refee yee keem layka ten refu mais :fra o raɓ yiifes rek ten um laya ten refu yit tes refu sens :fra réunion :fra.
+srr_41720 1 Locuteur3 215.512 228.580 <o,f1,male> %e Information :fra fe yakarma yee ten i mbaagu njeg bo commencer :fra soit :fra a saxad mba a ut ten refu yee ya andoona yee wa météo :fra a layaayo in ee a teƥ ale xan a wañoox.
+srr_41720 1 Locuteur3 228.580 247.297 <o,f1,male> Mba i layel au :fra moins :fra boog i njega écart :fra fa andoona yee oxu utna ten mba o saxad teen xan o waag o jeg o daaw ola geektanoona bo a deɓatanga yit o waagin o protéger :fra foogaam ee :fra information :fra faaga i mbar mbagu njeg pour :fra o commencer :fra a ut mba a saxad nu mbasanaam xaq [applaude] .
+srr_41720 1 excluded_region 247.297 288.652 <o,,unknown> ignore_time_segment_in_scoring
+srr_41720 1 excluded_region 288.652 310.666 <o,,unknown> ignore_time_segment_in_scoring
+srr_41720 1 Locsuteur1 310.666 326.500 <o,f1,male> Kon o lakas o lakas [conv] o lakas bala o xene tontooxa o lakas fat a gar [conv] ka laamta nuun ne oxu refna information :fra num waag o jeg bo waag o saxad wala o waag o ut [applaude] .
+srr_41720 1 Locuteur5 326.500 339.553 <o,f1,male> [applaude] O fog ole nu mbaasana in xaq in woy mbaasnuwa nuun xaq yaasam roog a fokat a waasana in ee na ɗelem leene um dakuka rek mi' de mboom fi'aa dara da nqooyaam .
+srr_41720 1 Locuteur5 339.553 355.767 <o,f1,male> Parce :fra que :fra fagun faak kaam leer kaafes ba ta pare eer fene tem ta xooyam a layaam ee xan a deɓ o feet kiran naaga fi'um xumin a sareet ale waaɗik baas murin roog a feed roog fe deɓ boom fi'aa dara da layaam ke da laykaxam mi' nu mbasanaam xaq.
+srr_41720 1 Locsuteur1 355.767 356.688 <o,f1,male> Njooko njal.
+srr_41720 1 excluded_region 356.688 396.848 <o,,unknown> ignore_time_segment_in_scoring
+srr_41720 1 Locuteur6 396.848 415.183 <o,f1,male> %e Nuun o mbolo nqe in mboy mbaasnuwa nuun xaq to mbaasana nuun yaasam roog a fokat a waasan fop %e no fa lay Malick rek geenoorum mene parce :fra que :fra Malick ke ta jegna fagun faak fop ten a mbugu njeg météo :fra ka i mbug ba informer :fra atna a Malick :fra a informer :fra fop.
+srr_41720 1 Locuteur6 415.183 429.161 <o,f1,male> [b] Ndax Malick soom a infomer :fra angee a geek kaufum so we yoqna kaaf den a yaqu [b] kene yo refee ƭat [applaude] parce :fra que :fra fat da laya nu mbodran nangyo mbodranda nu mbuganga i yoon nangyo mbodranda nu mbaasanaam xaq kene soom jeg'um ka layma teen [applaude] .
+srr_41720 1 Locuteur5 429.161 444.212 <o,f1,male> [applaude] [b] Kaam ɓaata teen rek kaaga yitam saate in a koom alu météo :fra xoyitna layaam a dene a layaam a dene ale xan a deɓiid o feet u moytu ɗud ke fo nqeñ ne yeem jika baas ne fagun faak.

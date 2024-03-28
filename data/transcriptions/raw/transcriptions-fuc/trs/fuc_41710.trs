@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="JOKALANTE" audio_filename="fuc_41710" version="2" version_date="230403">
+<Speakers>
+<Speaker id="spk1" name="locuteur1" check="no" type="male" dialect="native" accent="pulaar" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="117.812">
+<Turn startTime="0" endTime="117.812" speaker="spk1" mode="spontaneous" channel="studio">
+<Sync time="0"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+<Sync time="19.555"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+ 
+<Event desc="fr" type="language" extent="instantaneous"/>
+ 92 POINT 2 FM
+<Sync time="59.888"/>
+musdu fuuladu hono RTS radio :fra kolda e projet :fra mabɓe biteɗo 4 aires :fra e nder région :fra ji Tamba Kaolack Kolda Kafrine et :fra Fatick minin mbaɗa emission :fra ji ɗo ɗo RTS mo Kolda oɗo talata noon capantati novembre :fra 2021 emission :fra warido o watten ni 20 heures :fra ha 21 heurs :fra ɗo 92 POINT 2 FM ?um noon ko programme :fra alimentaire :fra mondial :fra PAM e projet :fra 4 aires :fra mo ganduɗa hoorema ko bilan :fra mabɓe ?e haltani fi e oɗo emission :fra marigga o so tawi 20 heures :fra joni jamma ha 21 heures :fra ɗo ɗo 92 POINT 2 FM 
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+<Sync time="100.199"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

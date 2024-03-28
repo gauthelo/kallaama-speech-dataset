@@ -1,0 +1,383 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:35 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 6 of 230922
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_4822 1 locuteur1 0.000 4.173 <o,f1,male> heen tan mbo wi hikka dal ndiyam ?am alhamdoulil lahi ?am arat normal
+fuc_4822 1 locuteur2 4.173 4.532 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur1 4.532 11.912 <o,f1,male> jooni noon e ba?ngal aawanteeri ndii ko awetee ko ne??o kala ko yi?i no waawi aawde tan pasque %e ndiyam ?am hikka arii no ara de
+fuc_4822 1 locuteur2 11.912 12.575 <o,f1,male> alaa de
+fuc_4822 1 locuteur1 12.575 13.474 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 13.474 16.524 <o,f1,male> wonaa ko ko mbele?aa fof ngaawaa
+fuc_4822 1 locuteur2 16.524 24.197 <o,f1,male> c' :fra est :fra à :fra dire :fra %e no o wiyiri nii henna yim?e ?e ko ?on poti he?aade déjà :fra météo :fra ko haalata koo
+fuc_4822 1 locuteur1 24.197 25.451 <o,f1,male> ok :fra
+fuc_4822 1 locuteur2 25.451 34.809 <o,f1,male> ko météo :fra jannginta yim?e ?ee koo wiyat en ndunngu maa ngu heew ndiyam maa ngu juut ?oon ndemoowo o foti ?ettude décision :fra mu?um
+fuc_4822 1 excluded_region 34.809 42.903 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur1 42.903 43.270 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 43.270 48.836 <o,f1,male> so wontii kanko nganndu?aa hoore maa?a hikka kam?e wittoo?e ?ee to senngo ma??e to henna
+fuc_4822 1 locuteur2 48.836 54.826 <o,f1,male> ?e mbiyii ndunngu nguu maa ngu won normal :fra holko woni normal :fra no wirini henna normal :fra woni heewata ?akke
+fuc_4822 1 excluded_region 54.826 55.682 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur2 55.682 61.441 <o,f1,male> en :fra même :fra temps :fra aussi :fra maa heew ndiyam e te kadi maa yah haa peut :fra être :fra mois :fra de :fra octobre :fra ena to?a
+fuc_4822 1 locuteur1 61.441 61.921 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 61.921 67.138 <o,f1,male> a?a anndi jooni ?akke ?ee holko firti rawani en ke?ii ?akke ?i?i jakkooje ndunngu mee?en
+fuc_4822 1 locuteur1 67.138 67.442 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 67.442 74.304 <o,f1,male> mois :fra de :fra octobre :fra premier ocotbre :fra ha 11 octobre to?aani donc :fra kala ko sakkitinoo aaweede ko heen yakkii
+fuc_4822 1 locuteur1 74.304 75.126 <o,f1,male> ko heen yakkii
+fuc_4822 1 locuteur2 75.126 81.271 <o,f1,male> e ndeer mois :fra de :fra juillet :fra ?o yim?e ?ee potnoo aawde ?oo henne wa?i kadi ?akke ndiyam yim?e ?ee tardini kadi ngaawanteeri ndi henne
+fuc_4822 1 locuteur1 81.271 81.995 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 81.995 83.951 <o,f1,male> e te pourtant :fra ANACIM haaliino ?um
+fuc_4822 1 locuteur1 83.951 84.542 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 84.542 85.815 <o,f1,male> ?um tagi ndunngu nguu yaari senngo
+fuc_4822 1 locuteur1 85.815 86.303 <o,f1,male> ok
+fuc_4822 1 locuteur2 86.303 95.025 <o,f1,male> donc :fra ?o jooni %e wonaa ko welmaa fof ngaawaa donc :fra les :fra prévision :fra là :fra maa tak %e e??ooje ?ee ma tak aan ndemoowo oo
+fuc_4822 1 locuteur1 95.025 95.450 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 95.450 100.295 <o,f1,male> mbaawaa anndude est :fra ce :fra que :fra ndematmi ko ndemanteeri juutndi
+fuc_4822 1 locuteur1 100.295 100.724 <o,f1,male> %hm %hum
+fuc_4822 1 locuteur2 100.724 107.788 <o,f1,male> c' :fra est :fra à :fra dire :fra tawa ko so mi ?ettii jooni gerte anndi gerte mee?en ?o henna pu??i ?en remde ko gerte
+fuc_4822 1 locuteur1 107.788 108.260 <o,f1,male> %hum %hum mba?ooje lebbi nayi
+fuc_4822 1 locuteur2 108.260 109.262 <o,f1,male> woni 120 jours
+fuc_4822 1 locuteur1 109.262 110.178 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 110.178 113.418 <o,f1,male> donc :fra ?um ?on noon ne wa?i holde fotaa fu??eede
+fuc_4822 1 locuteur2 113.418 121.643 <o,f1,male> a waawaa wiide o ?umajum ?um ?o henna 120 jours :fra lebbi nayi ngoppaa ha fin :fra juillet :fra walla haa ndeer hakkunde juillet :fra njahaa ngaawoyaa
+fuc_4822 1 locuteur2 121.643 123.652 <o,f1,male> firti so a aawoyii ndeen so a reenaaki gerte
+fuc_4822 1 excluded_region 123.652 124.682 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 excluded_region 124.682 126.332 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur1 126.332 126.850 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 126.850 131.890 <o,f1,male> donc :fra maaje aussi :fra ko lebbi nayi fotaa aaweede ko law
+fuc_4822 1 locuteur2 131.890 139.528 <o,f1,male> mois :fra de :fra juin :fra aw comme :fra ça :fra %e hedde mois :fra de :fra octobre :fra novembre :fra en tawa ?um ?enndii
+fuc_4822 1 locuteur2 139.528 144.991 <o,f1,male> donc :fra ?um ?on kam ko non :fra so wontii maintenant :fra hoore maa no wa?i ndemanteeri tawa no juuti
+fuc_4822 1 locuteur2 144.991 148.904 <o,f1,male> so mi ?ettii gerte ?e mbiimi ?ee mais :fra ne wa?i gerte tawa ?een ?oon ko lebbi tati tan
+fuc_4822 1 locuteur1 148.904 149.321 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 149.321 150.335 <o,f1,male> woni ko wiyetee burkus koo
+fuc_4822 1 locuteur1 150.335 150.772 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 150.772 157.645 <o,f1,male> ?um so a faalaama e ndeer mois :fra de :fra juillet :fra ngaawaa ?um mais kam gerte kam ko wiyetee gerte arachide :fra huilerie :fra ko jeeyetee ?e SONACOS ?ee
+fuc_4822 1 locuteur1 157.645 157.954 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 157.954 161.445 <o,f1,male> ?een kam ko mois :fra de :fra juin :fra ?oon po??aa aawde ?e
+fuc_4822 1 locuteur2 161.445 169.507 <o,f1,male> haa fin :fra juin :fra so heewii heewii ko premier :fra décade :fra bal?e sappo gadane mois :fra de :fra juillet yataw a wa?i ?um arreté :fra aawde ?een ?oon gerte
+fuc_4822 1 locuteur1 169.507 169.960 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 169.960 172.602 <o,f1,male> mais :fra ngoppaa haa 15 Août :fra en a?a aawa gerte
+fuc_4822 1 locuteur1 172.602 173.331 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 173.331 177.294 <o,f1,male> ?um kam so octobre :fra to?oyaani rek :wolof gerte maa ?ee ko njakkotoo
+fuc_4822 1 locuteur2 177.294 185.308 <o,f1,male> so a ?ettii kadi to maaro ?ayde han%e o hikka wiyii en ko normal :fra donc :fra no wa?i kadi maarooji ?i lebbi nayi
+fuc_4822 1 locuteur1 185.308 185.974 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 185.974 195.939 <o,f1,male> ?um aussi :fra ma waaw yaadude e prévision :fra ?aji ?i ANACIM wiyi ?e henna ?en lebbi ?i ?oon koon ?oon maaro ene waawi so mi sifiima heen ba?enteeji wiyetee ko be BG90 2
+fuc_4822 1 locuteur2 195.939 200.919 <o,f1,male> walla UR 15 29 mais :fra ?um ?oon ?ii ?oon mba?antee ko pépiniére :fra
+fuc_4822 1 locuteur2 200.919 209.423 <o,f1,male> te pépiniére :fra oo fotaa aaweede ko ndeer mois :fra de :fra juillet :fra donc :fra à :fra partir :fra de :fra 20 juillet :fra pépiniére :fra o foti wadde tan ko 15 à :fra 21 jours :fra
+fuc_4822 1 locuteur2 209.423 215.654 <o,f1,male> so diwii ?oon rek :wolof o naywii rek :wolof kala ko ke?al maa ko ustoto
+fuc_4822 1 locuteur1 215.654 216.173 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 216.173 223.903 <o,f1,male> donc :fra pépiniére :fra fotaani wa?de ko ?uri 21 jours :fra donc :fra ?um ?oon après :fra o wa?ee repliqué so a yiyii noon no wa?ee repliqué :fra woni mo turee
+fuc_4822 1 locuteur2 223.903 231.084 <o,f1,male> foti tureede aussi :fra koye ndeer loope koye ndeer ndiyam on saaru ?am ?oon ndiyam so wontii to?oyaani ina waawi jogaade koon ?oon maaro
+fuc_4822 1 locuteur1 231.084 231.444 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 231.444 250.288 <o,f1,male> maintenant :fra no wa?i kadi le??i go??i ?i maaro tawa ko lebbi tati so heewi lebbi ?i?i e bal?e ?um so heewi ?um ?oon ko heewi aaweede ko sur :fra le :fra plateau :fra woni ?o maaro woni ?o tubaañoo o %e suuna o maaje o ?o aawetee ?oo
+fuc_4822 1 locuteur1 250.288 250.599 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 250.599 252.291 <o,f1,male> ko ?oon heewi aaweede
+fuc_4822 1 locuteur1 252.291 252.760 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 252.760 256.612 <o,f1,male> ok :fra ?um ?on [bb] woni nganndu?aa hoore ma maaro dowri koo
+fuc_4822 1 locuteur1 256.612 257.032 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 257.032 265.387 <o,f1,male> maintenant :fra no wa?i maaro hakkunde koo woni maaro riz :fra de :fra nappe :fra ?um aussi :fra koo ?oon foti ko hawo wonaa dow aawetee wona fulu? aawetee [bb] * foti leriinde ?oo
+fuc_4822 1 locuteur2 265.387 273.797 <o,f1,male> mais :fra o?on heewaani ko nganndu?aa hoore maa?a %e ba??o mbo ?um ko heewii heewii ko bal?e teemedere woni lebbi tati e bal?e sappo
+fuc_4822 1 locuteur2 273.797 285.687 <o,f1,male> %e so ?um ?on yawtii %e ne wa?i aussi :fra nganndu?aa hoore maa?a %e ndemanteeri ngonndi tawa aussi :fra ko heewaani bal?e lebbi tati ?um ko tubaañoo
+fuc_4822 1 locuteur2 285.687 295.594 <o,f1,male> tubaañoo so a ?ettii jooni tubaañoo ?um nganndu?aa hoore maa?a ko lebbi tati so heewii ?um ?um taki tubaañoo aussi :fra aawre muu?um foti daraade ko 31 juillet :fra
+fuc_4822 1 locuteur1 295.594 296.095 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 296.095 301.346 <o,f1,male> capan tati lewru maydu capan tati lewru mayodu ndu tubaañoo ?oon foti darneede
+fuc_4822 1 locuteur2 301.346 304.289 <o,f1,male> mais kala aawoo?e Août :fra
+fuc_4822 1 locuteur1 304.289 304.648 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 304.648 305.612 <o,f1,male> tubaañoo mumen
+fuc_4822 1 locuteur1 305.612 305.946 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 305.946 310.038 <o,f1,male> mi wiyataa ke?ataa de mais :fra ke?oytaa ko potnoo he?de koo
+fuc_4822 1 locuteur1 310.038 310.630 <o,f1,male> ok :fra
+fuc_4822 1 locuteur2 310.630 317.342 <o,f1,male> donc :fra %e so wonaa kay octobre o to?aya haa heewa ndeen waawi wonde nganndu?aa hoore maa?a tubaañoo o mo??oya
+fuc_4822 1 locuteur1 317.342 317.747 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 317.747 318.814 <o,f1,male> mais :fra so a ?e?tii rawani
+fuc_4822 1 locuteur1 318.814 319.176 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 319.176 320.255 <o,f1,male> octobre :fra o to?oyaani
+fuc_4822 1 locuteur1 320.255 320.636 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 320.636 321.768 <o,f1,male> tawi tubaañooji keew?i
+fuc_4822 1 locuteur1 321.768 322.329 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 322.329 331.127 <o,f1,male> mo??oyaani donc :fra ?um ?oon vraiment :fra ?um kam ?e ?e ngannda ?um ?oon maintenant :fra %e gawri suuna ?um aussi aawetee ko law
+fuc_4822 1 locuteur2 331.127 334.679 <o,f1,male> mois :fra de juin :fra yataw awama octobre :fra tawa ndi helaama
+fuc_4822 1 locuteur1 334.679 335.098 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 335.098 341.026 <o,f1,male> %e maaja siko law aawetee ?um aussi :fra ko law mois :fra de :fra juin :fra aawetee
+fuc_4822 1 locuteur1 341.026 341.460 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 341.460 347.242 <o,f1,male> ko faati maintenant :fra %e mbayeeri en ?um ?o fof koye ndeer mois :fra koye nder mois :fra de :fra juin :fra aawetee
+fuc_4822 1 locuteur2 347.242 361.162 <o,f1,male> donc :fra no wa?i sakh :wolof so a ?ettii hedde Médina Yero Fula ne wa?i aawoo?e sakh :wolof suuna tawa ko koye njoorndi ngaawa tawa suuwa taw ndunngu faandiima ?e ngaawa e njoorndi moni semi :fra à :fra sec :fra on tuman so to?o ngoo so arii taw ummoto tan yaha
+fuc_4822 1 locuteur2 361.162 371.782 <o,f1,male> ?um ?o fof ina woodi vraiment :fra [bb] donc yim?e ?e nganndira ngannda vraiment :fra %e wonaa tan a a aawii tan to?a tan ngaawaa * %hum %hum
+fuc_4822 1 locuteur1 371.782 372.143 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 372.143 379.035 <o,f1,male> ?um fof ko si yawtii il :fra faut :fra ko nganndu?aa hoore ma joomum waawa lamndaade agriculture :fra ko wiyetee les :fra bonnes :fra pratiques :fra agricoles :fra
+fuc_4822 1 locuteur1 379.035 379.636 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 379.636 383.569 <o,f0,male> peeje e %e e tecnique :fra e karallaagal
+fuc_4822 1 locuteur1 383.569 383.961 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 383.961 388.037 <o,f0,male> yim?e ?ee mbaawata wa?de haa ke?al maa ngal ustoo ?eydoo
+fuc_4822 1 locuteur1 388.037 388.369 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 388.369 395.480 <o,f0,male> tawa ngal ustaaki oon saaru mbaawaa yaadude e %e e ndunngu ngu mbaawaa yaadude e ndiyam ?am
+fuc_4822 1 locuteur2 395.480 397.635 <o,f0,male> donc so mi to?ngii e [bb] ko naamndal maa ngal
+fuc_4822 1 locuteur1 397.635 398.156 <o,f0,male> eeyi
+fuc_4822 1 locuteur2 398.156 399.609 <o,f0,male> wola koni affaire :fra nde sifori
+fuc_4822 1 locuteur1 399.609 401.348 <o,f0,male> %hum %hum ok :fra
+fuc_4822 1 locuteur2 401.348 402.068 <o,f0,male> ok :fra
+fuc_4822 1 locuteur1 402.068 403.149 <o,f0,male> ?o de mbi?a anndi laa?i
+fuc_4822 1 locuteur2 403.149 403.929 <o,f0,male> wola
+fuc_4822 1 locuteur1 403.929 410.367 <o,f0,male> 33 996 19 19 ?o noon ?o ndunngu ngu tolnii ?oo nii %e Yaya Dieng
+fuc_4822 1 locuteur2 410.367 410.677 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur1 410.677 411.345 <o,f0,male> SDDR
+fuc_4822 1 locuteur2 411.345 411.814 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur1 411.814 413.554 <o,f0,male> ko ho?um mbaajoto?aa remoo?e ?ee
+fuc_4822 1 locuteur2 413.554 415.924 <o,f0,male> bon :fra mbaajotoomi remoo?e ?ee d' :fra abord :fra
+fuc_4822 1 locuteur1 415.924 416.377 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 416.377 421.223 <o,f0,male> ko gese ma??e ?ee ko yo?e lawnu ?o gon tolnii ?oo [bb] il :fra faut :fra gese ?ee ndemee haa ?e laa?a
+fuc_4822 1 locuteur1 421.223 421.771 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 421.771 423.035 <o,f0,male> c' :fra est :fra à :fra dire :fra ngesa
+fuc_4822 1 locuteur1 423.035 423.603 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 423.603 424.491 <o,f0,male> so heewi hu?o rek :wolof
+fuc_4822 1 locuteur1 424.491 425.033 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 425.033 426.647 <o,f0,male> ngesa so heewi hu?o rek :wolof
+fuc_4822 1 locuteur1 426.647 427.083 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 427.083 429.303 <o,f0,male> ?um ustata ko ke?al maa
+fuc_4822 1 locuteur1 429.303 429.603 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 429.603 433.868 <o,f0,male> pasque hu?o e ndeer kilooji teemedere fof
+fuc_4822 1 locuteur1 433.868 434.340 <o,f0,male> %hum %hum
+fuc_4822 1 locuteur2 434.340 437.168 <o,f0,male> ne ustanmaa ko fam?i fam?i fof kilooji noogaas
+fuc_4822 1 locuteur1 437.168 438.022 <o,f0,male> %hum %hum
+fuc_4822 1 excluded_region 438.022 439.453 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 excluded_region 439.453 441.274 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur1 441.274 443.549 <o,f0,male> ye ?etten taw oo ?oo auditeur :fra allo allo
+fuc_4822 1 locuteur3 443.549 445.114 <o,f1,male> allo Aliou hono
+fuc_4822 1 locuteur1 445.114 445.884 <o,f1,male> alaa noon
+fuc_4822 1 locuteur3 445.884 446.894 <o,f1,male> tana alaa alaa
+fuc_4822 1 locuteur1 446.894 448.133 <o,f1,male> jam tan de
+fuc_4822 1 locuteur3 448.133 448.934 <o,f1,male> jam tan won?aa
+fuc_4822 1 locuteur1 448.934 450.183 <o,f1,male> %e aan hombo
+fuc_4822 1 locuteur3 450.183 452.956 <o,f1,male> e ray ko paalaa?o on ?oo nannde nani on ?oo hannde
+fuc_4822 1 locuteur1 452.956 454.526 <o,f1,male> e awa %e gasii
+fuc_4822 1 locuteur3 454.526 455.788 <o,f1,male> Yaya hono
+fuc_4822 1 locuteur2 455.788 456.718 <o,f1,male> jam tan no wayi [bb]
+fuc_4822 1 locuteur1 456.718 458.101 <o,f1,male> ?um dee immini emission :fra oo
+fuc_4822 1 locuteur2 458.101 458.674 <o,f1,male> tana alaa
+fuc_4822 1 locuteur1 458.674 459.771 <o,f1,male> Jakalante
+fuc_4822 1 locuteur3 459.771 461.108 <o,f1,male> Hammadi MBaalo e salmina maa
+fuc_4822 1 locuteur2 461.108 462.342 <o,f1,male> no o wa?i
+fuc_4822 1 locuteur3 462.342 463.157 <o,f1,male> jaam tan ngon?a
+fuc_4822 1 locuteur2 463.157 463.959 <o,f1,male> omo selli
+fuc_4822 1 locuteur3 463.959 466.299 <o,f1,male> ko ?i??o makko Fode MBaalo Saare Simaali
+fuc_4822 1 locuteur2 466.299 467.000 <o,f1,male> ah ok :fra
+fuc_4822 1 excluded_region 467.000 468.054 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur3 468.054 469.051 <o,f1,male> alaa noon alaa noon
+fuc_4822 1 locuteur2 469.051 469.525 <o,f1,male> jam tan
+fuc_4822 1 locuteur3 469.525 474.865 <o,f1,male> eeyi mbi?a he?ii on ?oo ray mbi?o wiya mbi?o sohli on ?oo ko mi udit radio :fra ran kawrumi e moo?on
+fuc_4822 1 locuteur2 474.865 476.185 <o,f1,male> tigi tigi tigi tigi
+fuc_4822 1 locuteur3 476.185 483.146 <o,f1,male> eeyi mbi?o faalaa humpitaade affaire :fra ndema kaa ?ay mi?a anndi ?i jeyaa ?i woowaa ?oo adde o heure :fra yoo
+fuc_4822 1 locuteur2 483.146 483.666 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur3 483.666 488.425 <o,f1,male> ndunngu ngu arii haa ?o oo heure :fra tolnii ?o tan mbo woowi ?on arde sifanoo yim?e ?ee [bb] *
+fuc_4822 1 locuteur2 488.425 489.641 <o,f1,male> noon tigi noon tigi
+fuc_4822 1 locuteur3 489.641 496.831 <o,f1,male> eyoo mino [b] acirii noon hakkille e ko mbo haalanta nin yim?e ?ee koo piiw ko jannde tiri? ko ko no haaliraa nii ko noon yaaroyra
+fuc_4822 1 locuteur2 496.831 498.011 <o,f1,male> noon tigi noon tigi
+fuc_4822 1 locuteur3 498.011 503.071 <o,f1,male> eeyi affiare :fra tubaañoo o no mbo wiyiri nii miin rawani koye 31 juillet :fra ngaawmi
+fuc_4822 1 locuteur2 503.071 503.683 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur3 503.683 506.021 <o,f1,male> %e ko Allah ko mo??i hee?oyino de
+fuc_4822 1 locuteur2 506.021 511.469 <o,f1,male> %e han ?on woni ?on woni ñalaade fotde areteede [bb] e ndeer ?umana jum
+fuc_4822 1 locuteur2 511.469 514.589 <o,f1,male> firtaani noon firtaani noon so a awii Août a he?ataa
+fuc_4822 1 locuteur3 514.589 515.309 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 515.309 517.769 <o,f1,male> mais :fra kam ko ?uri mo??u wa?i ko mo??i e ko ?uri mo??ude
+fuc_4822 1 locuteur3 517.769 523.409 <o,f1,male> eeyi ko noon tigi mino tardi noon hikka mino tardi a yiyi marofen am oo sellaani ?oni ko janngo paalaami remde
+fuc_4822 1 locuteur2 523.409 523.894 <o,f1,male> tubaañoo
+fuc_4822 1 locuteur3 523.894 524.659 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 524.659 526.840 <o,f1,male> han reeno de a wo??oyii de
+fuc_4822 1 locuteur3 526.840 529.650 <o,f1,male> [rire] hikka nde kam hikka mi tardi ngal Allah
+fuc_4822 1 locuteur2 529.650 534.272 <o,f1,male> a tardii de Allah no waawi octobre :fra to?a so octobre :fra to?ii tan no waawi nganndu?aa hoore ma tubaañoo mo??oya
+fuc_4822 1 locuteur3 534.272 535.269 <o,f1,male> haa eeyi de
+fuc_4822 1 locuteur2 535.269 536.389 <o,f1,male> yo Allah wallu en
+fuc_4822 1 locuteur3 536.389 538.154 <o,f1,male> haa eeyi mi salminamaa tigi tigi
+fuc_4822 1 locuteur2 538.154 539.566 <o,f1,male> ok MBaalo banna
+fuc_4822 1 locuteur3 539.566 540.877 <o,f1,male> Saare simaali fof no salimina maa
+fuc_4822 1 locuteur2 540.877 545.161 <o,f1,male> mi sal() kam?e fof mi salminii?e musi??e am tan ngoni toon Hammadou MBaalo en Mawnde en kam?e fof mi salminii ?e
+fuc_4822 1 locuteur3 545.161 546.167 <o,f1,male> Mawnde e salminamaa
+fuc_4822 1 locuteur2 546.167 547.165 <o,f1,male> mi salminii ?e no feewi
+fuc_4822 1 locuteur3 547.165 548.461 <o,f1,male> wonaa ko jam tan ngon?on
+fuc_4822 1 locuteur2 548.461 549.997 <o,f1,male> ko jam tan maw?um Alahamdulillah
+fuc_4822 1 locuteur3 549.997 552.157 <o,f1,male> ?e ?e mbiyoo ngaraa ndemen maaro ko de
+fuc_4822 1 locuteur2 552.157 553.418 <o,f1,male> haa maa mi ar'
+fuc_4822 1 excluded_region 553.418 557.073 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur2 557.073 557.672 <o,f1,male> maa mi taw on toon
+fuc_4822 1 locuteur3 557.672 558.573 <o,f1,male> si Allah ja?ii
+fuc_4822 1 excluded_region 558.573 561.213 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur1 561.213 562.488 <o,f1,male> allo
+fuc_4822 1 locuteur3 562.488 562.907 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur1 562.907 563.819 <o,f1,male> mbi?aa
+fuc_4822 1 locuteur4 563.819 566.018 <o,f1,male> mbimi kala ko golloo e radio :fra fof mbi?a on salmina
+fuc_4822 1 excluded_region 566.018 567.351 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur1 567.351 568.697 <o,f1,male> merci :fra merci :fra merci :fra merci :fra
+fuc_4822 1 locuteur2 568.697 572.470 <o,f1,male> merci :fra beaucoup :fra jaaraama aham %e Dieng
+fuc_4822 1 locuteur2 572.470 572.726 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur1 572.726 575.282 <o,f1,male> mbiyatno ?aa mbimaami ho?um mbajoro?aa remoo?e ?ee
+fuc_4822 1 locuteur2 575.282 577.288 <o,f1,male> eeyo mbimi d' :fra abord :fra ngese ?ee ko yo ?e laa?
+fuc_4822 1 locuteur1 577.288 577.888 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 577.888 578.911 <o,f1,male> yo ?e duule carrément :fra
+fuc_4822 1 locuteur1 578.911 579.332 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 579.332 580.231 <o,f1,male> so duulaama
+fuc_4822 1 locuteur1 580.231 580.657 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 580.657 583.694 <o,f1,male> on saaru ?um ?oon kam ma waaw ustude ko heewi
+fuc_4822 1 locuteur1 583.694 584.174 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 584.174 587.279 <o,f1,male> kullon kon e ke?al ngal waawa ?eydaade
+fuc_4822 1 locuteur1 587.279 587.770 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 587.770 589.032 <o,f1,male> ?um noon ko ko foti
+fuc_4822 1 excluded_region 589.032 589.452 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur2 589.452 590.126 <o,f1,male> en:fra meme: fra temps: fra aussi :fra [shh]
+fuc_4822 1 locuteur1 590.126 590.666 <o,f1,male> [shh] %hum %hum
+fuc_4822 1 locuteur2 590.666 592.402 <o,f1,male> ?e ke?oo météo :fra
+fuc_4822 1 locuteur1 592.402 592.880 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 592.880 594.578 <o,f1,male> pasque météo :fra bal?e sappo fof
+fuc_4822 1 locuteur1 594.578 595.000 <o,f1,male> eyyi
+fuc_4822 1 locuteur2 595.000 598.540 <o,f1,male> ene wiya ko nganndu?aa hoore ma?a koni to?irta walla koni wayirta
+fuc_4822 1 locuteur1 598.540 598.840 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 598.840 599.942 <o,f1,male> ?um ?o maa ?e mbaaw
+fuc_4822 1 locuteur1 599.942 605.231 <o,f1,male> Jokalante mi walluma see?a Jokalante ma??e e ANACIM ?e no nannggonndiri e ndeer oo ?oo projet :fra 4R
+fuc_4822 1 locuteur2 605.231 605.637 <o,f1,male> voila : fra
+fuc_4822 1 excluded_region 605.637 613.376 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur1 613.376 615.069 <o,f1,male> ?iin misaaji o heee ndokka ?um
+fuc_4822 1 locuteur2 615.069 616.927 <o,f1,male> bon :fra ?etten o Ya Yaya accu hakke
+fuc_4822 1 excluded_region 616.927 617.816 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur4 617.816 618.390 <o,f1,male> allo
+fuc_4822 1 locuteur1 618.390 623.528 <o,f1,male> allo ouais :fra [shh] allo allo
+fuc_4822 1 locuteur4 623.528 625.688 <o,f1,male> [musique] %hum %hum allo
+fuc_4822 1 locuteur1 625.688 626.528 <o,f1,male> allo ouais :fra
+fuc_4822 1 locuteur4 626.528 627.863 <o,f1,male> Aliou Kanté
+fuc_4822 1 locuteur1 627.863 628.523 <o,f1,male> naam
+fuc_4822 1 locuteur4 628.523 629.848 <o,f1,male> hono kiir?on
+fuc_4822 1 locuteur1 629.848 630.628 <o,f1,male> jam tan de
+fuc_4822 1 locuteur4 630.628 631.951 <o,f1,male> tana hiiraani
+fuc_4822 1 locuteur1 631.951 633.818 <o,f1,male> jam tan de hamdoulillah
+fuc_4822 1 locuteur4 633.818 634.527 <o,f1,male> jam tan ngon?on
+fuc_4822 1 locuteur1 634.527 635.607 <o,f1,male> haa aan hombo
+fuc_4822 1 locuteur4 635.607 638.120 <o,f1,male> min mbi?a noddira maa Lenkejanka
+fuc_4822 1 locuteur1 638.120 639.345 <o,f1,male> Lenkeja?
+fuc_4822 1 locuteur4 639.345 639.918 <o,f1,male> eeyi
+fuc_4822 1 locuteur1 639.918 640.295 <o,f1,male> eeyi
+fuc_4822 1 locuteur4 640.295 642.889 <o,f1,male> emin ke?ii émission :fra oo ?o de
+fuc_4822 1 locuteur1 642.889 644.106 <o,f1,male> aan hombo
+fuc_4822 1 locuteur4 644.106 645.246 <o,f1,male> min Mamma
+fuc_4822 1 locuteur1 645.246 646.626 <o,f1,male> Mamma
+fuc_4822 1 locuteur4 646.626 647.901 <o,f1,male> Mamma Balde Lenke Ja?
+fuc_4822 1 locuteur1 647.901 649.401 <o,f1,male> Mamma Balde ahan
+fuc_4822 1 locuteur4 649.401 650.478 <o,f1,male> haa yi
+fuc_4822 1 locuteur1 650.478 653.423 <o,f1,male> yo awa émission :fra oo ?i nafi
+fuc_4822 1 locuteur4 653.423 655.462 <o,f1,male> ?ee émission :fra o ?i nafi
+fuc_4822 1 locuteur1 655.462 656.542 <o,f1,male> eeyi awa gasii
+fuc_4822 1 locuteur4 656.542 657.814 <o,f1,male> kono miin noon
+fuc_4822 1 locuteur1 657.814 658.547 <o,f1,male> eeyi
+fuc_4822 1 locuteur4 658.547 664.537 <o,f1,male> mbiimi ?e bal?e mi awii ?oo gerte ?o wonno yooro ngoo tawi ?uu?ii haa
+fuc_4822 1 locuteur1 664.537 666.114 <o,f1,male> ?uu?ii han eyyi
+fuc_4822 1 locuteur4 666.114 671.104 <o,f1,male> tawi yooro ngoo yaawaani arde Allah noon ko to?i ?oo koo ?ee bal?e ngawmi gerte
+fuc_4822 1 locuteur1 671.104 671.834 <o,f1,male> eeyi
+fuc_4822 1 locuteur4 671.834 677.708 <o,f1,male> eeyi jooni noon mi annda taw ko le :fra 28 lewru maayndu ?o nduu ngaawmi
+fuc_4822 1 locuteur2 677.708 678.733 <o,f1,male> 28 juillet
+fuc_4822 1 locuteur4 678.733 679.693 <o,f1,male> eeyi
+fuc_4822 1 locuteur1 679.693 680.833 <o,f1,male> 28
+fuc_4822 1 locuteur4 680.833 681.913 <o,f1,male> eeyi
+fuc_4822 1 locuteur1 681.913 682.573 <o,f1,male> ok :fra
+fuc_4822 1 locuteur2 682.573 685.701 <o,f1,male> %e jooni ?eew ay so a aawii 28 juillet :fra
+fuc_4822 1 locuteur4 685.701 686.726 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 686.726 689.006 <o,f1,male> 28 Août :fra wonii lewru
+fuc_4822 1 locuteur4 689.006 690.146 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 690.146 692.666 <o,f1,male> 28 septempbre :fra woni lewru woni lebbi ?i?i
+fuc_4822 1 locuteur4 692.666 693.266 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 693.266 695.486 <o,f1,male> 28 octobre :fra wonii lebbi tati
+fuc_4822 1 locuteur4 695.486 695.906 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 695.906 698.126 <o,f1,male> e te 28 octobre :fra hammmanaani to?de
+fuc_4822 1 locuteur4 698.126 698.896 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 698.896 701.996 <o,f1,male> ete a?a heddoraa lewru wonndu fotndu wa?de ndiyam see?a
+fuc_4822 1 locuteur4 701.996 702.616 <o,f1,male> eyyi
+fuc_4822 1 locuteur2 702.616 704.156 <o,f1,male> woni novembre :fra
+fuc_4822 1 locuteur4 704.156 704.636 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 704.636 710.206 <o,f1,male> donc :fra firti so to?oyaani aan gerte maa ?e hade ma??e hade majje wa?de ?i??e ha ha ha wa?a gerte
+fuc_4822 1 locuteur4 710.206 710.932 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 710.932 714.456 <o,f1,male> ko so reenaki hawrata koye hokkere walla tawa to?o gasii
+fuc_4822 1 locuteur4 714.456 714.996 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 714.996 716.622 <o,f1,male> donc :fra sa reenaaki
+fuc_4822 1 excluded_region 716.622 717.282 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur2 717.282 719.272 <o,f1,male> ?uraraa he?de e gerte
+fuc_4822 1 locuteur4 719.272 720.172 <o,f1,male> eeyi eeyi
+fuc_4822 1 locuteur2 720.172 723.642 <o,f1,male> so wonaa noon Allah walla en octobre :fa o to?a haa laa?a
+fuc_4822 1 locuteur4 723.642 724.302 <o,f1,male> eyyi
+fuc_4822 1 locuteur2 724.302 728.742 <o,f1,male> gila daror?e mu?um haa maayir?e mu?um ke?aa heen to?ooli ?eer?i ba??i ndiyam
+fuc_4822 1 locuteur4 728.742 729.505 <o,f1,male> eyyi
+fuc_4822 1 locuteur2 729.505 732.585 <o,f1,male> ?um no waawi gerte maa ?ee ke?oya %e gerte
+fuc_4822 1 locuteur4 732.585 733.253 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 733.253 737.466 <o,f1,male> mais :fra so wonaa ?um kam so a reenaaki ko ko ko goo?i tan ke?oyraa
+fuc_4822 1 locuteur2 737.466 739.612 <o,f1,male> pourqoui :fra pasque aawre maa ndee
+fuc_4822 1 excluded_region 739.612 740.849 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur2 740.849 746.599 <o,f1,male> so wonaa kadi tawa ngaw?aa ko gerte jaaw?e tawi gerte jaaw?e ?um no waawi tawa alaa ca?eele mais :fra twi ko gerte mooy?e ?ee
+fuc_4822 1 locuteur4 746.599 747.458 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 747.458 750.609 <o,f1,male> ?um kam aawre maa ndee tardi so a renaaki ko goo?i ?urara waawde he?de
+fuc_4822 1 locuteur4 750.609 751.268 <o,f1,male> eeyi eeyi
+fuc_4822 1 locuteur2 751.268 752.605 <o,f1,male> Allah noon jogii piiw
+fuc_4822 1 locuteur1 752.605 753.338 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur4 753.338 753.580 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 753.580 758.129 <o,f1,male> miin ko mi haalat tan pawmi koye dow %e technique :fra
+fuc_4822 1 locuteur2 758.129 760.845 <o,f1,male> e dow teskuyo ko ?urmi teskaade
+fuc_4822 1 locuteur4 760.845 761.419 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 761.419 763.699 <o,f1,male> ?um kaalatmi mais :fra noon Allah kam anndataako
+fuc_4822 1 locuteur4 763.699 764.479 <o,f1,male> awa awa
+fuc_4822 1 locuteur2 764.479 769.389 <o,f1,male> Allah kadi yettaaka Kanté kañum [rire_en_fond] a nanii yettaaka Balde aussi :fra
+fuc_4822 1 locuteur1 769.389 771.499 <o,f1,male> Mamma a nanii [rire]
+fuc_4822 1 locuteur2 771.499 773.599 <o,f1,male> [conv] ko waawi koo enen en mbaawaa ?um
+fuc_4822 1 locuteur1 773.599 774.887 <o,f1,male> wallahi wallay [rire_en_fond]
+fuc_4822 1 locuteur2 774.887 776.854 <o,f1,male> enen ko en e??al men kanko kanko jogii piw
+fuc_4822 1 locuteur1 776.854 777.445 <o,f1,male> noon tigi
+fuc_4822 1 locuteur2 777.445 778.585 <o,f1,male> [rire_en_fond] voila
+fuc_4822 1 locuteur1 778.585 784.524 <o,f1,male> eeyi kono noon Mamma Allah wa?ii technicien :fra gooto kala ?in ?oo e ba?ngal ANACIM % weeyo ngoo
+fuc_4822 1 locuteur4 784.524 785.308 <o,f1,male> eeyi
+fuc_4822 1 locuteur1 785.308 791.735 <o,f1,male> jooni a hettoto kuppaa hetto?aa mi lamdoto mbo kañ kalan est :fra ce :fra que :fra ne??o ?i waawi ?aminaade hoo octobre :fra o tawa ndiyam ?am yottoto toon
+fuc_4822 1 locuteur4 791.735 792.872 <o,f1,male> awa awa
+fuc_4822 1 locuteur1 792.872 795.272 <o,f1,male> jaaraama jaaraama jaaraama kuppu jooni
+fuc_4822 1 locuteur4 795.272 796.116 <o,f1,male> jaaraama
+fuc_4822 1 locuteur1 796.116 797.994 <o,f1,male> %hum %hum %e Dieng
+fuc_4822 1 locuteur2 797.994 798.239 <o,f1,male> ouais :fra
+fuc_4822 1 excluded_region 798.239 799.755 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur2 799.755 802.094 <o,f1,male> jooni jooni jooni no mbimi ni gese ?ee yoo e laa?
+fuc_4822 1 locuteur1 802.094 802.934 <o,f1,male> yo gese ?ee laa?
+fuc_4822 1 locuteur2 802.934 805.515 <o,f1,male> en :fra même :fra temps :fra aussi :fra ?e kettoo ANACIM
+fuc_4822 1 excluded_region 805.515 806.660 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4822 1 locuteur2 806.660 808.829 <o,f1,male> pasque comme :fra comme :fra ko ndemanteeri ndii fof
+fuc_4822 1 locuteur1 808.829 809.250 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 809.250 810.829 <o,f1,male> yowii kam?e koye karallaagal ma??e ngal
+fuc_4822 1 locuteur1 810.829 811.306 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 811.306 816.525 <o,f1,male> ?e mbi en bal?e sappo fof ina foti to?de walla konii walla konii
+fuc_4822 1 locuteur2 816.525 826.125 <o,f1,male> oon saaru aan tawii ko a ba?oowo engrais :fra maa a waaw anndude hono mba?irtaa engrais :fra maa tawii ko a po??o duulaade ñannde wiyaa no to?a ndeen henna ñannde heen a yaaraa ngesa
+fuc_4822 1 locuteur1 826.125 826.411 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 826.411 828.585 <o,f1,male> so a duuliima hu?o maa koo no waawi waasde maayde
+fuc_4822 1 locuteur1 828.585 829.003 <o,f1,male> eeyi
+fuc_4822 1 locuteur2 829.003 830.577 <o,f1,male> mais :fra so ?e mbima e ndeer bal?e sappo ?ee
+fuc_4822 1 locuteur1 830.577 831.036 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 831.036 833.898 <o,f1,male> ko %e tel :fra ñalawma haa tel :fra ñalawma foti to?de
+fuc_4822 1 locuteur1 833.898 834.204 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 834.204 835.289 <o,f1,male> bal?e ?e to?aani ?ee
+fuc_4822 1 locuteur1 835.289 835.550 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 835.550 837.571 <o,f1,male> ma a waaw anndude aan hono duulori?a
+fuc_4822 1 locuteur1 837.571 837.948 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 837.948 846.323 <o,f1,male> ?ee ?oon bal?e tawi ko a biccoowo engrais :fra so to?i bal?e ?i?i walla tati wiyaama a ?ee ?oo bal?e ?i?i no waawi wa?de ndiyam on saaru paranaa engrais :fra maa mbaawaa wiccude
+fuc_4822 1 locuteur2 846.323 850.694 <o,f1,male> saabu ?um engrais :fra aussi :fra a waawaa ?um wa?de e ndeer e dow leydi njoordi
+fuc_4822 1 locuteur1 850.694 851.038 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 851.038 851.894 <o,f1,male> ko heddi ko ma ?uu?a
+fuc_4822 1 locuteur1 851.894 852.490 <o,f1,male> %hum %hum
+fuc_4822 1 locuteur2 852.490 855.558 <o,f1,male> mba?aa heen [b] e te engrais :fra wi so mbi?i nafmaa ubbam
+fuc_4822 1 locuteur2 855.558 860.662 <o,f1,male> engrais :fra kala ba??o engrais :fra yo rewnu heen huusi? ubba?um e ndeer e ndeer leydi hee
+fuc_4822 1 locuteur1 860.662 861.156 <o,f1,male> ndeer leydi
+fuc_4822 1 locuteur2 861.156 874.412 <o,f1,male> ?um tagi jallungol ngol waawa ?um naftoraade mais :fra mbeddo?aa engrais :fra tan e dow leydi ma on tuma ngoppiraa noon %e weeyo ngoo e ndiyam so arii ?umna ñaama heen tawa jallungol ngol jallungol ko see?a ñaami ?um kadi mo??aani
+fuc_4822 1 locuteur2 874.412 876.932 <o,f1,male> ?um ?o woni o nganndu?aa hoore ma ko mbaajotomi remoo?e ?e
+fuc_4822 1 locuteur1 876.932 877.408 <o,f1,male> ok :fra
+fuc_4822 1 locuteur2 877.408 880.008 <o,f1,male> e dow nganndu?aa hoore maa?a ko fota wa?eede
+fuc_4822 1 locuteur1 880.008 882.315 <o,f1,male> noon tigi alors :fra %e monsieur :fra Sow

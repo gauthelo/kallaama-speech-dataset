@@ -1,0 +1,118 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:02:53 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by PROPRIETAIRE, version 2 of 230721
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_31810 1 locuteur_1 0.000 1.930 <o,f1,male> waa papa yow noo tudd [conv]
+wol_31810 1 locuteur_2 1.930 3.555 <o,f1,male> El Hadj Mansour Touré
+wol_31810 1 locuteur_1 3.555 5.295 <o,f1,male> el Hadj Mansour [conv] ci looy yëngu [conv]
+wol_31810 1 locuteur_2 5.295 5.935 <o,f1,male> [conv] mbay
+wol_31810 1 locuteur_1 5.935 6.405 <o,f1,male> mbay
+wol_31810 1 excluded_region 6.405 8.468 <o,,unknown> ignore_time_segment_in_scoring
+wol_31810 1 locuteur_2 8.468 9.535 <o,f1,male> diwaanu [conv] Diosone
+wol_31810 1 locuteur_1 9.535 10.132 <o,f1,male> Diosone
+wol_31810 1 locuteur_2 10.132 10.565 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_1 10.565 15.500 <o,f1,male> ndax [conv] xam nga jiw semence :fra certifiée :fra [conv] lu ñuy wax semence :fra certifiée :fra [conv] te mu mucc ayib [conv]
+wol_31810 1 locuteur_2 15.500 19.722 <o,f1,male> waa jiw boobu daal dama koy dégg [conv] waaye sama xam-xam moom des na ci [conv] %hum
+wol_31810 1 locuteur_1 19.722 20.975 <o,f1,male> fan nga ko mos a déggee [conv]
+wol_31810 1 locuteur_2 20.975 23.269 <o,f1,male> ah dinaa koy dégg ci rajo [conv] ñu koy wax
+wol_31810 1 locuteur_1 23.269 24.820 <o,f1,male> comme :fra [conv] ci ban rajo tey [conv]
+wol_31810 1 locuteur_2 24.820 26.580 <o,f1,male> lu ci ëpp daal [conv] Alfayda laa koy déggee [conv]
+wol_31810 1 locuteur_1 26.580 27.159 <o,f1,male> Alfayda [conv]
+wol_31810 1 locuteur_2 27.159 28.147 <o,f1,male> %hum %hum [conv]
+wol_31810 1 locuteur_1 28.147 30.570 <o,f1,male> kon yaa ngi koy [conv] jëfandikoo wala jëfandikoo goo ko [conv]
+wol_31810 1 locuteur_2 30.570 37.005 <o,f1,male> waaw ren nag am na %e jiw bu ma jëlee ci coopérative :fra bi [conv] ñu ne moom la [conv] kon ren laa ko mos a jëfandikoo
+wol_31810 1 locuteur_1 37.005 37.802 <o,f1,male> ren nga ko mos a ji ren [conv]
+wol_31810 1 excluded_region 37.802 39.570 <o,,unknown> ignore_time_segment_in_scoring
+wol_31810 1 locuteur_2 39.570 53.128 <o,f1,male> [tx] waaw bi ma ko jëfandikoo daal [conv] am na lu ma si gis comme :fra li ma la waxoon [conv] bu dee mboq mi [conv] am na benn manque :fra bu ma ci gis [conv] bu dee suuna si moom baax na moo gën bi nga xamante ni moom laa daan ji [conv]
+wol_31810 1 locuteur_1 53.128 53.707 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 53.707 58.990 <o,f1,male> [conv] mboq bi nag dama cee am benn jëfandikukaay bu ma ci def [conv] boo xam ne damaa xamul ndax booba moo tax wala déet [conv]
+wol_31810 1 locuteur_1 58.990 59.696 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 59.696 83.510 <o,f1,male> waaw ndax %e jamono bi ma koy engrais :fra [conv] dafa bokkoon fekk suuf si tooyuloon bu baax [b] bi ma ko engrais :fra lu ci bëri dafa dee [b] waaw [b] waaw [conv] loolu daal mooy loo xam ne fekk na bi ma daan béy [conv] ñoom ñaar laa boolante xaaj tool bi [b] ji ko bii ma daan béy jiw bi ma daan béy ji ma jël ko jiw bi nga xam ne moom la ñu wax ne mooy certifiée :fra ma jëlee ko ci coopérative :fra bi [conv] bi may engrais :fra nag ñoom ñëpp laa engrais :fra wa ndoor
+wol_31810 1 locuteur_1 83.510 84.309 <o,f1,male> %hum %hum [conv]
+wol_31810 1 locuteur_2 84.309 87.271 <o,f1,male> waa li ma def ci bii [conv] laa def ci bële [conv] te it tool yi ñoo em
+wol_31810 1 locuteur_1 87.271 88.021 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 88.021 92.884 <o,f1,male> léegi nag bii nga xam ne moom laa jëloon fii nag [b] li mboq ya ba tey bokkuñ ndax bii ma jëloon ci coopérative :fra bi mboq bu weex la
+wol_31810 1 locuteur_1 92.884 93.427 <o,f1,male> [b] %hum %hum
+wol_31810 1 locuteur_2 93.427 94.373 <o,f1,male> bële nag mboq bu xonq la
+wol_31810 1 locuteur_1 94.373 95.164 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 95.164 105.058 <o,f1,male> waaw bii nag bi ma ko engrais :fra mooy bi ñu wax ne mooy semence :fra certifiée :fra bi [conv] dafa bëri lu ci dee [conv] te yaakaar naa ne rendement :fra ba mu waroon a am loolu moo ko jur ba tax dikkut [conv] %hum
+wol_31810 1 locuteur_1 105.058 108.080 <o,f1,male> [b] donc :fra ci wàllum ngóobeef bu ñu doon xool xayma
+wol_31810 1 locuteur_2 108.080 108.663 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_1 108.663 112.913 <o,f1,male> li nga am daaw ak li nga am ren ban moo ci gëna am solo [conv]
+wol_31810 1 locuteur_2 112.913 118.385 <o,f1,male> waaw [conv] foofu it ba léegi [conv] %e ma xayma bi dafay xaw a jafe ci man
+wol_31810 1 locuteur_1 118.385 119.054 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 119.054 121.551 <o,f1,male> ndax la ma ca béyoon daaw dafa ëpp lool li ma ci béy ren
+wol_31810 1 locuteur_1 121.551 122.130 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_2 122.130 126.691 <o,f1,male> waaw [conv] ndax daaw béyoon naa si daanaka lu mat ñeenti hectares :fra te ren ñaari hectares :fra kese laa si béyoon [conv]
+wol_31810 1 locuteur_1 126.691 127.614 <o,f1,male> [conv] %hum
+wol_31810 1 locuteur_2 127.614 140.027 <o,f1,male> waaw [conv] te it nawet bi nam meloon daaw it moo gën ci wàllu mboq ci nim mel ren [conv] waaw [b] te loolu it mun na nekk ci manqué :fra nawet bi tax na [b] li ma waroon a li ma am ren manqué :fra la ma waroon a daaw
+wol_31810 1 locuteur_1 140.027 140.533 <o,f1,male> [b] %hum %hum
+wol_31810 1 locuteur_2 140.533 141.206 <o,f1,male> waaw
+wol_31810 1 locuteur_1 141.206 143.012 <o,f1,male> [b] ndax xam nga %e xetax
+wol_31810 1 locuteur_2 143.012 143.482 <o,f1,male> %hum
+wol_31810 1 locuteur_1 143.482 144.390 <o,f1,male> [b] xetax xam nga ko
+wol_31810 1 locuteur_2 144.390 145.534 <o,f1,male> xetax xam naa ko waaw
+wol_31810 1 locuteur_1 145.534 147.180 <o,f1,male> %e fan nga ko mos a déggee [conv]
+wol_31810 1 locuteur_2 147.180 151.333 <o,f1,male> [tx] foofu it ba léegi [conv] kooku moom %e Karime Ndiaye
+wol_31810 1 locuteur_1 151.333 152.361 <o,f1,male> [b] Karime Ndiaye
+wol_31810 1 excluded_region 152.361 159.671 <o,,unknown> ignore_time_segment_in_scoring
+wol_31810 1 excluded_region 159.671 162.367 <o,,unknown> ignore_time_segment_in_scoring
+wol_31810 1 locuteur_1 162.367 162.838 <o,f1,male> %hum [conv]
+wol_31810 1 locuteur_2 162.838 163.551 <o,f1,male> waaw [conv]
+wol_31810 1 locuteur_1 163.551 165.542 <o,f1,male> bi nga ko déggee nag [conv] après :fra nan nga def
+wol_31810 1 locuteur_2 165.542 168.383 <o,f1,male> [conv] ak ñu muy booba fekk booba xetax moom ñun fii moom munuñ koo am
+wol_31810 1 locuteur_1 168.383 169.044 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 169.044 171.374 <o,f1,male> parce :fra que :fra xetax gi fii moom la jigéen ñiy toggee ndax matt amu fi
+wol_31810 1 locuteur_1 171.374 171.754 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 171.754 173.835 <o,f1,male> waaw [conv]
+wol_31810 1 locuteur_1 173.835 176.897 <o,f1,male> %e après :fra message :fra bi ndax leeroon na bu baax
+wol_31810 1 excluded_region 176.897 179.339 <o,,unknown> ignore_time_segment_in_scoring
+wol_31810 1 locuteur_1 179.339 179.846 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_2 179.846 181.746 <o,f1,male> [conv] aussi :fra it fekk na mu ko waxee noonu laa koy defee
+wol_31810 1 locuteur_1 181.746 182.289 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 182.289 188.437 <o,f1,male> waaw boobu it li nga xam ne moo doon fumier :fra ak mbalit yi ñu buub yi ci kër geeg yëpp moom jël nañ ko yóbbu ko ca àll ba tasare ko fa moom
+wol_31810 1 locuteur_1 188.437 189.110 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_2 189.110 190.648 <o,f1,male> waaw [conv]
+wol_31810 1 locuteur_1 190.648 193.848 <o,f1,male> [conv] donc :fra tey bu ñu doon xool %e ci diwaan bi
+wol_31810 1 locuteur_2 193.848 194.727 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_1 194.727 201.740 <o,f1,male> [conv] ndax %e yéen a ngi doon jëfandikoo benn produit :fra bu ñuy wax Aprostar mooy benn puudar coopérative :fra bi di joxe [b]
+wol_31810 1 locuteur_2 201.740 208.822 <o,f1,male> déedéet %e puudar boobu noonu jëfandikoo wu ma ko ren parce :fra que :fra boobu it dama ko yéex a yëg [b] parce :fra que :fra bi ma koy yëg booba fekk na man i tam li may ji ji naa ko ba pare
+wol_31810 1 locuteur_1 208.822 209.691 <o,f1,male> %hum [conv]
+wol_31810 1 locuteur_2 209.691 216.082 <o,f1,male> waaw loolu daal li may %e ji la woon [b] su bu dee dugub nag [b] am na benn hectare :fra bu ma jëloon ci ñoom bu dee mboq it jëloon naa fi benn hectare :fra
+wol_31810 1 locuteur_1 216.082 216.739 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_2 216.739 217.843 <o,f1,male> waw [conv]
+wol_31810 1 locuteur_1 217.843 222.128 <o,f1,male> tey bu ngeen ñu doon xelal pour :fra que :fra [conv] beneen yoon bu ñu leen di yónnee ay xibaar
+wol_31810 1 locuteur_2 222.128 222.833 <o,f1,male> %hum %hum [conv]
+wol_31810 1 locuteur_1 222.833 228.446 <o,f1,male> ñu ci lan ngay wax ci lañ war a gën a waxtaan pour :fra lu leen di gindi [conv]
+wol_31810 1 locuteur_2 228.446 236.753 <o,f1,male> waaw waxtaan wi de booba li ma jàpp mooy semence :fra boobu ngeen di wax [conv] maanaam war ngeen koy mën a gën a yaatal war koo xamal nit ñi
+wol_31810 1 locuteur_1 236.753 237.314 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_2 237.314 252.843 <o,f1,male> aussi :fra buñ ko jëfandikoo it maanaam bu ñu ko jëlee ba ji ko [conv] taritement :fra yi ni ñu ko war a toppee ba keroog muy ñor [conv] it war nañ ko mën a gën a xanaa xamal béykat bi [conv] parce :fra que :fra comme :fra li may wax rek ñuy yu ci bëri dañuy làmbatu nii rek di xool di gis waaye amuñ ay yenn matukaay yoo xam ne ñun moom la ñuy nattee li ñuy def
+wol_31810 1 locuteur_1 252.843 253.639 <o,f1,male> [conv] %hum %hum
+wol_31810 1 locuteur_2 253.639 265.486 <o,f1,male> waaw loolu nag soo indee loo xamante ne yow yaa ngi ko def sa traitement :fra ba mu pare xam ne lii baax na [conv] du war ngay xamal nit ki maanaam boo ko jiyee nag nii ak nii ak nii nga ko war a toppee di ko def [conv] maanaam ba ci ni ñu ko béyee sax war ngaa mën a xamal nit ki naka lañ koy bayee
+wol_31810 1 locuteur_1 265.486 266.047 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_2 266.047 284.954 <o,f1,male> waaw ndax dafa bëri ci jiwu yoo xamante ne nii [conv] nit boo ko xasee ba ji ni nga koy bayee ak na nga daan bayee morom ma duñ bokk [conv] loolu mun na la si indil ngaañ-ngaañ te ki kiy béy moom du ko xam [conv] waaw loolu nag yéen ñi nga xamante ni yéen a ngi topp jiw yooyu di ko def noonu [conv] war ngeen ñuy mën a xamal maanaam jiw yi boo ko jiyee ba pare ba mu sax [conv] naka nga war a mën a toppee di ko bayee
+wol_31810 1 locuteur_1 284.954 285.569 <o,f1,male> %hum %hum
+wol_31810 1 locuteur_2 285.569 287.037 <o,f1,male> waaw [conv]
+wol_31810 1 locuteur_1 287.037 288.555 <o,f1,male> [tx] papa ñu ngi lay jaajëfal
+wol_31810 1 locuteur_2 288.555 289.261 <o,f1,male> baax na [conv]
+wol_31810 1 locuteur_1 289.261 291.341 <o,f1,male> di la wax nga fàttali ñu tur beeg [conv] sant bi ak fu ngeen dëkk
+wol_31810 1 locuteur_2 291.341 296.824 <o,f1,male> El Hadj Mansour Touré [conv] nekk ci commune :fra nu Diosone waaye maa ngi dëkk nag ci dëkk bu ñuy wax Passy Aly Dieng
+wol_31810 1 locuteur_1 296.824 297.656 <o,f1,male> Passy Aly Dien
+wol_31810 1 locuteur_2 297.656 297.982 <o,f1,male> waaw
+wol_31810 1 locuteur_1 297.982 298.977 <o,f1,male> [b] jëerëjëf papa
+wol_31810 1 locuteur_2 298.977 299.755 <o,f1,male> jërëjëf [b]

@@ -1,0 +1,64 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:24 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 1 of 230405
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_4823 1 locuteur1 0.000 6.534 <o,f1,male> %e donc :fra somi firti e pulaar eko haaliko henna %e ndungu ngu ma ar law
+fuc_4823 1 locuteur2 6.534 6.920 <o,f1,male> eyyi
+fuc_4823 1 locuteur1 6.920 8.004 <o,f1,male> effectivement :fra ari law
+fuc_4823 1 locuteur2 8.004 8.452 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 8.452 13.195 <o,f1,male> pasque duuɓi joyyi to ɓaawo en keeɓani ndiyam e nder mois :fra de mai :fra
+fuc_4823 1 locuteur1 13.195 22.813 <o,f1,male> hikka en keeɓino noon e nder mois :fra de :fra mai :fra sa itti hikka a %e duuɓi joyyi to ɓaawo hay pot tobɓere wotere ni ndiyam waɗaka enregistré :fra e mois :fra de :fra mai :fra
+fuc_4823 1 locuteur2 22.813 23.417 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 23.417 31.502 <o,f1,male> ete hikka balɗe sappo battidiɗe mois :fra de :fra mai :fra ɗe en keeɓi hen ndiyam ha won awɓe tubaño mumen tubaño mumen déjà puɗɗi wabde
+fuc_4823 1 locuteur1 31.502 35.766 <o,f1,male> te tubaño duuɓi jooyi ne ɓaawa te meeɗa wabde ender mois :fgra de :fra juillet :fra
+fuc_4823 1 locuteur2 35.766 36.420 <o,f1,male> ok
+fuc_4823 1 excluded_region 36.420 39.363 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4823 1 excluded_region 39.363 40.145 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4823 1 locuteur2 40.145 40.742 <o,f1,male> eyyi
+fuc_4823 1 locuteur1 40.742 42.554 <o,f1,male> donc eɗen mbaɗi yaka aussi :fra
+fuc_4823 1 locuteur2 42.554 43.147 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 43.147 46.490 <o,f1,male> ndungu ngu aussi :fra ma yaa ha mois :fra de :fra ocotobre :fra
+fuc_4823 1 locuteur2 46.490 47.695 <o,f1,male> %hum %hum ɗum de o haali
+fuc_4823 1 locuteur1 47.695 49.674 <o,f1,male> hitande foof tooɓat mois :fra de :fra octobre :fra
+fuc_4823 1 locuteur2 49.674 50.153 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 50.153 51.950 <o,f1,male> ɗum hiitande foof eɗen jiiya * [bb] mais :fra
+fuc_4823 1 locuteur2 51.950 52.246 <o,f1,male> eyyi
+fuc_4823 1 locuteur1 52.246 53.622 <o,f1,male> hewani wadde ndiyam
+fuc_4823 1 locuteur2 53.622 53.996 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 53.996 55.951 <o,f1,male> ha heewa ha kene joogo ɗum ɗo walla
+fuc_4823 1 locuteur2 55.951 56.513 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 56.513 57.424 <o,f1,male> waɗa ngakke
+fuc_4823 1 locuteur2 57.424 57.907 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 57.907 58.450 <o,f1,male> kewɗe
+fuc_4823 1 locuteur2 58.450 58.869 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 58.869 61.869 <o,f1,male> ko ndemanteri ndi ene tampa hen
+fuc_4823 1 locuteur2 61.869 62.461 <o,f1,male> ɗi tampat
+fuc_4823 1 locuteur1 62.461 65.454 <o,f1,male> so Allah waɗi en keeɓi dow tooɓoji ngerɗi e nder mois :fra de :fra octobre :fra
+fuc_4823 1 locuteur1 65.454 69.848 <o,f1,male> oɗo gawɗo e nder mois :fra de :fra aout :fra o [bb] no gonɗen e mois :fra de :fra juillet :fra o
+fuc_4823 1 locuteur2 69.848 70.148 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 70.148 80.814 <o,f1,male> ene wawi guerte makko ɗe daaɗoya donc :fra ɗum noon no mbimi ni henna Allah kam yetta kante [rire_en_fond] %e no wirini aussi :fra ene wawi ɓe mbaɗa prévu ɓe eɓɓa
+fuc_4823 1 locuteur2 80.814 81.232 <o,f1,male> eyyi
+fuc_4823 1 locuteur1 81.232 82.610 <o,f1,male> automatiquement :fra hendu ara
+fuc_4823 1 locuteur2 82.610 83.010 <o,f1,male> %hum %hum
+fuc_4823 1 locuteur1 83.010 84.821 <o,f1,male> wayla ndiyam ɗam
+fuc_4823 1 locuteur2 84.821 85.234 <o,f1,male> ndiyam ɗam
+fuc_4823 1 locuteur1 85.234 86.860 <o,f1,male> %e yanoya guej
+fuc_4823 1 locuteur2 86.860 91.391 <o,f1,male> 33 996 19 19 allo [shh]
+fuc_4823 1 excluded_region 91.391 92.541 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4823 1 locuteur2 92.541 93.495 <o,f1,male> mbo arta
+fuc_4823 1 excluded_region 93.495 107.441 <o,,unknown> ignore_time_segment_in_scoring

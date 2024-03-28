@@ -1,0 +1,224 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:20 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 4 of 230317
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_33220 1 Locuteur1 0.000 16.384 <o,f1,male> wagiyo preparer :fra tu ke ando na te [musique] ref école :fra ne a faña yit a ɗeto ke ando na te ref ke ando na te ref %e nouvelle :fra génération :fra ne ɗiki ken te ne a no école :fra ke ando na foge no école :fra te yit caac we in etaan lat ti gira yo kaga
+srr_33220 1 Locuteur1 16.384 38.012 <o,f1,male> [musique] maag we in lal tigera yo kaga xam a ref ke ando na ke jeg na solo compo ni wagona waxtano fo nuun no njoktoor ni xani teyit ɓekwalit fok de garad ɓekol ni njañ ke ɓekwa a ref fo njaƴ ngor ke fo njaƴ ndew ke no xpo andona ko waaɗ xam xam a wara ɗeet [musique] ne warona comporte :fra ox kaga fasiye ne %e
+srr_33220 1 Locuteur1 38.012 53.186 <o,f1,male> [musique] xani de tonkale i lem tayo nak %e xe ando na te ref oxe ad wan na no commune :fra ne njombas meke arefo maire :fra Aline sall fo xe andona te ref o maad meke a ref sous :fra prefecture :fra a ref soxne Oumy commandant :fra ba te ref aoxena
+srr_33220 1 Locuteur1 53.186 68.847 <o,f1,male> [musique] souke %e xe refna kaynako xe kam saax le iwey lemta fop we ref na hopitaux :fra in way lemta den we refna yo caboi fete na a ciic in way lemta den a paxa paax i xeɗa na den yasam roga xaƴ din maga fo muñ bo a waago watood de dige a rok na yo kon Zancier i lem taang
+srr_33220 1 Locuteur2 68.847 92.496 <o,f1,male> [musique] Cheikh maxey jaɓaaŋ fog sereer maxey walda nuun xotatinan no Cheikh gonum fo simangolum in way meke xani kene ne no [musique] njoktoor ne njoktoor ne nak tening nu ref na te jega meke xani nak i yon de fo cheikh Tidiane de tegnit ne simna fog jombas fop faño xalo leŋ
+srr_33220 1 Locuteur2 92.496 110.235 <o,f1,male> [musique] sim nayo kilifa ada kilifa dine a simna tam we jirna refa hopitaux :fra kam pin ke amiin roga fiyo de wodo fa jam we caabi farna a ciiƴ`it roga fi te watu ()njambot ke den fa jam
+srr_33220 1 Locuteur2 110.235 126.594 <o,f1,male> [musique] we ref na kam gejan kamo magole roga fi te gato fo jam sim nayo we refna yi tam avion :fra itam roga fi te teru meen te jaga fo jam simna yo chef :fra du :fra village :fra Noto Ali Ba
+srr_33220 1 Locuteur2 126.594 143.132 <o,f1,male> [musique] sim nayo ministre maire :fra Aliou sarr sim nayo sous :fra prefet :fra Oumy Diamanka simna commandant :fra Ba kon njoktoor ne xani coktel gerefal
+srr_33220 1 Locuteur2 143.132 155.093 <o,f1,male> [musique] de jangre jangre te i waxtanit ka foge fog na fop nak jandri foger na fopna te i waxtanit ka xani de njokor ni xani Cheikh Tidiane i
+srr_33220 1 Locuteur1 155.093 170.006 <o,f1,male> wa jokonjal Zancier comme :fra ne leytano na rek jangre te te waxtaanit ka xani te yit jamano neke nak Zancier i ndefanu no xa éléve :fra axe jamano keke a ref de 1er compo :fra ke den te yit a jega keen andona wax deg
+srr_33220 1 Locuteur1 170.006 186.102 <o,f1,male> [musique] a commencer :fra a gyan men école :fra ke te ref gréve :fra ke ando na maya no jega di teyit a refa éléve :fra axe professeur :fra ke kaga fop nak kaɗa oxu ref na rek a refo eléve :fra wara ɗeet ke ando na te ref interet :fra ne wu te canga li
+srr_33220 1 Locuteur1 186.102 201.058 <o,f1,male> parce :fra que :fra o kiino xe ando na jegan xam xam a jegan xam xam bo roga fi natu in a cota xam xam wo wariro xupo bugo xaaga kaga te andi te fiya wo fe ando na wo fe na waaɗa wo fe na waaɗa nak a jega comportement :fra warona comporte :fra u
+srr_33220 1 Locuteur1 201.058 217.128 <o,f1,male> [musique] a jega ni waruna nan a jagan ne warona garit école :fra parce :fra que :fra okiin ka lembayo o kiin ne kaɗa me andona ko waaɗkama ko jeg neno kaɗ tama ko jig ke bugona ma mais :fra a jegan ne ando na nana ngaan
+srr_33220 1 Locuteur1 217.128 231.102 <o,f1,male> refe o ku manaam cir ne waaɗ ena o cooɗ jeg kino malgrés :fra neke xano jang nel mais :fra a cangal o ndetan au :fra fond :fra ke war ona fi ko waɗ erena fiyan no a cang xana jeg ke andona a yoq ta a ref
+srr_33220 1 Locuteur1 231.102 250.603 <o,f1,male> [musique] no comportement :fra neno gara ta a ref habillement :fra neneo gara ta a refit neneo presenter :fra ox ta kam classe :fra kaga fop ka poser :fra a den ga a point :fra tadik kaga fop duka nonga chaque :fra jour :fra xani gi oxe jeg na probleme :fra no point :fra dadik kaga leŋ te ref ke ando na a wara wago ñak a waran wago ñak
+srr_33220 1 Locuteur1 250.603 266.710 <o,f1,male> [musique] no xe andona ko waaɗa no ke andona ke andona xeɗa fulno wara wago jik de fula fo fayda parce :fra que :fra imaginé :fra o ñaƴan 2 kilometre :fra 3 kilometre :fra o garv waɗa xam xam Zancier kaga o mofan wala o gar o nan ne warona nan
+srr_33220 1 Locuteur1 266.710 281.829 <o,f1,male> [musique] o jik ke bugona parce :fra que :fra ko gara pour :fra o waaɗ ke andona te ref xam xam xam xam naga nak foko jeg ne nanona foko jeg comportement :fra a%e andona xano garan xano wago xam xam ne wo xana wago yooɓ parce :fra que :fra ka lemba éducation :fra de :fra base :fra
+srr_33220 1 Locuteur1 281.829 296.934 <o,f1,male> [musique] [musique] bala o gara éduquer :fra el no école :fra éducation :fra de :fra base :fra naga kam mbine te ref wajuur ke e te xupo xaƴ ta xel xa ɓiyta xe den parce :fra que :fra o ɓiyole wo ()
+srr_33220 1 Locuteur1 296.934 312.465 <o,f1,male> [musique] ne gara andiro ne garit ka kaga erreur :fra mako no wadiour a lemba no wajuur a a jega ke te representer :fra te na no njambot ne tin te yit a kaɗa nga yo paam roog xani wajour a lug nel na kawid o ɓasil ne wu
+srr_33220 1 Locuteur1 312.465 327.972 <o,f1,male> [musique] kon kaga ataxi te xaƴit no xel a paxa paax parce :fra que :fra nak ba lemu a weke de a a maka no ndiki waganatera yo den dara roog ande kaga ɓiyo nge wo donin no a ndat
+srr_33220 1 Locuteur1 327.972 342.284 <o,f1,male> [musique] no ku te rek na o andin mais :fra xa ɓiya xe a jega we ando na ye ande i lemba noyo meke mayu ga a a jega we ando naye Zancier ye xa ɓiya xe den a roka no ecole :fra raga giju yo me () a jega we gar nayo ye xa ɓiya xe den a rok nayo ecole :fra
+srr_33220 1 Locuteur1 342.284 357.677 <o,f1,male> [musique] kaga erreurs :fra maak no parce :fra que :fra meke a jegan professeur :fra a jegan professeur :fra ke mosena inviter :fra oyo meke ka lemba parce :fra que :fra carrement :fra ken %e ke andona te ndomu in rek te ref wejuur ke ne gara yo nemeku wyo xa ɓiya xe den école :fra parce :fra que :fra o rok nan ɓiyonge école :fra rek xalano ma
+srr_33220 1 Locuteur1 357.677 361.236 <o,f1,male> [musique] mais :fra kaga nak erreurs mak no Zancier parce :fra que :fra ɓiyo nge wo andiro kan xa ref tu
+srr_33220 1 Locuteur2 361.236 361.951 <o,f1,male> wawaw
+srr_33220 1 Locuteur1 361.951 365.960 <o,f1,male> [musique] andiro no xa refi oxey reta gara mais :fra andiro ndax oxey janga andiro ndax jange
+srr_33220 1 Locuteur2 365.960 366.384 <o,f1,male> xa a
+srr_33220 1 Locuteur1 366.384 367.893 <o,f1,male> [musique] mais :fra kaga nak re erreurs :fra Zancier
+srr_33220 1 Locuteur2 367.893 368.362 <o,f1,male> erreurs :fra maak
+srr_33220 1 Locuteur1 368.362 370.920 <o,f1,male> kon nak fok wejuur ke xaƴ to xel kaga Zancier
+srr_33220 1 Locuteur2 370.920 385.642 <o,f1,male> %e Ckheikh jokonjal e jangre wax deg i moof bo lemo de we ref we fag i miña do lema de ()
+srr_33220 1 Locuteur2 385.642 399.545 <o,f1,male> [musique] jangre ka ref ke andona te ref xoox le xu jangeer na rek fogiro xu janger na me toloxeer na fogiro to kat ne lem tona xatoor
+srr_33220 1 Locuteur2 399.545 416.914 <o,f1,male> [musique] waxey na janga ko waaɗa ke ando na i ando o waaɗa o andu laga ka jeg tige yonit na andu refe rek ku felonga o fi pour :fra o andin andol ku wagona fi bo jegin te ref o topin
+srr_33220 1 Locuteur2 416.914 437.094 <o,f1,male> [musique] o topin o kawin te faax jang oxe na jang nang wax deg roog te xupongo an te jangre oxe xupoonga o tik a jang nang te xupongo an de jang na raam kat ka janga ba a fad maga
+srr_33220 1 Locuteur2 437.094 452.445 <o,f1,male> [musique] a sog ngo wago jangin kon wefe na janga fexeyi o faafin o fexey o jang o jeg xam xam naga bo o fafin jangin nda o mafa nga xayna jare o jige jara nda de xena waanda
+srr_33220 1 Locuteur2 452.445 470.137 <o,f1,male> [musique] nande foxe toxod na oxe na wanda ko sona de njir o jeg nda pour o wanda son lu de wagiro jeg kon oxe na wanda rek o jego ɓek to waaɗa to
+srr_33220 1 Locuteur2 470.137 488.253 <o,f1,male> [musique] professeur :fra wala enseignant :fra élémentaire :fra wala alxuraan ne arabe ne oxe na jang nana te xupong oxu jang nonga rek te xupongo an a taxa bo a composision :fra keke
+srr_33220 1 Locuteur2 488.253 504.266 <o,f1,male> [musique] a debuter :fra endo kon nak wax deg yala njaƴ ke ko ga a o kiin ne lem tona xaƴa ɓiyo lewo te kaɗa ecole :fra a jang ka a kaɗa gara an o nanan ne Zancier
+srr_33220 1 Locuteur2 504.266 518.104 <o,f1,male> [musique] andiro dara no kayit e woxey ga a ɓiyonge wo te reta gara rek andiro ndaxa xoy janga nandiro ndax jange wo ko lem ko rek ga ano te ()
+srr_33220 1 Locuteur2 518.104 539.798 <o,f1,male> [musique] a ref ke ando na ka war o jeg po ngapo andona ko ñaaƴ look bo me cajang nox o xama lin kat ka waidin ngir diw ndax na fi ecole :fra xar te fiya cajang no xaga kata xana lomong fop ne diwa nan na fo nene te jang ta
+srr_33220 1 Locuteur2 539.798 558.872 <o,f1,male> [musique] a ref ref tang ma comportement :fra manaam nana kaan ne andona a mosan xana lem ngo tef a refan mose xana lem ngo ten a refan oxey janga xana lem ngo ten a refan jange xana lem nngo ten kon gaga jaran jaf leŋ sax par :fra o ŋool
+srr_33220 1 Locuteur2 558.872 574.391 <o,f1,male> [musique] owago kaɗ o nemeku o ɓiyo nge wo o an ne refit na école :fra o kiin leŋ ref ke a jang na o kiin bo waage kaga jege sen o waag ange ref koge tig a jang na ko n
+srr_33220 1 Locuteur2 574.391 595.382 <o,f1,male> wena jange de waru fas jom a goor goor loxo andam nak oxu na janga rek teki bugu te nak te kaga pour :fra o jegin fogo fi de jomof fi de fila newo o fi defaya ne wo wo xolong xol ne axa mikat jagam wajuur
+srr_33220 1 Locuteur2 595.382 610.875 <o,f1,male> [musique] waaram sigi in din w fiya nami we lemba no mi kon kam waro jang bo gekin () yaam ref ke ndabid waye fi paax ()ram kat waxey na janga tu :fra es :fra appelée :fra o feet
+srr_33220 1 Locuteur2 610.875 617.231 <o,f1,male> o o jeg njambot kon ne kaw te ona ren o janga fexe yi nak ao jega ngan o kaw wago
+srr_33220 1 Locuteur1 617.231 617.482 <o,f1,male> kaw naga
+srr_33220 1 Locuteur2 617.482 629.623 <o,f1,male> [musique] o kaw o kawa paxa laga kon jangre ka ref ka andona wax deg oxu fi erna na fogarito o yoqan tuluñ na oxu janga teer na fogatiro
+srr_33220 1 Locuteur2 629.623 646.153 <o,f1,male> ndiki ko ga a calel jega meke gañ waye pour :fra o ga pour :fra o jang oxe ando na ye jange wa kaga yombate fok dal te jang fok te an tig no kayit ku te ana ref Francais wala alxuran wala arabe e fok te an tig no kayit
+srr_33220 1 Locuteur2 646.153 661.351 <o,f1,male> [musique] kon jangre warano yapatelit wara ndo ŋasit oxe na wanda nak fogre fo oxe jeg na kon nigan waɗa ko fexey ka o jeg neno xene jeg na
+srr_33220 1 Locuteur2 661.351 676.851 <o,f1,male> [musique] xena coɗaŋ xam xam topeen o refin to yit a jeg ne nanona ndiki nak mayu ref jangre nda jege janga nam nda rikoleke ten moƴu fok cagale
+srr_33220 1 Locuteur1 676.851 677.850 <o,f1,male> %hum%hum
+srr_33220 1 Locuteur2 677.850 689.795 <o,f1,male> [musique] a ɓekwan te te moƴ u foku jangre ndeiki sax a tane an bo blouse :fra jegandor meke noto mene a jengan lycée jegan blouse :fra laƴnum gara o ɓekwan blouse :fra ()
+srr_33220 1 excluded_region 689.795 691.578 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur2 691.578 699.627 <o,f1,male> [musique] te andona jege ra ko ga vraiment :fra ɓekwan a te ten moƴu fook ɓekwan moom ka fok in trop trop
+srr_33220 1 Locuteur1 699.627 704.405 <o,f1,male> parce :fra que :fra Zancier oxu ret na ecole :fra ko foga ka kaɗa mariage :fra wala xel
+srr_33220 1 Locuteur2 704.405 705.956 <o,f1,male> andiɗ kiro elew fo professeur :fra ne
+srr_33220 1 Locuteur1 705.956 707.398 <o,f1,male> wala kag ayet jafae jafe yo
+srr_33220 1 Locuteur2 707.398 726.228 <o,f1,male> [musique] jafe jafe dong ɓekwan vraiment :fra a jemuna a wan ram wax deg wagiro kaɗax ecole :fra ɓekox liir wagiro ɓekopx ke roɗig na nda yey fata fod fata fod o xamal ne kaɗang ne o jangik kon o fadan jangre ɓisong de ŋa ong
+srr_33220 1 Locuteur1 726.228 745.230 <o,f1,male> [musique] %hum njokonjal Zancier ke e ŋaɗ na jegan solo lool i xalat na fogole nun mboy no jobas Fm 105 point :fra 4 meke no studio :fra Iba gueye no njoktoon ne nak njoktoor ne xani nak ken nga na a rek coktoor ke jeg na solo te it Zancier anda lemano maga %e oxe ref na wejuur ke
+srr_33220 1 Locuteur1 745.230 762.121 <o,f1,male> [musique] a waran gara a nemeku a yaal mbin fe ecole :fra ne parce :fra que :fra ga a Zancier o ndetan cangak kena jangila yo a ref francais aref arabe ne wala wo lakas fo lakas mais :fra ga a comportement :fra ka jeg kete jouer :fra na ma
+srr_33220 1 excluded_region 762.121 762.722 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur1 762.722 777.611 <o,f1,male> [musique] parce :fra que :fra compotement :fra mbaaxu ga a mu ga ta nona reussite :fra ne()mais :fra yit o xaga bugan reussite :fra mais :fra anda oxen andona a jagan xam xam professeur :fra ne a ref enseignante :fra a jagano xam xam xa garoyo e xa
+srr_33220 1 Locuteur1 777.611 790.261 <o,f1,male> [musique] oxe andona buga jeg xam xam im pare ando im coɗong xam xam oxe andona ŋsi ga no a yomba andel parce :fra que :fra ko ga a ko roka classe :fra classe :fra nu rokona ñake we bugna a jango
+srr_33220 1 Locuteur2 790.261 790.919 <o,f1,male> ah oui :fra
+srr_33220 1 Locuteur1 790.919 794.348 <o,f1,male> [musique] mais :fra a jegn wen ando na manam a canga ka fiya nan a welit
+srr_33220 1 Locuteur2 794.348 795.318 <o,f1,male> axa
+srr_33220 1 Locuteur1 795.318 807.851 <o,f1,male> [musique] a welta a fiya na parce :fra que :fra chaque :fra jour :fra a ref tayla fi mbinuun ligey ole ax xaƴi [conv] um continer :fra a canga le kandan gara rek [rire] mais :fra ndeti kanda nole te gera jegan kiran o njiriño leŋ
+srr_33220 1 Locuteur2 807.851 808.364 <o,f1,male> o leŋ o leŋ
+srr_33220 1 Locuteur1 808.364 812.306 <o,f1,male> [musique] [musique] toyit kandan à :fra la :fra fin :fra consequence :fra ke ma ma gekan
+srr_33220 1 Locuteur2 812.306 812.816 <o,f1,male> wawaw
+srr_33220 1 Locuteur1 812.816 825.820 <o,f1,male> [musique] kandag mbes o soxla oxe jang na wo jangiro o nan ne mi ga iro ndiki xa xa moƴ ka ko xaƴ kel kam mbine o jawa o ƴewa
+srr_33220 1 Locuteur2 825.820 826.307 <o,f1,male> wawaw
+srr_33220 1 Locuteur1 826.307 828.553 <o,f1,male> o ligey mbine fop o soɗole ten
+srr_33220 1 Locuteur2 828.553 829.191 <o,f1,male> a oui :fra
+srr_33220 1 Locuteur1 829.191 835.611 <o,f1,male> mais :fra ga a o lema nge jangi ga a oxe na lemang Zancier jangi a jga ken te bug na na wo
+srr_33220 1 Locuteur2 835.611 836.171 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur1 836.171 840.649 <o,f1,male> a bugan o reussir :fra na canga le wo parce :fra que :fra e jamano ne nete fodna oxu jangeer na fogiro
+srr_33220 1 Locuteur2 840.649 841.267 <o,f1,male> fogiro de
+srr_33220 1 Locuteur1 841.267 843.959 <o,f1,male> [musique] oxu jangeer na fogiro fopo way buga yo jango
+srr_33220 1 Locuteur2 843.959 844.553 <o,f1,male> wawaw
+srr_33220 1 Locuteur1 844.553 846.642 <o,f1,male> im jang ange sax xam fi tout :fra pour :fra o jang
+srr_33220 1 Locuteur2 846.642 847.014 <o,f1,male> wawaw
+srr_33220 1 Locuteur1 847.014 858.155 <o,f1,male> [musique] kon foko janga bo wago fog parce :fra oka bo leme a fogo no ke war na lemo ()kaga erreur :fra no te it
+srr_33220 1 Locuteur1 858.155 869.237 <o,f1,male> fok anda lema ndo xatoor oxu ref na rek ona reta ecole :fra ɓekoor kiro liir mais :fra lema nge ɓekoor kiro liir no xel ɓekoox kiro liir mais :fra o ndetan jamano nene ndiki liir la ɓeakwa yo
+srr_33220 1 Locuteur2 869.237 870.063 <o,f1,male> wawaw
+srr_33220 1 Locuteur1 870.063 885.992 <o,f1,male> lil we ɓekwa yo teyit nan kene de lem wa yo ɓekoox kiro liir ko ɓekin ɓaxañ ke andona mo xotona xano respecter :fra el xanu jig me donoxe ona owyit xayu jig ke ando na o kiin wag kirano raprocher :fra no dara
+srr_33220 1 Locuteur2 885.992 886.707 <o,f1,male> dara
+srr_33220 1 Locuteur1 886.707 898.863 <o,f1,male> lem kirang a o kino xeke de ge i mbaxañ ke te ɓekna oxe a ka jangik xeke waaɗka xam xam mais :fra o kaɗang o mbek mbaxañ ponu o jasnoor foxe na wanda nan xam xam est :fra ce :fra que :fra xanu waago jeg xam xam naga
+srr_33220 1 Locuteur2 898.863 899.651 <o,f1,male> vraiment :fra
+srr_33220 1 Locuteur1 899.651 912.801 <o,f1,male> parce :fra que :fra xama tigi o jeg ka ɓeki() xam xam mbaaxu fo xam xam %e mbaaxeer mbaaxu fo mbaxeer ɗik kaga jegiyo na xam xam gun andona faxe fo nun andona ka faax
+srr_33220 1 Locuteur1 912.801 932.614 <o,f1,male> wo nak o gar comportement :fra mosu a jeg mosu mbarƴu o jeg mbarƴu parce :fra que :fra ndetan moytu wage meke bo nete ga ka yo mois :fra de :fra avril bala te kaɗa yo fete :fra ke avril ke fok de coɗole yo papier :fra ke den pour :fra de wago preparer :fra 2ieme semestre :fra nena gara
+srr_33220 1 excluded_region 932.614 933.156 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur1 933.156 946.324 <o,f1,male> teyit maga ɗetang pour :fra o wago oxu andona jeg iro de moyenne :fra mbaaxu o wago rattraper :fra attention :fra parce :fra que :fra in mbox ngaratina 2ieme compo :fra fog im ndeto ke andona te njeg eru yo
+srr_33220 1 Locuteur1 946.324 959.652 <o,f1,male> mais :fra kaga bala maga meke warano no ligeyit o ligeey bo an a mi de ken ligeya jegam de yakaar bo o faño () a ŋasale ka xupo no njaƴ ke
+srr_33220 1 Locuteur1 959.652 969.355 <o,f1,male> ka xupo no xa eleve :fra ae a ŋasale xupu canga le teyit wax deg nak a ŋasale a foga node mais :fra yit
+srr_33220 1 Locuteur2 969.355 969.956 <o,f1,male> ware xup te
+srr_33220 1 Locuteur1 969.956 971.554 <o,f1,male> refe refe oxupi de
+srr_33220 1 Locuteur2 971.554 971.982 <o,f1,male> xa a
+srr_33220 1 Locuteur1 971.982 985.416 <o,f1,male> te yit ka lema a ŋas a nde o njaƴ te ref 1 pourcent :fra 1 pourcent :fra parce :fra que :fra kaɗang ba ref na 1 pourcent :fra rek a ref () mais comme :fra we ñako jeg te ref 1 pourcent :fra
+srr_33220 1 Locuteur1 985.416 1008.596 <o,f1,male> pour :fra o wago yenisaay o jangan samedi bo dimanche dimanche ne wala samedi o waca nga o wago () o wago ñoot nu o wago fi sport :fra o wago fi lakas lakas mais :fra ka jeg limite :fra mais :fra wiin we nak ga a oxu wac na école :fra bala o fada école :fra dajale a xa cahier :fra xewo fada rek wo dona sac :fra le wo waxey no lakas
+srr_33220 1 Locuteur1 1008.596 1022.096 <o,f1,male> wolwa dona sac :fra le waxey no lakas xal nda sax jangi da xani ye xesona janga o ref no ku felonga te yit wejuur ke maga fok te jemo ()
+srr_33220 1 Locuteur1 1022.096 1035.391 <o,f1,male> bu baax parce :fra que :fra Zancier o ɓiyo ge wo we mo d':fra accord :fra ɓiyo le wo ka janga os on na ten teyit cono ne sono na no ten xana gar a gar jengen kirango njiriñ kaga re perte :fra ma
+srr_33220 1 Locuteur2 1035.391 1036.132 <o,f1,male> perte :fra ma maak
+srr_33220 1 Locuteur1 1036.132 1052.091 <o,f1,male> perte :fra ma maak no kon fon wiin we xaƴ to xel kaga i xalatina nuun rek nuun wagiyo yono fo in no mbako ndug noro nge 784972525 no keke na leye yo cokteer xani meke no studio ":fra Iba Gueye o wago fi 784972525
+srr_33220 1 Locuteur1 1052.091 1067.845 <o,f1,male> oxu jeg na de xam xam rek wala o jeg de o ngalat nowo wala o jeg de ke andona o lema ngan xana jeg ke wañ na no den pour :fra te wago topo keke ando na ten lemba yo parce :fra que :fra ndetan reussite :fra ne xa éléve :fra axe reussite :fra ne ino xa teɓa xe in de
+srr_33220 1 Locuteur1 1067.845 1075.394 <o,f1,male> xa jarbate xe in de xa mbiya xe wo de xa njac newo de mais :fra waga reussir :fra anga wo xe andona ye wo ref faap den reussir :fra kiro
+srr_33220 1 Locuteur2 1075.394 1075.990 <o,f1,male> waaw
+srr_33220 1 Locuteur1 1075.990 1085.936 <o,f1,male> kon kaɗa ngin kaga ni na lemba nek refe pour :fra in refe pour :fra dino wala pour :fra fopo sax parce :fra keke oxu reussir :fra no ecole :fra wajur kewo xana contente :fra no wo
+srr_33220 1 Locuteur2 1085.936 1086.430 <o,f1,male> wawaw
+srr_33220 1 Locuteur1 1086.430 1095.863 <o,f1,male> woyit xano content :fra parce :fra que :fra xayo jik ke ando na waga faƴan wajuur kewo to o mbiyo lu ref na buga faƴan wejuur kewo ke andona wax deg na cono den a a yudin
+srr_33220 1 Locuteur2 1095.863 1096.344 <o,f1,male> a oui :fra
+srr_33220 1 Locuteur1 1096.344 1110.897 <o,f1,male> kok nak keke lem na waxtaan ta coktor ke xani pour :fra dino kon itam o goorgoor loox refe ye kan gara yo pour :fra dalodin mais :fra kam bug o ñaxan tina yo den rek xalat nayo den ke ando na te ref jamano parce :fra que :fra jamano ndiki a doyan waar lool Zancier
+srr_33220 1 Locuteur2 1110.897 1129.705 <o,f1,male> jokonjal Cheikh o nanan sax im lema mbir we jangre ka ref ke andona tena ñaƴa to kena ñaƴa feek geen we xana jof men te janga o janganol ne nak xana fad meet te janga o janga nor nak fata soɓ te ref ma paaxu
+srr_33220 1 Locuteur1 1129.705 1130.580 <o,f1,male> paaxu %hum %hum
+srr_33220 1 Locuteur2 1130.580 1153.215 <o,f1,male> kon te ref ke ando na kan wax tan tana kan lembo na men ngir a mamalo o elew fop a andin a a fi in yaam kat o yenal ga ona a jega no ya yaqko ga an ndeysaan a jegan wen ando na vraiment :fra elew a bugan yo cang
+srr_33220 1 Locuteur1 1153.215 1153.780 <o,f1,male> a bugan yo jango
+srr_33220 1 Locuteur2 1153.780 1166.400 <o,f1,male> vraiment :fra owey janga nda a jenga ten par :fra compte :fra jegan we ando na a kaɗ ecole :fra del ref affaire :fra den kan kaɗa ecole :fra e wax deg ge refit na ma roga ()
+srr_33220 1 Locuteur2 1166.400 1181.458 <o,f1,male> elew mbek ke o refo njaƴ mbelke o refo ndof ona janga teki bugo kon oxe na janga rek teki soxla u o feet faxey nak kaga soxla ona o feet o jang de jang
+srr_33220 1 Locuteur2 1181.458 1196.285 <o,f1,male> jangre te ci kang ke ando na () jangre dong waag ngo condo ten nda wax deg jang xeƴe fo tig xeƴe fo tig ()
+srr_33220 1 Locuteur1 1196.285 1196.637 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1196.637 1214.312 <o,f1,male> il :fra faut :fra que :fra o wago ref jagre nak wage ref mu to wona o kaw kayit kaga sax a jegan pour mu toloxona o kaw kayit xa a nda kat mu wacona a jega o ngapo nga ando na wara wago ñoot nu
+srr_33220 1 Locuteur2 1214.312 1233.418 <o,f1,male> o ñotno xin e o waña xaƴ kayit ke wo elew nak te refu surtout :fra rewe anda leeg leeg tiga gatu pin ke a jawa a ƴewa a una a soxa affaire :fra yoyu nda ku ga ona ka jego ngap
+srr_33220 1 Locuteur1 1233.418 1234.000 <o,f1,male> %hum%hum
+srr_33220 1 Locuteur2 1234.000 1235.621 <o,f1,male> ram gaga ndapa nde mukk rek
+srr_33220 1 Locuteur1 1235.621 1236.028 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1236.028 1246.890 <o,f1,male> ka mana soɓo o jangik bo o gat wac temps :fra ne ando na o ñoot noxin nak o fi dinge kaga o dako ƴutan o dako de jang rek o dako de jang parce :fra que :fra mu xaƴ tinona maga o soɓ kan
+srr_33220 1 Locuteur1 1246.890 1247.478 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1247.478 1263.235 <o,f1,male> jangri mu xaƴ tinona maga o soɓ kan maitre :fra ke ka cota yo kam école :fra ke ka lal ta a lala ngano lal o garan mbine jem fexey fi ge lalo nga maga fok rek te rok
+srr_33220 1 Locuteur2 1263.235 1278.670 <o,f1,male> fok rek o waag ke o jang ta nda me lal tonga e o ŋapo nge ten jega doye a lala ngan teno ndik o ndiko ngaga o gara nga o jem no ndeet ram a jega kadu ke in xaye sera a xupong classe :fra
+srr_33220 1 Locuteur1 1278.670 1279.320 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1279.320 1290.137 <o,f1,male> wala a refo cajagin math bo i sed rilo lal tiyo lamit yo wala login yo e kena na fi tel na ware fi it fop te jang reel
+srr_33220 1 Locuteur1 1290.137 1290.536 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1290.536 1303.321 <o,f1,male> nda fadan rek o bet saak le ƴutan feet rek o wet katinan kaga faxe kaga refe jam fadang fad rek o mbekan sac :fra le ƴuta de feet rek gaga refe jam kon wax deg jangre
+srr_33220 1 Locuteur2 1303.321 1327.002 <o,f1,male> ka ref ge ando na in moof nanag lemaan meke bo fetit waag ke fag te ref ɓekwal nen nen portable :fra axe yamo ref kam cour :fra o janga o concentrer :fra ox cour :fra ne prof :fra newo expliquer :fra o comprendre :fra a a jeki jeki portable :fra fi kam poos kewo anda perdre :fra a fil :fra naga
+srr_33220 1 Locuteur1 1327.002 1327.835 <o,f1,male> ka perturber :fra ong
+srr_33220 1 Locuteur2 1327.835 1347.201 <o,f1,male> ca :fra moom kaga moom vraiment :fra te ɓeki en :fra general :fra oxu kaw na no sam o nangan rokan kam classe :fra ñufeen o an geke ɓekong o baf cour :fra ne ɓekoŋ o baf donc :fra prof :fra ne naga expliquer :fra ang dara ba wara tong ƴook loox ciñof sax ba warong nan gilo xi o ndeet ken de fiya
+srr_33220 1 Locuteur1 1347.201 1347.869 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1347.869 1365.829 <o,f1,male> kaɗa bo feet a jeg giro de ben probleme :fra nda a naga expliquer :fra a sawaay portable :fra sonner :fra mana perturber :fra a o xelan moom vraiment :fra ƴutan kon kaga refan ke andona Cheikh vraiment :fra %e refe a ndat
+srr_33220 1 Locuteur1 1365.829 1382.327 <o,f1,male> waaw fogole im xalat na nuun nuwa yono yo fo in de mbako ɗung noro ne aref 784972525 4972525 pour :fra o wago yoon fo in nak ka ando a toqal na xani teyit aref %e cangale njaaƴ ke
+srr_33220 1 Locuteur1 1382.327 1401.223 <o,f1,male> fo yit na waguyo fiyo a xaƴ to xel njang re i deno yit comportement :fra ne te warna nja o école :fra a nga a na ndax yar ne mak we yar tig na yo ndax in way fo den bo ndiki parce :fra que :fra ga a Zancier o kiin ga aa paak we ndiki etaan ne yar tid na yo
+srr_33220 1 Locuteur1 1401.223 1419.708 <o,f1,male> est :fra ce :fra que :fra yar naga bo ndiki ne yarel parce :fra ce :fra que :fra netan nit o kiin comportement :fra ne ta saɗ ka watid mbinum a kala école :fra wen mbinum wajur ke () a xuɓan wala weran yaga fale kiran
+srr_33220 1 Locuteur2 1419.708 1420.276 <o,f1,male> wale ki rang
+srr_33220 1 Locuteur1 1420.276 1431.093 <o,f1,male> ka lem kan mi wayjur ke xaƴu mbines comme :fra miya leɓera ma keke fo kene wo jegiro droit :fra o lemba mo ten wala te wid maga kene damit ka de ka xas kanga dong
+srr_33220 1 Locuteur2 1431.093 1431.989 <o,f1,male> wawaw
+srr_33220 1 Locuteur1 1431.989 1434.726 <o,f1,male> te an kira yo wo kaga
+srr_33220 1 excluded_region 1434.726 1435.411 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur1 1435.411 1452.261 <o,f1,male> parce :fra que :fra wajura a sadang bo xa ɓiya xe den fiya yo ke andona a ɓek wayo ɓekwa parƴu wo wejuur ne anda mbeku kiro kaga wejur xana wat meke a ɓekox jupe :fra ne ando na de taka xe a dey ka ()mukk
+srr_33220 1 Locuteur1 1452.261 1472.877 <o,f1,male> jek ke yaal mbin xano ga yaal mbin alka ɓoyit mbap ne a kanda alka ligey ka fi kino kon xa mbiya xewo fiya nga wara and ni xa keke in fikeruma a refo koro xe a refo tewo xe keke reffu jiko no kino paax
+srr_33220 1 Locuteur1 1472.877 1491.500 <o,f1,male> parce :fra que :fra te k warona travailler :fra kam mbine bo o kino xe kam mbine o mbiyo le o taga nanganno a comportement :fra neke waro nan ɓekwal neke waro mbekoox ta neke waro nan watan neke o nan ka o kino xu bugo nga cooɗ respect :fra no ne nano nga donga a ndet ka pour a coɗong respect :fra
+srr_33220 1 excluded_region 1491.500 1492.114 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur2 1492.114 1498.366 <o,f1,male> a ɓeka Cheikh ga a ɓeka wa giro wagiro [conv] rim mbasil ndew te xes no mbin
+srr_33220 1 Locuteur1 1498.366 1498.848 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1498.848 1503.647 <o,f1,male> te xes no mbinof a ɓeke ke ɓekona a nana wo nan nun
+srr_33220 1 excluded_region 1503.647 1504.188 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur2 1504.188 1505.027 <o,f1,male> wa wage jeg
+srr_33220 1 Locuteur1 1505.027 1505.898 <o,f1,male> we ref
+srr_33220 1 Locuteur2 1505.898 1508.322 <o,f1,male> in rencontre :fra ong une :fra anecdode :fra
+srr_33220 1 Locuteur1 1508.322 1509.061 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1509.061 1514.253 <o,f1,male> o kino xe ka ref u fo mbas lum a fañ to fañit bo mboyin ke
+srr_33220 1 Locuteur1 1514.253 1514.923 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1514.923 1520.324 <o,f1,male> te faño fayin mboyin te faño pale na muj fi ka ji mbap
+srr_33220 1 Locuteur1 1520.324 1521.393 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1521.393 1522.984 <o,f1,male> jik pantalon :frav
+srr_33220 1 Locuteur1 1522.984 1523.678 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1523.678 1527.910 <o,f1,male> a ɓoy nin bo ()
+srr_33220 1 Locuteur1 1527.910 1528.688 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1528.688 1531.291 <o,f1,male> a rom njaaƴ ke a gar
+srr_33220 1 Locuteur1 1531.291 1531.759 <o,f1,male> %hum %hum
+srr_33220 1 Locuteur2 1531.759 1542.518 <o,f1,male> a kar a rom njaƴke fiyo ne a gar njaƴo nge fi te ƴuf ale baab baab ke ɓekwona kat neke te a kan fog uye ka faax di
+srr_33220 1 Locuteur1 1542.518 1543.143 <o,f1,male> wawaw
+srr_33220 1 Locuteur2 1543.143 1547.576 <o,f1,male> rekat nene nu ɓekoor ta fogam ka faax de ten taxu ten ɓekaxam te kon kay faxe
+srr_33220 1 Locuteur1 1547.576 1548.813 <o,f1,male> kon kay xaƴ yo
+srr_33220 1 Locuteur2 1548.813 1556.999 <o,f1,male> maga xaƴitu a ɓekwa laga [rire_en_fond] parce :fra que :fra ndetan maga Zancier a de kayo o sola nga naga
+srr_33220 1 Locuteur1 1556.999 1557.446 <o,f1,male> e
+srr_33220 1 Locuteur2 1557.446 1563.397 <o,f1,male> ɓekwa ɓkwa nan naga kon bug na xaƴfoko nan naga wala o fi o continuer :fra
+srr_33220 1 Locuteur1 1563.397 1563.881 <o,f1,male> wawaw
+srr_33220 1 Locuteur2 1563.881 1565.769 <o,f1,male> anda paxu moom paxer o leŋ nena roya
+srr_33220 1 Locuteur1 1565.769 1567.711 <o,f1,male> anda wajur ne wax deg
+srr_33220 1 excluded_region 1567.711 1569.244 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur1 1569.244 1570.570 <o,f1,male> a wata mam o kanda
+srr_33220 1 Locuteur2 1570.570 1571.165 <o,f1,male> e
+srr_33220 1 Locuteur1 1571.165 1572.674 <o,f1,male> keke ɓekwona
+srr_33220 1 Locuteur2 1572.674 1573.026 <o,f1,male> ey
+srr_33220 1 Locuteur1 1573.026 1576.187 <o,f1,male> kon wara an nak kete ɓek wa kon warav
+srr_33220 1 excluded_region 1576.187 1576.873 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur1 1576.873 1580.659 <o,f1,male> parce :fra que :fra o kaɗang bo leye wejur newo kene ɓekwon faxe
+srr_33220 1 Locuteur2 1580.659 1581.106 <o,f1,male> wala
+srr_33220 1 Locuteur1 1581.106 1582.535 <o,f1,male> te wo o andoox tin ba a genu nawo
+srr_33220 1 Locuteur2 1582.535 1583.086 <o,f1,male> ey
+srr_33220 1 Locuteur1 1583.086 1584.796 <o,f1,male> kon wara an kaga fiyo na nakn faaxe
+srr_33220 1 Locuteur2 1584.796 1587.287 <o,f1,male> anda ka bug no fañit to waage jang xa loq a xawan
+srr_33220 1 Locuteur1 1587.287 1587.736 <o,f1,male> a xawan
+srr_33220 1 Locuteur2 1587.736 1589.735 <o,f1,male> wage a ñandan ñaɗ ba foñan
+srr_33220 1 Locuteur1 1589.735 1590.130 <o,f1,male> wage
+srr_33220 1 Locuteur2 1590.130 1594.407 <o,f1,male> ndiki te fi ne mbin a wag a faxn te te ndapan a faxa nge na te xaƴ
+srr_33220 1 excluded_region 1594.407 1595.085 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur2 1595.085 1607.579 <o,f1,male> kon kaga ɓekin wejuur nu ref na rek wara xaƴit xel xa ɓiya xe wowala xaƴit xel bu baxa baxa baax xa ɓiya xewo parce :fra que :fra xano lug nel xa ɓiya xewo na kawit oden de
+srr_33220 1 Locuteur2 1607.579 1621.275 <o,f1,male> ila yowmi dini xano lumb nel xa ɓiya xe wo na kawit no den xano lug nel ko parce :fra que :fra ku waro nga no ɓoya nge wo bo neen te jeg ka arefa nga o tewo bo neen te jeg ka o kor ka jeg ke waronga no ten
+srr_33220 1 Locuteur2 1621.275 1642.209 <o,f1,male> soɓa nga o koro ka jeg ke waro nga no ten bo nene te jeg ka o tew me yit wejuur comportement :fra no ɓiy ne bafta no wejuur Zancier ga a o ya wala faap ne e nana yo o ɓiyo nge rima nge naga nan ka nana ke leyuma yo
+srr_33220 1 excluded_region 1642.209 1642.888 <o,,unknown> ignore_time_segment_in_scoring
+srr_33220 1 Locuteur2 1642.888 1657.120 <o,f1,male> parce :fra que :fra okiin ndetan o ɓiy ya a jeg comportement :fra mbaaxu a yarel bo o ga angaan o an xeke lema nge an ref ya xe den o leya a diwo ref ya den o leya xa diwo xaga de
+srr_33220 1 Locuteur2 1657.120 1673.810 <o,f1,male> ne ja tuxa a ndeto kiin kon xeke keke a nan na neke a nan na giseran waye lama nge e a diw ref ya den a ley ax kaga de betiram ndax ya de ne fo ne wala ba de nen fo ne me kaga ten ref gaci
+srr_33220 1 Locuteur2 1673.810 1682.257 <o,f1,male> te ref gaci anda a lema nge o ɓiyo faxa nge fopin bukano rimo mais :fra o ɓiya bona nga xana ɓak no me ya ane
+srr_33220 1 Locuteur1 1682.257 1682.733 <o,f1,male> wawaw
+srr_33220 1 Locuteur2 1682.733 1696.931 <o,f1,male> fopone sax cote :fra laga ka ƴuf ka yo responsable :fra te den parce :fra que :fra ka lem ka wo fe ref na ya ane wo setanun wo war u fi ne fo ne me kaga kam no mbine jalog no nuun fop nu mofo nuun waxtaan tayo
+srr_33220 1 Locuteur2 1696.931 1712.377 <o,f1,male> jamano kam mbine surtout :fra fo wajuur xa ɓiya xe wo njamboot ke wo ga a wajuur nu ref na Zancier a waran fiya chaque :fra o ŋol a xoyit a fi reunion :fra de :fra famille :fra a ndetan parce :fra que :fra o ŋolo ŋu ref na ()

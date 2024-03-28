@@ -1,0 +1,391 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:42 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by PROPRIETAIRE, version 4 of 230217
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_42011 1 locuteur1 0.000 25.589 <o,f1,male> [musique]
+fuc_42011 1 locuteur1 25.589 34.684 <o,f1,male> [r] bandiraɓe sehilaɓe heɗiyankoɓe on kiiri jaam %e biɗon kala ɗo e haalirde e GFM %e Goudira FM 95.1
+fuc_42011 1 locuteur1 34.684 45.040 <o,f1,male> [r] %e ummorade [mic] e nder Goudiri ga Goudiri Sare eyyi min calmini mon auditeur :fra uji ɗi kala heeɗiyanke heɗotoɗo oɗo wabtu min calmini mon inde mon e yettode moɗon
+fuc_42011 1 locuteur1 45.040 59.113 <o,f1,male> eyy [bb] nde biya onon aussi :fra e kala auditeur :fra gonnoɗo e * ene heeɗo GFM Goudira FM biɗo en %e juulen mo wuri e Allah hollimin hikka yo Allah hollumen mo wuri %e tawa min ɓeydi min gustaki
+fuc_42011 1 locuteur1 59.113 79.402 <o,f1,male> bandiraɓe heeɗiyankoɓe %e min gari hande e nder studio :fra o miɗen joogui ɗo mo * karalla karalla to mawɗo mawɗo to banggal ndeema [r] %e omona e nder studio :fra o e manin baw yewttidde e makko gam %e artirde e oɗo saaha e o wabtu joni [r] %e holko * gartam ndeema to banggal ndeemowo
+fuc_42011 1 excluded_region 79.402 93.236 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur1 93.236 105.577 <o,f1,male> %e hakkude mum e joni bon :fra presque :fra en bawi wide ene ɓurimo duuɓi capanɗe joyyi ou :fra bien :fra capanɗe joy* joyyi e tati ou :fra bien :fra capanɗe joyyi e jeegom eyyi Sénégal ina mantano no feewi to banggal ndeema
+fuc_42011 1 locuteur1 105.577 115.280 <o,f1,male> e gati sa daari to banggal %e ndeema guerte e to banggak ndeema guerte sa dari adouna o foof Sénégal daarino koye darɗe tataɓo [mic]
+fuc_42011 1 locuteur1 115.280 118.651 <o,f1,male> [mic] troisième:fra prodcteur :fra mondial :fra d':fra arachide :fra en :fra 1963
+fuc_42011 1 locuteur1 118.651 128.081 <o,f1,male> par :fra ce :fra que :far premier :fra pays :fra producteur :fra ko ko Inde wonno deuxième :fra pays :fra producteur :fra ici :fra en :fra afrique :fra c' :fra était :fra le : fra Nigèria et :fra troisième :fra pays :fra producteur :fra c' :fra le :fra Sénégal
+fuc_42011 1 locuteur1 128.081 142.153 <o,f1,male> [bb] Sénégal yeehino % o ɗiɗon hitande ha heeɓi des :fra tonnes :fra jusqu' :fra à :fra 1500000 milles :fra tonnes :fra e to banggal ndeema guerte [mic] eyyi ɗum holko saabi e nder leydi ndi min jii société :fra ji ina garno e nder Sénégal gay gam wawde sodde ɗeɗon guerte
+fuc_42011 1 locuteur1 142.153 158.032 <o,f1,male> hono oɗon société :fra hono biyateɗo MORAL et :fra PROM ene jooɗi no gay e nder Sénégal foof kala to janoɗa mo PROM o on %e société :fra kanko o %e sodanno guerte Sénégal o ene nawa ɗum caggal leydi ou :fra bien :fra soda guerte ɗe waɗa ɗum guerte muɗum
+fuc_42011 1 locuteur1 158.032 175.326 <o,f1,male> eyyi ɗum non ina waɗi e nokku aussi :fra mo ganduɗa hoorema to ndeema guerte ɓurno hewde to wiyate bassin :fra arachidier :fra ɗum ko hedde Kaolack en e nde ɗum ɗon foof waɗi joɗiɓo min gandi [r] ɗum ko 1963 taw nden population:fra Sénégal yarata ko presque :fra 5500000 habitants :fra
+fuc_42011 1 locuteur1 175.326 185.234 <o,f1,male> [b] hande hande on :fra est :fra arrivé 14000000 d' :fra habitant :fra ha hande ɗo %e ko holno o anduɓe kaalirni leydi foof wawa caggal ndeema
+fuc_42011 1 locuteur1 185.234 195.418 <o,f1,male> ɗum non so taw leydi wawa ɓamtade caggal ndeema ene wodi non ko * ndeema ene foti waɗe ene foti toppitede gati sa nani biɗa yaaha biɗa janggoya yo taw reeduma ne heewi
+fuc_42011 1 locuteur1 195.418 198.908 <o,f1,male> sa daarima biɗayaha biɗa daaroya jawdi yo taw reedu ma ene hewi
+fuc_42011 1 locuteur1 198.908 203.326 <o,f1,male> sa nani aussi :fra * biɗa waɗa dani biɗa watta dani bon :fra il :faut :far reeduma hewa
+fuc_42011 1 locuteur1 203.326 209.961 <o,f1,male> pour :fra que :fra reedu ndu hewe il :fra faudrait :fra que :fra keɓa * ko ñamɗa ha kaara bawa wadde on liguey goɗɗo
+fuc_42011 1 locuteur1 209.961 214.755 <o,f1,male> [r] eyyi ɗum non hono %e haaliyankoɓe kaaliranno ɓe bi e sac :fra ɓolo darotako
+fuc_42011 1 locuteur1 214.755 218.771 <o,f1,male> ɗum non biɗen gandi ndeema wona saara e ɓamtare leydi
+fuc_42011 1 locuteur1 218.771 227.063 <o,f1,male> jonnon %e min gandi e société :fra ji amen ɗi bon :fra hande hande ko foti wadde ko * ko ɓɓeydude %e hokkude ndeema o doole
+fuc_42011 1 locuteur1 227.063 235.273 <o,f1,male> nden min bino ko guerte taw nden bon :fra on :fra était :fra à :fra 5500000 habitants :fra hande hande bon :fra on :fra est :fra à :fra 14000000 d' :fra habitants
+fuc_42011 1 locuteur1 235.273 244.493 <o,f1,male> mais :fra ndeema guerte no wano hankki ni e hande ko pro* ine usti miɗen gandi ɗum no fewi mais :fra hande so population :fra ɓeydi il :fra faut :fra que yimɓeɓe ko ñamata ko ɓuura heewde
+fuc_42011 1 locuteur1 244.493 259.964 <o,f1,male> e ɗɗum non diversification :fra des :fra cultures :fra ene nammi aussi :fra kala mo ganduɗa hoorema ko ndeemateri e leydi ndi [r] %e yimɓe ne foti wawde reemde ɗum ɗon eyyi so oɗon reemama non ma ɗum waw wallidde yimɓeɓe non :fra seulement :fra %e ndeema ñama ndeema jeeya
+fuc_42011 1 locuteur1 259.964 274.027 <o,f1,male> et :fra aussi :fra bon :fra biɗa gandi hande somi daari exemple :fra ko min ɓamata %e yeeru min biyata ko e kala to banggal ndeema Amérique woni leydi mo ganɗa horema leydi ɓuurɗo wonde e %e hebde gaalu to banggal ndeema
+fuc_42011 1 locuteur1 274.027 288.046 <o,f1,male> ɗum non e nder Sénégal hande eɗen gandi * 1960 ɓenni eyyi komin baɗi hen constaté :fra wondi ko hunde goto état :fra du :fra Sénégal waɗi feere pour :fra que ɓiɓɓe leydi ndi jangga ɓe bawa hebdemo karallagal kessal to banggal ndeema
+fuc_42011 1 locuteur1 288.046 310.825 <o,f1,male> e hande hande biɗen gandi * ina waɗi des :fra genres :fra telque :fra le :fra ch centre :fra d' :fra expension :fra rural :fra waɗi ministère :fra de :fra l' :fra agriculture :fra au :fra Sénégal ene waɗi won minitère :fra uji %e won ministère :fra uji %e ɗum foof ligguey mum tan ko wawde hokkude gaalu ndeema place :fra makko to banggal %e ɓamtare leydi ndi
+fuc_42011 1 locuteur1 310.825 331.031 <o,f1,male> hande non an aɗa ɗo bon :fra min jutnata haalaka e ɓo min namdoma inde ma e yettode ma bawa haalnude min e nden min gara min nata e nder yewterede [r] par :fra ce :fra que :fra titore titode yewtere nde ko holɗum holno min bawir jooguitade ou :fra bien :fra gollirde beele bon :fra o gartam ndeema ene heewa
+fuc_42011 1 locuteur1 331.031 345.241 <o,f1,male> hande min nadde e yewtere nde min dokkuma micro :fra bawa salmodirde e bandiraɓe ɓe après :fra nden min gara min nata e émission :fra no hanniri ni bissimilla ma musidɗo indema e yettodema kalna auditeur :fra uji ɗi pour :fra que :fra min bawa andudema taw
+fuc_42011 1 locuteur2 345.241 347.696 <o,f1,male> ko non tigui monsieur Kane
+fuc_42011 1 locuteur1 347.696 348.046 <o,f1,male> Kante
+fuc_42011 1 locuteur2 348.046 350.262 <o,f1,male> Kante mi salmini auditeur :fra uji
+fuc_42011 1 locuteur1 350.262 350.671 <o,f1,male> [bb]
+fuc_42011 1 locuteur2 350.671 351.808 <o,f1,male> mi salmini musidɗagal
+fuc_42011 1 locuteur1 351.808 352.258 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 352.258 356.038 <o,f1,male> min miɗo wiye Tamsir Sabaly komi technicien :fra agriculture :fra et :fra génie :fra rural :fra
+fuc_42011 1 locuteur1 356.038 356.549 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 356.549 358.264 <o,f1,male> ndal biɗa joɗani ɗo pour :fra deemal
+fuc_42011 1 locuteur1 358.264 358.564 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 358.564 360.629 <o,f1,male> ko min e monsieur :fra Ba ko minen gondi bureau :fra
+fuc_42011 1 locuteur1 360.629 360.819 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 360.819 361.706 <o,f1,male> kañum woni chef :fra amen
+fuc_42011 1 locuteur1 361.706 362.043 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 362.043 366.300 <o,f1,male> jonnon neɗɗo ari ɗo ko arde ɗo pour :fra jang *deemal tan janggui
+fuc_42011 1 locuteur1 366.300 366.687 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 366.687 369.141 <o,f1,male> heddo non ko janggui ndeema ko liggorade ɗum kadi
+fuc_42011 1 locuteur1 369.141 369.390 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 369.390 371.514 <o,f1,male> mataw ko ɗum addi kam ɗo kadi
+fuc_42011 1 locuteur1 371.514 371.740 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 371.740 373.414 <o,f1,male> ha joni e ɓeydidde hen
+fuc_42011 1 locuteur1 373.414 373.697 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 373.697 376.367 <o,f1,male> woda ko gokkumi hen musidɓeɓe woda ko kemmi hen
+fuc_42011 1 locuteur1 376.367 376.557 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 376.557 377.970 <o,f1,male> avant :fra tout :fra biɗa salmina ɗumen
+fuc_42011 1 locuteur1 377.970 378.155 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 378.155 379.123 <o,f1,male> bisimilla
+fuc_42011 1 locuteur1 379.123 381.685 <o,f1,male> %e a jaarama %e Tamsir
+fuc_42011 1 locuteur2 381.685 381.990 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 381.990 386.526 <o,f1,male> %e Sabaly %e min bima bisimilla ma e ari e wabtu wabtu ma
+fuc_42011 1 locuteur2 386.526 386.883 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 386.883 389.385 <o,f1,male> gati koye ndemirare presque :fra ko joni ndungungu fudɗi
+fuc_42011 1 locuteur2 389.385 389.683 <o,f1,male> ko non
+fuc_42011 1 locuteur1 389.683 392.178 <o,f1,male> eyyi joni to banggal ndeema hande hande hande
+fuc_42011 1 locuteur2 392.178 392.481 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 392.481 395.229 <o,f1,male> e komin bawi hen namnadema
+fuc_42011 1 locuteur2 395.229 395.613 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 395.613 396.385 <o,f1,male> min bima
+fuc_42011 1 locuteur2 396.385 396.731 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 396.731 400.048 <o,f1,male> holko wawi %e wallide * deemowo
+fuc_42011 1 locuteur2 400.048 400.345 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 400.345 406.449 <o,f1,male> ha bele ene wawa [mic] hebdemo * ene soña ko ganduɗa [bg] hoorema o wawa wurde hen o wawa yeede hen
+fuc_42011 1 locuteur2 406.449 406.753 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 406.753 411.224 <o,f1,male> holko wawi ɓeydudemo oto dañal ndeema o ndu %e oɗo e ndeema
+fuc_42011 1 locuteur2 411.224 416.465 <o,f1,male> ko non tigui monsieur :fra Kanté ko question :fra joguiɗo fulla e fayida
+fuc_42011 1 locuteur2 416.465 418.895 <o,f1,male> saabu a daari duɓi men %e yesso
+fuc_42011 1 locuteur1 418.895 419.180 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 419.180 420.900 <o,f1,male> mawɓe men ko ndeemanno no keeɓa
+fuc_42011 1 locuteur1 420.900 421.196 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 421.196 422.796 <o,f1,male> joni deemal men ne usto tan
+fuc_42011 1 locuteur1 422.796 422.980 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 422.980 424.535 <o,f1,male> yimɓe nani hen kono ha joni
+fuc_42011 1 locuteur1 424.535 424.774 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 424.774 437.068 <o,f1,male> yimɓe ko dañta o saaha ne famɗi donc :fra ɗum foti [conv] joni ko bey daaren feere hoɗum ndeemaka hono ɓeydorta joni sa dari hono ndeema ɓeydata hade foof d' :fra abord :fra ayi ɗe ndeema ko bita ko leydi
+fuc_42011 1 locuteur1 437.068 437.462 <o,f1,male> [bb]
+fuc_42011 1 locuteur2 437.462 438.890 <o,f1,male> ko leydi woni foof e ndeema
+fuc_42011 1 locuteur1 438.890 439.134 <o,f1,male> [bb]
+fuc_42011 1 locuteur2 439.134 443.080 <o,f1,male> donc :fra si yi ndin leydi koɓe daren hono bawen ɗum joogorde
+fuc_42011 1 locuteur1 443.080 443.428 <o,f1,male> [bb]
+fuc_42011 1 locuteur2 443.428 448.358 <o,f1,male> donc :fra si yi ndin leydi koɓe dari hono bawir ɗum joogorde on suman kadi hono bawaten addude ɗum e leydi he
+fuc_42011 1 locuteur1 448.358 448.661 <o,f1,male> [bb]
+fuc_42011 1 locuteur2 448.661 453.826 <o,f1,male> ɗum foof ne ɓeyda deemal meɗen ko ɓurata won wonde fulla e fayida ko pour :fra leydi ndi
+fuc_42011 1 locuteur1 453.826 454.047 <o,f1,male> [bb]
+fuc_42011 1 locuteur2 454.047 456.315 <o,f1,male> saabu ko leydi ndi woni suudu gawri
+fuc_42011 1 locuteur1 456.315 456.841 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 456.841 467.532 <o,f1,male> a andi ko leydi ndi woni suudu gawri saabu ko ndeemeten ko kala ko woni hen ko reemete woni ko guerte woni ko bayeri woni ko %e kaba woni ko makkari woni kala ko reemete tan koy e leydi watte
+fuc_42011 1 locuteur1 467.532 467.738 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 467.738 468.772 <o,f1,male> ko ɓuuri ko ganduɗen ko
+fuc_42011 1 locuteur1 468.772 469.191 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 469.191 472.006 <o,f1,male> yo ndin leydi non ko ɓe daren hono bawɗen ɗum joogorde
+fuc_42011 1 locuteur1 472.006 472.418 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 472.418 473.386 <o,f0,male> taw en ƴakani ɗum
+fuc_42011 1 locuteur1 473.386 473.719 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 473.719 475.536 <o,f0,male> tawa kadi ina waw andande en ko jiɗɗen ko
+fuc_42011 1 locuteur1 475.536 475.838 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 475.838 479.681 <o,f0,male> ko ɗum woni vraiment :fra kowoni to s* o dal
+fuc_42011 1 locuteur1 479.681 480.035 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 480.035 480.669 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur1 480.669 486.711 <o,f0,male> eyyi ko dum woni gongua [bg] no biruɗani %e waɗino duuɓi dumunna duuɓi sappo nogas capan tati
+fuc_42011 1 locuteur2 486.711 487.061 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur1 487.061 490.956 <o,f0,male> eyyi kala ko reemeteno *mi ɗen gandi * joomum guessa famɗa
+fuc_42011 1 locuteur2 490.956 491.376 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur1 491.376 493.680 <o,f0,male> taw bon :fra jomum coñata hen ene heewi
+fuc_42011 1 locuteur2 493.680 493.969 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur1 493.969 495.956 <o,f0,male> holko watta ɗum holko saabi ɗum
+fuc_42011 1 locuteur2 495.956 499.493 <o,f0,male> ɗon ko saabi ɗum on wabtu en baawa wiide ladde nde ko ladde hesere
+fuc_42011 1 locuteur1 499.493 499.900 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 499.900 501.094 <o,f0,male> sa a daari hande
+fuc_42011 1 locuteur1 501.094 501.644 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 501.644 506.493 <o,f0,male> dal polpulation :fra no beydori ni nokkuji kewɗi ndemtanoɗi ko gonaɗi hande
+fuc_42011 1 locuteur1 506.493 506.898 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 506.898 509.757 <o,f0,male> donc :fra ko ndeemten ko ko jooguiɗen e ndeemen he wona ko heewi
+fuc_42011 1 locuteur1 509.757 510.052 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 510.052 516.587 <o,f0,male> yo heb ndin leydi ndi ndeematen ndi eɗen ndeematan eɗen guitte hen par :fra ce :fra que :fra no wayo kala ko ndeemɗa hen haada soñde ɗum sa soñi
+fuc_42011 1 locuteur1 516.587 516.983 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 516.983 519.317 <o,f0,male> no way ko ittirta e leydi he ko ñamata ɗo
+fuc_42011 1 locuteur1 519.317 519.544 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 519.544 524.117 <o,f0,male> ko non kadi naɓirta ɗum joni ɗum ko guittuɗa hen ko be ba a feere ko badɗaɓe remplacé :fra
+fuc_42011 1 locuteur1 524.117 524.423 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 524.423 526.361 <o,f0,male> joni si woni duuɓi foof aɗa reema
+fuc_42011 1 locuteur1 526.361 526.525 <o,f0,male> [bb]
+fuc_42011 1 locuteur2 526.525 547.827 <o,f0,male> a wawani hen wadde goɗɗum ko gandanta ne watɗum remplacé :fra joni [bb] ɓamen exemple :fra sa reemi makkari [bb] joni an naɓa coña makkari ndi naɓa guitta gawƴe ɗe kadi naɓa [bb] joni ɗum foof ne wodi ko itti e nder leydi he [bb] ala ko bawta hen addude %e ala ko ma sakka kay si watti to waɗɗa duuɓi tati ha duuɓi nayyi ma sakka kay ko bey ko woni e leydi ko usto
+fuc_42011 1 locuteur2 547.827 550.740 <o,f0,male> ko ndeemanoɗa ko keeɓata duuɓi a wawata hebde ɗum ko arta
+fuc_42011 1 locuteur1 550.740 551.038 <o,f0,male> [bb]
+fuc_42011 1 locuteur2 551.038 554.874 <o,f0,male> ko ɗum addi vraiment :fra leydi ndi joogui fulla e fayida e ndeemal he [bb]
+fuc_42011 1 locuteur2 554.874 561.711 <o,f0,male> donc :fra ndi leydi se en daari hayi e nder leydi he ne wodi piiƴi ɗi gandanta ko ɗin waɗi déterminé :fra pour :fra ko bawa reemde
+fuc_42011 1 locuteur1 561.711 562.116 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 562.116 563.380 <o,f0,male> par :fra ce :fra * leydi ndeemate ndi ndi
+fuc_42011 1 locuteur1 563.380 563.617 <o,f0,male> [bb]
+fuc_42011 1 locuteur2 563.617 565.662 <o,f0,male> leydi ndi ɗi joogui façon :fra ji
+fuc_42011 1 locuteur1 565.662 565.963 <o,f0,male> [bb]
+fuc_42011 1 locuteur2 565.963 568.076 <o,f0,male> donc :fra ko wiyate porosité :fra
+fuc_42011 1 locuteur1 568.076 568.409 <o,f0,male> [bb]
+fuc_42011 1 locuteur2 568.409 569.616 <o,f0,male> e ko wiyate perméabilité :fra
+fuc_42011 1 locuteur1 569.616 569.864 <o,f0,male> [bb]
+fuc_42011 1 locuteur2 569.864 571.634 <o,f0,male> a nani ɗum foo ni e leydi he
+fuc_42011 1 excluded_region 571.634 575.110 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 excluded_region 575.110 575.118 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur2 575.118 576.892 <o,f0,male> joni porosité :fra ko biyaten hen
+fuc_42011 1 locuteur1 576.892 577.313 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 577.313 578.563 <o,f0,male> ko leydi ndi no forme :fra morini
+fuc_42011 1 excluded_region 578.563 578.961 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 excluded_region 578.961 580.346 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 excluded_region 580.346 581.386 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur2 581.386 581.709 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 581.709 585.107 <o,f0,male> par :fra ce :fra que : fra ko porosité :fra ko wawata addue how ndiɗo leydi
+fuc_42011 1 locuteur1 585.107 585.414 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 585.414 586.732 <o,f0,male> no wawi yawtinde ndiyam
+fuc_42011 1 locuteur1 586.732 587.095 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 587.095 588.842 <o,f0,male> walla ndi ɗo leydi wawa yawtinde ndiyam
+fuc_42011 1 locuteur1 588.842 589.155 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 589.155 591.695 <o,f0,male> sa ƴewi ɗum a ƴeewi leydi pareri
+fuc_42011 1 locuteur1 591.695 591.912 <o,f0,male> [bb]
+fuc_42011 1 excluded_region 591.912 592.882 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur1 592.882 593.239 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 593.239 596.586 <o,f0,male> a tawat ndiyam ko dato e nder leydi pareri ko dartotako ɗum ndiyam to
+fuc_42011 1 locuteur1 596.586 596.965 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 596.965 599.114 <o,f0,male> joni leggal ngal gawata ngal
+fuc_42011 1 locuteur1 599.114 599.487 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 599.487 600.483 <o,f0,male> a ngal sohli
+fuc_42011 1 locuteur1 600.483 600.942 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 600.942 602.985 <o,f0,male> air :fra hendu pour :fra ngal foofa
+fuc_42011 1 locuteur1 602.985 603.270 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 603.270 608.299 <o,f0,male> e ngal sohli ndiyam e ngal sohli kadi wuleede [bb] pato ɗum foof leyɗe leggal no sohli ɗum
+fuc_42011 1 locuteur1 608.299 608.543 <o,f0,male> [bb]
+fuc_42011 1 locuteur2 608.543 613.974 <o,f0,male> joni leggal ngal gandanta ngal kanko wawata wonde ko leydi ndi gandanta ta wawata wadde ndiyam
+fuc_42011 1 locuteur2 613.974 615.619 <o,f0,male> [mic] taw ndiyam dartako hen
+fuc_42011 1 locuteur1 615.619 615.921 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 615.921 618.744 <o,f0,male> joni si a waɗi non ngal leggal to gandanta to ndiyam darto
+fuc_42011 1 locuteur1 618.744 619.094 <o,f0,male> [mic] %hum %hum
+fuc_42011 1 locuteur2 619.094 622.177 <o,f0,male> andi ala ala [mic] saggo kay ngal wawa hebde ko foti hebde ko
+fuc_42011 1 locuteur1 622.177 622.573 <o,f0,male> %hum %hum [b]
+fuc_42011 1 locuteur2 622.573 626.867 <o,f0,male> ɗum ɗi tawa he gandugol porosité :fra [mic] leydi ndi joguiɗa ɗum woni tagore nde [b]
+fuc_42011 1 locuteur1 626.867 627.317 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 627.317 634.423 <o,f0,male> refta hen leydi ndi [bb] ko ɓe ganɗa kadi hono leydi ndi piji mu ɗe gorde gabbe mum leydi ɗe
+fuc_42011 1 excluded_region 634.423 634.847 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur2 634.847 637.252 <o,f0,male> ko gabbe %e gabbe mawɗe
+fuc_42011 1 locuteur1 637.252 637.562 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur1 637.562 638.512 <o,f0,male> ou :fra bien :fra gabbe tosoke
+fuc_42011 1 locuteur2 638.512 638.749 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 638.749 640.131 <o,f0,male> ko gabbe bawɗe jaggude ndiyam
+fuc_42011 1 locuteur1 640.131 640.312 <o,f0,male> %hum %hum
+fuc_42011 1 locuteur2 640.312 641.910 <o,f0,male> walla wona gabbe bawoɗe jaggude ndiyam
+fuc_42011 1 locuteur1 641.910 642.205 <o,f0,male> %hum %hum [mic]
+fuc_42011 1 locuteur2 642.205 643.178 <o,f0,male> ɗum foof no tawa hen [mic]
+fuc_42011 1 locuteur1 643.178 643.407 <o,f0,male> %hum %hum [mic]
+fuc_42011 1 locuteur2 643.407 644.100 <o,f0,male> eyye
+fuc_42011 1 locuteur1 644.100 647.750 <o,f1,male> eyyi [mic] eyyi no biruɗa ni %e sa wi tan ndeema
+fuc_42011 1 locuteur2 647.750 647.949 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 647.949 651.176 <o,f1,male> eyyi biɗamo paral dañal ndeema faawi koye leydi
+fuc_42011 1 locuteur2 651.176 651.692 <o,f1,male> eyyi
+fuc_42011 1 locuteur1 651.692 652.482 <o,f1,male> leydi
+fuc_42011 1 locuteur2 652.482 652.830 <o,f1,male> leydi
+fuc_42011 1 locuteur1 652.830 657.954 <o,f1,male> eyyi leydi o no biruɗa ni hono leydi baɗɗo gabbe jaggowo ndiyam mo jaggata ndiyam
+fuc_42011 1 locuteur2 657.954 658.308 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 658.308 658.827 <o,f1,male> goɗɗum en
+fuc_42011 1 locuteur2 658.827 659.070 <o,f1,male> %hum %hum
+fuc_42011 1 excluded_region 659.070 663.176 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur2 663.176 663.533 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 663.533 667.035 <o,f1,male> ene waɗi mo parallu kala %e ko kala deemateri namdi
+fuc_42011 1 locuteur2 667.035 667.277 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 667.277 672.762 <o,f1,male> [b] ndeemateri kal * beele neɗɗo ene wawi ɓamde %e hunde tan jaaha
+fuc_42011 1 locuteur2 672.762 673.142 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 673.142 678.985 <o,f1,male> tawa a anda meydi tan jaaha gawoya hen est :fra ce :que fra aussi :fra [b] ene ɓeyda %e ene ɓeyda dañal joomum
+fuc_42011 1 locuteur2 678.985 680.744 <o,f1,male> ko ɗum ɗon woni ko kalten ni ko
+fuc_42011 1 locuteur2 680.744 681.675 <o,f1,male> saabu leydi ndi [mic]
+fuc_42011 1 excluded_region 681.675 683.078 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur1 683.078 683.503 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 683.503 685.743 <o,f1,male> ɗi wodi leydi ɗi biyaten sol :fra sableux :fra
+fuc_42011 1 locuteur1 685.743 686.148 <o,f1,male> [mic] %hum %hum
+fuc_42011 1 locuteur2 686.148 686.878 <o,f1,male> [mic] a anani
+fuc_42011 1 locuteur1 686.878 687.132 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 687.132 691.191 <o,f1,male> donc :fra wodi culti* ji ɗi gandanta deemanterihe ɗin koye sol :fra sableux :fra bawata wonde
+fuc_42011 1 locuteur1 691.191 691.541 <o,f1,male> %hum %hum [b]
+fuc_42011 1 locuteur2 691.541 693.591 <o,f1,male> [mic] wodi leydi ndi biyatedi sol :fra lumineux :fra
+fuc_42011 1 locuteur1 693.591 694.011 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 694.011 697.895 <o,f1,male> donc :fra ɗum kadi ne wodi mo gandanta ko ndi ɗiɗo deemanteri bawata hen yaade
+fuc_42011 1 locuteur1 697.895 698.191 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 698.191 700.319 <o,f1,male> wodi kadi leydi biyatedi sol :fra argileux :fra
+fuc_42011 1 locuteur1 700.319 700.778 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 700.778 702.713 <o,f1,male> ɗum kadi wodi ndeemanteri jaahodi hen
+fuc_42011 1 locuteur1 702.713 703.071 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 703.071 703.487 <o,f1,male> ɗi foof
+fuc_42011 1 locuteur1 703.487 703.845 <o,f1,male> [b] %hum %hum
+fuc_42011 1 locuteur2 703.845 709.762 <o,f1,male> ndem * ɗi foof leyɗe ndi foof leydi leydi foof ne densité :fra mo gandanta a ari on densité :fra intervale :fra muɗum
+fuc_42011 1 locuteur1 709.762 710.181 <o,f1,male> [b] %hum %hum
+fuc_42011 1 locuteur2 710.181 712.428 <o,f1,male> koye ndi ɗo leydi gonɗa walla koye nd ɗo leydi gonɗa [mic]
+fuc_42011 1 locuteur1 712.428 712.935 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 712.935 714.314 <o,f1,male> paa :fra exemple :fra sa ƴetti leydi
+fuc_42011 1 locuteur1 714.314 714.581 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 714.581 715.398 <o,f1,male> sol :fra sabloneux :fra
+fuc_42011 1 locuteur1 715.398 715.594 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 715.594 716.885 <o,f1,male> densité :fra muɗum yaaha [mic]
+fuc_42011 1 locuteur1 716.885 717.301 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 717.301 718.225 <o,f1,male> 1,5
+fuc_42011 1 locuteur1 718.225 718.506 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 718.506 719.930 <o,f1,male> à :fra 1,8
+fuc_42011 1 locuteur1 719.930 720.447 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 720.447 720.973 <o,f1,male> ayii
+fuc_42011 1 locuteur1 720.973 721.311 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 721.311 724.039 <o,f1,male> on a yii tan on a heeɓidum andu ko sol :fra sabloneux :fra jooguiɗa
+fuc_42011 1 locuteur1 724.039 724.384 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 724.384 725.977 <o,f1,male> o ɗa sol :fra lumineux :fra
+fuc_42011 1 locuteur1 725.977 726.158 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 726.158 729.029 <o,f1,male> densité :fra mum ɗi yaaha 1,3 à :fra 1,5
+fuc_42011 1 locuteur1 729.029 729.442 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 729.442 732.570 <o,f1,male> [mic] sol :fra agileux :fra denité :fra mum yaaha 1,1
+fuc_42011 1 locuteur1 732.570 732.783 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 732.783 733.773 <o,f1,male> à :fra 1,3 [mic]
+fuc_42011 1 locuteur1 733.773 734.107 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 734.107 734.688 <o,f1,male> ayii
+fuc_42011 1 locuteur1 734.688 734.969 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 734.969 736.739 <o,f1,male> ɗo ina ittidiri ɗin leyɗele
+fuc_42011 1 locuteur1 736.739 737.037 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 737.037 737.782 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 737.782 738.191 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 738.191 742.208 <o,f1,male> [mic] eyyi no biruɗa ni kono non %e biɗa ko affaire :fra leydi
+fuc_42011 1 locuteur2 742.208 742.553 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 742.553 748.226 <o,f1,male> [mic] biɗa andi aussi :fra deema wawata yaarude caggal %e caggal awdi
+fuc_42011 1 locuteur2 748.226 748.580 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 748.580 753.778 <o,f1,male> %e [bg] so tawde daarama to banggal rendement :fra wiyama bo * %e ko reemete ko
+fuc_42011 1 locuteur2 753.778 754.061 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 754.061 756.187 <o,f1,male> [mic] ko hokkat no men denno
+fuc_42011 1 locuteur2 756.187 756.376 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 756.376 758.889 <o,f1,male> [mic] bon :fra e joni eko hokkata men ko wona gotum
+fuc_42011 1 locuteur2 758.889 759.238 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 759.238 761.514 <o,f1,male> bon :fra ene woni to banggal leydi
+fuc_42011 1 locuteur2 761.514 761.757 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 761.757 763.516 <o,f1,male> ene heeɓo to banggal aussi :fra awdi
+fuc_42011 1 locuteur2 763.516 763.799 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 763.799 767.512 <o,f1,male> e joni ko baɗaɗo ko o ɗiɗo sifaji tati leydi [b]
+fuc_42011 1 locuteur2 767.512 768.088 <o,f1,male> %hum %hum [mic]
+fuc_42011 1 locuteur1 768.088 772.274 <o,f1,male> %e [mic] sol :fra mo biɗa o %e o ne waɗi keeñe o ne waɗi ceenal
+fuc_42011 1 locuteur2 772.274 772.554 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 772.554 776.370 <o,f1,male> [mic] o ne waɗi bon :fra %e ceenal kañum e leydi mboɗeeri
+fuc_42011 1 locuteur2 776.370 777.060 <o,f1,male> mboɗeeri [mic]
+fuc_42011 1 excluded_region 777.060 777.693 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur1 777.693 780.932 <o,f1,male> oɗo ene waɗi mo pralla %e leydi boɗeeri
+fuc_42011 1 locuteur1 780.932 781.744 <o,f1,male> ceenal [mic]
+fuc_42011 1 locuteur2 781.744 782.321 <o,f1,male> e ɓaleeri foof
+fuc_42011 1 excluded_region 782.321 783.720 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur2 783.720 784.235 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 784.235 787.380 <o,f1,male> ko ɗum woni sol :fra lumineux :fra sableux :fra
+fuc_42011 1 locuteur2 787.380 787.894 <o,f1,male> argileux :fra
+fuc_42011 1 locuteur1 787.894 789.765 <o,f1,male> sol :fra lumineux :fra argileux :fra [mic]
+fuc_42011 1 locuteur2 789.765 790.119 <o,f1,male> %hum %hum
+fuc_42011 1 excluded_region 790.119 792.962 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur1 792.962 794.843 <o,f1,male> [mic] hono ɗiɗon %e leyɗele joni [bg]
+fuc_42011 1 locuteur2 794.843 795.194 <o,f1,male> [mic] %hum %hum
+fuc_42011 1 locuteur1 795.194 796.732 <o,f1,male> %e ɗiɗon sifaji leydi [mic]
+fuc_42011 1 locuteur2 796.732 797.087 <o,f1,male> [mic] %hum %hum
+fuc_42011 1 locuteur1 797.087 800.700 <o,f1,male> [mic] %e hol leydi e leydi sifa o sifa %e ɗiɗon sifaji tati
+fuc_42011 1 locuteur2 800.700 800.982 <o,f1,male> %hum %hum [mic]
+fuc_42011 1 locuteur1 800.982 805.845 <o,f1,male> est :fra ce :fra aɗa wawi halnude hol ndeemeteri jaahowo e leydi tawko ceenal [mic]
+fuc_42011 1 locuteur2 805.845 806.195 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 806.195 812.698 <o,f1,male> est :fra ce :fra que :fra %e hol ndeemateri mo ɓuurata moƴƴude e leydi gonduɗi e leydi ɓaleeri e ceenal [mic]
+fuc_42011 1 locuteur2 812.698 812.995 <o,f1,male> %hum %hum [mic]
+fuc_42011 1 locuteur1 812.995 816.441 <o,f1,male> [mic] e hol %e aussi :fra e ndeemayeri wawdi yadude
+fuc_42011 1 locuteur2 816.441 816.743 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 816.743 817.779 <o,f1,male> e leydi boɗeeri
+fuc_42011 1 locuteur2 817.779 818.134 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 818.134 818.950 <o,f1,male> ɓaleeri
+fuc_42011 1 locuteur2 818.950 819.295 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 819.295 821.175 <o,f1,male> e kañum e badgo ceenal
+fuc_42011 1 locuteur2 821.175 821.473 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 821.473 826.193 <o,f1,male> sa wawi haaɗunde ɗon ɗum ɗon taati par :fra ce :fra que :fra biɗen gandi ɗo e secteur :fra amen o
+fuc_42011 1 locuteur2 826.193 826.515 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 826.515 828.686 <o,f1,male> sa daari to banggal karallagal
+fuc_42011 1 locuteur2 828.686 829.108 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 829.108 831.630 <o,f1,male> yimɓe ne gandi mo promlo o leydi ene moƴƴi
+fuc_42011 1 locuteur2 831.630 831.961 <o,f1,male> %hum %hum
+fuc_42011 1 excluded_region 831.961 834.751 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42011 1 locuteur1 834.751 836.876 <o,f1,male> ɓe kono woɓɓe ni hen %e kono minen en
+fuc_42011 1 locuteur2 836.876 837.486 <o,f1,male> bawa hen
+fuc_42011 1 locuteur1 837.486 838.571 <o,f1,male> minen min goona reemoɓe
+fuc_42011 1 locuteur2 838.571 838.924 <o,f1,male> ko non
+fuc_42011 1 locuteur1 838.924 842.319 <o,f1,male> [mic] jiiya jomum ɓamatan *%e guessa guerte
+fuc_42011 1 locuteur2 842.319 842.787 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 842.787 846.080 <o,f1,male> [mic] yaahatan mo awoya ton mo * wiyamo * yo moƴƴu
+fuc_42011 1 locuteur2 846.080 846.442 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 846.442 847.835 <o,f1,male> aɗa andi ɗum ya heewani moƴƴude [mic]
+fuc_42011 1 locuteur2 847.835 848.128 <o,f1,male> wallay
+fuc_42011 1 locuteur1 848.128 849.885 <o,f1,male> [mic] pourquoi :fra par :fra ce :fra que :fra leydidi
+fuc_42011 1 locuteur2 849.885 850.125 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 850.125 851.955 <o,f1,male> [mic] e kañum e ndemateri o wawa yadude
+fuc_42011 1 locuteur2 851.955 852.254 <o,f1,male> ko non
+fuc_42011 1 locuteur1 852.254 854.295 <o,f1,male> [mic] jonnon min [bg] jiɗno ko ya haalnu bandiraɓeɓe
+fuc_42011 1 locuteur2 854.295 854.657 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 854.657 858.648 <o,f1,male> [mic] beele min bawa andude ko probléme :fra makkari foti yaade ko oɗo façon :fra leydi
+fuc_42011 1 locuteur2 858.648 858.942 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 858.942 862.578 <o,f1,male> ou :fra bien :fra %e kab* oɗo o %e suuna
+fuc_42011 1 locuteur2 862.578 862.935 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 862.935 864.586 <o,f1,male> foti yaade koye oɗo façon :fra leydi
+fuc_42011 1 locuteur2 864.586 864.825 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 864.825 866.783 <o,f1,male> ou :fra bien :fra ñedi foof koye oɗo façon :fra leydi
+fuc_42011 1 locuteur1 866.783 867.932 <o,f1,male> guerte koɗo façon :fra leydi
+fuc_42011 1 locuteur2 867.932 868.269 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur1 868.269 869.987 <o,f1,male> voilà :fra ko ɗum min jiiɗi namdadema
+fuc_42011 1 locuteur2 869.987 871.583 <o,f1,male> ko non tigui si a ƴeewi
+fuc_42011 1 locuteur1 871.583 871.937 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 871.937 873.765 <o,f1,male> a ƴeewi ndemantereji ɗi [mic]
+fuc_42011 1 locuteur1 873.765 873.991 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 873.991 875.981 <o,f1,male> [b] a ƴeewi to tohede ɗaɗi ɗo
+fuc_42011 1 locuteur1 875.981 876.381 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 876.381 879.809 <o,f1,male> won ndeemanteɗeji ɗi gandanta mum sohlani yade ha nder leydi [mic]
+fuc_42011 1 locuteur1 879.809 880.105 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 880.105 883.117 <o,f1,male> ndeemanteɗeje ɗe ganduta ɗaaɗi mum ne sohli yaade ha e nder leydi
+fuc_42011 1 locuteur1 883.117 883.530 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 883.530 885.863 <o,f1,male> joni ndeemateri a ƴeewi no makkari en ni
+fuc_42011 1 locuteur1 885.863 886.161 <o,f1,male> %hmu %hum
+fuc_42011 1 locuteur2 886.161 888.165 <o,f1,male> andi ɗaɗi mum foof ko ni way tan no rond :fra ni
+fuc_42011 1 locuteur1 888.165 888.512 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 888.512 890.861 <o,f1,male> tañ ala ɗaaɗol ngol gandanɗa yaahat ha woɗɗo
+fuc_42011 1 locuteur1 890.861 891.476 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 891.476 894.317 <o,f1,male> jonnon ɗin nifsi a reemi ɗum ɗo gandanta ko leydi jaaɗuɗi
+fuc_42011 1 locuteur1 894.317 894.751 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 894.751 898.324 <o,f1,male> tuma haayeyi hay ha yettanima ko foti hebde ko e nder leydi
+fuc_42011 1 locuteur1 898.324 898.621 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 898.621 899.939 <o,f1,male> [mic] a tawat ɗum ne addi kuule
+fuc_42011 1 locuteur1 899.939 900.240 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 900.240 900.811 <o,f1,male> anani
+fuc_42011 1 locuteur1 900.811 901.115 <o,f1,male> %hum %hum
+fuc_42011 1 locuteur2 901.115 904.215 <o,f1,male> no guerte en ni [mic] guerte sa ƴetti tan guerte leydi hoytudi

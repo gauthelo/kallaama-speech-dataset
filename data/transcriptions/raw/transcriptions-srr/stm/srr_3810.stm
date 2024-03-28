@@ -1,0 +1,178 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:12 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 5 of 230306
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_3810 1 Locuteur1 0.000 9.013 <o,f1,female> mais :fra tamit a jega ay key xoɓ 100fr 1000fr ten i njikoxa ten i mbisa université :fra ke fop jek wan maga [b]
+srr_3810 1 Locuteur2 9.013 15.797 <o,f1,female> so nuun jafe jafe kum nu moƴu njego yo nu moƴu njego yo mene [b] jafe jafe ko nu njegna
+srr_3810 1 Locuteur1 15.797 17.650 <o,f1,female> jafe jafe ke i moƴna njeg dal
+srr_3810 1 Locuteur2 17.650 18.182 <o,f1,female> na cikaxa le
+srr_3810 1 Locuteur1 18.182 30.880 <o,f1,female> autorisation :fra Fra le [b] parce :fra que :fra maga in way meke fo fo fo supermarché :fra mene kam fe a station :fra ke ga njikwa ay jus :fra nda wagino mbis ma
+srr_3810 1 Locuteur1 30.880 45.362 <o,f1,female> yaam jegiro autorisation :fra fra nu ndamit anga in bo koy xano wago ret supermarché :fra fe doon maga quelques :fra bouteilles :fra wagoret no station :fra ke station :fra nu ref na o ci ange o wago fi fi maga quelques :fra bouteilles :fra nda koy tant :fra que :fra jegiro kaga wagino
+srr_3810 1 Locuteur2 45.362 47.719 <o,f1,female> so boutiques :fra ke nuna nuna mbisa deno yo
+srr_3810 1 Locuteur1 47.719 62.148 <o,f1,female> ka it kaga fop yit niako jeg autorisation :fra Fra rek mbisidun [b] yam parce :fra que :fra den a njaɓanga tamit controle :fra fe a gara nga gar soɓ meen xa qoɓaxe to a a ndetin jege autorisation :fra Fra a wagano amane :fra
+srr_3810 1 excluded_region 62.148 64.667 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 excluded_region 64.667 65.979 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 excluded_region 65.979 68.371 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 excluded_region 68.371 70.491 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur2 70.491 72.424 <o,f1,female> kaga fop tamit nuun mbay ()
+srr_3810 1 Locuteur1 72.424 85.928 <o,f1,female> in way se a kaga ten ref autorisation :fra Fra le parce :fra que :fra tant :fra que :fra ɓisaande na laboratoire :fra fa ndetin bo an ndax produit :fra fe wara no jiku ndax warirano jiku wag kiro ret mbisin no boutique :fra ola prace :fra que :fra mbisa ngan no boutique :fra ola ko lor ka yalo boutique :fra ole
+srr_3810 1 Locuteur1 85.928 99.797 <o,f1,female> bala caakoy o xaƴin mene jik wanana xoxof to ande xile ke o jikwa anda xile dara refe teen a xola nda ke ando ke xolo ke wolo ke xolo xona kindof a waga no niako xoolu
+srr_3810 1 Locuteur2 99.797 102.636 <o,f1,female> kon dal nun mboy njega teen probléme :fra konn Fidac fe
+srr_3810 1 Locuteur1 102.636 103.088 <o,f0,female> %hum %hum
+srr_3810 1 Locuteur2 103.088 105.529 <o,f0,female> nu njega autorisation :fra pour :fra njiku maga
+srr_3810 1 Locuteur1 105.529 110.070 <o,f1,female> Fidac fe anda ye Senegalais :fra fo Senegalais :fra jege probleme :fra
+srr_3810 1 Locuteur2 110.070 111.708 <o,f1,female> nda anda ye a jega win wa ando naye
+srr_3810 1 Locuteur1 111.708 126.739 <o,f1,female> i a jega wa ando naye [conv] a a nanga ndetan a jega wa ando naye [conv] nga nde a jega wa ando naye ga ndetan nda ga a doumbaw we sax a jega wa ando naye xaye ne ndeta sen sax kene parce :fra que :fra we ngar ina mene fedefaax ndete teen kene sax ndete laam tiram sax ndax jega autorisation :fra ka ngar rek a njik 10 xoɓa ndet
+srr_3810 1 Locuteur1 126.739 140.731 <o,f1,female> ndax mu retona koy o soɓwa compliquer :fra na soɓ wa compliqué:fra erna dumbaɓ we ga ngar lm tiram sax ndax jega autorisation :fra ou :fra bien :fra jegiro autorisation :fra ga ngar rek a njik 10 xob den den kede lam taxa ma daal yam ka soɓ yaga étiquette :fra fe
+srr_3810 1 Locuteur1 140.731 149.822 <o,f1,female> pare afule te leyame fata sonda in ka jeg na étiquettage :fra parce :fra que :fra ga i voyager :fra ka fo ten to comme :fra ka i voyager :fra ka fo ten a jega nge etiquette :fra ga de ŋijil ka in na ndata le kaga dal a leya xam
+srr_3810 1 Locuteur2 149.822 151.853 <o,f1,female> so etiquer :fra fe ga uma mene
+srr_3810 1 Locuteur1 151.853 152.255 <o,f0,female> %hum %hum
+srr_3810 1 Locuteur2 152.255 155.728 <o,f0,female> comme :frav oxu ga una mene xay xana leye kene maam sagar jegun
+srr_3810 1 Locuteur1 155.728 160.385 <o,f1,female> i parce :fra que :fra kan fi teen gonole groupement :fra es baax yaay
+srr_3810 1 Locuteur2 160.385 161.492 <o,f1,female> a ko jeg groupement :gfra
+srr_3810 1 Locuteur1 161.492 167.205 <o,f1,female> i kam jeg groupement :fra groupement :fra ne el baax yaay etiquer :fra fop kam fi teen baay yaaay
+srr_3810 1 Locuteur2 167.205 168.300 <o,f1,female> so groupement :fra ne nama demo ora
+srr_3810 1 Locuteur1 168.300 183.660 <o,f1,female> groupement :fra ne %ekam fogin fo rew xarɓaxay a jega yit goor daduk kam fe fo ween im jalta nda koy groupement :fra le yaa i former :fra an re e pour :fra transformation :fra
+srr_3810 1 excluded_region 183.660 202.053 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 excluded_region 202.053 204.495 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur1 204.495 217.214 <o,f1,female> den ka [conv] axakay ana ngara ke ley uma nuun xatoor rek o refa nga ɓasil [b] nero waga jega o ndaaw tout :fra le :fre temps :fra pour o unooxa im jega nga calel bo ande calel ke a maya na mi kan xoya den de ngar
+srr_3810 1 Locuteur2 217.214 229.006 <o,f1,female> so wo buga jeg comme :fra genre :fra [b] %e comme :fra ka ando naye comme :fra école :fra a refka a jang na wiin we nam concentration :fra fi tel jus :fra yin kene yin conserver :fra ay legume :fra min kene yiin
+srr_3810 1 Locuteur1 229.006 245.708 <o,f1,female> i ka jega parce :fra que :fra ka de ley u [-fr] ka de ley u atelier :fra nu ref na maitre :fra entreprise :fra nu ref na o waga nga jeg 3 3 commencer :fra tu bo ma dolke ofa deyna xa apprentit :fra kaga dena njang ka den en :fra charge :fra
+srr_3810 1 Locuteur1 245.708 260.818 <o,f1,female> fata ref dal xa ando naye 15 ans yo bo 40 ans [b] bo astafrilula bo 35 ans ndiiŋ koy wona jang na den 3 ans ke fop den buko gara a say toxida den a ndeti da den suivi :fra fe yin kene yin afop kene xay meen wa Cretef tamit
+srr_3810 1 Locuteur1 260.818 277.185 <o,f1,female> den ambiya nga stage :fra den bo pare ga ngara meke [b] a mbi meen 1 mois :fra parce :fra den ka pratique :fra ke a maga nda a ngara nga meke ke de nga a mene fo ke de ŋa a mana yenisaay a jega difference :fra parce :fra que :fra ten ref ke ley onga xator
+srr_3810 1 excluded_region 277.185 291.699 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur2 291.699 301.510 <o,f1,female> So mene Fatick jege comme :fra genre :fra formation :fra speciale :fra comme :fra nete jegit na wene mbiya restauration :fra wene njanga kene jege wa ando naye ga njanga yo kene soom céréale :fra lin kene yin
+srr_3810 1 Locuteur1 301.510 309.336 <o,f1,female> axa kay a maya meen a jega wa ando naye ga mbiya céréale :fra kese a jega wa ando naye ga mbiya tranformation :fra kese a jaga wana mbiya lakas laks a maya meen
+srr_3810 1 Locuteur2 309.336 312.743 <o,f1,female> so wo dés :fra fois :fra nangiraŋo ŋota yo pour :fra wo o jang na lakas we
+srr_3810 1 Locuteur1 312.743 313.301 <o,f1,female> a xakay
+srr_3810 1 Locuteur2 313.301 314.110 <o,f1,female> a ndaɓ dangoyo
+srr_3810 1 Locuteur1 314.110 316.177 <o,f1,female> pour :fra pour :fra i janga na den de ndab da xam
+srr_3810 1 Locuteur2 316.177 316.556 <o,f1,female> i i
+srr_3810 1 excluded_region 316.556 330.808 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur2 330.808 336.292 <o,f1,female> so wo jega xa xa employer :fra wa ando naye wona etko rabda den de njalanaŋo yo
+srr_3810 1 Locuteur1 336.292 350.207 <o,f1,female> emploiyer :fra le jeg uma mene tanta es a re u ten ka moof u rek mba leya ka bugo gara jangid im ley ne garidi i ndef meen mifo ten tang kene cer ke ka yaco tayten taxu te gijo gar
+srr_3810 1 Locuteur1 350.207 364.448 <o,f1,female> nda int fiyogime rab dino ŋool i njal anga bo pare rek im nddt ka wat numa doon no mbayum i mbat nanag charge :fra in fop mbatin benefice :fra mbatin kantin keke ndet na i ŋaajri tuna i ŋaajri tin naaga naga i mbiyo gu
+srr_3810 1 Locuteur2 364.448 372.939 <o,f1,female> so nangi ro ga a wa a ndo naye ga ngara pour :fra a leye mer Sagar kam bug o jang na in ne o fi tayin kene yin te yaco mbagin
+srr_3810 1 Locuteur1 372.939 386.412 <o,f1,female> a ngara ŋa jeg anum meen 2 fois :fra leŋ oxe Seynabou ne e a gen kam saate nda aprés :fra teno ke leyma no ɓoɓ ne rek a jega ta kor a ret a doloka
+srr_3810 1 Locuteur2 386.412 386.970 <o,f1,female> ga iro den
+srr_3810 1 Locuteur1 386.970 389.486 <o,f1,female> ga a tima den a ndeta
+srr_3810 1 Locuteur2 389.486 393.039 <o,f1,female> [rire] so kene ke nam %enxa bilela xene
+srr_3810 1 Locuteur1 393.039 393.266 <o,f1,female> %hum %hum
+srr_3810 1 Locuteur2 393.266 394.565 <o,f1,female> nene o fi tan nene
+srr_3810 1 Locuteur1 394.565 394.852 <o,f1,female> %hum %hum
+srr_3810 1 Locuteur2 394.852 397.535 <o,f1,female> ndax ko mesurer :fra an namo fina bo natin
+srr_3810 1 Locuteur1 397.535 399.142 <o,f1,female> xa qomba xe
+srr_3810 1 Locuteur2 399.142 399.919 <o,f1,female> bo fopa mbodiro yo
+srr_3810 1 Locuteur1 399.919 409.642 <o,f1,female> Dackar i njikta den xa qoɓaxe Dackar i njikta den no usine :fra na o xoɓole 1 litre :fra o
+srr_3810 1 Locuteur2 409.642 410.900 <o,f1,female> a 1 litre :fra o
+srr_3810 1 Locuteur1 410.900 412.938 <o,f1,female> i 1 litre :fra o fop nene 1 litre :fra o
+srr_3810 1 Locuteur2 412.938 415.741 <o,f1,female> so 1 litre :fra nu refna o jiko rin pod num
+srr_3810 1 Locuteur1 415.741 425.511 <o,f1,female> 1 litre :fra nu ref na in woy njikoran 2500 a refa nga wene ditax fe a refa nf=ga ditax fo mad som na jara 3000yanm den moƴu chére :fra
+srr_3810 1 Locuteur2 425.511 428.300 <o,f1,female> na nanga ga a tena xoxof nda perte :fra kiro teen
+srr_3810 1 Locuteur1 428.300 433.537 <o,f1,female> xa a perte kiro ndiki sax a ŋayu nene parce :fra ndiki bagage :fra ke yo nda 2000 soma jarogu
+srr_3810 1 Locuteur2 433.537 442.285 <o,f1,female> so xalis fene fop nanga nam o nat o xido le fagun manaam fagun faak fo o xoidole ren o ndet bo an
+srr_3810 1 Locuteur1 442.285 443.041 <o,f1,female> difference :fra fe
+srr_3810 1 Locuteur2 443.041 445.607 <o,f1,female> difference :fra fe jegona yin kene yiin
+srr_3810 1 excluded_region 445.607 461.606 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur1 461.606 476.905 <o,f1,female> kanu njik wa à :fra perte :fra parce :fra que :fra yaga took fa den cooɗ u in prix :fra te fiye Senegal mu ret ona 2000 fr ten re u prix :fra fa mu fi tona formation :fra ka de leyange o xoɓole temps :fra jara naga i fi i mbiyo gu nda ye Parba garna
+srr_3810 1 excluded_region 476.905 491.212 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur1 491.212 501.962 <o,f1,female> bo roga yaar o remlir :fra cahier :fra of xano an journée :fra ke jikwona o reta nga bo ŋolo ŋe xon xano an ko jegona na na ŋolo nge no xido le
+srr_3810 1 Locuteur2 501.962 504.922 <o,f1,female> bo jik wona nanga coxta facture :fra in kene yiin
+srr_3810 1 Locuteur1 504.922 508.336 <o,f1,female> o jik wanga coxid facture :fra mikoy coxtim
+srr_3810 1 Locuteur2 508.336 509.006 <o,f1,female> clients :fra of
+srr_3810 1 Locuteur1 509.006 510.724 <o,f1,female> client :fra pour :fra um fiya na den facture :fra
+srr_3810 1 Locuteur2 510.724 511.196 <o,f0,female> %hum %hum
+srr_3810 1 Locuteur1 511.196 526.385 <o,f0,female> xa a nemo fiya facture :fra koy carnet :fra es daal jegum xan an nem top ta wene saq na xa lada xe xano an wo njik na wena njika par :fra jour :fra nda nemo fiya facture :fra yam o leŋ lam tiram oten kene ke woy nda o leŋ lam tiram facture :fra
+srr_3810 1 Locuteur2 526.385 533.662 <o,f1,female> dés :fra fois nangiro jega commande :fra comme :fra o kina commande :fra ong bo pare te feño xot commande :fra um a fañ ngo rabid
+srr_3810 1 Locuteur1 533.662 534.682 <o,f1,female> a fañ xa a
+srr_3810 1 Locuteur2 534.682 535.637 <o,f1,female> a fañ ngo rabid
+srr_3810 1 Locuteur1 535.637 546.778 <o,f1,female> kaga koy i m bada fule ta maga parce :fra que :fra o xuna na commande :fra a ko gara bo mene leyame temps :fra fod nana soxla um a jega nga meen um coɗoŋ o rab daam o reta kaga jege a refa nga comme :fra wene ando naye ka ndeta Dackar
+srr_3810 1 Locuteur1 546.778 565.636 <o,f1,female> ka ndeta no horaire :fra la leyeonge temps :fra yo ndiki bala o reta sax o envoyer :fra am yam xanpo envoyer :fra nama passe :fra ale parce :fra que :fra wona passe :fra an ka xoxof parce :fra horaire :fra ole mbis kiran bo pare o fiya arriver :fra payer :fra um leyoŋe fi kim kaga ndiki dal maxey reta envoyer :fra i xalis fe im retirer :fra in rabid yalo auto le jang xalises coɗin te ret wo o ret xetokin
+srr_3810 1 excluded_region 565.636 575.051 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur1 575.051 575.897 <o,f1,female> xa a jega fuliim
+srr_3810 1 Locuteur2 575.897 576.523 <o,f1,female> produit :fra locale :fra
+srr_3810 1 Locuteur1 576.523 577.390 <o,f1,female> mene soom jegum
+srr_3810 1 Locuteur2 577.390 579.223 <o,f1,female> so buga fi kaga
+srr_3810 1 Locuteur1 579.223 590.888 <o,f1,female> buga num de um waga ngano jeg kay im jegaan place :fra marcher :fra nda place :fra ale jega fulim dole pour :fra jalin xey meke paam université :fra fe
+srr_3810 1 Locuteur1 590.888 613.194 <o,f1,female> nda koy jega fulim moyen :fra pour :fra wag no jal yam xay juste :fra université :fra fe ande maga a jeg anga moyen :fra bo jalin xano wago jikox parce :frav ka jas noor fo école :fra université :fra te fe a cikaxa la maga a jaga nga maga jeg frigo :fra xano wago jal maga nda jega fulim moyen :fra pour :fra waag no jal xaƴa xenda rek nana na nuun a ngara nga de ndamta in [rire]
+srr_3810 1 Locuteur2 613.194 616.074 <o,f1,female> so mete ref na instant :fra kene anda ye foire :fra unoro
+srr_3810 1 Locuteur1 616.074 616.478 <o,f1,female> %hum %hum
+srr_3810 1 Locuteur2 616.478 620.218 <o,f1,female> mete refna calel ke ka yaco ka mbi nen ga ngenu
+srr_3810 1 Locuteur1 620.218 620.744 <o,f0,female> %hum %hum
+srr_3810 1 Locuteur2 620.744 628.691 <o,f0,female> wag kiro mbto comme :fra genre :fra o commencer :fra a tin calel ke pour :fra o ɓo jeg produit :fra ndax wina ngara nga commande :fra ongoyo
+srr_3810 1 Locuteur1 628.691 630.101 <o,f1,female> calel ke sax ngeen we ga i ngat foire :fra
+srr_3810 1 Locuteur2 630.101 630.537 <o,f1,female> %hum%hum
+srr_3810 1 Locuteur1 630.537 643.559 <o,f1,female> i ndefa na foramtion :fra maitre :fra artisan :fra ke te fiye samedi a fagu samedi dimanche lundi i in i produit :fra jus :fra ef yaam anda ye fede fak yenu ngara na gan soɓ
+srr_3810 1 Locuteur1 643.559 653.373 <o,f1,female> in fin teen frigo :fra le bo laxa din ya retnma foire bo ndik kam weg un ken re ina men yete fag na kan leya dene ye de laxada de ŋaƴin nene ndeikoy ye garuma koy ten soogmo commencer :fra kene
+srr_3810 1 Locuteur2 653.373 657.817 <o,f1,female> so sit :fra fene i ley na teno utiliser :fra a
+srr_3810 1 Locuteur1 657.817 658.197 <o,f1,female> %hum%hum
+srr_3810 1 Locuteur2 658.197 660.164 <o,f1,female> pour de leye kene sit :fra nene
+srr_3810 1 Locuteur1 660.164 660.304 <o,f1,female> %hum%hum
+srr_3810 1 Locuteur2 660.304 663.041 <o,f1,female> manaam Sagar Dione ten jegu sit :fra nene
+srr_3810 1 Locuteur1 663.041 663.375 <o,f1,female> %hum%hum
+srr_3810 1 Locuteur2 663.375 669.653 <o,f1,female> manaam nangiro jega teen probleme :fra winw commande :fra nongoyoto manaam fadiid ke dal
+srr_3810 1 Locuteur1 669.653 671.290 <o,f1,female> commande :fra ne fad ke ma ma
+srr_3810 1 excluded_region 671.290 672.232 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur1 672.232 674.617 <o,f1,female> xa a jega fu lim kaga koy
+srr_3810 1 Locuteur2 674.617 675.189 <o,f1,female> %hum%
+srr_3810 1 Locuteur1 675.189 680.612 <o,f1,female> xa a jega fulim probleme :fra faga de andim koy ta mbamir parce :fra horaire :fra leŋ som jegum tene mbisa naxam bagage :fra
+srr_3810 1 Locuteur2 680.612 686.757 <o,f1,female> so ya o jala bo ndik jega commande :fra ay europe :fra in kene yiin pour :fra commande ongo yo o ret
+srr_3810 1 Locuteur1 686.757 701.752 <o,f1,female> europe :fra xa a europe :fra o kino leŋ mos mo jeg maga xaga na foire :fra i xet u fo mbeem te jik u jus :fra sumpu ndiki yete retna te fiye ka te fi in maga foto po xoyam a leyame
+srr_3810 1 Locuteur1 701.752 714.165 <o,f1,female> ten kete commande :fra a fop Gp fe na mbisan toujours :fra horaire :fra reta nga o ɓees na xot kan a xota ngan tena mbis kano ɓeem o ɓeemo xay gena Yoffmaga mbisan maan ɓaŋa ɓega tena lijante ka ka mbisina
+srr_3810 1 Locuteur2 714.165 716.189 <o,f1,female> %hum jaf leŋ laga soom moso
+srr_3810 1 Locuteur1 716.189 718.899 <o,f1,female> kino leŋxa a refe jaf leŋ laga o kino leŋo xanga jegum
+srr_3810 1 Locuteur2 718.899 719.863 <o,f1,female> o kino leŋo xanga soom
+srr_3810 1 Locuteur1 719.863 721.533 <o,f1,female> ten jegum client :fra exterieur :fra
+srr_3810 1 Locuteur2 721.533 727.125 <o,f1,female> %hum te yete daaw na produit :fra umo fogum manaam satisfaire :fra a xoxum
+srr_3810 1 Locuteur1 727.125 733.480 <o,f1,female> a satifaire :fra a yam bo ndik ka mada lul tida bo ndik lul ti ten ci id axam sax portable :fra o lene
+srr_3810 1 Locuteur2 733.480 738.739 <o,f1,female> %hum kaga koy a faxa so produit :fra ke wo parapport :fra fo lakas we
+srr_3810 1 Locuteur1 738.739 739.163 <o,f1,female> %hum%hum
+srr_3810 1 Locuteur2 739.163 742.039 <o,f1,female> xar ref difference :fra fe manaam wo o lewo
+srr_3810 1 Locuteur1 742.039 742.433 <o,f1,female> %hum%hum
+srr_3810 1 Locuteur2 742.433 754.679 <o,f1,female> %e manaam ga a ye a jega manaam difference :fra fo produit :fra lakas ke manaam ten fi u particularité :fra of dal no produit :fra ke winwe mbiya yo cencentration :fra a
+srr_3810 1 Locuteur1 754.679 755.066 <o,f1,female> consan
+srr_3810 1 Locuteur2 755.066 764.980 <o,f1,female> concentré :fra ke de njik wa yo boutique :fra ke fo we wo ande wene mi njika mi jiko gaam no monola ando naye concentré :fra
+srr_3810 1 Locuteur1 764.980 765.381 <o,f1,female> %hum%hum
+srr_3810 1 Locuteur2 765.381 771.637 <o,f1,female> a we wo ndik waga fiya comparaison :fra ande o le mi nene nanu o lana nene nanu
+srr_3810 1 Locuteur1 771.637 771.865 <o,f1,female> nene nanu
+srr_3810 1 Locuteur2 771.865 775.282 <o,f1,female> comme :fra parapport :fra fo foof le o yipa teen
+srr_3810 1 Locuteur1 775.282 784.760 <o,f1,female> a mi koy wax deg fa yalakaga moom wax deg mosun mo mosinumo det lu mi daal produit :fra es jegum a ndame
+srr_3810 1 Locuteur2 784.760 786.478 <o,f1,female> yaam a jega lakas wa ando naye
+srr_3810 1 Locuteur1 786.478 787.226 <o,f1,female> ka de mbiya
+srr_3810 1 Locuteur2 787.226 788.275 <o,f1,female> ga mbiya kaga
+srr_3810 1 Locuteur1 788.275 789.129 <o,f1,female> a jega wa na
+srr_3810 1 Locuteur2 789.129 791.988 <o,f1,female> ka nado naye manaam ten ref secret :fra of
+srr_3810 1 Locuteur1 791.988 804.478 <o,f1,female> a secret :fra dara ref teen fato jaw te ɓel rek bo ande kene ken ref kene ref xa inconvenient :fra fe fop ten refe a refa nga ye calel ke ngole xombole ka go le a
+srr_3810 1 Locuteur1 804.478 819.902 <o,f1,female> [b] waag kate nene de ngenorit na xoɓole waag kate genu ka goble ka o ande produit :fra fe faaxe xob mete refna xaye citron :fra feke xena numa neke xoɓole a goble a nga teen bo wage genu serie :fra neke fop fudin kaan
+srr_3810 1 Locuteur1 819.902 832.954 <o,f1,female> parce :fra que :fra andiro xa jegna fo wa jegeer na parce :fra que :fra a kalera :fra le njaw ne te fiye serie :fra leke fop tena fudin ka waratino jikoxo kiin
+srr_3810 1 Locuteur2 832.954 834.947 <o,f1,female> dés:fra fois :fra na na cawale
+srr_3810 1 Locuteur1 834.947 837.336 <o,f1,female> na calo ndale refa n calo ndale
+srr_3810 1 Locuteur2 837.336 838.465 <o,f1,female> na calo ndale
+srr_3810 1 Locuteur1 838.465 852.148 <o,f1,female> yenisay calel ke den nangeru ŋola calel ke ŋola ŋa itam ne jawta nona durer :fra fe awa manquer :fra [b] te fiye kene kene kene ke na refa teen champillons :fra ke na ndefa teen
+srr_3810 1 Locuteur1 852.148 860.383 <o,f1,female> tena fiya xoɓole a goble bo waag kate genu ka yen ka a wonu parce :fra que :fra fuɗ le ka ka waag kate a keen ande produit :fra feke faaxa te
+srr_3810 1 Locuteur2 860.383 866.856 <o,f1,female> kon wo bo jika produit :fra fe xayo ndet par :fra 5 bo an comme nene bo reta tona
+srr_3810 1 excluded_region 866.856 868.362 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur2 868.362 868.905 <o,f1,female> i
+srr_3810 1 excluded_region 868.905 882.755 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur1 882.755 896.396 <o,f1,female> fato jilin ke wana ret a retin fato tame in laŋ ke ndef na teen a wt ku refna teen fato jawin parce :fra a jega sumana le fo sukur fw o yipa teen a jega degrés :fra fa te te te somba ,maga kouref na taga a xon
+srr_3810 1 Locuteur1 896.396 904.533 <o,f1,female> nda a jega nga degrés :fra a ja ngange degrés :fra fa ref na teen moy champillons :fra ke ref na teen ŋon ke soɗa ngan xoɓole 2 jours :fra 3 jours :fra xoɓole ()
+srr_3810 1 Locuteur2 904.533 908.911 <o,f1,female> so den ka waro jeg manaam simili ka ando naye
+srr_3810 1 Locuteur1 908.911 909.958 <o,f1,female> teno ndeta degrés :fra fe
+srr_3810 1 excluded_region 909.958 910.855 <o,,unknown> ignore_time_segment_in_scoring
+srr_3810 1 Locuteur2 910.855 911.496 <o,f1,female> pod num
+srr_3810 1 Locuteur1 911.496 925.966 <o,f1,female> heure :fra ke i kaga fop na na na fiya nga 2 heures de temps 1 heure :fra de :fra temps :fra wara wago ande kene a mbela [b] a jega wa nado naye koy a jega mesure :fra le teno an ta ye

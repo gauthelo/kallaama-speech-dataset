@@ -1,0 +1,54 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:51 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 3 of 230306
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_41520 1 excluded_region 0.000 19.233 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur1 19.233 33.370 <o,f1,female> te te rabid frais :fra um a rabid frais um kaga no frais :fra transit :fra uma foga a refa nga we i njik wa Niger ka i njik wan bo tooko auto :fra la transport :fra fe te rab din kaga mom jege frais :fra anda ye transport :fra o
+srr_41520 1 excluded_region 33.370 39.343 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur1 39.343 53.447 <o,f1,female> ke waguma leya den ten refu ye calel moom jege koor fo tew nda cunga coxex roog andu ya o coxel mais :fra pour :fra o kina coxel mais :fra pour :fra o kina coxong ka soɓ kang no tig ba pare asogo dam tong teen
+srr_41520 1 Locuteur1 53.447 67.054 <o,f1,female> pour :fra Etat :fra dam tong a soɓa nga o yoɗ nuwa xana gar a dam tong no ke o yoɗ noxa nda o mofa nga croiser :fra ye pour :fra Etat coxong calel koy aɗim manuma cox kang calel waw a lim kem ley ka den dal ten refu
+srr_41520 1 Locuteur1 67.054 79.322 <o,f1,female> den fop fata ɗet no ka de ndam na a njala ta bes xana fadiid a soɓa den taaga a yona den ta wala bata commencer :fra an ksax ba yakaro yonel fada ŋimino yo rek ku gimo na moom o jeg teen resultat :fra
+srr_41520 1 Locuteur2 79.322 85.429 <o,f1,female> so mene pod num pod num xa qid xa pod num fiya men ya o jala kene bo ndik xa qid xa pod num fiyo teen
+srr_41520 1 excluded_region 85.429 102.882 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur2 102.882 109.770 <o,f1,female> so ye o jala nan wo xup uma wo ye jegona jeg xa qol xoxo dof wo etu jalan wo som wala jeg a
+srr_41520 1 excluded_region 109.770 124.375 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 excluded_region 124.375 141.571 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur1 141.571 149.943 <o,f1,female> um wago janga teen xaye wiina mayu de njala na xam teno yo mais :fra nak etan moom a ɗom a trop :fra trop :fra wax deg
+srr_41520 1 inter_segment_gap 149.943 150.932 <o,f1,> 
+srr_41520 1 excluded_region 150.932 165.114 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 excluded_region 165.114 177.895 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur2 177.895 182.028 <o,f1,female> so instant :fra kene o fiya nene xara moƴo seetu teen
+srr_41520 1 excluded_region 182.028 200.522 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur1 200.522 214.934 <o,f1,female> mais :fra aussi :fra wago dama ten damateno kores mbago ndabid teno kores i mbago o ndabit ecole :fra no xa ɓiy in ndaɓid lakas ñowna den a paax kene fiya teen mom wax deg a fela xam trop :fra parce :fra que :fra creation :fra emploie :fra fe in mbay ndama teen
+srr_41520 1 excluded_region 214.934 221.402 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur2 221.402 228.500 <o,f1,female> so xaye buga ga a xoxof no jeg usine :fra niin kene yiin kene yin tikore kin fop
+srr_41520 1 Locuteur1 228.500 229.585 <o,f1,female> i wala
+srr_41520 1 Locuteur2 229.585 230.602 <o,f1,female> wa xay xala teen
+srr_41520 1 Locuteur1 230.602 241.590 <o,f1,female> kaga vision :fra eso vision :fra es ten refu ye um ret bo creer :fra usine :fra comme :fra nene o leyit ka xaye usine :fra mana rafiner :fra comme :fra sel :fra Daf fo lakas
+srr_41520 1 excluded_region 241.590 256.782 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 excluded_region 256.782 266.798 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur2 266.798 278.805 <o,f1,female> nda xaye xalata wo o eto atid mene comme :fra genre :fra ay tracteur :fra in kene yiin fano cung wiin we ando naye yaga bo ndik waxey waɗa intervention :fra
+srr_41520 1 excluded_region 278.805 293.296 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 excluded_region 293.296 306.653 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 excluded_region 306.653 320.436 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 Locuteur2 320.436 326.762 <o,f1,female> so we ando naye den mbugu yoɗ nu no kene xaro xaro conseil :fra fum o coxa den
+srr_41520 1 Locuteur1 326.762 342.321 <o,f1,female> ke bugun na yoɗ nu no kene de kam conseil :fra ne coxa den ten refu yefad de tela yokoxa paax parce :fra activiter :fra ne ka kaga lacu fad de ngima koox den aussi :fra fad de ndef win wa ando naye a mbaga mbaxtaan fo employer :fra ke den fo employer ke den creer :fra ka
+srr_41520 1 Locuteur1 342.321 356.627 <o,f1,female> fo employer :fra ke de saq ka o feet kagam leya den parce :fra activiter :fra ne ɗoma message :fra nem coxka rewes ten refu ye de ŋor ŋorloox den fopa unoxa njalik a mbaño cugo leng pour te gara ley nge in wi jalik
+srr_41520 1 Locuteur1 356.627 369.671 <o,f1,female> parce :fra ndiki pour :fra o dam tel xano kina soɓong no tik aprés :fra sa wag ngo dimale ta laya dene o tewo xu ando naye ko naro rokid no activiter :fra neke na yeyel a qoq fojem fato janga tela inax
+srr_41520 1 excluded_region 369.671 386.182 <o,,unknown> ignore_time_segment_in_scoring
+srr_41520 1 excluded_region 386.182 404.440 <o,,unknown> ignore_time_segment_in_scoring

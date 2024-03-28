@@ -1,0 +1,356 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 10:06:38 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 3 of 230405
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_43011 1 inter_segment_gap 0.000 20.790 <o,f0,>
+wol_43011 1 locuteur_1 20.790 42.584 <o,f1,female> jërë ngeen jëf auditeurs :fra de :fra la :fra 88 point :fra 7 [b] ñu dellu ziar leen bu baax dellu it di leen jox [b] seen wàccuwaay %e comme :fra %e ni ñu ko baaxoog yéen rek saa su nekk ñuy ànd ak yéen ci programme :fra yu am solo seen rajo RIP FM di leen ko baaxee moo xam ay émissions :fra [r] ay débats :fra yoo xamante ne ne dañu koy waxtaanee saa su ne moo xam ñu ànd ceeg %e suñuy partenaires :fra wala sax loo xamante ne ni rek [r] seen rajo RIP FM moo leen koy daal di baaxee
+wol_43011 1 locuteur_1 42.584 68.524 <o,f1,female> tey nag mbokk yi [r] énu andiwaat rek ponk bu am solo fas yéene koy waxtaanee ànd ci nag ak sunu partenaire :fra bi nga xamante ne ni ñu ngi koy wax PAM [r] di programme :fra alimentaire :fra mondial :fra ci projet :fra boobu ñu naan 4R 4R nag di projet :fra boo xamante ne [r] daa jóg rek ngir dimbali béykat bu ndaw bi ci ak fegu jëmee si coppite jaww ji [r] jaarale ko nag ci dooleel fond :fra vert :fra climat :fra ak [i] ci xelante rek ki nga xamante ne moom mooy Jokalante [r]
+wol_43011 1 locuteur_1 68.524 94.650 <o,f1,female> ci loolu tey mbokk yi ñu andiwaat beneen ponk bu am solo jëm ba tey rek ci wàllu mbéy mi fas yéene koy waxtaanee [r] lu ni mel nag %e ñu koy wax rek entretien :fra des :fra cultures :fra maanaam toppatoo ak saytu gi nga xamante ne ni [r] war nañu koy amal ci %e mbéy mi tey nag mbokk yi waral ñu dalal fi ki nga xamante ne [r] %e mooy monsieur :fra Mignane Diouf nekk SDDR bu Nioro di service :fra départemental :fra de :fra développement :fra [bb] rural :fra xelam màcc lool nag jëm ci li nga xamante ni rek moom mooy wàllu mbay [r]
+wol_43011 1 locuteur_1 94.650 129.189 <o,f1,female> ñu fàttali leen yéen ñi ñuy bàyyi xel ne nag tey émission :fra bi émission :fra décentralisée :fra la ñu ngi ko amal si dëkk bu ñu naan Kër Lahine [r] bokk nag ci commune :fra [b] bu Médina Sabakh ñu fekk fi nag askan woo xamante ne ni macha :ar allah :ar am na solo lool waaye it ñuy yëngu bu baax ci wàllu mbéy muy góor ak jigéen [r] [b] mag ak ndaw ñoom ñëpp ñuy teewlu li nga xamante ni rek moom mooy waxtaan bi waaye laataa ñuy xuus [r] ginnaaw bu ñu nuyoo ñi nga xamante ni moom la ñu fi fekk dañuy nuyu nag %e sunu gan di monsieur :fra Mignane Diouf [r] bàyyi ko mu nuyoog mbooloo mu koy %e teewlu waaye auditeurs :fra yi nga xamante ne ñu ngi koy bàyyi xel ci 88 point 7 monsieur :fra Mignane Diouf [r] maa ngi lay nuyu
+wol_43011 1 locuteur_2 129.189 153.652 <o,f1,male> %e soxna Dado maa ngi lay fay di la gërëm [b] di nuyu waa RIP FM [b] di nuyu ñi nga xam ne %e say naataangoo yi nga xam ne ànd ngaag ñoom [b] %e fu ñu defee émission :fra bi mais :fra aussi :fra di nuyu sama mbokk [b] béykat yi nga xam ne góor ak jigéen teew nañu fi [b] ñu fas yéenee %e jàkkaarloog yéen [b] waxtaan ak yéen ci wàllu mbéy mi [b] ci tolluwaayam ak ci jafe-jafe yi nga xam ne yéen a ngi koy yéen a ngi koy %e
+wol_43011 1 excluded_region 153.652 154.614 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 154.614 154.900 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 154.900 156.203 <o,f1,male> %e ci biir tool yi
+wol_43011 1 locuteur_1 156.203 175.274 <o,f1,female> %hum %hum jërëjëf monsieur :fra Mignane Diouf am na solo mu ngi noonu mbokk yi moo nekk sunu gan nee naa leen ñu fas yéene waxtaanee rek [r] lépp loo xamante ne ni aju na ci mbéy mi moo xam ay jafe-jafe la wala loo xamante ne ni rek mën nay gën a yokk mbéytéef bi ba nga xamante ne moom lu ñu cay xaar [r] %e maanaam sax dana gën a ful li nga xamante ne ni moo nekk sunu yaakaar [r]
+wol_43011 1 locuteur_1 175.274 212.467 <o,f1,female> ci loolu monsieur :fra Mignane Diouf ni ñu ko waxee %e waxtaan bi jëm na ci [r] li nga xamante ne moom mooy entretien :fra des :fra cultures :fra waaye ñun dañu koy def nag ci ñaari pàcc [r] yoo xamante ne ni jëm na ci dëggantaan lu ñuy wax sax entretien :fra des :fra cultures :fra [r] waaye pàcc ñaareelu pàcc bi ñu jëmale ko rek ci li ñuy wax %e maanaam naka la ñuy def ba xeex li nga xamante ni moom mooy attaques :fra yi maanaam yenn rab yoo xamante ne dañuy faral di laal gàncax yi [r] di leen di andil ay jafe-jafe ba tax na nag baax na ñu xam rek naka lañ koy xeexee [r] ci loolu monsieur :fra Mignane sama laaj bu njëkk rek %e dama koy jëmale [r] ci rek %e normes :fra yi nga xamante ne ni moom la ñu war a mën a respecter :fra [r] ci wàllu entretien :fra boobu
+wol_43011 1 locuteur_2 212.467 220.509 <o,f1,male> waaw soxna Dado maa ngi lay gërëm di la sant [tx] yaakaar naa ne laaj bi nga ma laaj am na solo mooy vraiment :fra %e nan la ñu war a toppatoo tool yi
+wol_43011 1 locuteur_1 220.509 220.871 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 220.871 250.048 <o,f1,male> bu ñu jiyoo ba pare pour :fra tool yi mun a set rafet loolu la ñuy wax entretien :fra des :fra cultures :fra [r] %e laaj boobu dina am solo parce :fra que :fra %e yaakaar naa ne béykat yi [r] ñu ci bëri sori nañ ci liggéey nañ ci bëri wala ñu ci bëri pare nañ yaakaar naa ne ci wàll toppatoo tool yooyu ñuy wax entretien :fra des :fra cultures :fra [r] yaakaar naa ne comme :fra ni nga ko waxee béykat yi saa bu ñu %e defaree seen tool labouré :fra ba pare jiw ba pare [r] li ci topp mooy entretien :fra des :fra cultures :fra mooy li ñuy wax raadu
+wol_43011 1 locuteur_1 250.048 250.622 <o,f1,female> %hum
+wol_43011 1 locuteur_2 250.622 277.879 <o,f1,male> loolu bokk na ci benn [b] %e li ñuy wax xotti [b] bokk na ci [tx] ñaar [b] ñetteel bi li ñuy wax béy [b] tool yi mu set bokk na ci ñett [b] waaye nag da ngay xool ne %e gàncax bu nekk dafa am [b] nu ñu ko war a toppatooyee ni ñuy toppatoo gerte bokkul ni ñuy toppatoo dugub [b] ni ñuy toppatoo dugub bokkul ni ñuy toppatoo mboq [b] kon donc :fra loolu yaakaar naa ne bu ñu ci waxtaan nag béykat yi yaakaar naa ne comme :fra ni ma la ko waxee rek échange :fra lay nekk
+wol_43011 1 locuteur_1 277.879 278.402 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 278.402 308.139 <o,f1,male> parce :fra que :fra ay borom xam-xam ñoo fi toll ñoo xam ne dañoo judd ci mbéy yàgg ci mbéy [b] ñun dañu koo jàng rek dañuy indi technicité :fra bi [b] waaye tamit du tee %e ay doomu béykat lañ [b] c' :fra est :fra que :fra ay séeréer lañ dañuy béy [b] donc :fra yaakaar naa ne loolu comme :fra ni ma la ko waxee rek %e tool moom dafa am %e toppatoo boo xam ne béykat bi dakoo war a toppatoo [r] parce :fra que :fra loolooy tax rendement :fra am bëri [r] loolooy tax toolam aussi :fra bu ko toppatoowul mu booy donc :fra ci loolu ren gis naa ne [r] bi nawet bi dooree am nañ ci jafe-jafe ci entretien :fra des :fra cultures :fra
+wol_43011 1 locuteur_1 308.139 308.427 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 308.427 338.325 <o,f1,male> mooy premiers :fra taw yi mu taw taw yu njëkk yi taw [b] nit ñi dañu yaakaaroon taw yooyu du nawet [b] ñu ci bëri vrai :fra ji jiwuñu ca la ñax ba sax [b] ñu ci bëri seen tool [b] booy xool dañoo am jafe-jafe [b] dañoo obligé :fra di wër tracteur :fra pour :fra mu labourer :fra leen pour :fra ñu mun a ji am na ci ñoo xam ne sax tardé :fra nañ [b] waaw donc :fra am na ñoo xam ne tamit seen tool booy na du parce :fra que :fra ñax bi dafa dominé :fra bay ba ba def yëpp [r] loolu lu ko waral mooy ñàkk entretien :fra des :fra cultures :fra aussi :fra donc :fra entretien :fra bi moom dama lay jël rek lu mel ni pu() lu mel ni gerte
+wol_43011 1 locuteur_1 338.325 338.724 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 338.724 346.594 <o,f1,male> gerte fi mu toll nii boo ko jiwee engrais :fra ko raado ko [bb] war nga koo xotti war nga koo xotti
+wol_43011 1 locuteur_1 346.594 347.065 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 347.065 373.618 <o,f1,male> [r] boo ko xottee ba pare war nga koo béy ba mu set muy benn %hum mun nga aussi :fra xotti ñaareelu xotti bu ko defee ñaareelu xotti aussi :fra tamit nga nettoyer :fra ko ba mu set [i] bu fekkee tool bi set na jkarul ñetteel bu fekkee setul tamit mën nga koo bàyyi noonu continuer :fra te yaakaar naa noonu jamono yi ñu toll nii yaakaar naa ne bu ma juumul ci wàllu gerte ak ci wàllu dugub yaakaar naa ne nit ñi fi mu toll nii
+wol_43011 1 locuteur_3 373.618 374.070 <o,f1,male> foofu la ñu toll
+wol_43011 1 locuteur_2 374.070 375.581 <o,f1,male> ñu ngi toog di di naan ataaya
+wol_43011 1 inter_segment_gap 375.581 375.693 <o,f1,>
+wol_43011 1 locuteur_3 375.693 376.232 <o,f1,male> %hum %hum
+wol_43011 1 locuteur_2 376.232 401.645 <o,f1,male> béykat laa la wax vrai :fra béykat waxumala ñu tardé :fra ñi nag [tx] parce :fra que :fra booy xool mboq mi sax ñor na ci yenn yenn diwaan yi [r] kon donc :fra ci wàllu gerte noonu la ci wàllu dugub tamit [r] li ñu ciy def mooy boo jiwee ba pare [b] dafa laaj xotti [b] boo ko xottee [b] nga béy ko [b] and ko boole koog li ñuy wax wollit yi [b] mooy démarier :fra bàyyi ñaari taat wala ñetti taat [b] donc :fra loolu tamit yaakaar naa ne ca entretien :fra bi
+wol_43011 1 locuteur_3 401.645 402.112 <o,f1,male> [b] %hum %hum
+wol_43011 1 locuteur_2 402.112 415.358 <o,f1,male> yaakaar naa ne loolu entretien :fra bi baax na boo ko defee ba pare [b] apporter :fra sa engrais :fra bu dugub bi gàncax gi màggee ba def talage :fra mun nga jaaraat xotti boo ko xottee nag saa waay yaakaar aa ne mun nga setalaat
+wol_43011 1 locuteur_1 415.358 415.669 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 415.669 461.911 <o,f1,male> [r] boo gisee setul dugub bi am na nu mu day [r] mun nga ci dellu def ñetteeli xotti yaakaar naa ne ci wàllu dugub aussi :fra tamit [r] noonu la ñuy toppatooyee ci wàllu entretien :fra des :fra cultures :fra ba nga xam ne ñax du fa am dara du fa am tool bi toppatoo nañu ko %hum %e démarier :fra nañ ko ba nga xam ne vraiment :fra dina màgg te yaakaar naa ne ci wàllu dugub fi ñu toll nii gis ngeen ne dugub bi mu ngi ñenn ñu ngi foccle ñenn ñu ngi def palpal :fra yaakaar naa ne dugub moom %e aussi :fra tamit foofu avancer :fra nañ [r] %e ci wàllu mboq mi comme :fra ni ma la ko waxee tamit bu ñu ko jiyee ñoom tamit foofu dañu koy xotti [r] comme :fra ni ñuy def dugub %e différence :fra bi rek mooy buté :fra bi waaw mooy buté :fra bi mooy deuxième :fra xotti bi boobu laaj na nga def sa urée :fra [conv] nga xotti buté :fra
+wol_43011 1 locuteur_1 461.911 462.346 <o,f1,female> %hum
+wol_43011 1 locuteur_2 462.346 478.366 <o,f1,male> boo ko buté :fra nag boobu tamit aussi :fra da ngay bàyyi [r] [conv] gàncax gi mun a %e taxaw bu baax pour :fra vraiment :fra %e bu amee doom et :fra puis :fra [r] ngelaw li mbaa dara du ko mun a muna daane racine :fra yi dinañ sampu bu baax [r] te te dina mun a produire :fra ni mu war a produire :fra
+wol_43011 1 locuteur_1 478.366 478.691 <o,f1,female> %hum
+wol_43011 1 locuteur_2 478.691 486.059 <o,f1,male> yaakaar naa ne ci étape :fra entretien :fra des :fra cultures :fra muy ni ma la ko wax ñetti phase :fra la phase :fra bu njëkk ci wàllu %e ji gerte ci wàllu raadu la
+wol_43011 1 locuteur_1 486.059 486.475 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 486.475 492.079 <o,f1,male> [r] beneen phase :fra bi ci wàll %e xotti la [b] ah moom la ñuy wax cerlobinage :fra
+wol_43011 1 locuteur_1 492.079 492.291 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 492.291 501.049 <o,f1,male> [bb] beneen phase :fra bi ci wàll desherbage :fra la moom tamit dañ koy def [r] beneen phase :fra bi ci topp moom ci wàll butage :fra la mooy mboq mi
+wol_43011 1 inter_segment_gap 501.049 501.106 <o,f1,>
+wol_43011 1 locuteur_1 501.106 501.650 <o,f1,female> mboq bi la
+wol_43011 1 locuteur_2 501.650 505.880 <o,f1,male> boo defee %e boo xottee ba pare
+wol_43011 1 locuteur_1 505.880 506.241 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 506.241 508.757 <o,f1,male> ba béy beneen phase :fra bi moom [r] da ngay xotti buté :fra
+wol_43011 1 locuteur_1 508.757 509.134 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 509.134 514.020 <o,f1,male> donc :fra muy étapes :fra yi nga xam ne vraiment :fra ay étapes :fra yu yu am solo la ci tool parce :fra que :fra looloo yor tool
+wol_43011 1 locuteur_1 514.020 514.309 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 514.309 523.646 <o,f1,male> parec :fra que :fra tool bu setul [r] rab yi dañu fay bëri li fay laqatu dafay bëri [r] attaques :fra yi day bëri tool bi mun na booy waaye production :fra ba nga war amee amit doo ko am
+wol_43011 1 locuteur_1 523.646 524.129 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 524.129 530.840 <o,f1,male> boo ci defee engrais :fra aussi :fra di nga gis ne [r] concurrence :fra dafay am dafay mel ni [r] xale bu ndax nga boole koog ñetti ponkal ci boolu ceeb
+wol_43011 1 locuteur_1 530.840 531.385 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 531.385 533.228 <o,f1,male> balaa muy am ñetti dànk %e
+wol_43011 1 locuteur_1 533.228 534.007 <o,f1,female> fekk bool ba jeex na
+wol_43011 1 locuteur_2 534.007 534.622 <o,f1,male> bool ba jeex
+wol_43011 1 locuteur_1 534.622 535.200 <o,f1,female> am na solo
+wol_43011 1 excluded_region 535.200 536.792 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 536.792 558.795 <o,f1,female> gis nañu ni %e daanaka ñett [tx] yu gàncax yi nga wax [r] moom la ñuy gën a béy ci biir département :fra bu Nioro muy mboq dugub ak lii di gerte %e ñew nga si wàllu normes :fra yi nga xamante ni noonu la ñu war a toppatooyee tool bi muy bu ginnaaw boo ko jiwee ci gerte gi [r] nga xotti nga raadu ko xottiwaat ko waaye bu ci nekk ban jamono la ñu war a def raadu ban jamono la ñu war a mën a xottiwaat [r] ak it ban jamono la ñu war a def béy bi maanaam olli bi ngay wax
+wol_43011 1 locuteur_2 558.795 567.631 <o,f1,male> [r] waaw xam nga ci loolu moom comme :fra ni ma la koy waxee rek [n] [r] %e boo jëlee lu mel ni gerte samay mbokk béykat ñoo fi nekk borom xam-xam ñoo fi ne
+wol_43011 1 locuteur_1 567.631 568.124 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 568.124 579.463 <o,f1,male> soit :fra ñoom bu ñu jiwee ba pare rek am na ñoo xam ne dañuy raadu defaale seen engrais :fra [b] am na ñoo xam ne dañuy bàyyi ba mu sax [b] ñu soog a xotti waaye li ci gën ñun ñi nga xam ne ay techniciens :fra lañ
+wol_43011 1 locuteur_1 579.463 580.687 <o,f1,female> %hum %hum [b]
+wol_43011 1 locuteur_2 580.687 589.716 <o,f1,male> %e mooy %e bés boo jiwee rek da nga war a engrais :fra rek raadu boobu mooy bu baax bi
+wol_43011 1 locuteur_1 589.716 590.150 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 590.150 596.864 <o,f1,male> waaye nag dafa fekk seen loxo jotul seen gànnaaw teg ci engrais :fra bi ñoom du ñu ko ñemee def [b] la ñu ji dee du ñu amaat lu ñu ko def
+wol_43011 1 locuteur_1 596.864 597.196 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 597.196 603.812 <o,f1,male> waaye techniquement :fra loolu boo ko defee mooy baax ci gàncax gi ci la rendement :fra bi di [r] %e gën a gën a gën a gën a bëri
+wol_43011 1 locuteur_1 603.812 604.572 <o,f1,female> %hum %hum ci [conv] ci ci
+wol_43011 1 excluded_region 604.572 607.070 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 607.070 607.362 <o,f1,male> %hum %hum
+wol_43011 1 locuteur_1 607.362 620.404 <o,f1,female> %e ci jamono ji nga xamante ni rek ni nga ko waxee ci wàllu entretien :fra bi ci wàllu xotti beeg béy bi [r] benn bu ci nekk ci gerte geeg dugub jeeg mboq mi ban période :fra la ñu war a andi xotti bi ban période :fra la ñu war a andi raadu bi [r] ak it ban période :fra la ñu war a andi lii di olli bi
+wol_43011 1 locuteur_2 620.404 637.811 <o,f1,male> waaw léegi ci xotti bi moom boo jiwee [tx] boo jiwee ba mu am une :fra semaine :fra après :fra levé :fra mën nga xotti mun nga xotti mun nga xotti %e wolli sa tool [r] boo toogaatee ba mu am
+wol_43011 1 locuteur_1 637.811 638.342 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 638.342 639.590 <o,f1,male> 2 semaines :fra après :fra le :fra premier :fra
+wol_43011 1 locuteur_1 639.590 640.059 <o,f1,female> %hum
+wol_43011 1 locuteur_2 640.059 646.104 <o,f1,male> %hum nga jaaraat xotti bu tool bi setul nga béy %hum
+wol_43011 1 locuteur_1 646.104 646.598 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 646.598 670.465 <o,f1,male> bu fekkee ne ci gerte la soit :fra dina am benn ñaari xotti ak benn béy mais :fra yooyu souvent :fra une :fra semaine :fra après :fra bu amee juróom-ñaari fan bu saxee ba am juróom-ñaari fan mun nga xotti [b] boo toogee ba mu amaat juróom-ñaari fan ca xotti bu njëkk ba nga defaat [r] mun nga delluwaat xottiwaat [r] %ehum
+wol_43011 1 locuteur_1 670.465 670.853 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 670.853 687.060 <o,f1,male> boo toogee ba nga xam ne sentir :fra nga ne amatoo ñax aussi :fra mun nga bàyyi mais :fra mais :fra bu fekkee am nga ñaxaat [r] mun nga boo xottiwaatee juróom-ñaari fan nga yokkaat ci yeneen juróom-ñaari juróom-ñaari fan tamit [r] nga dolli xotti [r] kon donc :fra booy xool comme :fra ni ma la ko waxee rek [r] xotti au :fra moins :fra di na di nga am ñetti xotti
+wol_43011 1 excluded_region 687.060 694.448 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 694.448 694.750 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 694.750 698.097 <o,f1,male> wala ñaar fukki fan ak juróom yoo xam ne [r] tool bi booy xool ci loolu rek ngay nekk
+wol_43011 1 locuteur_1 698.097 698.449 <o,f1,female> hum %hum
+wol_43011 1 locuteur_2 698.449 701.770 <o,f1,male> mun nañu ko tënk ci ñaar fukki fan ak juróom yoo xam ne [r] ci tool bi ngay nekk
+wol_43011 1 excluded_region 701.770 705.515 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 705.515 705.881 <o,f1,female> %hum %hum
+wol_43011 1 excluded_region 705.881 715.956 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 715.956 732.569 <o,f1,male> [r] waaw loolu baaxul xam nga gerte gi moom bu commencé :fra am %e tóntóor rek [r] dafay commencé :fra sampu loolu la ñuy wax si ñun tubaab [r] l' :fra étape :fra de :fra la :fra gynéforisation :fra [b] mooy buy commencé :fra am %e buy sampu [b] boobu dañuy bañ ñu ñu ñu yëngal [b] yëngal %e
+wol_43011 1 excluded_region 732.569 733.691 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 733.691 746.075 <o,f1,male> parce :fra que :fra bu ngeen yëngalee reen yi day tax ni mu war a juree du ko jur [b] moo tax [b] bu ngeen commencé :fra gis mu commencé :fra %e am [b] tóntóor rek [b] ah yaakaar naa étape :fra boobu [b] étape :fra bu xotti passé :fra na ci [b] parce :fra que :fra boo ci xottee da ngay yàq sa tool
+wol_43011 1 locuteur_1 746.075 746.433 <o,f1,female> %hum %hum [b]
+wol_43011 1 locuteur_2 746.433 749.599 <o,f1,male> ci wàll %e ci wàll gerte [b] côté :fra boobu aussi :fra baaxu si
+wol_43011 1 locuteur_1 749.599 750.032 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 750.032 750.515 <o,f1,male> waaw
+wol_43011 1 locuteur_1 750.515 767.114 <o,f1,female> junj nga ko sànq ci li nga xamante ne ni moom mooy wàllu engrais :fra bi [b] ni bu fekkee ne rek nit ki ji na daanaka ba nga xamante ne mu ngi def %e lii di raadu [r] mën nañ def engrais :fra am [bb] ndax engrais :fra boobu bu fekkee ci wàll dugub ji la ak gerte gi noonu la war a mën a demee wala dafa am uute [b]
+wol_43011 1 locuteur_2 767.114 775.046 <o,f1,male> waaw ni ma la koy waxee %e noonu la war a mën a demee waaye am na uute bu soppi bu ndaw bu am ci wàll [b] dugub
+wol_43011 1 locuteur_1 775.046 775.593 <o,f1,female> [b] %hum %hum
+wol_43011 1 locuteur_2 775.593 799.092 <o,f1,male> parce :fra que :fra dugub xam ngeen dañ koy faru [b] am na ñoo xam ne dañuy faru mais :fra booy xool saalum ñuy faru léegi bëriwul [b] saalum booy xool ñoom dañuy xaar ba mu taw ñu soog a ji mais :fra boo demee côté :fra Diourbel dem côté :fra Fatick sama mbokku séeréer yi [r] ñooñu ay ay ay mois :fra de :fra d' :fra avril :fra mai :fra boo demee da ngay gis ñuy jiw suuf su wow koŋŋ tawul sax ñuy jiw ñooñu dañuy faru fii am na mais :fra bëriwul
+wol_43011 1 locuteur_1 799.092 799.659 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 799.659 805.168 <o,f1,male> bëriwul [r] kon donc :fra faru bi yaakaar naa ne %e lu am solo ci gàncax gi
+wol_43011 1 locuteur_1 805.168 805.719 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 805.719 812.059 <o,f1,male> mais :fra aussi :fra %e ñoom fii booy xool dañuy xaar ba nga xam ne gàncax gi [r] %e tooy suuf si tooy na
+wol_43011 1 locuteur_1 812.059 812.380 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 812.380 817.899 <o,f1,male> premier :fra taw wala ñaari taw ñu soog a [r] ñu soog a jiw seen i seen i seen i seen i %e dugub
+wol_43011 1 locuteur_1 817.899 818.295 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 818.295 818.697 <o,f1,male> %hum %hum
+wol_43011 1 locuteur_1 818.697 823.074 <o,f1,female> waaw ba tey dugu() wàllu faru boobu ndax mën nañ jàpp ni %e mboq bi mën naa nekk lu ñuy faru wala
+wol_43011 1 locuteur_2 823.074 829.154 <o,f1,male> [r] waaw mboq mi moom yaakaar naa ne %e boo jëlee mboq bi ñuy wax variété :fra hubride :fra bi nga xam ne LG
+wol_43011 1 locuteur_1 829.154 829.515 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 829.515 837.465 <o,f1,male> 335 la penard :fra la wala indien :fra la [r] booy xool ñu ci bëri am na ñoo xam ne ci wàllu Taïba %e dañuy jël ay risques :fra souvent :fra di ko faru [b] dañuy xooj
+wol_43011 1 locuteur_1 837.465 837.880 <o,f1,female> %hum %hum [b]
+wol_43011 1 locuteur_2 837.880 846.081 <o,f1,male> dañuy xooj %e maïs :fra bi [b] ba mu commencé :fra fett [b] ñu ji ko [b] taw bu njëkk a am rek day dem yoonam
+wol_43011 1 locuteur_1 846.081 846.348 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 846.348 854.764 <o,f1,male> loolu nag %e ñoom ay ay ay ay risques :fra la ñuy jël [r] mooy waral ne booy xool fi mu toll nii mboq yi yi ñor fan yii
+wol_43011 1 locuteur_1 854.764 855.033 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 855.033 857.729 <o,f1,male> %e yu mboq yooyu booy xool ci mboq yi faru la bokk
+wol_43011 1 locuteur_1 857.729 858.145 <o,f1,female> [r] %hum %hum
+wol_43011 1 locuteur_2 858.145 863.555 <o,f1,male> mais :fra li ci gën mooy nga xaar ba mu taw [r] ba suuf si tooy ay 5 milimètres :fra [r] nga ji ko looloo gën
+wol_43011 1 locuteur_1 863.555 863.896 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 863.896 875.259 <o,f1,male> mais :fra fi mu toll nii béykat yi expérience :fra bi ñu am mooy [r] liggéey bi dafay bëri ba nga xam ne [r] dañuy obligé :fra yenn spéculations :fra yi ñu far ko [r] pour :fra mun a dabu yeneen parce :fra que :fra tool yi ñuy am dañuy bëri [r] bu ñu toogee xaar ba taw bëgg a ji yëpp rek duñ ci génn
+wol_43011 1 excluded_region 875.259 882.406 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 882.406 887.780 <o,f1,male> day tax %e balaa lee di màgg dinañ jiw fee balaa lee [r] di bëri [tx] ñax dinañ ko mën a xotti
+wol_43011 1 locuteur_1 887.780 888.106 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 888.106 893.009 <o,f1,male> yaakaar naa ne planification :fra [r] stratégique :fra la boo xam ne [r] ñoom dañu koy teg pour :fra vraiment :fra
+wol_43011 1 excluded_region 893.009 894.041 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 894.041 908.099 <o,f1,female> jàpp naa ni question :fra boobu daal di na leer naññ %e tey ba nga %e ci jafandiku bi [r] jëmee rek %e ci wàllu engrais :fra bi ak urée :fra bi [r] loolu tamit naka lay demee maanaam engrais :fra beeg urée :fra bi [r] %e ci ban jamono lañ koy mën a def ak it tamit nan la ñu koy defee
+wol_43011 1 locuteur_2 908.099 913.781 <o,f1,male> [r] waaw engrais :fra beeg urée :fra bi comme :fra ni ma la ko waxee rek %e ndax %e gàncax gu nekk
+wol_43011 1 locuteur_1 913.781 914.125 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 914.125 918.974 <o,f1,male> dafa am engrais :fra bu ñu ko jagleel gàncax gu nekk dafa am période :fra boo xam ne la ñu ko war a defal engrais :fra
+wol_43011 1 locuteur_1 918.974 919.427 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 919.427 940.614 <o,f1,male> [r] engrais :fra bi nag %e dafa am loo xam ne moo ci gën parce :fra que :fra gàncax gi moment :fra boobu la ko soxla [r] %e momemnt :fra bi mu ko soxlaa boo ko defulm nag béykat bi béykat bi mënu ko xam boo ko defee ci engrais :fra bi da ngay yaakaar sa engrais :fra [r] utilisé :fra nga ko bu fekkoon ne 100 pour :fra 100 la 25 rek lay utiser :fra yi ci des yëpp day jëm ci suuf yàqu yow nag da ngay yaakaar engrais :fra nga
+wol_43011 1 locuteur_1 940.614 941.033 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 941.033 947.859 <o,f1,male> fekk la nga engrais :fra lam ci si la ko gàncax gi di jëriñu tuuti la ca la ca des yëpp perte :fra nga ko [r] kon donc :fra boo jëlee lu mel ni tey gerte
+wol_43011 1 locuteur_1 947.859 948.208 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 948.208 985.153 <o,f1,male> [r] ñu li ñu leen di digal en :fra tant :fra que :fra technicien :fra mooy booy jiw rek da ngay engrais :fra raadu parce :fra que :fra momemnt :fra boobu kooku koo boo ko defee [r] yow nga def ko keneen def toolam di nga gis sa tool mooy gën a dem parce :fra que :fra gàncax gi [r] %e dafa nekk loo xam ne [r] dicotylédon :fra la [r] moom %e dafa soxla bu baax [b] %e dafa niróog xale bu judd rek meewu yaayam bi muy njëkk a nàmp %hum bi muy njëkk a nàmp wala jur bu juddoo [r] meew bi muy njëkk a nàmp [r] meew boobu da koy protéger :fra ci yenn feebar yi [r] loolooy tax xale bu gën a dëgër booy xool xale boo xam ne dafa juddu rek [r] dañ koy jox weenu yaayam mu nàmp
+wol_43011 1 locuteur_1 985.153 985.500 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 985.500 999.037 <o,f1,male> xar bu njëkkee judd da ngay gis ñu ne jàppal tànk yi mu nàmp loolu da koy tax yenn feebar yi du ko dal day tax du xiibon day tax day gaaw a màgg day taxaw gàncax gii nag tamit noonu la mel [b] gàncax gi boo koy ji rek da nga ko war a engrais :fra
+wol_43011 1 excluded_region 999.037 1002.819 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1002.819 1019.140 <o,f1,male> [r] booy xool différence :fra bi ki def loolu ak ki nga xam ne dafa jiw di xaar engrais :fra sa gàncax gi moo koy gën a dem [r] sa gàncax gi mooy gën a sàmpu doom yi ñooy gën a baax waaye nag béykat yi dañuy dañuy ragal [b] parce :fra que :fra amuñu doole engrais :fra gi ñu am du ñu ko ñemee def [b] nawet bi taxaw wala ñu am yenn jafe-jafe
+wol_43011 1 locuteur_1 1019.140 1019.465 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 1019.465 1024.604 <o,f1,male> mais :fra loolu moo gën [b] ci wàll engrais :fra bi [r] [conv] ci wàllu gerte
+wol_43011 1 locuteur_1 1024.604 1026.061 <o,f1,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1026.061 1044.536 <o,f1,male> nga def ko [b] boo toogee %e [b] ba ci kanam xotti [b] ba mu am 2 semaines :fra [b] comme :fra léegi seetlu nañ ne béykat yi dañoo bëgg ngooñ fekk doom yi gerte gi sàmpu na mun nga jël sa benn saako engrais :fra yokku ko ci urée :fra boo ko amee urée :fra nga wis ko ci toolu gerte gi
+wol_43011 1 locuteur_1 1044.536 1044.834 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 1044.834 1048.887 <o,f1,male> loolu tamit lu baax la parce :fra que :fra loolu souvent :fra man expérience :fra bi ma ci am dama koy digal béykat yi
+wol_43011 1 locuteur_1 1048.887 1049.286 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 1049.286 1053.351 <o,f1,male> dina tax gàncax gi gën a taxawaat [r] ngooñ gi gën a firéeku [b]
+wol_43011 1 excluded_region 1053.351 1055.946 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1055.946 1076.530 <o,f1,male> [b] donc :fra ci wàllu engrais :fra boobu nag bu demee lu mel ni gerte di 6 20 10 [b] taamu nañ ñu ciy def ñetti saako [b] waaye bu fekkee sa suuf dafa am néew doole li ci gën mooy nga def ci ñeenti saako ñeenti saako boo jiwee nga def ko bu fekkee nag [r] ah %e bàyyi nga ba gàncax gi màgg [b] bu gàncax gi màggee tamit
+wol_43011 1 locuteur_1 1076.530 1076.946 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 1076.946 1080.691 <o,f1,male> ba am ñetti xob wala ñeenti xob tamit mën nga ñew def sa tendre :fra engrais :fra
+wol_43011 1 locuteur_1 1080.691 1080.945 <o,f1,female> %hum %hum
+wol_43011 1 locuteur_2 1080.945 1085.723 <o,f1,male> waaye boobu engrais :fra nag [conv] gàncax ga la mu cay la mu cay la mu cay soxla day néew
+wol_43011 1 locuteur_1 1085.723 1086.160 <o,f1,female> %hum
+wol_43011 1 locuteur_2 1086.160 1089.431 <o,f0,male> par :fra rapport :fra boo ko defoon bu njëkk ba comme :fra ni ma la wax xale buy soog a judd
+wol_43011 1 locuteur_1 1089.431 1089.746 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1089.746 1098.299 <o,f0,male> bu ko defee [r] boo ko defee tamit nga ciy utilisé :fra tuuti rek bu fekkee énaar fukk mu utiliser :fra fukk mu utiliser :fra ñetti juróom-ñaar yi dem ci suuf [b] du si amal njëriñ
+wol_43011 1 locuteur_1 1098.299 1099.582 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1099.582 1109.498 <o,f0,male> boo ñëwee ci lu mel ni dugub dugub gis nañ ñu bëri gis nañ ne %e moom dañuy bàyyi ba taw ba demarré :fra ñu soog ko def
+wol_43011 1 locuteur_1 1109.498 1110.068 <o,f0,female> %hum %hum [r]
+wol_43011 1 locuteur_2 1110.068 1135.325 <o,f0,male> dugub tamit boo jëlee moom li ñuy wax 15 10 10 10 moom la ñu siy def loolu aussi :fra %e taamu nañ ko mais :fra bu fekkee sa tool baax na dëgg nga tosko ba mu baax jarul nga koy engrais :fra [tx] souvent :fra dama koy wax fii béykat yi tool bu baxee nga tos ko [r] ba mu baax gerte gi nga tos ko [tx] dugub bi nga tos ko jarul engrais :fra [b] jarul engrasi :fra boo ko ci defee di nga am mais :fra nag bu fekkee tool bi [tx] dafa néew doole [r] suuf si néew doole loolu [tx] moom yaakaar nañ nga def ci engrais :fra
+wol_43011 1 locuteur_1 1135.325 1135.633 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1135.633 1138.311 <o,f0,male> [r] engrais :fra boobu tamit ni ma la waxee rek
+wol_43011 1 locuteur_1 1138.311 1138.628 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1138.628 1142.943 <o,f0,male> boo demee ba démarier :fra ji ba mu màgg ba nga démarier :fra
+wol_43011 1 locuteur_1 1142.943 1143.474 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1143.474 1150.675 <o,f0,male> yaa ngi fàtte ba nga wolli [b] mun nga def [tx] sa engrais :fra [b] mais :fra engrais :fra bi tamit bu ngeen koy def da ngeen koy def tôt :fra le :fra matin :fra wala tard :fra le :fra soir :fra di waajal
+wol_43011 1 locuteur_1 1150.675 1151.092 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1151.092 1154.088 <o,f0,male> fajar ngeen di engrais :fra [b] wala ngoon gi
+wol_43011 1 excluded_region 1154.088 1156.024 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1156.024 1171.585 <o,f0,male> bu fekkee nag [b] gis nga ne engrais :fra bi [b] ni ngeen koy def mooy engrais :fra dañ koy wis [b] kenn du jël engrais :fra di ko tasaare [r] bu ngeen tasaaree engrais :fra bi dafay lakk gàncax gi [r] te am na bu fekkee yenn xeetu engrais :fra yoo xam ne bu ñu duggee ci biir mun nañ rey xolu gàncax [b] gi
+wol_43011 1 excluded_region 1171.585 1173.038 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1173.038 1181.772 <o,f0,male> dafa tàng [b] phosphate :fra yi ñu ko def dafa tàng da koy lakk [b] moo tax engrais :fra bi [b] te ren xam naa ne moom engrais :fra doyul yaakaaruma béykat yi def nañ di tasaare
+wol_43011 1 excluded_region 1181.772 1182.252 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1182.252 1183.455 <o,f0,male> yaakaar naa ne ren moom
+wol_43011 1 excluded_region 1183.455 1187.273 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 excluded_region 1187.273 1188.087 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 1188.087 1188.467 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1188.467 1189.520 <o,f0,male> noonu lañ soxlaa engrais :fra
+wol_43011 1 locuteur_3 1189.520 1189.896 <o,f0,male> %hum %hum
+wol_43011 1 locuteur_2 1189.896 1196.591 <o,f0,male> engrasi :fra bu ngeen ko defee noonu seen [b] dugub du lakk te gàncax gi dina ko utilisé :fra ni mu ko war a utilisé :fra de :fra façon :fra très :fra très :fra très :fra très :fra judicieux :fra
+wol_43011 1 locuteur_1 1196.591 1197.134 <o,f0,female> %hum %hum [b] loolu engrais :fra
+wol_43011 1 excluded_region 1197.134 1200.848 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 1200.848 1201.169 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1201.169 1202.182 <o,f0,male> engrais :fra du dafay bëri
+wol_43011 1 locuteur_1 1202.182 1202.775 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1202.775 1209.112 <o,f0,male> na jaar rek bu jaaree bu %e bu fekkee ne boo koy def rek na nga fekk mu taw suba sa ba sebet
+wol_43011 1 locuteur_1 1209.112 1209.963 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1209.963 1212.134 <o,f0,male> nga xam ne boo ko dezfee bu naaj bi dóoree rek dafay seey
+wol_43011 1 excluded_region 1212.134 1212.912 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1212.912 1221.832 <o,f0,male> day bàyyi waaye bu ngeen gisee mu xiin [tx] moom jël leen seen saako dellu [b] parce :fra que :fra bu fekkee engrais :fra nga ko mu taw dafay dem par :fra luxiviation :fra engrais :fra bi yëpp day seey
+wol_43011 1 locuteur_1 1221.832 1222.500 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1222.500 1234.806 <o,f0,male> gàncax gi du ko utilisé :fra da nga koy perte :fra kon donc :fra béd bu ngeen yoree seen engrais :fra gis mu xiin arrêté :fra leen bu naaj bi tàngee dëgg bu leen ko def parce :fra day lakk gàncax gi moo tax ñu ne booy engrais :fra da ngay xëy fajar nga def ko
+wol_43011 1 locuteur_1 1234.806 1235.769 <o,f0,female> wala gont
+wol_43011 1 locuteur_2 1235.769 1238.515 <o,f0,male> wala nga gont ngoon nga def ko bu fekke ci wàllu mboq la
+wol_43011 1 locuteur_1 1238.515 1238.873 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1238.873 1258.251 <o,f0,male> [r] mboq bokkul ak yeneen yi [b] mboq [r] yow da ngay gis gars :fra yi ne sama mboq xonq na li ko xonqal mooy ni ngeen di defee engrais :fra mboq moo baaxul [r] engrais :fra mboq bu fekkee ne mboq simple :fra la comme :fra lu mel :fra ne * soit muy variété :fra locale :fra yi [r] loolu bu ngeen jiwee [r] mun ngeen engrais :fra [b] bu ngeen bàyyee ba mu am
+wol_43011 1 locuteur_1 1258.251 1259.645 <o,f0,female> avant :fra muy sax wala [b]
+wol_43011 1 locuteur_2 1259.645 1264.073 <o,f0,male> avant :fra muy sax moo gën mais :fra bu saxee tamit am benn xo() ñetti xob ñaari xob mun ngaa engrais :fra
+wol_43011 1 locuteur_1 1264.073 1264.447 <o,f0,female> [b] %hum
+wol_43011 1 locuteur_2 1264.447 1269.220 <o,f0,male> mais :fra engrais :fra ba na muy réagir :fra bële comme :fra li ma la wax [b] bokkul ak bee dafa mel ni xale bu juddu rek [b]
+wol_43011 1 locuteur_1 1269.220 1269.701 <o,f0,female> %hum [b]
+wol_43011 1 locuteur_2 1269.701 1287.631 <o,f0,male> [b] nga jox ko weenu yaayam [b] dafay protégé :fra day gën a dëgër [b] bokkul ak xale boo xam ne [b] ah yal nañu yàlla musal [b] yaayam da koy jur mu wàññeeku [b] dootu ci nàmp [b] booy xool xale boobu dafay xiibon [b] parce :fra que :fra ween bu muy njëkk a nàmp ci yaayam [b] yàllaa ci def loo xam ne [b] da koy protégé :fra bu baax a baax
+wol_43011 1 excluded_region 1287.631 1290.273 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 1290.273 1290.876 <o,f0,female> %hum [b]
+wol_43011 1 locuteur_2 1290.876 1300.514 <o,f0,male> [b] boo demee ba mu am [b] ñaar fukki fan ak juróom [b] ah [b] da nga war a indi urée :fra [b] fekk def nga sa engrais :fra ba pare [b] da nga war a indi sa ñaari saako urée :fra
+wol_43011 1 locuteur_1 1300.514 1301.618 <o,f0,female> ginnaaw boo engrais :fra ba pare
+wol_43011 1 locuteur_2 1301.618 1302.468 <o,f0,male> boo engrais :fra ba pare
+wol_43011 1 locuteur_1 1302.468 1303.248 <o,f0,female> ñaar fukki fan ak juróom
+wol_43011 1 locuteur_2 1303.248 1304.694 <o,f0,male> waaw [b] nga indi
+wol_43011 1 locuteur_1 1304.694 1305.092 <o,f0,female> [b] %hum
+wol_43011 1 locuteur_2 1305.092 1308.602 <o,f0,male> [b] urée :fra [b] boo amee 45 jours :fra boo defee boobu urée :fra
+wol_43011 1 locuteur_1 1308.602 1309.140 <o,f0,female> %hum [b]
+wol_43011 1 locuteur_2 1309.140 1310.610 <o,f0,male> ba mu am ñaari semaine :fra
+wol_43011 1 locuteur_1 1310.610 1311.399 <o,f0,female> %hum [b]
+wol_43011 1 locuteur_2 1311.399 1336.474 <o,f0,male> ah [b] wala 25 jours :fra [b] nga iniwaat yeneen ñaari saako urée :fra [b] nga def ko ci nga bué :fra [b] nga bàyyi mais :fra booy xool gars :fra béykat yi [b] dañuy def benn yoon urée :fra rek bàyyi [b] après :fra da ngay dem sa mboq mi dem mu taxaw [b] nangootul màgg bañ [b] parce :fra que :fra dafa exigent :fra en :fra urée :fra [b] moo tax mboq dafa laaj ñaari yoon urée :fra [b] ñu ciy échec yëpp [b] dañuy ñëw def engrais :fra def benn yoon urée :fra dem
+wol_43011 1 excluded_region 1336.474 1340.599 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1340.599 1342.915 <o,f0,male> mboq boo ko apporté :fra engrais :fra ba pare [b]
+wol_43011 1 locuteur_1 1342.915 1343.549 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1343.549 1354.279 <o,f0,male> ah bu maee 15 %e 25 jours :fra da nga indiwaat ñaari saak urée :fra nga def ko ci [b] boo amee 45 jours :fra 25 encore :fra jours :fra [b] nga indi urée :fra yeneen ñaari saako buté :fra ko
+wol_43011 1 locuteur_1 1354.279 1354.655 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1354.655 1358.078 <o,f0,male> ba ko dem tëddi nelaw bu soobee yàlla mboq bu [b] bu jéggi dayoo ngay am
+wol_43011 1 locuteur_1 1358.078 1358.815 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1358.815 1361.625 <o,f0,male> mais :fra bu fekkee da ngeen ji apporter :fra benn yoon urée :fra rek dem toog [b]
+wol_43011 1 locuteur_1 1361.625 1362.089 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1362.089 1363.465 <o,f0,male> mboq bi mun na jaar noonu taxaw
+wol_43011 1 locuteur_1 1363.465 1364.193 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1364.193 1390.188 <o,f0,male> donc :fra [b] ñu bëri moo tax dañuy échoué :fra mboq [b] mboq bu fekkee mboq [b] boo xam ne ay penard :fra la ay indien :fra la wala * loolu dafa exigent :fra [b] parce :fra que :fra ci engrais :fra mu ngi laaj benn hectare :fra juróom-benn saak fu kii di laajtee ñetti saak [b] parce :fra que :fra ay variétés :fra hybride :fra la yoo xam ne dañoo exigent :fra [b] bu fekkee ci urée :fra bi la hectare :fra mu ngi laajte ñeenti saak juróom-benni saako [b] kon donc :fra [b] matuwaay yi ngeen di jël ci hybride :fra bokkul matuwaay yi ñuy jël ci variété :fra locale :fra
+wol_43011 1 locuteur_1 1390.188 1390.544 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1390.544 1392.646 <o,f0,male> kon donc :fra variété :fra hybride :fra yi ñoo gën a exigent :fra engrais :fra
+wol_43011 1 locuteur_1 1392.646 1392.933 <o,f0,female> %hum
+wol_43011 1 locuteur_2 1392.933 1393.711 <o,f0,male> que :fra variété :fra locale :fra yi
+wol_43011 1 inter_segment_gap 1393.711 1393.788 <o,f0,>
+wol_43011 1 locuteur_1 1393.788 1397.877 <o,f0,female> waaw bu ñu ñëwee si li nga xamante ne rek moom mooy utilisqation :fra produit :fra phytosantitaire :fra yi
+wol_43011 1 excluded_region 1397.877 1402.078 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1402.078 1411.339 <o,f0,male> waaw produit :fra phutosanitaire :fra yi waaw ci gox gii moom xam nga ñoom ci wàllum mboq mi aussi :fra ak ci wàllu ceeb bi dañuy utilisé :fra ay ay ay ay ay ay produits :fra
+wol_43011 1 locuteur_1 1411.339 1411.629 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1411.629 1413.185 <o,f0,male> yu mel ni ay douana :fra
+wol_43011 1 locuteur_1 1413.185 1413.693 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1413.693 1415.537 <o,f0,male> yu mel ni ay ay ay ay propadile :fra
+wol_43011 1 locuteur_1 1415.537 1416.007 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1416.007 1422.666 <o,f0,male> ah yooyu yëpp ay ay produits :fra yoo xam ne la c' :fra est :fra des :fra produits :fra homologués :fra [r] yoo xam ne ñoom dañu koy utilisé :fra pour :fra rey ñax mi
+wol_43011 1 locuteur_1 1422.666 1423.082 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1423.082 1426.839 <o,f0,male> produit :fra yooyu baax na waaye am na aussi :fra ay conséquences :fra ci ci ci ci gàncax gi
+wol_43011 1 locuteur_1 1426.839 1427.268 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1427.268 1429.047 <o,f0,male> parce :fra que :fra produits :fra yi ñuñ koy gën a utilisé :fra
+wol_43011 1 locuteur_1 1429.047 1429.408 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1429.408 1431.975 <o,f0,male> ah muy gën a rey gàncax gi
+wol_43011 1 locuteur_1 1431.975 1432.336 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1432.336 1439.702 <o,f0,male> am na ñax yoo xam ne baax na waroon fa sax [b] bu produit :fra yàgg di ko utilisé :fra day dem ba [b] ah produit :fra yooyu vraiment :fra yàq yàq suuf si
+wol_43011 1 locuteur_1 1439.702 1440.100 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1440.100 1444.277 <o,f0,male> kon donc :fra [b] produits :fra yooyu aussi :fra bu ñu leen mënee éviter :fra [b] lu bëree bëri [b] di béy ñu utilisé :fra leen
+wol_43011 1 locuteur_1 1444.277 1444.784 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1444.784 1447.588 <o,f0,male> ñu ñu béy [b] que :fra ñu utilisé :fra lu produits :fra yi lu bëri ci tool yi [b]
+wol_43011 1 locuteur_1 1447.588 1447.932 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1447.932 1448.348 <o,f0,male> %hum %hum [b]
+wol_43011 1 locuteur_1 1448.348 1453.527 <o,f0,female> kon produits :fra yooyu [b] bu ñu leen jàppee mën nañu jàpp ne mën na yàq suuf si waaye it mën na andi beneen njeexital si gàncax bi
+wol_43011 1 locuteur_2 1453.527 1456.712 <o,f0,male> [r] ah waaw produits :fra yooyu li ma la wax rek produits :fra yooyu bu yàggee
+wol_43011 1 locuteur_1 1456.712 1458.883 <o,f0,female> parce :fra que :fra dégg nañu fi ay herbicide :fra ak yeneen yu ni mel
+wol_43011 1 locuteur_2 1458.883 1461.771 <o,f0,male> waaw herbicide !fra yi moom %e béykat yi foog ñu koy utilisé :fra
+wol_43011 1 excluded_region 1461.771 1466.892 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 1466.892 1467.495 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1467.495 1492.696 <o,f0,male> ñi lay jàppale li ñuy wax main :fra d' :fra oeuvre :fra ci tubaab ñi lay jàppale si tool yi bëreetul [b] njaboot bi suñ jamono papa yi njaboot yi ni ñu bëree woon bëriwul booy xool benn paa moo doon ñëw yor kër gi [r] ñëpp topp ci gànnaawam [conv] mag rakk ku nekk am doom am jabar mais :fra ñëpp paa bi la ñuy mooy ndeem [r] moom la ñuy béyal mais :fra da ngay gis léegi ku xale bu góor doy ne que :fra papaam ber njëlam yor ay machine :fra am nekk fële [r] te du ñu am main :fra d' :fra oeuvre :fra bu bëri
+wol_43011 1 locuteur_1 1492.696 1493.055 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1493.055 1499.684 <o,f0,male> loolooy waral aussi :fra %e béykat yi dañuy obligé :fra utilisé :fra ay produits :fra herbicides :fra [b] pour :fra xeex ñax mi
+wol_43011 1 locuteur_1 1499.684 1499.992 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1499.992 1501.834 <o,f0,male> pour :fra mun a vraiment :fra mun a njëkkalanteeg tool yi
+wol_43011 1 locuteur_1 1501.834 1502.227 <o,f0,female> %hum [b]
+wol_43011 1 locuteur_2 1502.227 1507.915 <o,f0,male> mais :fra gis nañ produit :fra herbicide :fra yooyu am na njëriñ ci tool bi waaye am na aussi :fra ay [b] jeexital comme :fra ni nga ko waxee Dado
+wol_43011 1 locuteur_1 1507.915 1508.310 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1508.310 1509.302 <o,f0,male> ci gàncax gi
+wol_43011 1 locuteur_1 1509.302 1509.566 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1509.566 1517.915 <o,f0,male> parce :fra que :fra dina rey yenn gàncax yi [r] %e am na yenn rab yoo xam ne amoon nañ njëriñ ci tool yi mun na leen rey [r] am na gàncax yoo xam ne [r] am nañ njëriñ waroon nañ sax aussi dina leen rey
+wol_43011 1 locuteur_1 1517.915 1518.240 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1518.240 1521.602 <o,f0,male> kon donc :fra herbicides :fra yi daal nuñ ko munoon éviter :fra ñu éviter :fra ko
+wol_43011 1 locuteur_1 1521.602 1521.895 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1521.895 1523.831 <o,f0,male> %e ci ci ci ci ci tool yi
+wol_43011 1 excluded_region 1523.831 1536.605 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1536.605 1538.940 <o,f0,male> waaw loolu ñoom %e comme :fra ni ma lay wax rek
+wol_43011 1 excluded_region 1538.940 1541.455 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1541.455 1546.145 <o,f0,male> parce :fra que :fra aussi :fra [r] herbicide :fra yi nga xam ne ñax yi %e yiy rey ñax yi aussi :fra
+wol_43011 1 locuteur_1 1546.145 1546.522 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1546.522 1549.456 <o,f0,male> ay produits :fra yoo xam ni la dañ ko gëstu homologué :fra ko
+wol_43011 1 excluded_region 1549.456 1550.528 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1550.528 1553.519 <o,f0,male> ñoom produits :fra yëpp ñuy utiliser :fra [r] du produit :fra yoo xam ne dañ koo tere
+wol_43011 1 locuteur_1 1553.519 1553.780 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1553.780 1561.742 <o,f0,male> ay produits :fra yoo xam ne dañ ko homologué :fra [r] ne produit :fra yii baax na mun nañ ko utilisé :fra tool yi [r] du am benn njàqateel [r] ci nit ki li muy lekk
+wol_43011 1 locuteur_1 1561.742 1562.290 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1562.290 1563.492 <o,f0,male> du ci am benn jafe-jafe
+wol_43011 1 excluded_region 1563.492 1564.331 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 1564.331 1564.691 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1564.691 1566.713 <o,f0,male> waaye aussi :fra mën na am jafe-jafe ci yenn rab yi
+wol_43011 1 locuteur_1 1566.713 1567.038 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1567.038 1570.042 <o,f0,male> mën na am jafe-jafe ci yenn ñax yoo xam ne amoon na njëriñ wala sax te duñ sax
+wol_43011 1 locuteur_1 1570.042 1570.397 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1570.397 1574.566 <o,f0,male> mais :fra amul vraiment :fra [r] yenn yenn jeexital [r] yoo xam ne mën na indi feebar
+wol_43011 1 locuteur_1 1574.566 1574.819 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1574.819 1578.383 <o,f0,male> wala mën na jafe-jafe ci ci ci produit :fra yi nga xam ne
+wol_43011 1 excluded_region 1578.383 1578.948 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1578.948 1579.270 <o,f0,male> waaw
+wol_43011 1 locuteur_1 1579.270 1613.572 <o,f0,female> am na solo yaakaar naa it %e ne lu ni mel leer na [b] %e ni nga ko waxee sànq ci li nga xamante ni rek %e moom mooy wàllu [b] engrais :fra bi %e ni nga ko waxee métti na lool ci béykat yi ñu daal di ci jote [b] waaye ñu gis ni béréb bi ñu féetewoo bokk na ci wala sax gën na [b] ñu jëfandikoo engrais :fra yi ci tool yi ndax gis nañu ni suuf si tambali naa dee [r] faww rek ñu amal li nga xamante ne ni moom mooy engrais :fra yi [r] waaye junj nga sànq lu ci mel ni ay %e tos ak %e ñoom seen ay fumier :fra [r] ndax loolu it bokk na ci li nga xamante ne ni %e day gën a fertiliser :fra sol :fra yi maanaam da koy gën a dooleel [r] wàllu suuf si ndax loolu tamit mën nga ñu si ñëwalaat ci wàllu fertilisation :fra des :fra sols :fra
+wol_43011 1 locuteur_2 1613.572 1617.463 <o,f0,male> [r] waaw loolu soxna Dodo dinaa ci sawar parce :fra que :fra comme :fra ni ma la koy wax rek
+wol_43011 1 locuteur_1 1617.463 1617.812 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1617.812 1635.526 <o,f0,male> %e mbéy moom suuf su baax lañ koy def suuf su dee mënul mbéy [r] te %e suñuy jamono maam gis ngeen ni fii yëpp suuf si dafa baaxoon waaye SODEVA bi mu ñëwee daane seen garab yëpp gis ngeen jeexital bi léegi ni mu def àll bi mu ngi leer naññ suuf yi dee nañu ba ku defatul engrais :fra mënatoo am rendement :fra bu baax
+wol_43011 1 locuteur_1 1635.526 1636.188 <o,f0,female> %hum %hum [b]
+wol_43011 1 locuteur_2 1636.188 1642.284 <o,f0,male> kon donc :fra yaakaar naa ne tos moom [b] dafa am njëriñ [b] parce :fra que :fra moom la ñuy wax mooy ciment :fra bi mooy fondement :fra bi
+wol_43011 1 locuteur_1 1642.284 1642.615 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1642.615 1670.677 <o,f0,male> mooy fondement :fra suuf [b] tos noo gënee defee sa tool tos [b] sa suuf gën a baax [b] sa suuf gën a dëgër [b] sa rendement :fra gën a baax [b] kon donc :fra yaakaar naa ne [b] engrais :fra effet :fra bam c' :fra est :fra effemaire :fra da nga koy def rek mu jëriñ la [b] bu nawet bi jeexee jeex na waaye tos boo ko defee dina la jëriñ ñett ba juróomi at tos [b] te di bu fi nga xool ne fi nga def tos [r] mun nga toog ay ñetti at yoo xam ne doo ci def engrais :fra te da nga ci am rendement :fra yu baax
+wol_43011 1 locuteur_2 1670.677 1694.008 <o,f0,male> kon donc :fra tos moom mooy fondement :fra [r] batimat :fra [r] moom mooy fondement :fra suuf [r] tos moom nu ñu ko gën a mun utiliser :fra rek nañ ko utiliser :fra [r] engrais :fra du fondement :fra du dara engrais :fra da lay gunge rek pour :fra nga am rendement :fra bu baax [r] bés boo récolté :fra rek [r] suuf sa na mu mel la * dellu te tos moom boo ko defee dina toog ñett wala ñeenti at [r] di produire :fra suuf si baax du yàqu te di nga ci am rendement :fra yu baax
+wol_43011 1 locuteur_1 1694.008 1694.370 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1694.370 1695.579 <o,f0,male> waaw loolooy njëriñu tos
+wol_43011 1 locuteur_1 1695.579 1695.864 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1695.864 1698.796 <o,f0,male> moo tax béykat yi tos [b] vraiment :fra lu ñu ci mën a def ci tool yi rek
+wol_43011 1 locuteur_1 1698.796 1699.121 <o,f0,female> %hum
+wol_43011 1 locuteur_2 1699.121 1701.148 <o,f0,male> baax na waaye nag tos dafa laaj exigenace :fra
+wol_43011 1 locuteur_1 1701.148 1701.436 <o,f0,female> %hum
+wol_43011 1 locuteur_2 1701.436 1710.194 <o,f0,male> booy xool ci wàll benn hectyare :fra rek ñun li ñu ci xam mooy di def 40 [b] à :fra 50 tonnes :fra yoo xam ne [b] %e ñu ngi ko def ci tos [b] ci %e ci tool bi
+wol_43011 1 locuteur_1 1710.194 1710.544 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1710.544 1720.177 <o,f0,male> loolu mooy loolu moom bu ma koy xayma ci ci wàll sareet war na doon lu mu bon bon téeméeru sareet yoo xam ne buñ ko tasaaree ci benn hectare :fra pour :fra variment :fra mu baax ci ci tool bi
+wol_43011 1 locuteur_1 1720.177 1720.521 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1720.521 1728.531 <o,f0,male> mais :fra comme :fra ni ma leen di wax rek béykat yi lépp loo xam ne am ngeen ko rek [b] da ngeen di xool côté :fra yi gën a néew doole ngeen dem def fa tos bi côté :fra yi gën a néew doole [b] ngee fay def
+wol_43011 1 locuteur_1 1728.531 1728.874 <o,f0,female> %hum
+wol_43011 1 locuteur_2 1728.874 1737.626 <o,f0,male> bu ngee koy def %e au :fra fur :fra et :fra à :fra mesure :fra ah yaakaar naa ne tool bi dina daj %e jafe-jafe engrais :fra yi ngeen am du ngeen ko am yaakaar naa ne aussi tamit ci loolu
+wol_43011 1 excluded_region 1737.626 1738.934 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_2 1738.934 1755.961 <o,f0,male> gouvernement :fra bi aussi :fra ak phosphate :fra bi [r] yaakaar naa ne %e war nañ ci def politique :fra boo xam ne %hum %e suuf si gis nañ ne dafa manqué :fra calcium :fra [r] vraiment :fra ñu delloo ko [b] pour :fra jàppale béykat yi indil leen programme :fra [r] phosphate :fra ba nga xam ne suuf yi deewoon mun a dundaat bu baax a baax a
+wol_43011 1 excluded_region 1755.961 1756.742 <o,,unknown> ignore_time_segment_in_scoring
+wol_43011 1 locuteur_1 1756.742 1769.676 <o,f0,female> ni nga ko waxee ci wàllu tos boobu ndax tos mun nañu jàpp ne rek ne [b] %e wàllu neefere yi nga xamante ne mu ngi jugee koo [b] si jur gi jur gi nekk si kër yi [b] ñu koy yóbbu ci tool yi [r] wala am na yeneen pexe yoo xamante ne ni mën nañu ko lal ba mu nekk tos jëriñ suuf si
+wol_43011 1 locuteur_2 1769.676 1774.779 <o,f0,male> [r] waaw lu bëri yaakaar naa ne sama mbokku béykat yi xam nañ ko ay compost :fra yooyu ñoom xam nañ ko
+wol_43011 1 locuteur_1 1774.779 1775.142 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1775.142 1782.867 <o,f0,male> ah def sa gànnaaw kër benn foos loo xam ne lekk wala ay xob ñu dajale ko fa di ko arrosé :fra di ko def ba mu décomposé :fra
+wol_43011 1 locuteur_1 1782.867 1783.222 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1783.222 1788.526 <o,f0,male> loolu bum décomposé :fra yaakaar naa ne bu ñu ko defee aussi :fra ci tool yi tos bu baax la boo xam ne am na njëriñ
+wol_43011 1 locuteur_1 1788.526 1788.852 <o,f0,female> %hum %hum
+wol_43011 1 locuteur_2 1788.852 1801.647 <o,f0,male> am na tool yoo xam ne am nañ kàdd wala yenn garab yi xob yi di daanu nii ah bu yàggee décomposé :fra di ngeen gis ne suuf soosu mooy gën a riche :fra suuf soo xam ne dara newu fa loolu yëpp ci wàllu tos la loo xam ne [r] am na njëriñ ci ci ci tool yi
+wol_43011 1 inter_segment_gap 1801.647 1801.701 <o,f0,>
+wol_43011 1 locuteur_1 1801.701 1803.022 <o,f0,female> xee rek mbokk yi ba tey [r]

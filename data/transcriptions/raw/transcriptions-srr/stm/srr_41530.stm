@@ -1,0 +1,107 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:03 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 2 of 230306
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_41530 1 Locuteur1 0.000 16.929 <o,f1,female> o qol fo jem mi o calel no koor o ga roq teen jala teen calel no tew ten waral u um refo tew soom kam no goor we bom xooytatel la :fra reine :fra du :fra sel :fra kaga taxu um gar ne tin entreprise :fra ne mi reine :fra du :fra sel :fra
+srr_41530 1 Locuteur1 16.929 24.219 <o,f1,female> Marie Diouf ten refu o tewo xa ando naye ka jala fojem [conv]
+srr_41530 1 excluded_region 24.219 39.516 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 39.516 49.539 <o,f1,female> no sit fe na leyel a NJemu no production :fra fojem Marie Diouf fene o tewo xa jegna o koro marier :fra yo refe Célibataire :fra
+srr_41530 1 Locuteur2 49.539 51.354 <o,f1,female> a jeg xa ɓiy a jeg njambot
+srr_41530 1 Locuteur1 51.354 54.390 <o,f1,female> i a jeg xa ɓiy a jeg njambot aussi :fra
+srr_41530 1 excluded_region 54.390 57.733 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 57.733 67.231 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 67.231 85.166 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 85.166 89.883 <o,f1,female> so instant :fra kene pod num na njala nango yo
+srr_41530 1 excluded_region 89.883 109.267 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 109.267 120.759 <o,f1,female> selon [rire] selon activité :fra ne war ma fi wagamo jeg win xarɓaxay fo ɓetik bo win xarɓen tadik na activité :fra nu ando naye ka te lac na no wiin um ɓek taga win
+srr_41530 1 Locuteur1 120.759 136.461 <o,f1,female> [conv] we ando naye kam enploier :fra a den no fojem reka joɗ nuwa wene ka yoɗ nuwa a soƴa le wene yoɗ nuwa no rato ke wene yoɗ nuwa na sutale fojemole stocker :fra in
+srr_41530 1 excluded_region 136.461 150.746 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 150.746 162.905 <o,f1,female> [b] donc :fra a mba mu ando naye dal soxla am employer :fra dal kam lancer :fra aye soxla am employer :fra [b] um ley we een tuma jala ye bonu ŋara nu mbatid tant :fra de personne :fra wala nene fo nene [conv]
+srr_41530 1 Locuteur1 162.905 176.401 <o,f1,female> yo yoɓe o tewa sak entreprise :fra a ad wan goor mais :fra nak ka anda ye entreprise :fra kena saqan ten refu ye o saqq ŋa wiin jal nora den ko waxtana fa dem ko yaatu wa kam dem
+srr_41530 1 Locuteur1 176.401 190.070 <o,f1,female> jafe jafe nara nga jeg o xoyit conseil :fra nu ngar mbaxtaan kino kin a sut idée :fra um naga rek nu négocier :fra ta fo den lala ma den kene ref calel ke en :fra tant :fra que :fra calel ke moom o leŋ fi ke moom ka ando naye leyi num no coté :fra calel ke
+srr_41530 1 Locuteur1 190.070 201.120 <o,f1,female> mais :fra a jega nga jafe jafe kam xoyaden conseil :fra gar mbaxtaan leyaden xa wara lu calel ke ɗemo or nene fo nene negocier :fra a fa den yatala den foka den na xoxes jegim fa den ben probleme :fra
+srr_41530 1 Locuteur1 201.120 220.940 <o,f1,female> ñom ndiki ndefate yo wi xas win wa ando kam miƴo jala fo deno o kino kin no walu fe coxang presque :fra calel ke mi mi miƴu ref ten bo kor sa soɓam ten no calel ke coxan ananga gara a respecter :fra in a anangiran um expliquer :fra ino ten bata wago maitriser :fra kete fiya wax deg jegim fa den beni jafe jafe
+srr_41530 1 Locuteur2 220.940 225.542 <o,f1,female> xa nanum ndiki o korof ka jala men kon
+srr_41530 1 Locuteur1 225.542 239.921 <o,f1,female> i o kores o xey men ina yona njala ten Dsckar a reɗ u yem commencer :fra a acticiter :fra ne tenta ret ba ande um ret bo ande kene calel ke a nanga ɗomata na mi soom um gar leyan yenisay te gara damtaxam no calel ke
+srr_41530 1 Locuteur2 239.921 245.065 <o,f1,female> so wene ndef na mene fop journée o rab da den ni ko cunga bo ŋolo nge xon o sogo coxa den
+srr_41530 1 excluded_region 245.065 259.840 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 259.840 268.597 <o,f1,female> so wo no activité :fra of kene som deyo ten ndi a jega lakas ka ando naye woxay yoɗ nuwa teen
+srr_41530 1 excluded_region 268.597 280.377 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 280.377 293.906 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 293.906 302.935 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 302.935 318.031 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 318.031 331.255 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 331.255 342.440 <o,f1,female> parce :fra %e ka i ndoka naqoda to a jega machine :fra ka mbaag na naq a jega machine :fra ka mbaag na sut fojem kaga fop jaje jafe ka ando naye i atteindre :fra a fuli nano
+srr_41530 1 Locuteur2 342.440 352.452 <o,f1,female> so no machine :fra kene leyona ley nax nu ndeto o mbiñ pour :fra mbi intervention :fra yin kene yinpour njego yo kenu soxla na
+srr_41530 1 excluded_region 352.452 366.628 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 366.628 380.477 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 380.477 395.791 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 395.791 412.330 <o,f1,female> o ret leyele o taux :fra taux :fra nu ref na manaam %e taux :fra na ando naye xano rab da 10% ka yaca ɗom trop :fra o coxel juni cog ten temen kaga interet :fra faga ka magin
+srr_41530 1 excluded_region 412.330 424.054 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 424.054 436.599 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 436.599 445.028 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 445.028 448.140 <o,f1,female> so wo ko utisiser :fra a ay banque :fra yin kene yin
+srr_41530 1 excluded_region 448.140 462.729 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 462.729 472.459 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 472.459 478.263 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 478.263 491.107 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 491.107 501.894 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 501.894 514.081 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 514.081 524.506 <o,f1,female> non :fra mene te ref na um jalanga capital :fra es mom nangin mo duka mais :fra benefice :fra es koy naŋan mo xaja kene kam war no ñam ken mbaat kin no capitel :fra fe
+srr_41530 1 excluded_region 524.506 536.273 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 536.273 549.362 <o,f1,female> no mois :fra le kaga ten utiliser :fra a ku waag ma wago ñama yo kaga waga nga xam ane maga deyum no ke warma ñam [b] no ke
+srr_41530 1 Locuteur2 549.362 554.358 <o,f1,female> waga leya in tamit jafe jafe ke o jega pour :fra no banque :fra ke yin kene yin
+srr_41530 1 Locuteur1 554.358 555.027 <o,f1,female> i waaw
+srr_41530 1 Locuteur2 555.027 556.702 <o,f1,female> yam banque :fra ke maya anda ye
+srr_41530 1 Locuteur1 556.702 557.359 <o,f1,female> a jega wa ando naye
+srr_41530 1 Locuteur2 557.359 567.082 <o,f1,female> ga ndefan me pour :fra population :fra ande nu mbaga ndaw maga xalisin kene yi i jeg wa ando naye raw raw fe tamit ka refa probleme :fra
+srr_41530 1 excluded_region 567.082 581.105 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 581.105 597.773 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 597.773 599.634 <o,f1,female> kaga anda ye banque :fra classique :fra ke yo
+srr_41530 1 Locuteur2 599.634 603.925 <o,f1,female> nda waga ret no banque :fra ke comme :fra ne ano ndiki ay Pamecas sin wene yin
+srr_41530 1 excluded_region 603.925 605.586 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 605.586 607.733 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 607.733 616.001 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 616.001 617.229 <o,f1,female> nda ana ye commencement :fra yo
+srr_41530 1 Locuteur1 617.229 617.497 <o,f1,female> waaw
+srr_41530 1 excluded_region 617.497 620.398 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 620.398 629.943 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 629.943 641.287 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 641.287 652.416 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 652.416 659.105 <o,f1,female> nax no banque :fra som o yoɗ nuwa ndax nangi ro yoɗ nuwa no no groupement :fra yin tontine :fra niin kene yin
+srr_41530 1 Locuteur1 659.105 673.726 <o,f1,female> inanga yoɗ nuwa naxa coɗane xe nieti cabi ke kene fop na ngamo foga ten nda nieti cabi ke pour :fra de ndaw nong pour o jalid kaga leyan ko yond nuwa maga rek pour :fra fiya épargne :fra épargne :fra kene o fiya pour :fra année o wago jeg teen tig
+srr_41530 1 excluded_region 673.726 685.459 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 685.459 685.973 <o,f1,female> waw
+srr_41530 1 Locuteur2 685.973 687.169 <o,f1,female> fo nama ndim le tang
+srr_41530 1 excluded_region 687.169 696.853 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 696.853 708.842 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 708.842 724.396 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur1 724.396 737.369 <o,f1,female> %e a papier :fra kene maga o waaɗ tan %e o bug a re kene parexemple :fra %e nama leyel %e kene es carte professionnel :fra es
+srr_41530 1 excluded_region 737.369 752.701 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 752.701 766.547 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 766.547 768.555 <o,f1,female> so nuun
+srr_41530 1 excluded_region 768.555 771.490 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 771.490 776.223 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 776.223 791.772 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 791.772 811.287 <o,f1,female> [b] so question :fra ne bug uma lamit ten refu ye calel ke nuun nune njega probleme :fra pour :fra njego yo o temps :fra la ando naye ten nu mbar no cooxo yo famille nuun
+srr_41530 1 Locuteur1 811.287 824.314 <o,f1,female> no kaga mom i nanga njega probleme :fra o temps :fra laga pour :fra i mbago coxin famille in parce :fra mi o ndeta ngam kam yoqoxa 5h xam inu im preparer :fra an xa tiqa xemi
+srr_41530 1 excluded_region 824.314 837.466 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 837.466 850.992 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 excluded_region 850.992 859.098 <o,,unknown> ignore_time_segment_in_scoring
+srr_41530 1 Locuteur2 859.098 860.853 <o,f1,female> %hum to jegiro ten ben probleme :fra
+srr_41530 1 excluded_region 860.853 878.108 <o,,unknown> ignore_time_segment_in_scoring

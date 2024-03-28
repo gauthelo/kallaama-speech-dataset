@@ -1,0 +1,301 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:39 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 3 of 230718
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_41210 1 Locuteur1 0.000 9.488 <o,f1,male> mbat o ret kama koɓala ret bo ndero ndero tanola leye yaame kam daxan kaa ka m bugo jeg kaa jawtuuma kam bugo fi nene foogaame wagata alamana el koy 100 mille :fra franc :fra koy 100 mille :fra fogaam a waaga jik xa cuund mbito Gaz :fra
+srr_41210 1 Locuteur2 9.488 10.682 <o,f1,male> boo yip no fudole wo
+srr_41210 1 Locuteur1 10.682 12.908 <o,f1,male> a bo jego gaz :fra mais :fra xa cuund xa quɓuxe kaa fañ teel
+srr_41210 1 Locuteur2 12.908 15.442 <o,f1,male> ndiki kan mbug i njik ndetoyo noxa gaz :fra axe nuun no
+srr_41210 1 Locuteur1 15.442 17.335 <o,f1,male> `andim nee wiin we mbika de nda xa quɓuxe ga mbañ teel
+srr_41210 1 Locuteur2 17.335 19.496 <o,f1,male> [rire_en_fond] nuuno koyo nuuno koy
+srr_41210 1 Locuteur1 19.496 29.718 <o,f0,male> a quɓu ke daal kaa mbañ teel tewoxe ke waag nga ley leyi wiin waaga na ndaxana yee eaux :fra foret :fra fee koy comme :fra a leyaan maaga fada continuer :gfra xana ndamel [rire_en_fond] waaga na mbiyana mbi naaga xana ndamel yaam mi
+srr_41210 1 Locuteur1 29.718 37.464 <o,f0,male> o motpo :fra laaami xay maaga to andamee mete refna kam waagan ma cooɗ yaam mi moom ma refma moom wiin we saɗate kene ten taxu mi kam ñoot nu wat ay quelque :fra kene rek bukoto xam mbanong sergent :fra nalka abal moto :fra bi
+srr_41210 1 excluded_region 37.464 39.433 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur2 39.433 41.862 <o,f0,male> geenu o cooxa sergent :fra comme :fra ten faru no
+srr_41210 1 excluded_region 41.862 57.936 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 excluded_region 57.936 146.733 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur1 146.733 152.648 <o,f1,male> d' :fra accord :fra Modou xaro mbaat ka teen apres :fra i ngaro yo koy noo affaire :fra o o poñe la andoo naye fop tena cungaa yo
+srr_41210 1 Locuteur4 152.648 161.648 <o,f1,male> merci :fra beaucoup :fra Djiby o xana leyna ndiiki o maasreso ten taxu te tooña xam [rire_en_fond] o mbiy tokoreso tokores fe mos uma leyaa nuun ne ka i ndam un
+srr_41210 1 Locuteur1 161.648 162.482 <o,f1,male> ndeysaan
+srr_41210 1 Locuteur4 162.482 175.608 <o,f1,male> kene o ɓeemo [rire_en_fond] naaga yo amy Diouf manaam jamof rek i mbuga nongoyo i parce :fra que :fra waa'a ret koɓala xaye comme :fra ne i mbina mbi nan rek i ñaaƴ rek yen tokof a koom wala o kiina xoyit mana a leyee a jega oxa i nga'na te goda maana
+srr_41210 1 Locuteur4 175.608 187.809 <o,f1,male> bu booba o dama nge coono ina refka coono fop mais :fra bu booba o fi o sabablu rek ne fi oona fagun faak bo fadiid mene fi'i naaga rek o fiya nga naaga xano jeg jam quand :fra a :fra weene na ngoda koy fagun faak
+srr_41210 1 Locuteur1 187.809 189.468 <o,f1,male> parce :fra que :fra kaate a jega waana ngodaa de
+srr_41210 1 Locuteur4 189.468 202.388 <o,f1,male> ndigiloo fagun faak kam ndaana bo kooro leŋ a naanam kang kang ndokalaa mi fajar a leeyame rawa mbay mbafit maana rek a ndeta koɓalaa fajar im fi naaga inu a soɓa sax jegaan yite i ndeta nene no Diamanche :fra ndeta no Dioyin marché :fra kam fi naaga
+srr_41210 1 Locuteur4 202.388 220.101 <o,f1,male> tourner :fra inu muktu kaɓno moto :fra lemi ret ma ndax comme :fra a nga aan yeexe ngara to anda xile o xaaga kaa aara o kiinon xa na aara koɓale yo de ƴufa ndet wid maaga fop ga'iima den kaaga te ley na ndingilo sate faaga a jega waana mbiya kaaga ndaa koy fada ngorgoorlu a mbaasino yo ole Mathias a leyna ten bukato leyaa de
+srr_41210 1 Locuteur1 220.101 222.093 <o,f1,male> mais :fra nak na mbika yo ba umboyo boo i ñaam
+srr_41210 1 Locuteur4 222.093 224.696 <o,f1,male> nee de mbika baa umb xa cuund xa beeru xe fada ngis ka den
+srr_41210 1 Locuteur1 224.696 225.844 <o,f1,male> xa cuund xa beeru njegange
+srr_41210 1 Locuteur4 225.844 228.941 <o,f1,male> xa cuund xa beeru njegange koy a o kiino kiin ()
+srr_41210 1 Locuteur1 228.941 234.535 <o,f1,male> o juund baa weera ka godel di de mbi a umbel a mais :fra mam a umbel o roka nga a tos no kiin te ley nge xa'a
+srr_41210 1 Locuteur4 234.535 247.923 <o,f1,male> Mathiase ga'a maanam den mbisuqoox den coono fee parce :fra que :fra RNA fee kee i ley ina Mathias a leyaan o bug anga wañ taxar keene pour :fra yaraden kaaga waaga jeg a ngaƴ anga taxar ke de maakoyo taxar maak ke xana njegaa waana mbastuwa yaam
+srr_41210 1 Locuteur4 247.923 261.820 <o,f1,male> a meɗ naxa keene mbaage ngota teena umba yo keene fop oxey meen nda wiin we den xi eeru a koɓale jam pour :fra te ñootnu bada mbaago njiñoxa teen ko bugo jiriñ mais :fra ka fi comme :fra manaam mi ne ga ta nuuma o kiinoxa jeg na taaw rimna taaw fa ngoor
+srr_41210 1 Locuteur4 261.820 280.952 <o,f1,male> reta fule sen o bugo jirñoox no ten to taaw fa ngoor o jega ngan wona bug ko envestira na ten baya te matna o feso goor a mota nga o feso goor rek xano ande a mota o fespo goor fika tiro dara tena bug ko fiya ndaa a koɓale yit coono ke te jeg na baa motna rek i njij kate tena jiriñ kata in xana dak ina in fop fat wiin muñana koɓale rek no miñeer te cooxa in kee i mbug na
+srr_41210 1 Locuteur1 280.952 287.492 <o,f1,male> ndeysaan aca 7727658428 nbala o lakas a gariida %e
+srr_41210 1 excluded_region 287.492 300.327 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur5 300.327 301.862 <o,f2,male> waaw Djiby
+srr_41210 1 Locuteur1 301.862 302.347 <o,f1,male> i
+srr_41210 1 Locuteur5 302.347 303.719 <o,f1,male> mba jam rek
+srr_41210 1 Locuteur1 303.719 304.605 <o,f1,male> jam soom kay
+srr_41210 1 Locuteur5 304.605 306.128 <o,f1,male> im rekay
+srr_41210 1 Locuteur1 306.128 306.947 <o,f1,male> Latir nbaa mbine koy
+srr_41210 1 Locuteur5 306.947 312.141 <o,f1,male> in way meen rek ()
+srr_41210 1 Locuteur1 312.141 313.234 <o,f1,male> i kaa yaaco mat radio :fra le
+srr_41210 1 Locuteur5 313.234 316.489 <o,f1,male> weena weena sonda paƴaas ke a njik wa danaka ()
+srr_41210 1 Locuteur1 316.489 317.072 <o,f1,male> %hum %hum
+srr_41210 1 Locuteur5 317.072 318.413 <o,f1,male> mba i paanga koɓale de
+srr_41210 1 Locuteur1 318.413 319.669 <o,f1,male> d' :fra accord :fra Mathias waaga
+srr_41210 1 Locuteur5 319.669 320.489 <o,f1,male> kaaga rek bug umo laamit
+srr_41210 1 Locuteur1 320.489 327.042 <o,f1,male> waga noter :fra a manaam weena mbiya paƴaas in kene yiin ñoom seen donc :fra kaa i nduka directement :fra
+srr_41210 1 excluded_region 327.042 386.922 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 excluded_region 386.922 809.798 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur1 809.798 829.205 <o,f1,male> Mathias xana ɗom lool parce :fra que :fra a woranga woore xaye xaye mbinuun na a mur :fra e to xayne peut :fra etre :fra laŋ ten tabax tano ko jeg doole ret jikik laŋ a camion :fra o xaana a buga tabax a jika o saaku ciment :fra a bugo tabaxa ndok nda jegee doole koy pour :fra a jik a camion :fra xana ɗom lool Mathias
+srr_41210 1 Locuteur2 829.205 843.845 <o,f1,male> i foogaame probleme :fra ke laŋ ke moom fogame waaga mo ley teen mayu yaam nkam maadin ga'a probleme :fra laŋ ke ka i ndet no Fimela mana leyel kene Mbisel saax maak de ngooya Mbisel saax maak o nana nga saax la eetna
+srr_41210 1 Locuteur2 843.845 856.155 <o,f1,male> fogna no saate ke eet na tegel maaga de ngooya saax maak Mbisel fa Samba Dia ye Samba Dia ɗegiina maaga de ngooya in i ndama ndam bo tige mujatee gendarmerie :fra kam damaa gendarmerie :fra dama bo tiga mujata
+srr_41210 1 Locuteur2 856.155 870.371 <o,f1,male> de leyee wee Mbiselle we Samba Dia leyee a mbi kene we saate fe leye wee mbisel njangit kate saate den Lycée :fra faa xa eleve :fra axe njangidaa de ngeenu ndatala e xa eleve :fra axe suur ke njang kee maaga de leye xa eleve :fra axa suur kee njang kee maaga ok wee leyna kaaga deirectement :fra de ngooy
+srr_41210 1 Locuteur2 870.371 884.621 <o,f1,male> Samba Samba Mbiselle ande ka may yermande a ngooya Sous Prefet yee de ngooy na Sous Prefet sous Prefet comme anda comme :fra kene rek a rendre :fra compte :fra a xooy kene apres :fdrac de ngooya gendarmerie :fra de ndeta ndam president :fra faa sartaka awegel
+srr_41210 1 Locuteur2 884.621 899.641 <o,f1,male> to wiin we andee ye Lycée :fra faa njegirano yo foge no competence :fra fa Maire :fra faa sax te leye lycée :fra fe lycée :fra fee nu njigiran de kaa ref saax nuun rek mais :fra refe Lycée nuun nu njigiran ndiiki yaata leyna kaaga prefet :fra fa xoxum fee ref na Fatick a gariid ma a convoquer :fra gendarmerie :fra
+srr_41210 1 Locuteur2 899.641 916.623 <o,f1,male> eaux :fra et :fra foret :fra service :fra des :fra mines :fra environnement :fra chef :fra du :fra village :fra ke ndaf na maaga fop fo president :fra ke gay naak we fop parce :fra kaa jeg u gay naak waa ndef na maaga gay naak we leye wiin we ga ngasa kama ke bo naak ke dem roog fe demba nga kaa yer ka kama kamba kaaga a yen teen baa ŋon no kamba kaa
+srr_41210 1 Locuteur2 916.623 930.373 <o,f1,male> a yena nga teen mbaage suta den bo naaka ngon taaga i soɓ naak la mais :fra kaa yen kam faa ndax den ndiñun wla pulaane moom fa;leyum kaa xool winum dara ndax den diñun ndax ka ɓekin ka naak la maaga i soɓu naak laa xona kam faa an fi un koy kaaga moom woora tiraam ndax kaa yerogu a yen ndax nam
+srr_41210 1 Locuteur2 930.373 945.145 <o,f1,male> yeete ley na kaaga te leya prefet :fra gar i mbi ndeet mete gas na fop vraiment :fra tige salte bo prefet :fra gara leyee e ndiiki a leyee desormer :fra kene moom waage continuer :fra wee ngas na meen a leye kene fata arreter :fra im leyne prefet :fra wagiro mbis arreter :fra
+srr_41210 1 Locuteur2 945.145 963.248 <o,f1,male> pour :fra leyate kene te leyaame non :fra non :fra parce :fra que :fra leyaame code :fra ne fañtaan environnement :fra fañ taan service :fra des :fra mine :fra a fanie taan jarate im mbindaa o maadoxe waage mbinde kam fañta im mbaato mbida xina xin leyee kaa fañ taam effectivement :fra vous :fra avez :fra parfetement :fra raison :fra te leye bin kiim nuun service :fra technique :fra ke im leytaa mee refna kene ke region :fra ne Fatick
+srr_41210 1 Locuteur2 963.248 980.574 <o,f1,male> rerion :fra Fatick ande mi sakun oxu nu nga'at na meen te saqa sareet laŋ ndameeno nu verbaliser :fra in nuun service :fra technique :fra ke fop im ne'a koy te ref gendarmerie :fra te ref eaux :fra et :fra foret :fra te ref service :fra des :fra mines :fra te ref environnement :fra oxu nu nga'na ndameeno parce :fra que :fra avant :fra kaaga sax kaa eeto lamit service :fra des :fra mines :fra
+srr_41210 1 excluded_region 980.574 1015.744 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur1 1015.744 1017.159 <o,f1,male> na sereer quoi :fra
+srr_41210 1 Locuteur2 1017.159 1031.257 <o,f1,male> i sous :fra prefet :fra yee i ndetna apres :fra service :fra des :fra mines :fra prefet :fra fa xooxum Fatick ten gar u maaga sous :fra prefet :fra eaux :fra et :fra foret :fra service :fra des :fra mines :fra environnement :fra chef :fra de :fra village :fra ke fo wee na yoɗ nuwa no kene fop i ndetf kama koɓala visite :fra boo pare te gariid im leynee
+srr_41210 1 Locuteur2 1031.257 1047.819 <o,f1,male> prefet :fra waagiro mbin arret koy kaa na lalta yee laŋ ke kaa mbañ teel ne leyaame xa'a mbindi num yaam code :fra de a fañte maaga a fañte envirennement :fra a fañte service :fra des :fra mines :fra xa taxu mbin kiim maaga im leyne ok jegee prebleme :fra te leyee ndiiki a leya yo oxe saq na laŋ ke no service :fra des :fra mines :fra o xaaga moƴu jeg experience :fra no laŋ ke
+srr_41210 1 Locuteur2 1047.819 1061.459 <o,f1,male> a leye service :fra des :fra mine :fra kam bugo leyaam laŋ ke est :fra ce :fra que :fra a sareet a jega droit :fra a naq no laŋ pour :fra tricycles :fra tricycles :fra trois :fra moro keene rek trois :fra roues :fr ke te leyne non :fra tricycle :fra fa'a sareet mbogee kene jege den kene xaye waaga ndamb dooga nga a naqa nga lang a ndamb daa sax
+srr_41210 1 Locuteur2 1061.459 1074.553 <o,f1,male> no poses im ɓekan yaamret kiim tresor :fra () tresor :fra ka jeg auto :fra maako la ando naye 16 mettre :fra cube :fra refo 20 metres :fra cube waaga soon ndef meen wa ando naye 16 metre :fra cube :fra oxu naq na laŋ waago o rabid kaa un :fra mettre :fra cube :fra oxu naq na laŋ yaaga a jega prejet naa naqoong na maaga laŋa mbisan
+srr_41210 1 Locuteur2 1074.553 1085.950 <o,f1,male> a mbisan maana Palmarin te xooyo kiinoxe a ley ne gari leyaam combien :fra de camion :fra naqo meen o rabda camion :fra ke naqoona tout :fra combien :fra de :fra camion :fra naqo o rabda den o mbissid o rabda camion :fra ke naqoona parce :fra que :fra wo andaa ye maire :fra a anda nge
+srr_41210 1 Locuteur2 1085.950 1098.383 <o,f1,male> wene ande wo anda kee waroonga parce :fra que :fra wo no laŋ ke a jala anda ye xile laŋ ku naqoona maaga ko waro rab din o naqa laŋ ke mi je :fra suis :fra pas :fra au :fra courant :fra wene leyanga autoriser :fra a kene sax wo wara gar service :fra des :fra mines leyee in de kaa autoriser :fra el maire :fra kaa ci'am mana im naq laŋ
+srr_41210 1 Locuteur2 1098.383 1108.312 <o,f1,male> te leyee maire :fra wagirang o ci a naq tel carriere :fra waaga leye autoriser :fra carriere :fra xana wetel mene service :fra des :fra mines :fra o at a kayta ka ando naye ka mbinel maire :fra ae deliberer :fra a ɓisma wiin we ngara ndeet
+srr_41210 1 Locuteur1 1108.312 1113.865 <o,f1,male> mais :fra maire :fra ten war waago saqoox au :fra moins :fra commune :fra um a waago jeg carriere :fra
+srr_41210 1 Locuteur2 1113.865 1122.420 <o,f1,male> commune :fra waage jeg carriere :fra mene waage jeg carriere :fra Tataguine :fra a jeg carriere :frawaage non :fra non :fra waage ce :fra n' :fra est :fra plus :fra possible :fra waage
+srr_41210 1 Locuteur1 1122.420 1123.438 <o,f1,male> arrodissement :fra Tataguine
+srr_41210 1 Locuteur2 1123.438 1128.303 <o,f1,male> i arrondissement :fra Tataguine commune :fra ne wage() mi jegaam prebleme :fra kaaga Fimela xay laaca mene carrier :fra nda ()
+srr_41210 1 Locuteur1 1128.303 1131.954 <o,f1,male> comme :fra comme :fra comme :fra Tataguine a njega carriere :fra mene waaga te jeg carriere :fra
+srr_41210 1 Locuteur2 1131.954 1136.205 <o,f1,male> non :fra waagate jeg carriere :fra kaa matiro yo wo o ndeeti Tataguine fo o Diarekh
+srr_41210 1 Locuteur1 1136.205 1137.180 <o,f1,male> donc :fra oxu bugna tabax
+srr_41210 1 Locuteur2 1137.180 1138.014 <o,f1,male> o ret Tataguine
+srr_41210 1 Locuteur1 1138.014 1138.283 <o,f1,male> no Diarekh
+srr_41210 1 Locuteur2 1138.283 1139.092 <o,f1,male> o jikit Tataguine
+srr_41210 1 Locuteur1 1139.092 1139.575 <o,f1,male> meme :fra Bikole
+srr_41210 1 Locuteur2 1139.575 1155.531 <o,f1,male> Tataguine o jik tikaa mais :fra kaga koy a leera kaaga moom carriere :fra ke mi kay service :fra des :fra mines :fra kam ley uye nu mbaag a inviter :fra xam mos ngo coox numero :fra um un :fra jour :fra te gar mene a ley a gar a ley parce :fra que :fra kaa matiroyo Zone ɗike kaa matir Tataguine fo kene leŋ kutoo
+srr_41210 1 Locuteur1 1155.531 1166.201 <o,f1,male> mais :fra mais :fra comme :fra koy jamano ka ñaƴawiin we a mbugo tabaxo yo surtout :fra meete refat na %e xaƴna aux :fra moins :fra Etat :fra fee wala nuun wene na njala meene
+srr_41210 1 Locuteur2 1166.201 1169.836 <o,f1,male> i kay i mbaange teen tus caaxana mbafa nga mbaaf koy ka jeg kaa ando naye service :fra des:fra mines :fra in moom controle :fra
+srr_41210 1 Locuteur1 1169.836 1170.869 <o,f1,male> ndaa nu mba ngeɗ
+srr_41210 1 Locuteur2 1170.869 1180.540 <o,f1,male> controle :fra non :fra non :fra kaaga moom maire :fra o service :fra des :fra mines :fra yo in ke i mbaag na mbi te refu ye carriere :fra a naanga wetel ka service :fra ke fop na ngara comme :fra prefet :fra xoyit na wiin we fop naga refe delegation :fra kaa ando naye ka ngyelo yo
+srr_41210 1 Locuteur2 1180.540 1192.589 <o,f1,male> toi fogam delegation :fra prefet :fra yiin nangam miim ()fop xana ngaro yo o kiino kiina a gara ndeet eaux :fra et :fra foret :fra xana mbisida in i ndeet taxar ke est :fra que :fra jege sik taxar kaa ando naye ils :fra sont :fra integralement :fra proteger :fra comme :fra kaa ando naye
+srr_41210 1 Locuteur2 1192.589 1205.284 <o,f1,male> ka ndef maaga nanagam miin comme :fra ca :fra c' :fra est :fra integralement :fra proteger :fra saas sax non :fra non :fra kaan ke sax integralement :fra proteger fogaam saas in neen in fogaaam kaaga a refa nga taxar ka ando naye c' :fra est :fra integralement :fra proteger mba te ref taxar kaa ando naye il :fra sont :fra en :fra voie :fra de :fra disparition :fra i nga a te den meen
+srr_41210 1 Locuteur2 1205.284 1219.070 <o,f1,male> i leya a taxar kene mbaaga parce :fra que :fra taxar kene o ndeta nga zone ne fop taxar kene soom ndefatu meen wene yen nag meen taxr ke xana disparaitre :fra mene i leye a waage ref a soɓa ngaye taxra kaaga jege meen i ndet ndiiki koy environnement :fra ngara nga dena eet ka degat :fra kum a jeg kaa na environnement :fra fee kaaga wa environnement :fra den andu noyo
+srr_41210 1 Locuteur2 1219.070 1230.543 <o,f1,male> a ley in degat :fra kene fo kene mbisidun service :fra des :fra mines :fra tena gara ndet laŋ ke ndax laŋ ke est :fra ce :fra que :fra laŋ kene a naqa nge a faaxa pour :fra a fiya nel wiin we parce :fra que :fra population :fra ne est :fra ce :fra que :fra leŋ kene laŋ paaxo kaaga ten i ndeti du o kiino kiin ka jeg ka o ndeetida meen
+srr_41210 1 Locuteur1 1230.543 1232.574 <o,f0,male> wen ngay naak we ngaridoyo aussi :fra
+srr_41210 1 Locuteur2 1232.574 1243.891 <o,f0,male> gay naak elevage :fra bono elevage :fra mom den () o xaaga fiya nga fi degat :fra leya dene in de mene a keen i parce :fra que :fra fook i ndeetino yo i ndeet maaga tout :fra temps :fra ndax elevage :fra kaa ndegan ndax nam ga'a laŋ ke tout :fra le :fra temps :fra ndax elevage :fra kaa ndegan ndax nam ga'a laŋ nu nga'a carriere :fra wiin we nga nga'an rek mais :fra
+srr_41210 1 Locuteur2 1243.891 1255.118 <o,f0,male> c' :fra est :fra pas :fra simple :fra carriere :fra ne wiin we mboog tuna naaga yomb tu yomb te naaga () mi ga'amo () bo fa ndiik autoriser :fra an bo xaye jega fule carriere :fra autoriser :fra an carriere :fra
+srr_41210 1 Locuteur1 1255.118 1256.437 <o,f1,male> nam Tataguine
+srr_41210 1 Locuteur2 1256.437 1257.998 <o,f1,male> non :fra non :fra mana ne'im Tataguine man
+srr_41210 1 Locuteur1 1257.998 1262.594 <o,f1,male> Lul Sesene to pourtant :fra bo xaye oxey taaga a xoya xam i leyne a
+srr_41210 1 excluded_region 1262.594 1269.259 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur2 1269.259 1278.500 <o,f1,male> d':fra accord :i njango xene no ;ligne :fra fee alo Dairekh Fm alo alo Diarekh Fm oui :fra
+srr_41210 1 Locuteur6 1278.500 1280.636 <o,f1,male> waay maxey simna nuun waay
+srr_41210 1 Locuteur2 1280.636 1282.173 <o,f1,male> in way sim nang a paax waay
+srr_41210 1 Locuteur6 1282.173 1286.967 <o,f1,male> waaw im leya olof rek pour :fra comme :fra ca :fra oxe refna meene le :fra sergent :fra waago nan keem leya
+srr_41210 1 excluded_region 1286.967 1382.021 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 excluded_region 1382.021 1387.119 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 excluded_region 1387.119 1478.125 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur2 1478.125 1481.886 <o,f1,male> d' :fra accord :fra Mathiase :fra jega kaa leyoona teen
+srr_41210 1 Locuteur1 1481.886 1488.449 <o,f1,male> ok kene na mi daal kam fooge kaa jeg wiin wa ando naye ande role :gfra den no saax le te ref () te ref conseiller :fra ke waagimo ref conseiller :fra no saax
+srr_41210 1 Locuteur2 1488.449 1490.189 <o,f0,male> mais :fra matar :fra ko anda ye
+srr_41210 1 Locuteur1 1490.189 1491.408 <o,f0,male> a koɓale wo jegun ko doxnelo ten
+srr_41210 1 Locuteur2 1491.408 1495.256 <o,f1,male> ande ye fa in geno nda anda ne o sereer a nan na
+srr_41210 1 Locuteur1 1495.256 1510.009 <o,f1,male> waa conseil :fra wa o refa nga conseil :fra na koɓale wo leyne o refa nga conseil :fra koɓale ko doxnelo ten conseil :fra mairie :fra fee yo mairie :fra fee maire :fra o o refa nga maaga o ref maire :fra faa maaga maire :fra a refa nge meen wo mu refoona wo refanun maaga yaam wo refu maire :fra faa maaga o ga'a nga o kiino xa na yaqa o elyin fo njek fo tedaanga nanirang
+srr_41210 1 Locuteur1 1510.009 1522.605 <o,f1,male> o xooy eaux :fra et :fra foret :fra mi a jega wa ando naye den na ngoya jega a xam a jega conseiller :fra kaa qo tewo xe ten na xoyaxam a leyaame gari mam refo mee mexey te gari yaam o xene lka i leya fo ten te mbisada in kene gariidi ndiiki () im soɓa den koɓala te ta kiinoxa xaay um xooyo kiinoxa ret soɓin maaga convoquer :fra in ret xaƴin koɓlaa
+srr_41210 1 Locuteur1 1522.605 1532.561 <o,f1,male> re e maaga im ley ne jour :fra tel :fra xam convoquer :fra ong im mbisna convocation :fra ne leyne i nget coɓalaa ngar te leyaa chef :fra du :fra village :fra a leya te depasser :fra a chef :fra du :fra village :fra paames im ret gendarmerie :fra leya dene o xene de kaa depasser :fra a chef :fra du :fra village :fra paames xan chef :gfra du village :fra a porter :fra in plainte :fra koy
+srr_41210 1 Locuteur1 1532.561 1546.404 <o,f1,male> mais :fra ku te leyna ndigilo leyne a im leyne pamesoo o leŋ leyiramo ten mi moofu te leyan to ley anu me im reta nga xam leyin cungim sax o xooyel mina garka leyin parce :fra que :fra waagi mo ref maago autoriter :fra chef :fra du :fra village :fra a gar te depasser :fra a chef :fra du :fra village :frao maka re'u koy ten taxu nda a re ande o maak mais :fra comme :fra maako re u kaga soom taxu
+srr_41210 1 Locuteur1 1546.404 1560.168 <o,f1,male> te gariid a ret im ret jego lakasoxa ando naye naaga fi'u a xooyam a saaga axam im ley ne ok :en mi o saaga 'a est :fra ce :fra que :far anda oxe o saaga a te leyaame non :fra non :fra kam nangam im ret tiima leya gendarmerie :fra kaa mofa gariid te garde a maaga wege im mleyne kam bug nu yara namo ten maaga yongu bo rooga yaar
+srr_41210 1 Locuteur1 1560.168 1573.673 <o,f1,male> maaga yongu bo rooga yaar il :fra faut :fra wiina an il :fra faut :fra conseiller :fra ke ande o kiina fi'anga ka conseiller :Lfra refum refiro n' :fra importe :fra qui :fra saate faa parce :fra saate fe ngotongo yo a ndondongo yo a leyo nge conseiller :fra o refa nga conseiller :fra koy o ga 'anga o kiinoxa na nga yaqa a nona ye kaa matong kam faa o leya dene xee kene kaa fañ teel
+srr_41210 1 Locuteur1 1573.673 1585.048 <o,f1,male> a mbiya ngiran feetola feet wo a gara nga gar o xoyit eau :fra et foret :fra fee mee xoyit telephone :fra mi o kiin ka xoya xam telephone :fra o leŋ anke an xooyun ye in sereer nda a refa nga o pulaane pour :fra te xooyong ndika ley gari a jega xana goda mene a timana xooxum a geenu maaga
+srr_41210 1 Locuteur1 1585.048 1596.744 <o,f1,male> a fi koy nen oxa ando naye xooy te ya ando naye i moske leye diw xooytu parce :fra queb :fra o naaga mbinda sax ko leya j' :fra ai:fra recu :fra un :fra coup :fra de :fra fil :fra anonyme :fra kam jego kiino xa xooyaxama andeer ma procureur :fra moskirang o laamite anoo
+srr_41210 1 Locuteur1 1596.744 1606.588 <o,f1,male> un :fra coup :fra de :fra fil :fra anonyme :fra o ley kaa kam xooyel anonyme :fra o xene yeete xoyeena faak wiin we ga nga o kiino xa gar ye i ndam na o kino xa faak de leye non :fra e o kiinoxa an xooytu im leye o leŋ xoyiran o xenen
+srr_41210 1 Locuteur1 1606.588 1618.002 <o,f1,male> o leŋ xooye in de mi ga'u o kiinoxa mi mi fene mi ƴufnogu o auto :fra es bo ga ndaxar ne geenu im xooya eaux :fra et :fra foret :fra o leŋ xoyiraam mais :fra il :fra faut :fra wiin we njang responsabliter :fra fee te ref () chef :fra du :fra village :fra fee mi ke gima ten ref ke yarma chef :fra du :fra village :fra
+srr_41210 1 Locuteur1 1618.002 1629.592 <o,f1,male> ku ando naye kaa wañ tel eaux :fra et :fra foret :fra leyaan fexeyi saax le yigino yo oxu leyoona koy to wiin we nane o leyin jafa ndak wiin we nane oxu garatna wo fa xoxof koy jangi responsabliter :fra of xooy eaux :fra et :fra foret :fra ande wo xoyun parce :fra que :fra kaaga droit :fra of foo devoir :fra ofo
+srr_41210 1 Locuteur1 1629.592 1639.622 <o,f1,male> chef :fra du :fra village :fra refo mais :fra devoir :fra ofo oxu na yaqa meen o leya ngan fo ten fo njek fo tedaanga jaf leŋa cafa ɗak waage nan o ley parce :fra que :fra o ;leya ngiran meen ku yaquna meen tot :fra ou :fra tard :fra xana leye chef :fra du :fra village :fra yeete refna meen
+srr_41210 1 Locuteur1 1639.622 1653.212 <o,f1,male> wo yeete refna meen diwa ref meen kaga yaqwu meen ten taxu fook i njang responsable :fra te nuun leynee a kambalaaga oxu de nga at na maaga keem leya den rek jaree ñox jare ngasir fat wiin we identifier :fra wiin we mbiyo gina kaaga rek a faaxa eaux :fra et :fra foret :fra waaga nga fad a :fra temps :fra a gariid a waaga nge fad a :fra temps :fra koy fata identifier :fra ine
+srr_41210 1 Locuteur1 1653.212 1665.372 <o,f1,male> diw fa diwo a ngen mbindaana a faga kaaga c' :fra est :fra tellement :fra simple :fra kaaga soom im laamta den identifier :fra ana moom an fo ano rek ba jooxel baa xasrel kee yoqna fop xam ñaƴin wo kay leyaname diwo rek im garida nga garid mi xam xotin cooxna convocation :fra te gara jambidaam
+srr_41210 1 Locuteur2 1665.372 1667.136 <o,f1,male> to to maire :fra fee fog katee
+srr_41210 1 Locuteur1 1667.136 1678.897 <o,f1,male> maire :fra fee fogka te te gara jambi daam maire :fra ke a jega maire :fra kaa ando naye dena ngoyi dang a leynge gari maire :fra fee Djilaas tern ref adjoint :fra faa tena dama wiin we mi kam moof bata xoyaam a leyame damam o auto:fra la saq na () me teganam mene bo feet maxey gariida
+srr_41210 1 Locuteur1 1678.897 1691.301 <o,f1,male> tev damo qoya o qoyaa reti jamb te leye jambikee im leyne yaagav roog fee ka deɓa im leyne o ina ngaam mene bom gar bo meene te o ret kee maire :fra fe leynga ten ref jamof maire :fra fa a sartaka eet dam sareeta ɗak sareeto sareet a rabid 60 milles :fra te damo
+srr_41210 1 Locuteur1 1691.301 1704.565 <o,f1,male> o tricycles :fra ola te rabid cent :fra mille :fra te dama car :fra ala te rabid cent cinqante :fra mille :fra a faga yete fina foi mi nana tiim kam jeg jam xoya tiram o leŋ mberate maaga parce :fra que :fra kaa leye mi a ndates yongee teen ma xota no o ɗeng ta ngan o Diarekh o wala Tataguine a ndates yonge taaga
+srr_41210 1 Locuteur1 1704.565 1710.190 <o,f1,male> furdu ke daal oxu joon na saate es xam arreter :fra ongv xam geenong () lijante inum ()
+srr_41210 1 Locuteur2 1710.190 1712.383 <o,f1,male> d' :fra accord :fra i njango xene alo Dairekh Fm
+srr_41210 1 Locuteur7 1712.383 1714.352 <o,f1,male> waaw i yaare jam Djiby
+srr_41210 1 Locuteur2 1714.352 1715.786 <o,f1,male> nu yaare jam waay
+srr_41210 1 Locuteur7 1715.786 1716.447 <o,f1,male> jam soom
+srr_41210 1 Locuteur2 1716.447 1717.607 <o,f1,male> Ablaye Jackie
+srr_41210 1 Locuteur7 1717.607 1718.358 <o,f1,male> i
+srr_41210 1 Locuteur2 1718.358 1719.499 <o,f1,male> aca fadiida
+srr_41210 1 Locuteur7 1719.499 1720.155 <o,f1,male> nam nu mbiyu koy
+srr_41210 1 Locuteur2 1720.155 1720.890 <o,f1,male> in way meen rek
+srr_41210 1 Locuteur7 1720.890 1723.604 <o,f1,male> content :fra nam no explication :fra ke ngoor keene
+srr_41210 1 Locuteur2 1723.604 1724.344 <o,f1,male> merci :fra beucpoup :fra
+srr_41210 1 Locuteur7 1724.344 1731.774 <o,f1,male> roog moƴu environnement :fra fee a soxla in carrement :fra to keee de mbiya soom waag no aar
+srr_41210 1 Locuteur2 1731.774 1732.188 <o,f1,male> ndeysaan
+srr_41210 1 excluded_region 1732.188 1735.355 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur7 1735.355 1743.503 <o,f1,male> wiin we ndefa nga koɓale ke fel na den rek a mbiya yo ona nga leya foden tig wene njanga nangoyo laɓ koɓale wene ngasra fo wo
+srr_41210 1 Locuteur7 1743.503 1753.738 <o,f1,male> Mathias a parfaitement :fra raison :fra tige jege ngasir jege kene fo kene soɓa xongo fiya kaa refeer na kaaga ndat o leye qoye kene o fiya faaxe o mbisi daam probleme :fra im xaƴong maaga xoyit
+srr_41210 1 Locuteur7 1753.738 1759.332 <o,f1,male> nda in de ka i ndef un :fra phenomene :fra faa ando naye Latir a Mbiselle a laam tan to bo ndiik tontu waan
+srr_41210 1 Locuteur2 1759.332 1760.829 <o,f1,male> xana gar xana gar
+srr_41210 1 Locuteur7 1760.829 1762.297 <o,f1,male> te ref wena soɗa paƴaas ke
+srr_41210 1 Locuteur2 1762.297 1763.241 <o,f1,male> paƴaas ke i
+srr_41210 1 Locuteur7 1763.241 1779.058 <o,f1,male> kaaga moom il :fra faut :fra nu guider :fra a in teen ndax ka ref a wora nuun ne nu ndeta nga koɓale muumeen ke soma ñaama yo donc :fra ndax koy weene l :fra environnementaliste :fra fee ndef na meene ()
+srr_41210 1 Locuteur2 1779.058 1782.219 <o,f1,male> jege probleme :fra merci :fra beaucoup :fra directement :fra Mathiasse
+srr_41210 1 Locuteur1 1782.219 1794.973 <o,f1,male> ii kam bugo tontu win no kee ley ma xaye ande adna kaa suptu to technologie :fra fe suptuwa xaye im ga'a nganga ga a fela ngang sax ley kironge nangam im leya nga jaf leŋjaf lakas im ga'a tangaang leykti rong tig appareil photo :fra ne fadkaamana zoome :fra ong bo o matiid
+srr_41210 1 Locuteur1 1794.973 1807.787 <o,f1,male> im photo :fra ong fo a sartale foke saqona fop timana xoxes bo eaux :fra et :fra foret :fra fee gara im cooxno ten yangeer na leyke diw envoyer :fra xam photo :fra ne wo o ko o leyne xa'a te lelong photo :fra ne a leynge kene ano waga tino fañ parce :fra que :fra kaaga ka leer na yo oxey wiiwe nga 'an
+srr_41210 1 Locuteur1 1807.787 1818.538 <o,f1,male> waaga tino fañten taxu kene jare mi dal kem laye na den kam leya dene chef :fra du :fra village :fra are dal oxu leyeena jaf leŋba ndika nin chef :fra du :fra village :fra () mi koy kam bug oxa ando na ga'a nga sax to tiye ɓisidan probleme :fra fexeyi xoya chef :fra du :fra village :fra bo chef :fra du :fra village :fra a temoigner :fra
+srr_41210 1 Locuteur1 1818.538 1823.823 <o,f1,male> chef :fra du :fra village :fra koy ka erf temoigner :fra faa ando naye a xesa nga ba temoigner :fra a faga ta jega te demi :fra mesure :fra
+srr_41210 1 Locuteur2 1823.823 1831.889 <o,f1,male> d' :fra accord :fra waaga suur tontoox ke ando anye dena laam ta aussi :fra mbirum matelas :fra ke yiin sondeliin nda koy wax deg fa yala a ñakee mbonwa de
+srr_41210 1 Locuteur1 1831.889 1838.242 <o,f1,male> iyo mbir po leya kaana sondel koy kaa ref o sujet :fra la andoo naye ka refo sujet :fra delicat :fra parce :fra que :fra mi fo xooxes jeganum no zone :fra es
+srr_41210 1 Locuteur2 1838.242 1839.399 <o,f1,male> waana njik waa matela :gfra
+srr_41210 1 Locuteur1 1839.399 1851.498 <o,f1,male> wa ando naye ka ndet u maaga ka mbi u maaga matalas :fra a a soɗa matelas :fra kaa mais :fra koy par :fra rapport :fra daand le te soɗoogina sax kaa jeg difference ":fra to andiim ndax daand le jaga meen ndax nam ten ref dend leene ando naye na ne'e te sax na yoqa bañake ando naye naak ke mbugiran na ne'e
+srr_41210 1 Locuteur2 1851.498 1856.279 <o,f1,male> [conv] manaam dand la refa a bañ rek
+srr_41210 1 Locuteur1 1856.279 1866.409 <o,f1,male> i non :fra a jega daɗ la ando naye baña ke refu naak ke sax bugirano yo maak ke nangirano ñaama () dand la itam naange ñaman mais :fra a jega waa ando naye wiin we ka mbañ toogun so ye ga'ma de ndet baa
+srr_41210 1 Locuteur1 1866.409 1876.989 <o,f1,male> a mbiya peel ka de ndoxino yo apres :fra yaaga ndetum leye vraiment :fra keede mbiya refe ndat parce :fra que :fra dand le ando naye naak ke ñaam kiranto ka andoxano yo mais :fra wiin we saɗin paƴaas ten moƴu de ngaƴan de njikwan parce :fra que :fra kam ga daand le
+srr_41210 1 Locuteur1 1876.989 1890.527 <o,f1,male> te ret maaga wiin we ngoyam a leya me kam bugo a mbiya nel yeede mbadiin na a leyame kam bug () im leye a jege probleme :fra te leye ka i mbugo o mbaaɗ autorisation :fra mais :fra daɗ la xay kam faa me dand le koy te leye a dand lene kay comme :fra mumeen ke mbugiran ka i ndox kan a ndoxin naaga ande kaaga itam yaam kaga itam faaxe yaam societé :fra soxla angan a waga
+srr_41210 1 Locuteur2 1890.527 1898.874 <o,f1,male> mais :fra question :fra ne xayna peut :fra etre :fra awa ref daand la ando naye cegel ke mbugano yo awaa ref no qol wala no pedale yiin keene surtout :fra koy a pedale
+srr_41210 1 Locuteur1 1898.874 1904.155 <o,f1,male> i daand le exploitation :fra fe dand le moom ka ref kaa ando naye comme :fra code :fra ande in moom code :fra i ñaaƴ taa
+srr_41210 1 Locuteur2 1904.155 1905.349 <o,f1,male> manam ka bindena na kayit rek
+srr_41210 1 Locuteur1 1905.349 1915.294 <o,f1,male> in ke bindena na kayit rek i ñaaƴ taa ku mbinda na rena na kayit rek ande kaaga code :fra ne maaga moom jege ande jege dand le moom jege kene fo kene a doxa nge daal in daal mga kaa ndamang
+srr_41210 1 Locuteur1 1915.294 1923.686 <o,f1,male> mais :fra pour :fra dand la fiyena ana ye sax pour :fra dand laa a bobel a fiyel bob le wiin we mbagirano mbañit wiin we ka mboba ɓisa pinka wiin we kaa mbufa ande waagiro leye o kiin boob ke kene
+srr_41210 1 Locuteur2 1923.686 1926.813 <o,f0,male> non :fra soɗ soɗ matelas :fra leyu manam paƴaasiin
+srr_41210 1 Locuteur1 1926.813 1940.800 <o,f0,male> soɗ matelas :fra paƴaasiin den fop leŋo di yaam andaa ye o kiino xe andaye o booɓ dand le mbis bo mbinos soogo soɗ maaga matelas :fra anda kaaga o kiin waage an teen tig i keene koyo lkaga mom () a jega o kiino xa ando naye tena fiya a reta boo ma procureur :fra boma procureur :fra pour :fra daand laaga
+srr_41210 1 Locuteur1 1940.800 1949.675 <o,f0,male> booɓ laaga te fiyaa yaam wiin we ka bañ tan to daand la ka yaq waa maaga ro wii waa mbiyan daand la mumeen ñaam kiran kene fop pertement :fra te ref ka o sujet :fra laa ando naye o sujet :fra delicat :fra yo
+srr_41210 1 Locuteur2 1949.675 1961.251 <o,f1,male> nam nu mbaagu mbi teen bo ndimele teen peut :fra etre :fra xaye ba ndef na no pedale wala naxa qola xe a boɓa boob leene aussi :fra manam pour :fra matelas :fra kaa de njikuna a njeg xalis iin cegel ke xan ta ndet boo njeng kate kaate ñaam na
+srr_41210 1 Locuteur1 1961.251 1973.516 <o,f1,male> i ndiiki keene ref tiye koy ten refu adne o kiino kiin ande kaa jega lois :fra fee ande kaa jeg lois :fra mais :fra o kiino kiin a naanga jega comme :fra ke refna Tataguine a jega ka refna saate fe convention :fra locale :fra ()
+srr_41210 1 Locuteur1 1973.516 1986.668 <o,f1,male> a mbaga mbiyana qoox den convention :fra locale no mairie :fra fene a mbaxtan koy fo den fop laye kene de ka i bañ tan saate fee bu booba mairie :fra fiya nagan koy kaaga fañte saax nuun kaga jega te parce :fra que :fra convention :fra locale :fra a waaga jeg kaaga jeg kaaga dong i mbage teen tig convention :fra locale :fra a jega saate mayu ka jeg convention :fra ka ando naye
+srr_41210 1 Locuteur1 1986.668 1998.202 <o,f1,male> o reta nga ()garate maaga o fiya nga kene pod nene op rabid kaa jegee negociation :fra um ga'a ngan im xombatong o ga;'a ngam o xoɓat taam kaga wiin we ñowata maaga bo jegee probleme :gfra no wiin waa o leŋ na den jegee probleme :fra kaaga im ga'ong o godaa ndaxar naa wo
+srr_41210 1 Locuteur1 1998.202 2005.922 <o,f1,male> im xombatong leyee diwoo xay godaa ndaxar na wiin we ngara ndamong o alamenel kee o alamane keel a fiya ngan sax eaux :fra et :fra foret :fra gar katee ndiiki c ':fra est :fra dire :fra que :fra fat mairie :fra fee ndeet nete organiser :fra it kaa a fi convention :fra um
+srr_41210 1 Locuteur1 2005.922 2013.165 <o,f1,male> a leye mi de mairie :far fee mi we ndef na commune :fra ne fop kam fañta kene kam fañtan meen kene fo kene buga tinum meen kene fo kene bugati num meen bu booba () waaga ndamta den maaga
+srr_41210 1 Locuteur1 2013.165 2024.786 <o,f1,male> a waand teen waa ando anye den ndefu kene ke %e weena mbiya comme :fra modou :fra yiin kene aniamateur :fra kene yiin waa ando naye comité :fra de :fra gestion :fra mba comité :fra inter :fra vilageois :fra mba comité :fra vilagois :fra
+srr_41210 1 Locuteur1 2024.786 2031.707 <o,f1,male> pour :fra la :fra gestion :fra de :fra la :fra foret :fra nu mbada nga comité :fra comité:fra nu ngara tanga te ley nge a mi de ka fañ tel meen mee wagino watin te o ()
+srr_41210 1 Locuteur1 2031.707 2041.706 <o,f1,male> i kaaga koy il :fra faut :fra de mbi maaga de mbi convention :fra naa ando naye kam saate fee a ref maire :fra de mbaxtaan fo chef :fra du :fra village :fra ke fop bo fopa d' :fra accord :fra e kaaga de i mbugaan i mbugaan kene i mbugaan te mbi kaaga
+srr_41210 1 Locuteur2 2041.706 2048.803 <o,f0,male> d' :fra accord :fra waxtu fee a dawa in kaa i cooxka Modou rek te demb teeno ndik a fiya ngan a reef maaga a lancer :fra o ,message :fra soo a tag toox
+srr_41210 1 srr_41210_Locuteur3 2048.803 2053.420 <o,f1,male> merci :fra beaucoup :fra djiby mais :fra bala im tag tuwa Djiby kaa jeg question :fra na bugma poser :fra a Mathias
+srr_41210 1 Locuteur1 2053.420 2054.226 <o,f0,male> aca gari
+srr_41210 1 srr_41210_Locuteur3 2054.226 2061.504 <o,f0,male> parce :fra que :fra tiye ɗoma kam ley'uye o kadu saate fee ten gar tiidum mene xaye to comme :fra premettre :fra in tiye kaa ɗom
+srr_41210 1 Locuteur1 2061.504 2062.434 <o,f0,male> te ref xar
+srr_41210 1 srr_41210_Locuteur3 2062.434 2074.399 <o,f0,male> parce :fra que :fra na puf laŋa le i ngar kaa coono fe ref na teen a ɗoma lool parce :fra que :fra xaye oxena kos kos na xaye aussi :fra bo jeg tonne :fra leŋ ciment :fra wala tonne :fra ɗik ciment :fra so bugo leyne xano jikik a camion :fra camion :fra itam
+srr_41210 1 srr_41210_Locuteur3 2074.399 2083.353 <o,f0,male> tig ɗomu yonda kam ley'u mee est :fra ce :fra que :fra imba njeg possibliter :fra faa ando naye manaam ancien :fra carriere :fra kene ndef ina meen en :fra collaboration :fra avec :fra maire :fra
+srr_41210 1 srr_41210_Locuteur3 2083.353 2093.200 <o,f0,male> ndax i mbaage njeg possibliter :fra naa ando nayexan i ndeet ma ando naye i mba mita comme :fra i mbaaga te njeg carriere :fra wargal carriere :fra en :fra tant :fra que :fra tel :fra i mbaga tirano njeg no commune :frw ne Diarekh ndax i mbaage njeg carriere :far en :fra faveur :fra
+srr_41210 1 Locuteur2 2093.200 2095.187 <o,f1,male> manaam mini :fra carriere :fra wala
+srr_41210 1 srr_41210_Locuteur3 2095.187 2096.972 <o,f1,male> awaa leyel [rire_en_fond] mini carriere :fra
+srr_41210 1 Locuteur1 2096.972 2107.388 <o,f1,male> kaaga moom kaaga moom anda ye Sengal i ndefu rek mais :fra kaaga moom a ndat leyiran kaga fook ()awa xendel quoi :fra fo o xaana refna mana saq na kene ke
+srr_41210 1 excluded_region 2107.388 2108.668 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur1 2108.668 2121.273 <o,f1,male> kaaga moom peut ":fra etre :fra mais :fra kaaga moom jegee sen maata leyel carriere :fra moom kaa waro ref carriere :fra na officielle :fra na a ref carriere :fra na kaa fiyel kaaga moom maire :fra o fo ñaaƴum fo nama jeg tu kene um te waaga lijante in maaga mais :fra a :fra part :fra kaaga moom carriere :fra moom
+srr_41210 1 Locuteur1 2121.273 2134.015 <o,f1,male> ke sous :fra prefet :fra leyna teen kaa leyim sous :fra prefet :fra de prefet :fra Fatick ten garu kete leyna kaa leer oxu nu nga na dami aprec :fra que :fra ku ndeeta koy () il :fra faut :fra te jeg waa ando nayee te avantager :fra el fo wa ando naye nanagm adna moom naaga ñaaƴta rek
+srr_41210 1 Locuteur1 2134.015 2139.979 <o,f1,male> kena fi kele fop waage ()code :fra ne ku te ley eena ten mais :fra 30 mille :fra a re'u ay amaan keene mais :fra te mbisel bo cinq :fra cent :fra mille :fra yee etan ma ga kam diind kam
+srr_41210 1 excluded_region 2139.979 2143.417 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur1 2143.417 2149.601 <o,f1,male> te leeyaawe a parce :fra que :fra wiin we ga nga'e wiin we ke fañto geena wiin we ka mbi in alamane mais :fra wiin we continuer :fra a mbiya a moƴo mbiya a moƴo mbiyaa
+srr_41210 1 Locuteur2 2149.601 2150.418 <o,f1,male> mais :fra kaa mbugo ngenoyo
+srr_41210 1 Locuteur1 2150.418 2160.967 <o,f1,male> alo non :fra fañiim kaaga kam bugo ngen non :fra fañim kaaga kaa mbungo ngen kaaga mais :fra en :fra tout :fra cas :fra daal kam bugo leya den mi koy neeke leya de ale o maak kaa goundel mais :fra o kiinoxe dal ten refuye mbanu te dam nga o ande dame
+srr_41210 1 Locuteur1 2160.967 2173.199 <o,f1,male> mais :fra te damong o jikwaa yee non :fra () yaam kaa jeg kaa yakaroona ba tax o jeg fo ten probeleme :fra o procureur :fra andiim o lakas de ndaa oxe ref na Fatick moom ku i mbisiid na te jang ku i leyna xana fi in
+srr_41210 1 Locuteur1 2173.199 2182.348 <o,f1,male> ande lang ke jegaam meen probleme :fra o kiina poñe'a xam lang kaa maana Fimela o ɓeem naq u lang im damin te gara poñe aam a xutar xutari mene wina leya te i mbaage na ten tig mais :fra a nu mbaage na ten tig mais :fra a faax
+srr_41210 1 Locuteur1 2182.348 2194.427 <o,f1,male> anda keete fina directement :fra xooytu o naaro xe naa leyel MOuhamed Saleh Mouhamed Saleh ref na maana presidence :fra ande presidence :fra a ree'u tena xoyu o xaaga directement :fra xoytu telephone :fra um
+srr_41210 1 Locuteur1 2194.427 2206.031 <o,f1,male> andaame ka jeg o pogoxa ando naye o xaaga xooyu o xaaga xoya MOuhamed Saleh Mouhamed Saleh o xooyit directement :fra direction :fra eaux :fra et :fra foret :fra directement :fra ndax directeur :fra o ndax ministre :fra fee xoyu mais :fra en :fra tout :fra cas :fra daal a reta bo directeur :fra a daaw teen directeur :fra a xooy colonel :fra faa ref na maaga
+srr_41210 1 Locuteur1 2206.031 2218.996 <o,f1,male> a leyene xooyti Fatick ndiik o ndeet situation :fra ne reef na maaga te xoyit maaga kam ƴuf na ƴufin auto :fra lo yaaga maxey ƴufnana bo fadig mene yaaga xooyam chef :fra secteur :fra ye daaw ma daaw yaga xoyum chef :fra secteur :fra rendre :fra in compte :fra oxe refna chef :fra secteur :fra te xooya lakasoxa anaye chef :fra secteur :fra oxe refna Fatick
+srr_41210 1 Locuteur1 2218.996 2230.902 <o,f1,male> coiffé:fra na Fatick reunion :fra ne mi oxe Departement :fra ne xooy'um leyne a kene fo kene xewu te leyaame ok :en mbisidaam o xeene yeete garidaa ten wiin wa ngoyelo yo fadida fuliim sax mene xoyta xam a Ndiodiouf a leyaame Mathias
+srr_41210 1 Locuteur1 2230.902 2241.402 <o,f1,male> na fiyo mee ca :fra va :fra bien :fra te leyaame waa ko jeg () im leyne i te leyaame xaa fi'u mee ka poñe 'aam te leyaame poñe ong e xa leyu mee mbeŋeten () im dama sartala te soɓaam publiquement :fra fopa ngeenu te poñe aam kaa bug amo xaw sax wiin we ndamu mbayo laa
+srr_41210 1 Locuteur1 2241.402 2251.212 <o,f1,male> te leyaame kaaga fi'u im ley ne i te a faaxa kaaga bug umo an im tiima xaƴim te xooyit yee fadma chef :fra secteur :fra Departemental fee xooya procureur :fra a ley neein de agent :fra in
+srr_41210 1 Locuteur1 2251.212 2260.876 <o,f1,male> kaa jeg oxa naqo gina laŋ te damin te poñe in bo kaa poñe in te leyne a poñe in te leyne ii te leyne kaaga moom wagin mo xaƴ te suur a poñe in te leyne ii te leye ci aam o ndik o xooy gendarmerie :fra
+srr_41210 1 Locuteur1 2260.876 2271.603 <o,f1,male> a leya dene ndetyo ngot o kiino xaaga poñe na eaux :fra et :fra foret :fra faa ngooy yo a leyene xoyi eaux :fra et :fra foret :fra faa ndiiki o leyin te yoon fo'wo te yoon fo element :fra kewo te ndet a ngotan kin o kiinoxa gen na kaa moof bo chef :fra
+srr_41210 1 Locuteur1 2271.603 2283.102 <o,f1,male> fiyee sax cinq :fra minute :fra te xooyam chef :fra de :fra brigade :fra fa Fimela a leeeyame Mathiase waey mee maxey mene te leyaame gari ndiiki o fada nga bo Ndiosmone agent :fra kaa ndef na maaga xoyama den o reta nga nu yoon fa den te ndet Diofyora congo kiinoxe o mbisin i mband
+srr_41210 1 Locuteur1 2283.102 2294.113 <o,f1,male> ma chef :fra du :fra village :fra comme :fra aniim ma ga ma chef :fra du :fra village :fra i ndet u de chef :fra du :fra village :fra a leyaame a mbine rek i mbugu o lala'in te demender :fra ye den fo qoye lakasoxe non :fra non :fra o xene kilifa yoo patati patata im leyne o xene mi moƴno ref kilifa saate fee
+srr_41210 1 Locuteur1 2294.113 2305.442 <o,f1,male> im leyne o xene ana kilifa u ten ref chef ;fra du :fra village :fra te leyee xa'a mee ana kilifa u saate fe o leŋ te i mais :fra Maire :fra sax mi moƴno ref kilifa Maire :fra mene ssom a deyu mene soom a deyu Diofior mi kilif te es kaa suur bo kaa xupana Diofior
+srr_41210 1 Locuteur1 2305.442 2313.933 <o,f1,male> im reta nga Diofior kilifda refum maaga im ret Fimela kilifa refum maaga im ret Luul Seseeen ten a gara nga Lul Seseen refate maaga kilifa de citoyen soom a refu maaga yaam maire :fra Diofior o refe Maire Fimela
+srr_41210 1 Locuteur1 2313.933 2324.943 <o,f1,male> kon nak xaye a refa nga kilifa xaye mi kilifa to refa nga kilifa refu mi moƴ no ref kilifa ten faa ando naye mbin soom a gerer :fra u gerer :fra ee o leŋ refee chef du :fra village :fra refoo tus ka poñe aam publiquement :fra kam wiin waa xaƴi gendarmerie :fra ngotin publiquement :fra tenoo
+srr_41210 1 Locuteur1 2324.943 2342.430 <o,f1,male> a mbekin no auto :fra le bo wiin we fop a andee kete fina faaxe bo o lakas fikatee nana naaga te leeyaame non :fra a xooy gendarmerie :far war'a ñak im leyne mi sax kam lulel soom kam leyele lali leya gendarmerie :fra kaaga soom jegum teen kaaga soom mbisidaxam meen mi xotideem o kiin de gendarmerie :fra lule procureur :fra dena lulu te xoya gendarmerie :fra gendarme :fra la xooya a xooya chef :fra um o ley ne non :fra
+srr_41210 1 excluded_region 2342.430 2351.162 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur1 2351.162 2362.171 <o,f1,male> () kede leyka ba pare im leya dene mi de waagimo wasanit a depasser :fra a xam miyaa xooytuma bo rendre :fra compte :fra chef :fra secteur :fra yaaga gerer :fra a tiim waga tiim o wasa nit wagatimo damo kiin
+srr_41210 1 Locuteur1 2362.171 2372.155 <o,f1,male> mi tiga a fiya ndiiki oxey chef :fra secteur :fra fo procureur :gfra mi daal a ndates yonga te teen de mband kaa i mbada mband procureur :fra a signer :fra te mbisel kaa fada fad gendarmerie :fra naa i mbada mbad ()o xene xaa fiyu
+srr_41210 1 Locuteur1 2372.155 2383.089 <o,f1,male> mee ka poñe aam te leyaame non :fra xan :wol solowoon tenue :fra mee akay :wol tenue :fra roku tenue :fra ne poñe ongo im leynee ii tena fiyu de te leyee o xene kaa fontoor a wiin we a leye e a ley wiin we e sut wiid yo no ngota naam o kiino xene mbekano teen kaso faa ñofanyo
+srr_41210 1 Locuteur1 2383.089 2394.311 <o,f1,male> um xoto auto :fra arriere :fra tourner :fra ret xaad jegee xa xeyera xama muude and na an o kiino xa autorité :fra refo leyong de a ref Diofior a ref Dackar wene xa Colonel wene xa ambassade :fra a ngoya xam telephone :fra
+srr_41210 1 Locuteur1 2394.311 2404.907 <o,f1,male> ka leyaame ambassade fe xoyaxam fo colonel :fra kaa leyaame mi de kam xooyang de waasnu wang parce :fra que :gfra wiin we ngaru boo mbines a ngar ange mbines xooy kirong parce :fra que :fra saax le fop ngaru mbines a leyaame fook im dimle a den xooyit parce :fra que :fra mi o xene poñe i rang wo soom
+srr_41210 1 Locuteur1 2404.907 2416.194 <o,f1,male> oxu saq na tenue :fra Senengal a poñe ang mi fene a poñe axam mi colonel :fra refum mosiim o bug o kiina poñe aam to bugiim o kiina poñe o element :fra es ten taxu keem eeta fi ten refu yee waasnu wang saax le koy taxu im xooyang a rend anga mifa mi soom te i xooy kirong
+srr_41210 1 Locuteur1 2416.194 2427.241 <o,f1,male> saax le koy ngaru ndokala mi salle :fra na mi o reta nga saax le fop kaa may maaga a ƴufiid me mi soom xoyong ten taxu kaoy wiin we fada andee koy ku o fiya fi o yaka ranga yaakare o kinoxa ref na took faa yo a refa ñaal lengo xano won win kaso faa soo sogo libérer :fra
+srr_41210 1 Locuteur1 2427.241 2432.241 <o,f1,male> meme :fra meme :fra xa animateur :fra ke nu teg na Modou mbisele iin fop sax teena mbogu
+srr_41210 1 Locuteur2 2432.241 2436.839 <o,f1,male> kam ley nge () ande in tegu den maaga o xene oxu bugna toroxana den
+srr_41210 1 Locuteur1 2436.839 2438.896 <o,f1,male> donc :fra nuun nuun proteger :fra u den quoi :fra
+srr_41210 1 Locuteur2 2438.896 2451.803 <o,f1,male> in bugo toroxam ku i mbaang na mbaang teen koy mi de andiim wene nda mi xoxes andum o kiino kiin xoxof waago ley mi xoxes andum comme :fra no chef :fra du :fra village :fra oxe ando naye wo tegun maaga () wo fexeyi bom daaw teen rek im daawa nga teen ku warna teen xam fi'in teen
+srr_41210 1 Locuteur2 2451.803 2464.863 <o,f1,male> mu te refna xam fadma ten taxu o kiino kiin ko fiya te ref jam tamit maaga te ref na comme :fra nene ye i mbina pip im xooya a jega waa ando naye comme :fra autorité:fra ke ndefu um xooya sous :fra prefet :fra im leyno ten te layaame non :fra non :fra kaaga kay kege probleme :fra a fi naaga a xooya prefet :fra
+srr_41210 1 Locuteur2 2464.863 2472.511 <o,f1,male> prefet :fra Fatick te leyne non :fra non:fra jege probleme :fra kaaga il :fra sera :fra sanctionner :fra baa ()b reti moof to tiima o xaaga xana sanctinner :fra el jegee o xaa waag na xend intervention :fra bata rokiid mene to sanctionner :fra aan
+srr_41210 1 Locuteur2 2472.511 2481.557 <o,f1,male> parce :fra que :fra keete fina delis :fra fi'u iyo en :fra tout :fra cas :fra daal kaaga bug umo ley pour :fra ley wiin we yee mi kee buguma lancer :fra rek () xaƴi im terminer :fra mene o coox na lakas leya dene eaux :fra et :fra foret :fra fee o ndeɓanongo
+srr_41210 1 excluded_region 2481.557 2484.733 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur2 2484.733 2487.657 <o,f1,male> mbaa o ga'a doole opf natan fo ten D' fra enfant :fra ñoxor kaan fo o leŋ
+srr_41210 1 excluded_region 2487.657 2493.831 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur2 2493.831 2497.167 <o,f1,male> oxu poñe una soom na ndoki ne a ndata damaang
+srr_41210 1 Locuteur1 2497.167 2498.776 <o,f1,male> manaam ba gar ina no carriere :fra ne
+srr_41210 1 Locuteur2 2498.776 2500.797 <o,f1,male> o kiina a fañtaa a gara poñe in
+srr_41210 1 Locuteur1 2500.797 2502.119 <o,f0,male> ndax carriere :fra ne ndax a kama ke de naqaa
+srr_41210 1 Locuteur2 2502.119 2511.288 <o,f0,male> a kama keene de naqaa o kiina poñe in soom leyiim poñe in soom sax nda o leyin kaa ando naye yaqanin calel um soom a ndata alamende :fra ang cunni temeen bo million :fra soo wegel o xiid boxa qiid xa tadaq kaso
+srr_41210 1 Locuteur2 2511.288 2517.059 <o,f0,male> kaaga a ndata leyu o reta nga bo juger :fra el o fiya ngirang koy () waaga rabid tranche :fra comme :fra ne kinoxe rabid 400 mille yeete poñe axama 400 mille a rabdu
+srr_41210 1 Locuteur1 2517.059 2518.663 <o,f0,male> mbaa maire :fra fee xend wiid kee [rire_en_fond]
+srr_41210 1 Locuteur2 2518.663 2523.155 <o,f0,male> maire :fra fe sax xooyirama xooy maire :fra faa de xoyiramo xooy sax
+srr_41210 1 Locuteur1 2523.155 2523.509 <o,f1,male> d' :fra accord :fra
+srr_41210 1 Locuteur2 2523.509 2526.113 <o,f1,male> lakas fe ngoya xam ainsi :fra de :fra suite :fra ndaa maire fogaam set :fra ce :fra que :fra maire :fra a xoyaxam sax
+srr_41210 1 Locuteur1 2526.113 2526.407 <o,f1,male> d' :fra accrd :fra
+srr_41210 1 Locuteur2 2526.407 2538.498 <o,f1,male> parce :fra que :fra maire :fra non :fra wiin waa fop naqarlu wun oxu ando naye ka jala maag tiya ka ndom ong fop a jega xaa i njaltaa mais :fra a jega wiin wa ando nayee yete poñe axama kaa ndeta mbond a ciiñ o xaaga ka xoyama leyaame xam gariid mais :fra im garida nga ku leynga ley koy
+srr_41210 1 Locuteur2 2538.498 2549.375 <o,f1,male> ba tax o wasanin de saax le fop comme :fra o kines refu ten taxu saax le fop owey mbine mi ale kaa mbugo yoon fo mi a ngar boo bicole im gara nga bo Bicole sax baa wasanit parce :fra que :fra keete fiyonga kaa ɗoma ma ɗom waaw kaaga daal bug uma ley
+srr_41210 1 Locuteur1 2549.375 2551.043 <o,f1,male> o ref maaga coxito message :fra
+srr_41210 1 Locuteur2 2551.043 2561.688 <o,f1,male> iyo ndiiki daal ke bugma laya nuun ten refu yee message :fra le im cooxa nuun ten refu yee agent :fra fee a deɓanongo comme :fra nena nuun ga im() yaam o ndeɓaonga nangam o ndeɓanonga nga rok wa anga tenue :fra kaa respecter :fra el
+srr_41210 1 Locuteur2 2561.688 2572.688 <o,f1,male> ret koy bo regret :fra jega ta meen mbaa an inu miin kam foog inu miin mbaa wasanaam gor jegee kaaga keena fañ tel daal kaa fañ tel to fañtaano leŋ fopa fañ tel ndiiki ke fañma tenb refu ye o yoon fo wiin
+srr_41210 1 Locuteur2 2572.688 2583.462 <o,f1,male> wiin we ngaƴel o damel kaaga mi ten im fañaa mais :fra a soɓanga yee nuun fop ndame o ande nuun fop ndame a soɓanga wo sooma are u a ande wo soom dame yoon o kinoxa mi'a ga u a damel wo o soɓanmga yee ko ga wiin waa mbiyo gun o xoɓataden o waaga nga xoɓantid a xoɓat
+srr_41210 1 Locuteur2 2583.462 2596.363 <o,f1,male> mais :fra bug leyee non :fra non :fra re ew mi soom to o kiinoxa ga ong wo soom kaaga daal im fañaa maxey simna fop waasnuwa fop a soɓanga kam ley daal kaa ando naye kaa xenee andi yee daal pour :fra xeman rek taxaxamo gar meen xeman rek taxa xamo gar meen
+srr_41210 1 Locuteur1 2596.363 2598.237 <o,f1,male> Modou Mbisele
+srr_41210 1 srr_41210_Locuteur3 2598.237 2610.617 <o,f1,male> voila :fra merci :fra Djiby :fra im lancer :fra o message :fra i tam comme :fra ne Mathias :fra a ley tuuna rek kaaga c' :fra était :fra une :gfra question :fra laamta num a leya yit pour :fra waa Diarekh fop waa arrondiment :fra fee fop a nana yo
+srr_41210 1 srr_41210_Locuteur3 2610.617 2626.480 <o,f1,male> %e ole d' :fra enfant :fra leya maana sergent :fra d' :fra enfant :fra toujours :fra an iim o leya an iim andiim mete refat na axu leya andiiim koy kaa damit ka tele matey :wol o emission :fra ne fiye a dake fi foogame kene ref emission :fra ndika ndeer in mene mi te ref dand ka nderes
+srr_41210 1 srr_41210_Locuteur3 2626.480 2641.351 <o,f1,male> comme :fra message :fra nene koy a lancer :fra e meen weene fop mayu leyaamadene ndam yo xaye radio :fra de :fra seize :fra heure :fra a dix :fra huit :fra dix :fra sept :fra heure :fra owey nana yo kude mbug ina nan a nana noyo kon koy ku kiina fiyat na meen kaa refeer na kaaga yit a Mathiase im ref kaa de
+srr_41210 1 Locuteur1 2641.351 2641.815 <o,f1,male> fogatiro
+srr_41210 1 srr_41210_Locuteur3 2641.815 2648.460 <o,f1,male> xa'a fpogatiim de e Modou de eau :fra et :fra foret :fra laa ka dam u in maaan wala kaa mbiyel nene Mathiase im ref kaa de andee wagim teen tig
+srr_41210 1 Locuteur1 2648.460 2650.535 <o,f1,male> xano fog de xano fog de Modou
+srr_41210 1 srr_41210_Locuteur3 2650.535 2653.716 <o,f1,male> xam xooyel de ndaa wagiim teen tig ole Mathiase a leya ley waagiim teen dara
+srr_41210 1 Locuteur1 2653.716 2657.719 <o,f1,male> o maasro xewo gen na Khodjil xana
+srr_41210 1 srr_41210_Locuteur3 2657.719 2662.920 <o,f1,male> bo godona xa cuund wo Amy Diouf [rire_en_fond] waagimm teen tig de tefe Amy Diouf yit wagiim teen tig
+srr_41210 1 Locuteur1 2662.920 2663.523 <o,f0,male> d' :fra accord :fra [rire_en_fond]
+srr_41210 1 srr_41210_Locuteur3 2663.523 2677.530 <o,f0,male> mi daal im leykaa saate fe fada ngor gorlu ke leyena meen fop a ndato dara leyaan meen %e o leŋleyte meen o ñisum kaa ley ke ndata ley na soom mi koy miñamo leya nuun ne intermediaire :fra refum refiimo eaux :fra et :fra foret :fra bugimo leŋ oxa jeg na meen probleme :fra
+srr_41210 1 srr_41210_Locuteur3 2677.530 2691.694 <o,f0,male> kon oxu andoo naye waxey bugo fi kaa ando naye ka jaxla tong laam ti o laamta nga ku leyeena rek o andee kaaga ndata leyu Mathiase a leyana nuun mene i tolwate jjamano faa o kina gara () kon keena leyel meen ka tegu na ndat fopa nana yo koy
+srr_41210 1 srr_41210_Locuteur3 2691.694 2705.636 <o,f0,male> fat wiin we njefik keene oxu bugna jeg jam leyum de oxu fina kaa refeer na keene koy andiim teen tig maxey xendaa saate fee fop daal de ngor gorlu comme :fra nee i leyteena mene fopa nanin oyo i ngor gorlu waas nuwa fop xaq Djiby waas nuwa nuun
+srr_41210 1 srr_41210_Locuteur3 2705.636 2719.136 <o,f0,male> to ku i leyna meen kaa ando nayee refe naaga yit nu ande() xa teɓanong na leya yo in way njng looxa a paax simna o fogola Mbisele inorma a paaxa paax simna 23 chef :fra du :fra village :fra ke Diarekh foxa goxa xe fop simna arrondissement :fra Tataguine fop in way mbaas nuwa xaq
+srr_41210 1 excluded_region 2719.136 2734.927 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 excluded_region 2734.927 2897.860 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 excluded_region 2897.860 2906.475 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 srr_41210_Locuteur3 2906.475 2919.667 <o,f1,male> wala Djiby bom wang ndaa rek im waas noxa a paax parce :fra que :fra ley mbato ley ale faley fa mbagero rek kaa jeg information na ando naye oxey ciculer :fra a peut :fra etre :fra nete ciculer :fra it na ka njumo yo
+srr_41210 1 Locuteur1 2919.667 2920.295 <o,f1,male> te ref xar
+srr_41210 1 srr_41210_Locuteur3 2920.295 2932.765 <o,f1,male> te ref maanam walum paar keeke marcher :fra fee ndae fogaame fi am teen mene emission :fra nda kaa i ley'u yee oxu ando naye ko buga texaka andon naye ko fika mbaar marcher :fra faa a jega a kayta laa ando naye
+srr_41210 1 srr_41210_Locuteur3 2932.765 2944.394 <o,f1,male> waa marché:fra coox'ano ten o mbisida ngan wala o mbisa ngan ma ma Thieb xana jeg autorisation :fra naa te fiyan nga prealable :fra o mbisi da ngan i mbiya nong o lene ando naye ten falaqu ola na tax ka o waago god mais :fra kaa jeg information :fra ne de suuriin na
+srr_41210 1 srr_41210_Locuteur3 2944.394 2956.974 <o,f1,male> te leyee e% leykiim gon parce :fra que :fra o journaliste :fra alee naaga leyta o buga nga ()kaa leya dene manam oxu bug na kod pour :fra paar ke marché :fra fee rek waaga god jegee probleme :fra i to alors :fra que :fra refee naaga
+srr_41210 1 Locuteur1 2956.974 2958.531 <o,f1,male> oxu bug na paar ke marché :fra fee
+srr_41210 1 srr_41210_Locuteur3 2958.531 2960.010 <o,f1,male> () mana no paar ke marché :fra fee
+srr_41210 1 Locuteur1 2960.010 2960.610 <o,f1,male> axa waga ret godik
+srr_41210 1 srr_41210_Locuteur3 2960.610 2961.729 <o,f1,male> o jega nga ndaxar waaga ret godin
+srr_41210 1 Locuteur1 2961.729 2962.347 <o,f1,male> to refte naaga
+srr_41210 1 srr_41210_Locuteur3 2962.347 2973.054 <o,f1,male> to emission :fra ne i nuun niin mbi un meene () ref te naaga bo ndiik saate fe dako nan tinoyo naaga jegaam teen deux :fra cas :fra waa ando naye kam soɓa den de ngoda de leye a in de gaa i nan iye nene fo nene
+srr_41210 1 Locuteur1 2973.054 2975.228 <o,f1,male> mais :fra o sereer kaa bug kam nan de
+srr_41210 1 srr_41210_Locuteur3 2975.228 2982.764 <o,f1,male> kaa bug kam nan ten taxu koy fada ngor goorlu a mbaas keene jegaam teen cas :fra ndik fogum jegka tinum xaƴna xaƴna a wa ñakata jeg
+srr_41210 1 Locuteur1 2982.764 2983.213 <o,f1,male> d':fra accord
+srr_41210 1 srr_41210_Locuteur3 2983.213 2985.859 <o,f1,male> kaaga rek bug uma mbaat teen waas noxa a paax
+srr_41210 1 Locuteur1 2985.859 2986.546 <o,f1,male> a nanang a paax joko njal a paax
+srr_41210 1 excluded_region 2986.546 3008.395 <o,,unknown> ignore_time_segment_in_scoring
+srr_41210 1 Locuteur1 3008.395 3025.582 <o,f1,male> vraiment :fra i njoka nuun a njal a paaxa paaxmeke no 102.5 Fm ngid ma den xa eaux :fra et :fra foret :fra xa ɗaka xe fo animateur :fra fee fop ngid ma den a paax paax njegloxa xaq aussi :fra a soɓanga a jega meen ka i leyna to wiin we antine i mbung tee naaga %e ngenda rek yaasam roog sene a fi jam kam saate fee

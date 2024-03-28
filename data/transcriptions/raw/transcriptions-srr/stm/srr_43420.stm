@@ -1,0 +1,201 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:32 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 1 of 230407
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_43420 1 excluded_region 0.000 4.601 <o,,unknown> ignore_time_segment_in_scoring
+srr_43420 1 Locuteur1 4.601 18.713 <o,f1,male> o fogole in way simna nuun a paxa paax ŋenda na nuun jam to sak wan na nuun o yalo xe ando naye ten jegu fop a waag fop in way ngeɗan te fi in
+srr_43420 1 Locuteur1 18.713 34.725 <o,f1,male> a wagan yasam te fi an na in in fop i mbogin wetana nuune rek o pog nuun xarit nuun o ɓiy nuun Khadim Dione ten garaxinu fo nuun no émission :fra ne na leyel reverdire :fra l':fra Afrique :fra te ref émission :fra na andonaye émission :fra environnement :fra yo
+srr_43420 1 Locuteur1 34.725 51.157 <o,f1,male> in mbaxatan ta ten nu ku farana no taxar ke fo ke ando naye tena menancer :fra a a koɓale xaye koy i mbaxtanit ka ka ando naye vraiment :fra ka jeg na importance :fra o
+srr_43420 1 Locuteur1 51.157 65.756 <o,f1,male> te ref ka sag na nakoɓale ka yaq wa ina yaqa mais :fra bo ndik ka fi nene i ande ke taxna i yaqa
+srr_43420 1 Locuteur1 65.756 79.135 <o,f1,male> in way yaqa mairie :fra fe sax ina yaqa wagamo leyit nene ina yaqa mairie :fra fe ina yaqa parce :fra que :fra
+srr_43420 1 Locuteur1 79.135 95.108 <o,f1,male> o kinoxe leyo na ye o reta nga o tabaxa naam mana a ndok wo ko tabax rek mais :fra o leya ngeye tabaxi ten jegu a ndoka la
+srr_43420 1 Locuteur1 95.108 109.203 <o,f1,male> kon wena influencer :fra a in bo i yaqa yo wene na yaqa donc :fra fok i ley fo population bo de an a yaqa lene mama unoru
+srr_43420 1 Locuteur1 109.203 124.820 <o,f1,male> fo a yaqa lene xa tax a jeg wa ando naye ciñ in a pusa in pour :fra i yaqo yo to kene o madoxe oxey setana
+srr_43420 1 Locuteur1 124.820 145.489 <o,f1,male> commune ke owey setana to ka waro ref a ñox no wiin we fop in koy ka fi nen i njege liberter :fra i njega te liberter :fra xa taxun ku soxla ona ko jikik kan
+srr_43420 1 Locuteur1 145.489 164.419 <o,f1,male> ku soxla ona ko jikik kan te ref tiya ando naye ka ɗom lool tap ke ga njoprogu ina ñamel paax mbondo yo a cira ke mbod e nene
+srr_43420 1 Locuteur1 164.419 179.573 <o,f1,male> bo ko go ogu wiin wa ando naye ga nogoy sax wene njega temeri at wala temeri at fa manquer :fra na wala temeri at fa teg na sax mais :fra kene waga te jeg an teg na in a jega ka teg na in xam gar ten ta paam
+srr_43420 1 Locuteur1 179.573 198.831 <o,f1,male> fogame koy o kiin ware waro wañxoxof koy bo leyele kemne ka warang o fiyan to i mbara ngaƴ tena a yiif in te ref
+srr_43420 1 Locuteur1 198.831 212.540 <o,f1,male> wena leyel les :fra multi national :fra wene den mboku in no kene fop fop fop xam leya nuun nede mbekit na in ten
+srr_43420 1 Locuteur1 212.540 228.416 <o,f1,male> parce :fra que :fra wene xam leya nuun ke ref na jiko den wene xalisom a mbaɗa yo xalisa mbaɗa yo nade mbina ba yoq capital :fra den dena mbida yo a :fra tou moment :fra
+srr_43420 1 Locuteur1 228.416 247.500 <o,f1,male> nu de mbag na mbago mbi bo produit ke ando naye dena njik wa xana njar rek xan mbi ino yo soko koy ga mbugo mbexey bo adna fe fop a dependre :fra na den bo ande ku kina soxla na rek dena njiku kango ten
+srr_43420 1 Locuteur1 247.500 264.634 <o,f1,male> no domaine :fra nu cukona koy im fi histoire :fra leŋ histoire :fra leŋ sax im leyka parce :fra que wiin we ga mboɗ u a bodala ando naye a boda sel reu
+srr_43420 1 Locuteur1 264.634 280.585 <o,f1,male> wiin we an e tension :fra an e cancer :fra AVC sax i an i an kene fop i an irano yo kene fop a cira kene i an iran jeg e mene me xa atun xam leya nuun ke atna
+srr_43420 1 Locuteur1 280.585 299.460 <o,f1,male> ga a pharmacie :fra etan ne de et na sip owey sip an saint Louis makoy maga koy anda ye i mbaƴoroge xa comprimer :far xa paƴ taxara naf taxar dena yero guyo a ñama ñamel paax de ngara teg pharmacie :fra ne saint Louis
+srr_43420 1 Locuteur1 299.460 323.333 <o,f1,male> yete ngarna a tegin Saint Louis a ndeta ndeta ndet bo année :fra ne fag de mbi inventaire :fra a ɗeta a kene kat ke jarna meke maya de de leya a kene de a jom ana in de at des :fra expert :fra wa njeg na xam xam no affaire :fra kene de ngar yede ngestu na a leye wene fook i ngestu an kede ñowta
+srr_43420 1 Locuteur1 323.333 340.131 <o,f1,male> bo jir ke yede mbina recherche :fra de nga a wene kat ñamel selu dena ñama yo kaaf ke de ŋoxa dena ñowta a arna ke ñowta arnake de ngoxa nena ñowta yo
+srr_43420 1 Locuteur1 340.131 360.155 <o,f1,male> kene taxu de mbodo yo a yera fofo xolu donc :fra kene ref ka ando naye a fendara den lool a leye wene ke tax na de mbod to pharmacie :fra nda nam i mbika bo teex in kene a njara yo
+srr_43420 1 Locuteur1 360.155 378.496 <o,f1,male> de leye fook i creer :fra ka ando naye fook xana atana den a cir mais :fra camano kaga Jumbo rokidu men no camano kene bouillon :fra kene fop a ndokidoyo Jumbo
+srr_43420 1 Locuteur1 378.496 393.599 <o,f1,male> wiin we a commencer :fra a ñimin te saf andeye tig safu fo tig paax ka gutatir wiin we koy safu anda tuyo safu de ndefana safana lene rek a ñama rek to produit :fra ne ando naye tena yipel no Jumbo fe
+srr_43420 1 Locuteur1 393.599 412.362 <o,f1,male> o xene ka warang o ndango ndang ka warang o ndang boyo xonona o ndanga warang o jir soko koy o ret no pharmacie :fra na de njikwong teex mais :fra xa taxu wo damiro yifofe kene im ñama oxey wara xam im xaƴin
+srr_43420 1 Locuteur1 412.362 430.392 <o,f1,male> refe Jumbo soom safu de ka kay ɗelem kute xesna mer bo xaƴan xano son te ref paxo te ref pelu fo peɗaru fop ku te xesa xeso mer bo o xaƴan xano son i inor maga mene
+srr_43420 1 Locuteur1 430.392 445.019 <o,f1,male> () fiyo ge men na areer tap tap fiyo ge men saam xar laŋ in ke ga mbaax u a koɓale naat de leya ine wene pour :fra de dependre :fra na in
+srr_43420 1 Locuteur1 445.019 463.537 <o,f1,male> no affaire :fra a areer rin o ñowin fop foka jeg ma i ɓerna fo den de leye fat i mbiya na den des :fra produit :fra chimique :fra
+srr_43420 1 Locuteur1 463.537 478.997 <o,f1,male> xan laŋke ɗeg de njira yo a ngar mene na in fop na ina ref ka de at engrais :fra chimique :fra fe ku nu ander mna engrais :fra chimique :fra bo o yipan no qol ka yaqa o qolo le o ndaŋo ndaŋ
+srr_43420 1 inter_segment_gap 478.997 495.774 <o,f1,> 
+srr_43420 1 inter_segment_gap 495.774 513.734 <o,f1,> 
+srr_43420 1 inter_segment_gap 513.734 530.332 <o,f1,> 
+srr_43420 1 inter_segment_gap 530.332 546.312 <o,f1,> 
+srr_43420 1 inter_segment_gap 546.312 560.107 <o,f1,> 
+srr_43420 1 inter_segment_gap 560.107 576.683 <o,f1,> 
+srr_43420 1 inter_segment_gap 576.683 593.058 <o,f1,> 
+srr_43420 1 inter_segment_gap 593.058 608.579 <o,f1,> 
+srr_43420 1 inter_segment_gap 608.579 625.119 <o,f1,> 
+srr_43420 1 inter_segment_gap 625.119 642.325 <o,f1,> 
+srr_43420 1 inter_segment_gap 642.325 659.972 <o,f1,> 
+srr_43420 1 inter_segment_gap 659.972 675.615 <o,f1,> 
+srr_43420 1 inter_segment_gap 675.615 690.848 <o,f1,> 
+srr_43420 1 inter_segment_gap 690.848 710.055 <o,f1,> 
+srr_43420 1 inter_segment_gap 710.055 729.200 <o,f1,> 
+srr_43420 1 inter_segment_gap 729.200 748.142 <o,f1,> 
+srr_43420 1 inter_segment_gap 748.142 764.205 <o,f1,> 
+srr_43420 1 inter_segment_gap 764.205 781.173 <o,f1,> 
+srr_43420 1 inter_segment_gap 781.173 794.644 <o,f1,> 
+srr_43420 1 inter_segment_gap 794.644 812.196 <o,f1,> 
+srr_43420 1 inter_segment_gap 812.196 826.147 <o,f1,> 
+srr_43420 1 Locuteur1 826.147 843.604 <o,f1,male> s
+srr_43420 1 Locuteur1 843.604 858.747 <o,f1,male> \
+srr_43420 1 inter_segment_gap 858.747 875.723 <o,f1,> 
+srr_43420 1 inter_segment_gap 875.723 887.991 <o,f1,> 
+srr_43420 1 inter_segment_gap 887.991 905.768 <o,f1,> 
+srr_43420 1 inter_segment_gap 905.768 925.915 <o,f1,> 
+srr_43420 1 inter_segment_gap 925.915 941.380 <o,f1,> 
+srr_43420 1 inter_segment_gap 941.380 954.652 <o,f1,> 
+srr_43420 1 inter_segment_gap 954.652 967.774 <o,f1,> 
+srr_43420 1 inter_segment_gap 967.774 983.712 <o,f1,> 
+srr_43420 1 inter_segment_gap 983.712 995.587 <o,f1,> 
+srr_43420 1 inter_segment_gap 995.587 1011.031 <o,f1,> 
+srr_43420 1 inter_segment_gap 1011.031 1028.277 <o,f1,> 
+srr_43420 1 inter_segment_gap 1028.277 1043.648 <o,f1,> 
+srr_43420 1 inter_segment_gap 1043.648 1060.179 <o,f1,> 
+srr_43420 1 inter_segment_gap 1060.179 1075.019 <o,f1,> 
+srr_43420 1 inter_segment_gap 1075.019 1090.189 <o,f1,> 
+srr_43420 1 inter_segment_gap 1090.189 1105.951 <o,f1,> 
+srr_43420 1 inter_segment_gap 1105.951 1120.608 <o,f1,> 
+srr_43420 1 inter_segment_gap 1120.608 1137.458 <o,f1,> 
+srr_43420 1 inter_segment_gap 1137.458 1153.811 <o,f1,> 
+srr_43420 1 inter_segment_gap 1153.811 1169.851 <o,f1,> 
+srr_43420 1 inter_segment_gap 1169.851 1189.712 <o,f1,> 
+srr_43420 1 inter_segment_gap 1189.712 1205.730 <o,f1,> 
+srr_43420 1 inter_segment_gap 1205.730 1220.034 <o,f1,> 
+srr_43420 1 inter_segment_gap 1220.034 1233.150 <o,f1,> 
+srr_43420 1 inter_segment_gap 1233.150 1246.163 <o,f1,> 
+srr_43420 1 inter_segment_gap 1246.163 1259.976 <o,f1,> 
+srr_43420 1 inter_segment_gap 1259.976 1275.079 <o,f1,> 
+srr_43420 1 inter_segment_gap 1275.079 1289.133 <o,f1,> 
+srr_43420 1 inter_segment_gap 1289.133 1304.771 <o,f1,> 
+srr_43420 1 inter_segment_gap 1304.771 1321.374 <o,f1,> 
+srr_43420 1 inter_segment_gap 1321.374 1336.821 <o,f1,> 
+srr_43420 1 inter_segment_gap 1336.821 1351.388 <o,f1,> 
+srr_43420 1 inter_segment_gap 1351.388 1364.750 <o,f1,> 
+srr_43420 1 inter_segment_gap 1364.750 1379.116 <o,f1,> 
+srr_43420 1 inter_segment_gap 1379.116 1394.833 <o,f1,> 
+srr_43420 1 inter_segment_gap 1394.833 1409.712 <o,f1,> 
+srr_43420 1 inter_segment_gap 1409.712 1424.692 <o,f1,> 
+srr_43420 1 inter_segment_gap 1424.692 1440.980 <o,f1,> 
+srr_43420 1 inter_segment_gap 1440.980 1456.601 <o,f1,> 
+srr_43420 1 inter_segment_gap 1456.601 1473.489 <o,f1,> 
+srr_43420 1 inter_segment_gap 1473.489 1492.286 <o,f1,> 
+srr_43420 1 inter_segment_gap 1492.286 1508.527 <o,f1,> 
+srr_43420 1 inter_segment_gap 1508.527 1525.235 <o,f1,> 
+srr_43420 1 inter_segment_gap 1525.235 1538.918 <o,f1,> 
+srr_43420 1 inter_segment_gap 1538.918 1551.992 <o,f1,> 
+srr_43420 1 inter_segment_gap 1551.992 1567.014 <o,f1,> 
+srr_43420 1 inter_segment_gap 1567.014 1578.349 <o,f1,> 
+srr_43420 1 inter_segment_gap 1578.349 1590.983 <o,f1,> 
+srr_43420 1 inter_segment_gap 1590.983 1602.060 <o,f1,> 
+srr_43420 1 inter_segment_gap 1602.060 1616.002 <o,f1,> 
+srr_43420 1 inter_segment_gap 1616.002 1629.966 <o,f1,> 
+srr_43420 1 inter_segment_gap 1629.966 1643.360 <o,f1,> 
+srr_43420 1 inter_segment_gap 1643.360 1658.641 <o,f1,> 
+srr_43420 1 inter_segment_gap 1658.641 1677.847 <o,f1,> 
+srr_43420 1 inter_segment_gap 1677.847 1691.097 <o,f1,> 
+srr_43420 1 inter_segment_gap 1691.097 1703.704 <o,f1,> 
+srr_43420 1 inter_segment_gap 1703.704 1719.508 <o,f1,> 
+srr_43420 1 inter_segment_gap 1719.508 1733.606 <o,f1,> 
+srr_43420 1 inter_segment_gap 1733.606 1746.568 <o,f1,> 
+srr_43420 1 inter_segment_gap 1746.568 1761.738 <o,f1,> 
+srr_43420 1 inter_segment_gap 1761.738 1776.662 <o,f1,> 
+srr_43420 1 inter_segment_gap 1776.662 1789.437 <o,f1,> 
+srr_43420 1 inter_segment_gap 1789.437 1804.410 <o,f1,> 
+srr_43420 1 inter_segment_gap 1804.410 1816.418 <o,f1,> 
+srr_43420 1 inter_segment_gap 1816.418 1831.191 <o,f1,> 
+srr_43420 1 inter_segment_gap 1831.191 1844.413 <o,f1,> 
+srr_43420 1 inter_segment_gap 1844.413 1860.272 <o,f1,> 
+srr_43420 1 inter_segment_gap 1860.272 1877.607 <o,f1,> 
+srr_43420 1 inter_segment_gap 1877.607 1891.147 <o,f1,> 
+srr_43420 1 inter_segment_gap 1891.147 1904.797 <o,f1,> 
+srr_43420 1 inter_segment_gap 1904.797 1918.426 <o,f1,> 
+srr_43420 1 inter_segment_gap 1918.426 1935.051 <o,f1,> 
+srr_43420 1 inter_segment_gap 1935.051 1946.882 <o,f1,> 
+srr_43420 1 inter_segment_gap 1946.882 1963.480 <o,f1,> 
+srr_43420 1 inter_segment_gap 1963.480 1979.769 <o,f1,> 
+srr_43420 1 inter_segment_gap 1979.769 1991.010 <o,f1,> 
+srr_43420 1 inter_segment_gap 1991.010 2005.787 <o,f1,> 
+srr_43420 1 inter_segment_gap 2005.787 2020.912 <o,f1,> 
+srr_43420 1 inter_segment_gap 2020.912 2038.564 <o,f1,> 
+srr_43420 1 inter_segment_gap 2038.564 2045.877 <o,f1,> 
+srr_43420 1 Locuteur2 2045.877 2047.671 <o,f1,female> alo
+srr_43420 1 Locuteur1 2047.671 2048.579 <o,f1,male> alo
+srr_43420 1 Locuteur2 2048.579 2050.490 <o,f1,female> alo wa
+srr_43420 1 Locuteur1 2050.490 2052.040 <o,f1,male> waaw nam fio waay
+srr_43420 1 Locuteur2 2052.040 2053.879 <o,f1,female> a
+srr_43420 1 Locuteur1 2053.879 2055.203 <o,f1,male> nam gonle fo ma xoytita
+srr_43420 1 Locuteur2 2055.203 2058.364 <o,f1,female> alo
+srr_43420 1 Locuteur1 2058.364 2061.712 <o,f1,male> alo oui :fra maxey nanang a paax nam gonle fo ma xoytita
+srr_43420 1 Locuteur2 2061.712 2062.999 <o,f1,female> a
+srr_43420 1 Locuteur1 2062.999 2064.616 <o,f1,male> me nam gonle fo ma xoytita
+srr_43420 1 Locuteur2 2064.616 2066.349 <o,f1,female> mi
+srr_43420 1 Locuteur1 2066.349 2067.191 <o,f1,male> a
+srr_43420 1 Locuteur2 2067.191 2069.625 <o,f1,female> Khady Ndiaye ano xene Omar
+srr_43420 1 Locuteur1 2069.625 2080.783 <o,f1,male> xa a refe Omar de kon o xene ligne :fra ten fele ru i njeglu wa a paxa paxa paax im leyo gu reke
+srr_43420 1 Locuteur1 2080.783 2093.587 <o,f1,male> mu waag ma dako jafes bo fad maga no me ando naye vraiment :fra ka mbiya maraisage :fra xam ret concerter ;fra ox fo maire :fra de :fra la :fra commune :fra i mbaxtan ten :fra
+srr_43420 1 Locuteur1 2093.587 2108.690 <o,f1,male> s':fra il :fra le :fra faut :fra sax i mbi des :fra sciences :fra de sensiblisation :fra paax pour :fra mbaxtan fa den sensibliser :fra a den yeg na den consequence :fra ke ando naye den ndefu no produit :fra ke ando naye owey utiliser :fra an no maraisage :fra fe
+srr_43420 1 Locuteur1 2108.690 2126.931 <o,f1,male> i inora nga maga producteur :fra ke tamit ando naye dena ŋoxa yo sam refe maraichaire :fra ke rek na ngoxa yo a jega wa ando naye ga ngoxa areer wene a ngoxa kaaf wene ngoxa pursiin alo
+srr_43420 1 Locuteur3 2126.931 2127.862 <o,f1,male> alo
+srr_43420 1 Locuteur1 2127.862 2130.171 <o,f1,male> waw Signe noxe nam fio nam gon le fo ma xoytita
+srr_43420 1 inter_segment_gap 2130.171 2130.537 <o,f1,> 
+srr_43420 1 Locuteur3 2130.537 2130.589 <o,f1,male> jam som
+srr_43420 1 Locuteur1 2130.589 2131.629 <o,f1,male> jam som kay alkhadoulila
+srr_43420 1 Locuteur3 2131.629 2132.835 <o,f1,male> barikala
+srr_43420 1 inter_segment_gap 2132.835 2133.160 <o,f1,> 
+srr_43420 1 Locuteur1 2133.160 2134.059 <o,f1,male> barika alkhadoulila
+srr_43420 1 Locuteur3 2134.059 2135.067 <o,f1,male> nam ŋesne koy
+srr_43420 1 Locuteur1 2135.067 2136.450 <o,f1,male> jam som alkhadoulila ano koy
+srr_43420 1 Locuteur3 2136.450 2137.887 <o,f1,male> Aliou Ndiaye
+srr_43420 1 Locuteur1 2137.887 2138.465 <o,f1,male> a
+srr_43420 1 Locuteur3 2138.465 2139.522 <o,f1,male> Aliou Ndiaye
+srr_43420 1 Locuteur1 2139.522 2140.552 <o,f1,male> Aliou Ndiaye
+srr_43420 1 Locuteur3 2140.552 2141.895 <o,f1,male> waw Aliou Ndiaye
+srr_43420 1 Locuteur1 2141.895 2142.905 <o,f1,male> Aliou Ndiaye nam fio waay
+srr_43420 1 Locuteur3 2142.905 2144.053 <o,f1,male> maxey men rek
+srr_43420 1 Locuteur1 2144.053 2145.257 <o,f1,male> jam som Aliou Ndiaye xooy tita man
+srr_43420 1 Locuteur3 2145.257 2147.114 <o,f1,male> depuis :fra Ndindor
+srr_43420 1 Locuteur1 2147.114 2147.724 <o,f1,male> a
+srr_43420 1 Locuteur3 2147.724 2148.687 <o,f1,male> Ndindor Ndindor
+srr_43420 1 Locuteur1 2148.687 2150.338 <o,f1,male> a Ndindor nam fio Aliou Ndiaye
+srr_43420 1 Locuteur1 2150.311 2151.441 <o,f1,male> jam soom Alkhadoulila
+srr_43420 1 Locuteur3 2151.441 2152.901 <o,f1,male> sant a emission :fra ne nuun xaye de
+srr_43420 1 Locuteur1 2152.901 2154.217 <o,f1,male> jerejejef merci :fra beaucoup :fra
+srr_43420 1 Locuteur3 2154.217 2155.000 <o,f1,male> a jega sens :fra trop :fra
+srr_43420 1 Locuteur1 2155.000 2156.302 <o,f1,male> jerejejef merci :fra beaucoup :fra
+srr_43420 1 Locuteur3 2156.302 2158.248 <o,f1,male> vraiment :fra sim na nuun
+srr_43420 1 Locuteur1 2158.248 2159.861 <o,f1,male> jerejejef jerejejef merci :fra beaucoup :fra
+srr_43420 1 Locuteur3 2159.861 2161.127 <o,f1,male> content :fra nam ten a paxa paxa paax
+srr_43420 1 Locuteur1 2161.127 2162.714 <o,f1,male> jerejejef jerejejef jerejejef
+srr_43420 1 Locuteur3 2162.714 2163.776 <o,f1,male> ok :fra merci :fra
+srr_43420 1 Locuteur1 2163.776 2183.419 <o,f1,male> merci :fra beaucoup :fra Aliou merci :fra beaucoup :fra Aliou Ndiaye merci :fra beaucoup :fra kono xene ref Aliou Ndiaye rek a xoytita no saxle o Ndindor i i ngid mana a paxa paxa paax to ŋendanan o yong jam rek intervention :fra ne jege solo a paxa paxa paax [musique]

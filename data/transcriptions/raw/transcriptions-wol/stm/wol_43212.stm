@@ -1,0 +1,651 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 09:41:15 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 6 of 230627
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_43212 1 locuteur_4 0.000 0.313 <o,f1,female> Malem
+wol_43212 1 locuteur_1 0.313 0.809 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 0.809 3.076 <o,f1,>
+wol_43212 1 locuteur_1 3.076 3.333 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 3.333 6.645 <o,f1,>
+wol_43212 1 locuteur_1 6.645 7.007 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 7.007 8.856 <o,f1,>
+wol_43212 1 locuteur_1 8.856 9.272 <o,f1,male> [r] %hum %hum
+wol_43212 1 inter_segment_gap 9.272 16.029 <o,f1,>
+wol_43212 1 locuteur_1 16.029 16.354 <o,f1,male> [r] %hum %hum
+wol_43212 1 inter_segment_gap 16.354 18.044 <o,f1,>
+wol_43212 1 locuteur_1 18.044 18.405 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_4 18.405 25.726 <o,f1,female> wala
+wol_43212 1 locuteur_1 25.726 26.251 <o,f1,male> %hum %hum [b]
+wol_43212 1 inter_segment_gap 26.251 28.372 <o,f1,>
+wol_43212 1 locuteur_1 28.372 28.914 <o,f1,male> %hum %hum [b]
+wol_43212 1 inter_segment_gap 28.914 32.826 <o,f1,>
+wol_43212 1 locuteur_1 32.826 33.184 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 33.184 39.504 <o,f1,>
+wol_43212 1 locuteur_1 39.504 39.848 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 39.848 44.846 <o,f1,>
+wol_43212 1 locuteur_1 44.846 45.171 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 45.171 47.539 <o,f1,>
+wol_43212 1 locuteur_1 47.539 47.865 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 47.865 51.600 <o,f1,>
+wol_43212 1 locuteur_1 51.600 51.980 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 51.980 53.499 <o,f1,>
+wol_43212 1 locuteur_1 53.499 53.916 <o,f1,male> [r] %hum %hum
+wol_43212 1 inter_segment_gap 53.916 58.187 <o,f1,>
+wol_43212 1 locuteur_1 58.187 58.694 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_4 58.694 61.900 <o,f1,female> parce :fra que :fra
+wol_43212 1 locuteur_1 61.900 62.262 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 62.262 62.937 <o,f1,>
+wol_43212 1 locuteur_1 62.937 63.398 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 63.398 64.357 <o,f1,>
+wol_43212 1 locuteur_1 64.357 64.988 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 64.988 65.423 <o,f1,>
+wol_43212 1 locuteur_1 65.423 65.827 <o,f1,male> [r] %hum
+wol_43212 1 inter_segment_gap 65.827 69.793 <o,f1,>
+wol_43212 1 locuteur_1 69.793 70.300 <o,f1,male> [r] %hum
+wol_43212 1 locuteur_4 70.300 72.829 <o,f1,female> parce :fra que :fra
+wol_43212 1 locuteur_1 72.829 73.118 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 73.118 74.787 <o,f1,>
+wol_43212 1 locuteur_1 74.787 75.143 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 75.143 78.675 <o,f1,>
+wol_43212 1 locuteur_1 78.675 79.037 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 79.037 81.155 <o,f1,>
+wol_43212 1 locuteur_1 81.155 81.480 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 81.480 83.130 <o,f1,>
+wol_43212 1 locuteur_1 83.130 83.546 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 83.546 86.343 <o,f1,>
+wol_43212 1 locuteur_1 86.343 86.766 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 86.766 88.537 <o,f1,>
+wol_43212 1 inter_segment_gap 88.537 90.030 <o,f1,>
+wol_43212 1 excluded_region 90.030 96.135 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 excluded_region 96.135 96.800 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 96.800 100.459 <o,f1,>
+wol_43212 1 excluded_region 100.459 128.972 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_5 128.972 131.258 <o,f1,male> %e asalaamaaleykum Seydou Dia
+wol_43212 1 inter_segment_gap 131.258 139.675 <o,f1,>
+wol_43212 1 locuteur_1 139.675 140.133 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 140.133 141.023 <o,f1,>
+wol_43212 1 locuteur_1 141.023 141.407 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 141.407 144.161 <o,f1,>
+wol_43212 1 locuteur_1 144.161 144.885 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_5 144.885 145.441 <o,f1,male> ANACIM
+wol_43212 1 inter_segment_gap 145.441 145.862 <o,f1,>
+wol_43212 1 inter_segment_gap 145.862 148.019 <o,f1,>
+wol_43212 1 locuteur_1 148.019 148.544 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 148.544 150.286 <o,f1,>
+wol_43212 1 inter_segment_gap 150.286 150.687 <o,f1,>
+wol_43212 1 inter_segment_gap 150.687 151.991 <o,f1,>
+wol_43212 1 locuteur_1 151.991 152.480 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 152.480 157.098 <o,f1,>
+wol_43212 1 locuteur_1 157.098 157.478 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 157.478 158.557 <o,f1,>
+wol_43212 1 locuteur_1 158.557 159.020 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 159.020 174.407 <o,f1,>
+wol_43212 1 locuteur_1 174.407 174.878 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 174.878 178.844 <o,f1,>
+wol_43212 1 inter_segment_gap 178.844 179.260 <o,f1,>
+wol_43212 1 inter_segment_gap 179.260 182.161 <o,f1,>
+wol_43212 1 locuteur_1 182.161 182.596 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 182.596 184.771 <o,f1,>
+wol_43212 1 locuteur_1 184.771 185.259 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 185.259 187.444 <o,f1,>
+wol_43212 1 locuteur_1 187.444 187.897 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 187.897 191.827 <o,f1,>
+wol_43212 1 locuteur_1 191.827 192.460 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_5 192.460 196.752 <o,f1,male> %e
+wol_43212 1 locuteur_1 196.752 197.150 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 197.150 198.330 <o,f1,>
+wol_43212 1 locuteur_1 198.330 198.764 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 198.764 201.172 <o,f1,>
+wol_43212 1 locuteur_1 201.172 201.715 <o,f1,male> Fewaan
+wol_43212 1 inter_segment_gap 201.715 204.166 <o,f1,>
+wol_43212 1 locuteur_1 204.166 204.637 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 204.637 206.939 <o,f1,>
+wol_43212 1 locuteur_1 206.939 207.386 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 207.386 208.085 <o,f1,>
+wol_43212 1 locuteur_1 208.085 208.609 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 208.609 211.689 <o,f1,>
+wol_43212 1 locuteur_1 211.689 211.970 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 211.970 216.461 <o,f1,>
+wol_43212 1 locuteur_1 216.461 216.952 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 216.952 219.838 <o,f1,>
+wol_43212 1 locuteur_1 219.838 220.291 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 220.291 223.175 <o,f1,>
+wol_43212 1 locuteur_1 223.175 223.581 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 223.581 226.860 <o,f1,>
+wol_43212 1 locuteur_1 226.860 227.207 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 227.207 228.118 <o,f1,>
+wol_43212 1 locuteur_1 228.118 228.538 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 228.538 230.315 <o,f1,>
+wol_43212 1 locuteur_1 230.315 230.677 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 230.677 233.564 <o,f1,>
+wol_43212 1 locuteur_1 233.564 234.035 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 234.035 240.299 <o,f1,>
+wol_43212 1 inter_segment_gap 240.299 240.788 <o,f1,>
+wol_43212 1 inter_segment_gap 240.788 242.471 <o,f1,>
+wol_43212 1 excluded_region 242.471 248.081 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 248.081 249.177 <o,f1,>
+wol_43212 1 inter_segment_gap 249.177 251.370 <o,f1,>
+wol_43212 1 locuteur_1 251.370 251.627 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 251.627 254.547 <o,f1,>
+wol_43212 1 locuteur_1 254.547 254.833 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 254.833 257.472 <o,f1,>
+wol_43212 1 locuteur_1 257.472 257.834 <o,f1,male> [r] %hum
+wol_43212 1 inter_segment_gap 257.834 258.918 <o,f1,>
+wol_43212 1 locuteur_1 258.918 259.226 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 259.226 262.505 <o,f1,>
+wol_43212 1 inter_segment_gap 262.505 263.250 <o,f1,>
+wol_43212 1 locuteur_5 263.250 263.594 <o,f1,male> %hum
+wol_43212 1 locuteur_1 263.594 269.026 <o,f1,male> %e
+wol_43212 1 locuteur_5 269.026 269.310 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 269.310 277.641 <o,f1,>
+wol_43212 1 locuteur_5 277.641 277.930 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 277.930 279.987 <o,f1,>
+wol_43212 1 locuteur_5 279.987 280.349 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 280.349 281.655 <o,f1,>
+wol_43212 1 excluded_region 281.655 287.996 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_5 287.996 288.376 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 288.376 297.942 <o,f1,>
+wol_43212 1 inter_segment_gap 297.942 300.083 <o,f1,>
+wol_43212 1 inter_segment_gap 300.083 300.515 <o,f1,>
+wol_43212 1 inter_segment_gap 300.515 302.303 <o,f1,>
+wol_43212 1 locuteur_1 302.303 302.668 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 302.668 305.643 <o,f1,>
+wol_43212 1 excluded_region 305.643 306.663 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 306.663 307.003 <o,f1,>
+wol_43212 1 inter_segment_gap 307.003 313.647 <o,f1,>
+wol_43212 1 locuteur_1 313.647 314.027 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 314.027 316.310 <o,f1,>
+wol_43212 1 locuteur_1 316.310 316.745 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 316.745 321.706 <o,f1,>
+wol_43212 1 excluded_region 321.706 335.751 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 335.751 336.166 <o,f1,>
+wol_43212 1 inter_segment_gap 336.166 341.209 <o,f1,>
+wol_43212 1 locuteur_1 341.209 341.901 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 341.901 344.347 <o,f1,>
+wol_43212 1 locuteur_1 344.347 344.691 <o,f1,male> %hum
+wol_43212 1 excluded_region 344.691 353.114 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 353.114 354.502 <o,f1,male> Momadou sow relai :fra principal :fra
+wol_43212 1 inter_segment_gap 354.502 356.758 <o,f1,>
+wol_43212 1 locuteur_6 356.758 357.101 <o,f1,female> %hum %hum
+wol_43212 1 inter_segment_gap 357.101 359.698 <o,f1,>
+wol_43212 1 locuteur_6 359.698 360.964 <o,f1,female> bambara
+wol_43212 1 inter_segment_gap 360.964 366.481 <o,f1,>
+wol_43212 1 excluded_region 366.481 392.153 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 392.153 396.052 <o,f1,>
+wol_43212 1 locuteur_1 396.052 396.412 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 396.412 403.834 <o,f1,>
+wol_43212 1 locuteur_1 403.834 404.232 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 404.232 405.412 <o,f1,>
+wol_43212 1 locuteur_1 405.412 405.774 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 405.774 413.068 <o,f1,>
+wol_43212 1 locuteur_1 413.068 413.379 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 413.379 433.178 <o,f1,>
+wol_43212 1 locuteur_1 433.178 433.521 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 433.521 438.320 <o,f1,>
+wol_43212 1 locuteur_1 438.320 438.847 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 438.847 441.058 <o,f1,>
+wol_43212 1 locuteur_1 441.058 441.474 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 441.474 443.957 <o,f1,>
+wol_43212 1 locuteur_1 443.957 444.283 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 444.283 446.814 <o,f1,>
+wol_43212 1 locuteur_1 446.814 447.127 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 447.127 450.187 <o,f1,>
+wol_43212 1 locuteur_1 450.187 450.531 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 450.531 451.861 <o,f1,>
+wol_43212 1 locuteur_1 451.861 452.187 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 452.187 457.112 <o,f1,>
+wol_43212 1 locuteur_1 457.112 457.402 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 457.402 459.282 <o,f1,>
+wol_43212 1 locuteur_1 459.282 459.611 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 459.611 461.383 <o,f1,>
+wol_43212 1 locuteur_1 461.383 461.676 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 461.676 462.668 <o,f1,>
+wol_43212 1 locuteur_1 462.668 463.247 <o,f1,male> %hum [b]
+wol_43212 1 inter_segment_gap 463.247 466.169 <o,f1,>
+wol_43212 1 locuteur_1 466.169 466.621 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 466.621 471.058 <o,f1,>
+wol_43212 1 locuteur_1 471.058 471.532 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 471.532 483.604 <o,f1,>
+wol_43212 1 locuteur_1 483.604 483.984 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 483.984 486.376 <o,f1,>
+wol_43212 1 locuteur_1 486.376 486.774 <o,f1,male> %hum
+wol_43212 1 locuteur_6 486.774 494.494 <o,f1,female> parce :fra que :fra
+wol_43212 1 locuteur_1 494.494 494.892 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 494.892 495.627 <o,f1,>
+wol_43212 1 locuteur_1 495.627 496.915 <o,f1,male> wax dëgg yàlla information :fra
+wol_43212 1 inter_segment_gap 496.915 498.837 <o,f1,>
+wol_43212 1 locuteur_1 498.837 499.180 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 499.180 505.553 <o,f1,>
+wol_43212 1 locuteur_1 505.553 505.924 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 505.924 509.926 <o,f1,>
+wol_43212 1 locuteur_1 509.926 510.267 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 510.267 512.965 <o,f1,>
+wol_43212 1 locuteur_1 512.965 519.752 <o,f1,male> Bachir Mbow war nga dégg bambara de %e yàgg nga ci Tamba war nga dégg bambara bambara bu neex bi [rire] sant yàlla bu baax
+wol_43212 1 locuteur_1 519.752 526.734 <o,f1,male> kon nag
+wol_43212 1 excluded_region 526.734 554.340 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_8 554.340 558.198 <o,f1,male> %e asalaamaaleykum Ba Ibrahima
+wol_43212 1 locuteur_1 558.198 558.759 <o,f1,male> %hum %hum [conv]
+wol_43212 1 inter_segment_gap 558.759 562.671 <o,f1,>
+wol_43212 1 locuteur_1 562.671 563.069 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 563.069 564.823 <o,f1,>
+wol_43212 1 locuteur_1 564.823 565.221 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 565.221 566.079 <o,f1,>
+wol_43212 1 locuteur_1 566.079 566.834 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_8 566.834 570.940 <o,f1,male> bon :fra comme :fra que :fra info() %e information :fra climatique :fra
+wol_43212 1 locuteur_1 570.940 571.320 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 571.320 573.273 <o,f1,>
+wol_43212 1 locuteur_1 573.273 573.816 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 573.816 578.996 <o,f1,>
+wol_43212 1 locuteur_1 578.996 579.756 <o,f1,male> %hum %hum [conv]
+wol_43212 1 inter_segment_gap 579.756 587.501 <o,f1,>
+wol_43212 1 locuteur_1 587.501 588.274 <o,f1,male> %hum %hum [conv]
+wol_43212 1 inter_segment_gap 588.274 590.196 <o,f1,>
+wol_43212 1 locuteur_1 590.196 590.699 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 590.699 593.815 <o,f1,>
+wol_43212 1 locuteur_1 593.815 594.448 <o,f1,male> %hum %hum [conv]
+wol_43212 1 inter_segment_gap 594.448 600.423 <o,f1,>
+wol_43212 1 locuteur_1 600.423 600.919 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 600.919 605.267 <o,f1,>
+wol_43212 1 locuteur_1 605.267 605.742 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_8 605.742 607.975 <o,f1,male> parce :fra que :fra moo ne ñu continué :fra
+wol_43212 1 locuteur_8 607.975 625.254 <o,f1,male> parce :fra que :fra programme :fra
+wol_43212 1 locuteur_1 625.254 625.614 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 625.614 640.998 <o,f0,>
+wol_43212 1 locuteur_1 640.998 641.577 <o,f0,male> %hum %hum
+wol_43212 1 inter_segment_gap 641.577 643.929 <o,f0,>
+wol_43212 1 locuteur_1 643.929 644.309 <o,f0,male> %hum
+wol_43212 1 inter_segment_gap 644.309 647.416 <o,f0,>
+wol_43212 1 locuteur_1 647.416 647.852 <o,f0,male> %hum
+wol_43212 1 inter_segment_gap 647.852 649.660 <o,f0,>
+wol_43212 1 locuteur_1 649.660 650.360 <o,f0,male> %hum
+wol_43212 1 inter_segment_gap 650.360 652.367 <o,f0,>
+wol_43212 1 locuteur_1 652.367 652.810 <o,f0,male> %hum %hum
+wol_43212 1 inter_segment_gap 652.810 653.887 <o,f0,>
+wol_43212 1 locuteur_1 653.887 654.249 <o,f0,male> %hum
+wol_43212 1 inter_segment_gap 654.249 659.482 <o,f0,>
+wol_43212 1 locuteur_1 659.482 659.917 <o,f0,male> %hum
+wol_43212 1 inter_segment_gap 659.917 660.934 <o,f0,>
+wol_43212 1 locuteur_1 660.934 661.338 <o,f0,male> %hum
+wol_43212 1 inter_segment_gap 661.338 718.256 <o,f0,>
+wol_43212 1 locuteur_1 718.256 721.521 <o,f0,male> Lamine Waly Lamine Waly relais :fra Sinthiou tamba
+wol_43212 1 excluded_region 721.521 724.631 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 724.631 727.944 <o,f0,male> awa Ndao yow %e dé() dégg nga dégg nga soose de bu
+wol_43212 1 excluded_region 727.944 730.333 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_3 730.333 730.794 <o,f1,female> waaw
+wol_43212 1 locuteur_1 730.794 735.001 <o,f1,male> [rire] sant yàlla bu baax mun nañ %e Lamine Souleymane Balde
+wol_43212 1 excluded_region 735.001 738.185 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 738.185 739.289 <o,f1,>
+wol_43212 1 inter_segment_gap 739.289 746.201 <o,f1,>
+wol_43212 1 locuteur_9 746.201 746.485 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 746.485 750.291 <o,f1,>
+wol_43212 1 locuteur_9 750.291 750.649 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 750.649 753.005 <o,f1,>
+wol_43212 1 excluded_region 753.005 760.930 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 760.930 763.843 <o,f1,>
+wol_43212 1 locuteur_1 763.843 764.205 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 764.205 771.805 <o,f1,>
+wol_43212 1 locuteur_1 771.805 772.257 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 772.257 774.229 <o,f1,>
+wol_43212 1 locuteur_1 774.229 774.790 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_9 774.790 778.409 <o,f1,male> affaire :fra %e
+wol_43212 1 excluded_region 778.409 779.694 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 779.694 780.068 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_9 780.068 783.638 <o,f1,male> parce :fra que :fra mana() manager :fra affaire :fra %e technique :fra
+wol_43212 1 locuteur_1 783.638 784.357 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_9 784.357 785.520 <o,f1,male> technique :fra
+wol_43212 1 locuteur_1 785.520 786.201 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 786.201 788.614 <o,f1,>
+wol_43212 1 locuteur_1 788.614 789.221 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 789.221 791.147 <o,f1,>
+wol_43212 1 locuteur_1 791.147 791.526 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 791.526 793.427 <o,f1,>
+wol_43212 1 locuteur_1 793.427 794.042 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 794.042 797.951 <o,f1,>
+wol_43212 1 locuteur_1 797.951 798.313 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 798.313 805.966 <o,f1,>
+wol_43212 1 locuteur_1 805.966 806.382 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_1 806.382 807.468 <o,f1,male> météo :fra
+wol_43212 1 locuteur_1 807.468 807.946 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 807.946 812.008 <o,f1,>
+wol_43212 1 excluded_region 812.008 813.238 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 813.238 814.035 <o,f1,>
+wol_43212 1 inter_segment_gap 814.035 814.794 <o,f1,>
+wol_43212 1 locuteur_1 814.794 815.193 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 815.193 817.129 <o,f1,>
+wol_43212 1 locuteur_1 817.129 817.400 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 817.400 818.687 <o,f1,>
+wol_43212 1 excluded_region 818.687 820.331 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 820.331 820.806 <o,f1,>
+wol_43212 1 inter_segment_gap 820.806 823.717 <o,f1,>
+wol_43212 1 locuteur_1 823.717 824.280 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 824.280 827.372 <o,f1,>
+wol_43212 1 locuteur_1 827.372 828.404 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 828.404 832.149 <o,f1,>
+wol_43212 1 locuteur_1 832.149 832.751 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 832.751 834.845 <o,f1,>
+wol_43212 1 locuteur_1 834.845 835.587 <o,f1,male> %hum
+wol_43212 1 locuteur_9 835.587 836.492 <o,f1,male> compost :fra
+wol_43212 1 locuteur_1 836.492 836.791 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_9 836.791 837.487 <o,f1,male> compostage :fra
+wol_43212 1 inter_segment_gap 837.487 838.572 <o,f1,>
+wol_43212 1 inter_segment_gap 838.572 848.455 <o,f1,>
+wol_43212 1 locuteur_1 848.455 849.197 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 849.197 850.102 <o,f1,>
+wol_43212 1 locuteur_1 850.102 850.843 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 850.843 852.544 <o,f1,>
+wol_43212 1 inter_segment_gap 852.544 853.340 <o,f1,>
+wol_43212 1 inter_segment_gap 853.340 856.272 <o,f1,>
+wol_43212 1 locuteur_1 856.272 857.013 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 857.013 858.805 <o,f1,>
+wol_43212 1 inter_segment_gap 858.805 859.210 <o,f1,>
+wol_43212 1 inter_segment_gap 859.210 867.750 <o,f1,>
+wol_43212 1 locuteur_1 867.750 868.257 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 868.257 870.992 <o,f1,>
+wol_43212 1 locuteur_1 870.992 871.408 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 871.408 875.136 <o,f1,>
+wol_43212 1 inter_segment_gap 875.136 875.539 <o,f1,>
+wol_43212 1 inter_segment_gap 875.539 876.782 <o,f1,>
+wol_43212 1 locuteur_1 876.782 877.233 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 877.233 883.614 <o,f1,>
+wol_43212 1 locuteur_1 883.614 883.921 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 883.921 884.460 <o,f1,>
+wol_43212 1 locuteur_1 884.460 884.931 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 884.931 893.055 <o,f1,>
+wol_43212 1 locuteur_1 893.055 893.415 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 893.415 898.147 <o,f1,>
+wol_43212 1 locuteur_1 898.147 898.564 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 898.564 900.743 <o,f1,>
+wol_43212 1 locuteur_1 900.743 901.223 <o,f1,male> ok :en
+wol_43212 1 inter_segment_gap 901.223 904.641 <o,f1,>
+wol_43212 1 locuteur_1 904.641 905.120 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 905.120 906.993 <o,f1,>
+wol_43212 1 locuteur_1 906.993 907.554 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 907.554 909.090 <o,f1,>
+wol_43212 1 locuteur_1 909.090 909.452 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 909.452 910.556 <o,f1,>
+wol_43212 1 locuteur_1 910.556 911.099 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 911.099 917.816 <o,f1,>
+wol_43212 1 locuteur_1 917.816 918.286 <o,f1,male> ok :en
+wol_43212 1 inter_segment_gap 918.286 920.807 <o,f1,>
+wol_43212 1 inter_segment_gap 920.807 922.425 <o,f1,>
+wol_43212 1 excluded_region 922.425 926.879 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 926.879 931.164 <o,f1,male> Momadou Dieng Diallo [r] Momadou dieng %e wolof ngay wax wala pulaar ngay wax
+wol_43212 1 locuteur_10 931.164 932.739 <o,f1,male> %hum man kay [rire] man moom pulaar
+wol_43212 1 excluded_region 932.739 941.171 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 inter_segment_gap 941.171 944.971 <o,f1,>
+wol_43212 1 locuteur_1 944.971 945.527 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 945.527 951.195 <o,f1,>
+wol_43212 1 locuteur_1 951.195 951.738 <o,f1,male> %hum %hum [b]
+wol_43212 1 inter_segment_gap 951.738 953.728 <o,f1,>
+wol_43212 1 locuteur_1 953.728 954.343 <o,f1,male> %hum [b]
+wol_43212 1 inter_segment_gap 954.343 955.863 <o,f1,>
+wol_43212 1 excluded_region 955.863 957.274 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 957.274 957.731 <o,f1,male> %hum
+wol_43212 1 locuteur_10 957.731 959.319 <o,f1,male> donc :fra
+wol_43212 1 locuteur_1 959.319 959.789 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 959.789 964.584 <o,f1,>
+wol_43212 1 locuteur_1 964.584 965.227 <o,f1,male> %hum [b]
+wol_43212 1 inter_segment_gap 965.227 975.224 <o,f1,>
+wol_43212 1 locuteur_1 975.224 975.622 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 975.622 977.268 <o,f1,>
+wol_43212 1 locuteur_1 977.268 977.721 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 977.721 982.389 <o,f1,>
+wol_43212 1 locuteur_1 982.389 982.787 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 982.787 984.271 <o,f1,>
+wol_43212 1 locuteur_1 984.271 984.703 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 984.703 985.742 <o,f1,>
+wol_43212 1 locuteur_1 985.742 986.054 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 986.054 989.252 <o,f1,>
+wol_43212 1 locuteur_1 989.252 990.034 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_10 990.034 992.256 <o,f1,male> donc :fra
+wol_43212 1 locuteur_1 992.256 992.763 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 992.763 995.929 <o,f1,>
+wol_43212 1 locuteur_1 995.929 996.291 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 996.291 999.121 <o,f1,>
+wol_43212 1 locuteur_1 999.121 999.790 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_10 999.790 1000.966 <o,f1,male> donc :fra
+wol_43212 1 locuteur_1 1000.966 1001.278 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1001.278 1006.956 <o,f1,>
+wol_43212 1 locuteur_1 1006.956 1007.372 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1007.372 1008.060 <o,f1,>
+wol_43212 1 locuteur_1 1008.060 1008.470 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1008.470 1009.779 <o,f1,>
+wol_43212 1 locuteur_1 1009.779 1010.139 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 1010.139 1015.045 <o,f1,>
+wol_43212 1 locuteur_1 1015.045 1015.660 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1015.660 1016.976 <o,f1,>
+wol_43212 1 locuteur_1 1016.976 1017.452 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1017.452 1023.658 <o,f1,>
+wol_43212 1 locuteur_1 1023.658 1023.853 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 1023.853 1025.051 <o,f1,>
+wol_43212 1 locuteur_1 1025.051 1025.413 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1025.413 1030.154 <o,f1,>
+wol_43212 1 locuteur_1 1030.154 1030.588 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1030.588 1031.746 <o,f1,>
+wol_43212 1 locuteur_1 1031.746 1032.230 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1032.230 1034.225 <o,f1,>
+wol_43212 1 locuteur_1 1034.225 1034.588 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 1034.588 1036.541 <o,f1,>
+wol_43212 1 locuteur_1 1036.541 1036.976 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1036.976 1042.200 <o,f1,>
+wol_43212 1 locuteur_1 1042.200 1042.580 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1042.580 1045.294 <o,f1,>
+wol_43212 1 locuteur_1 1045.294 1045.801 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1045.801 1046.682 <o,f1,>
+wol_43212 1 locuteur_1 1046.682 1047.040 <o,f1,male> %hum
+wol_43212 1 inter_segment_gap 1047.040 1048.081 <o,f1,>
+wol_43212 1 locuteur_1 1048.081 1048.383 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1048.383 1050.192 <o,f1,>
+wol_43212 1 locuteur_1 1050.192 1050.844 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1050.844 1054.155 <o,f1,>
+wol_43212 1 locuteur_1 1054.155 1054.462 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1054.462 1056.218 <o,f1,>
+wol_43212 1 locuteur_1 1056.218 1056.701 <o,f1,male> %hum [r]
+wol_43212 1 locuteur_10 1056.701 1058.335 <o,f1,male> donc :fra %e Ibrahima
+wol_43212 1 excluded_region 1058.335 1062.514 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1062.514 1062.822 <o,f1,male> %hum %hum
+wol_43212 1 inter_segment_gap 1062.822 1064.270 <o,f1,>
+wol_43212 1 locuteur_1 1064.270 1064.650 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_10 1064.650 1068.287 <o,f1,male> Momadou Dieng Diallo président :fra banque :fra céréalière :fra département :fra Tamba
+wol_43212 1 excluded_region 1068.287 1069.563 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_10 1069.563 1070.334 <o,f1,male> banque :fra
+wol_43212 1 excluded_region 1070.334 1071.815 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_10 1071.815 1073.012 <o,f1,male> voilà :fra banque :fra %e
+wol_43212 1 inter_segment_gap 1073.012 1074.713 <o,f1,>
+wol_43212 1 locuteur_3 1074.713 1075.002 <o,f1,female> %hum
+wol_43212 1 locuteur_1 1075.002 1089.767 <o,f1,male> %e balaay tuuti moo ñu dese [r] dama koo laaj naa ko ci pulaar ñu tontu ci pulaar [r] jar na tamit ma laaj ko ci wolof [b] nga tontu ci wolof mooy [r] %e yan pexe %e béykat yi producteurs :fra yi yan pexe la ñu war a tëral [r] ngir continuer :fra [r] jëfandikoo maanaam information :fra climatique :fra bi
+wol_43212 1 locuteur_3 1089.767 1091.082 <o,f1,female> ok :en %e
+wol_43212 1 locuteur_1 1091.082 1101.732 <o,f1,male> waaw ndax jaral na leen jaral na leen [r] %e dajale li ñu am lu tuut [rire] xëy na ngir maanaam continuer :fra %e comme :fra comme :fra nee nañu %e tey jii 4 projet :fra 4R
+wol_43212 1 excluded_region 1101.732 1108.127 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_3 1108.127 1108.416 <o,f1,female> %hum %hum
+wol_43212 1 locuteur_1 1108.416 1109.411 <o,f1,male> information :fra climatique :fra
+wol_43212 1 locuteur_3 1109.411 1109.737 <o,f1,female> %hum %hum
+wol_43212 1 locuteur_1 1109.737 1114.478 <o,f1,male> waaye tamit su fekkee %e 4R projet :fra 4R tam dafa war a taxaw
+wol_43212 1 locuteur_3 1114.478 1114.730 <o,f1,female> %hum %hum
+wol_43212 1 locuteur_1 1114.730 1116.323 <o,f1,male> %e béykat yi ndax dina leen jaral
+wol_43212 1 locuteur_3 1116.323 1116.613 <o,f1,female> %hum %hum
+wol_43212 1 locuteur_1 1116.613 1124.405 <o,f1,male> %e vraiment :fra daal di jël tuuti si seen xaalis pour :fra financer :fra li nga xam ne mooy [r] %e information :fra information :fra agr() information :fra climatique :fra [b]
+wol_43212 1 locuteur_3 1124.405 1126.920 <o,f1,female> ok :en %e monsieur :fra Dia yaakaar naa ne loolu %e
+wol_43212 1 excluded_region 1126.920 1128.187 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1128.187 1128.856 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1128.856 1134.357 <o,f1,female> %e ñu bëri liñu fi làkk dégg naa ko information :fra bi amal na leen njëriñ ba nga xam ne tey jii
+wol_43212 1 locuteur_1 1134.357 1134.881 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1134.881 1136.637 <o,f1,female> ñoom ñii bu fi projet :fra bi nekkul woon
+wol_43212 1 locuteur_1 1136.637 1136.999 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1136.999 1138.265 <o,f1,female> danañ def pexe yëpp
+wol_43212 1 locuteur_1 1138.265 1138.880 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1138.880 1141.431 <o,f1,female> pour :fra que :fra nu ñu mënee jot ay informations :fra météo :fra
+wol_43212 1 locuteur_1 1141.431 1141.974 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1141.974 1144.562 <o,f1,female> ndax tey jii boo xoolee si seen gox ti fii
+wol_43212 1 locuteur_1 1144.562 1145.141 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1145.141 1148.488 <o,f1,female> am na ñu bëri ñoo xamante ne bés bu ñu déggee information :fra météo :fra
+wol_43212 1 locuteur_1 1148.488 1148.959 <o,f1,male> %hum
+wol_43212 1 locuteur_3 1148.959 1154.767 <o,f1,female> duñ ko denc sax pour :fra ñoom kese comme :fra ni ma la ko waxee dañ koy tasaare léegi nag ku dem ba yow yaa ngi dimbali sa bopp
+wol_43212 1 locuteur_1 1154.767 1155.382 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1155.382 1156.358 <o,f1,female> di dimbali keneen
+wol_43212 1 locuteur_1 1156.358 1156.810 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1156.810 1158.999 <o,f1,female> kon loolu yaakaar naa am na amal na la njëriñ
+wol_43212 1 locuteur_1 1158.999 1159.460 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1159.460 1161.070 <o,f1,female> te amal na askan njëriñ
+wol_43212 1 locuteur_1 1161.070 1161.595 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1161.595 1164.164 <o,f1,female> donc :fra tey loolu pour :fra pérénisation :fra bi ñoom
+wol_43212 1 locuteur_1 1164.164 1164.689 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1164.689 1168.434 <o,f1,female> ñoom dañ ciy war a xalaat depuis :fra léegi ñu def ay kuréel def seen i mbootaay
+wol_43212 1 locuteur_1 1168.434 1168.919 <o,f1,male> waaw
+wol_43212 1 locuteur_3 1168.919 1170.063 <o,f1,female> def seen i kees
+wol_43212 1 locuteur_1 1170.063 1170.370 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1170.370 1171.528 <o,f1,female> def seen i cotisation :fra
+wol_43212 1 locuteur_1 1171.528 1171.926 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1171.926 1173.229 <o,f1,female> ndax tey ñun ñii gis nga
+wol_43212 1 excluded_region 1173.229 1175.038 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1175.038 1175.491 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1175.491 1177.391 <o,f1,female> fii dafa am ay béykat yoo xamante ni
+wol_43212 1 locuteur_1 1177.391 1177.807 <o,f1,male> [r] %hum %hum
+wol_43212 1 locuteur_3 1177.807 1179.351 <o,f1,female> bu góob jotee
+wol_43212 1 locuteur_1 1179.351 1179.888 <o,f1,male> waaw
+wol_43212 1 locuteur_3 1179.888 1183.018 <o,f1,female> période :fra bii nii bu ñu góobee ba %e dugal ci sàq yi ba mu ba mu fees
+wol_43212 1 locuteur_1 1183.018 1183.633 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1183.633 1184.122 <o,f1,female> li ci des
+wol_43212 1 locuteur_1 1184.122 1184.411 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1184.411 1188.736 <o,f1,female> dañ koy bojj indiwaat ko ñëw denc ko ci magasin :fra bi fii léegi ni ñuy organiser :fra loolu
+wol_43212 1 locuteur_1 1188.736 1189.134 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1189.134 1191.721 <o,f1,female> noonu la ñu war a organiser :fra seen nawe() nawetu déwén
+wol_43212 1 excluded_region 1191.721 1194.272 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1194.272 1194.707 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1194.707 1197.106 <o,f1,female> ñoom ñii war nañu gesuwaat météo :fra
+wol_43212 1 excluded_region 1197.106 1201.666 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1201.666 1202.046 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1202.046 1202.697 <o,f1,female> rendement :fra bi
+wol_43212 1 locuteur_1 1202.697 1203.005 <o,f1,male> %hum
+wol_43212 1 locuteur_3 1203.005 1206.913 <o,f1,female> ñoom la ndax tey météo :fra bépp information :fra biñ koy bi mu leen di jox
+wol_43212 1 locuteur_1 1206.913 1207.329 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1207.329 1209.120 <o,f1,female> mi ngi leen di njëriñ ñi ngi koy jëfandikoo
+wol_43212 1 excluded_region 1209.120 1209.953 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1209.953 1210.531 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1210.531 1213.408 <o,f1,female> parce :fra que :fra tey jii xoolal lu gën a métti nga xëy yor sa engrais :fra
+wol_43212 1 locuteur_1 1213.408 1213.764 <o,f1,male> %hum %hum [b]
+wol_43212 1 locuteur_3 1213.764 1215.055 <o,f1,female> engrais :fra boobu dong nga yorewoon
+wol_43212 1 locuteur_1 1215.055 1215.417 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1215.417 1216.665 <o,f1,female> nga war ko dem def si sa tool
+wol_43212 1 locuteur_1 1216.665 1217.338 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1217.338 1219.054 <o,f1,female> taw bi fekk ko foofu ban njëriñ lay am
+wol_43212 1 locuteur_1 1219.054 1219.669 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1219.669 1222.962 <o,f1,female> dèjà :fra sa xaalis yàqu na [b] engrais :fra bi yàqu na du la amal benn njëriñ
+wol_43212 1 locuteur_1 1222.962 1223.233 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_3 1223.233 1227.232 <o,f1,female> mais :fra météo :fra bu la informer :fra woon [b] yow nga xëy toog [b] jàpp sa njàmbur
+wol_43212 1 locuteur_1 1227.232 1227.739 <o,f1,male> %hum [b]
+wol_43212 1 locuteur_3 1227.739 1229.096 <o,f1,female> li si ëllëg sa wala ci ngoon
+wol_43212 1 locuteur_1 1229.096 1229.367 <o,f1,male> %hum
+wol_43212 1 locuteur_3 1229.367 1233.457 <o,f1,female> nga dem nga dem sa def sa engrais :fra dèjà :fra tu :fra as :fra gagné :fra deux :fra fois :fra gagné :fra nga ñaari yoon
+wol_43212 1 locuteur_1 1233.457 1233.710 <o,f1,male> %hum
+wol_43212 1 locuteur_3 1233.710 1235.505 <o,f0,female> information :fra météo :fra bi gagné :fra nga ko ci
+wol_43212 1 locuteur_1 1235.505 1235.994 <o,f0,male> [r] %hum %hum
+wol_43212 1 locuteur_3 1235.994 1239.179 <o,f0,female> dèjà :fra sa tool bi aussi :fra engrais :fra bi aussi :fra gangé :fra nga ci ndax xaalis nga ci dugal
+wol_43212 1 locuteur_1 1239.179 1239.649 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1239.649 1240.735 <o,f0,female> donc :fra comme :fra ni ngeen waxee rek
+wol_43212 1 locuteur_1 1240.735 1241.215 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1241.215 1244.408 <o,f0,female> ñoom %e mbirum météo :fra dañ ko war a dugal léegi si seen i
+wol_43212 1 excluded_region 1244.408 1246.690 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_3 1246.690 1247.484 <o,f0,female> mu nekk intrant :fra
+wol_43212 1 locuteur_1 1247.484 1247.778 <o,f0,male> voilà :fra
+wol_43212 1 locuteur_3 1247.778 1249.131 <o,f0,female> ni ñuy dawee ci ginnaaw machine :fra
+wol_43212 1 locuteur_1 1249.131 1249.438 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1249.438 1255.011 <o,f0,female> di daw ci ginnaaw %e ceeb yi di ginaaw daw ci ginnaaw kii nu mu tudd %e [r] engrais :fra yi ak yi ci des
+wol_43212 1 locuteur_1 1255.011 1255.355 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1255.355 1256.821 <o,f0,female> nañ daw noonu si ginnaaw météo :fra
+wol_43212 1 locuteur_1 1256.821 1257.219 <o,f0,male> %hum
+wol_43212 1 locuteur_3 1257.219 1258.033 <o,f0,female> organiser :fra wu
+wol_43212 1 locuteur_1 1258.033 1258.322 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1258.322 1260.512 <o,f0,female> parce :fra que :fra ñoom ay organisations :fra la ñuy liggéeyal
+wol_43212 1 locuteur_1 1260.512 1260.837 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1260.837 1262.032 <o,f0,female> ay mbooloo ay kuréel
+wol_43212 1 locuteur_1 1262.032 1262.332 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1262.332 1264.384 <o,f0,female> te fii am na ay kuréelu béykat pourquoi :fra pas :fra ñoom
+wol_43212 1 locuteur_1 1264.384 1264.731 <o,f0,male> %hum
+wol_43212 1 locuteur_3 1264.731 1267.804 <o,f0,female> lii li leen di programme :fra 4R di leen di fayal pour :fra ñu jot message :fra
+wol_43212 1 locuteur_1 1267.804 1268.102 <o,f0,male> [r] %hum
+wol_43212 1 locuteur_3 1268.102 1270.029 <o,f0,female> ñoom buñ ñoom nit bu ñu defee tuuti effort :fra
+wol_43212 1 locuteur_1 1270.029 1270.319 <o,f0,male> [r] %hum
+wol_43212 1 locuteur_3 1270.319 1272.020 <o,f0,female> jege météo :fra mun na leen teg ci yoon
+wol_43212 1 locuteur_1 1272.020 1272.312 <o,f0,male> %hum
+wol_43212 1 locuteur_3 1272.312 1273.915 <o,f0,female> ah programme :fra bi dañ doon liggéey ak moom
+wol_43212 1 locuteur_1 1273.915 1274.210 <o,f0,male> waaw
+wol_43212 1 locuteur_3 1274.210 1275.634 <o,f0,female> moo leen doon fayal ay déplacements :fra
+wol_43212 1 locuteur_1 1275.634 1275.887 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1275.887 1276.768 <o,f0,female> mooy fay ay rajo
+wol_43212 1 excluded_region 1276.768 1279.175 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_3 1279.175 1288.607 <o,f0,female> léegi nag comme :fra programme :fra bi taxaw nag [r] ñun ñii suñu bopp bëgg nañ ko wan leen ñu yoon wala wax leen ñun lan la ñuy doxalee ak yéen [b] ndax ñun tam ñu mën a jot continuer :fra di jot ba léegi message :fra yooyu
+wol_43212 1 locuteur_1 1288.607 1289.078 <o,f0,male> waaw
+wol_43212 1 locuteur_3 1289.078 1291.846 <o,f0,female> bu ko defee nag mu nekk benn kuréel goo xamante ne bu am doole la
+wol_43212 1 locuteur_1 1291.846 1292.244 <o,f0,male> [r] %hum %hum
+wol_43212 1 locuteur_3 1292.244 1294.506 <o,f0,female> mun na nekk fii ba law ci yeneen gox goxaan yi sax
+wol_43212 1 locuteur_1 1294.506 1294.923 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1294.923 1296.062 <o,f0,female> man daal loolu laa xamoon loo
+wol_43212 1 excluded_region 1296.062 1297.944 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1297.944 1298.362 <o,f0,male> [r] %hum %hum
+wol_43212 1 locuteur_3 1298.362 1299.735 <o,f0,female> te ñoom ñii togg xam nañ ni
+wol_43212 1 locuteur_1 1299.735 1300.096 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1300.096 1301.237 <o,f0,female> %e météo :fra
+wol_43212 1 locuteur_1 1301.237 1301.598 <o,f0,male> %hum %hum
+wol_43212 1 locuteur_3 1301.598 1302.865 <o,f0,female> ñoom bu ñu ko waxul sax
+wol_43212 1 excluded_region 1302.865 1307.269 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 excluded_region 1307.269 1308.551 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1308.551 1339.751 <o,f0,male> kon nag %e Awa Ndao di animatrice :fra 4R xanaa rek [r] balaa ñuy tuuti moo ñu dese [r] %e di fàttali rek ne [r] émission :fra bi nekkul en :fra direct :fra waaye tamit neenañu [r] %e waa projet :fra 4R neenañu di fàttali [r] képp ki nga xam ne bëgg na ay xibaar yu gën a leer na woote ci même :fra su fekkee tamit si ginnaaw émission :fra bi la [r] 33 879 30 92 33 879 30 92 nga bàyyi fa sa message :fra li nga soxla li nga war a laaj [r] ci gannaaw maanaam bip :fra sonore :fra bi [r]
+wol_43212 1 inter_segment_gap 1339.751 1361.283 <o,f0,>
+wol_43212 1 locuteur_1 1361.283 1374.962 <o,f0,male> kon nag %e Bachir Mbow %e responsable :fra 4R tuuti moo ñu dese [r] xanaa nga tënkal ñu rek maanaam waxtaan wi déglu nga yëpp ah xam naa ne dégg nga bambara tuuti soose tuuti pulaar tuuti [rire] sant yàlla bu baax kon nag %e nga tëjal ñu waxtaan wi
+wol_43212 1 locuteur_2 1374.962 1377.426 <o,f1,male> %hum %hum [rire] waaw donc :fra ñoo ngi sant yàlla bu baax
+wol_43212 1 locuteur_1 1377.426 1377.996 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1377.996 1379.552 <o,f1,male> monsieur :fra Dia di la remercié :fra
+wol_43212 1 locuteur_1 1379.552 1379.988 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1379.988 1387.075 <o,f1,male> di rafetlu %e suñu lëkkaloo diggante %e RTS Tamba ak %e météo :fra nga xam ne liggéey bi yàgg na te rafet na
+wol_43212 1 locuteur_1 1387.075 1387.971 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1387.971 1391.481 <o,f1,male> donc :fra di sant bu baax population :fra bi nga xam moom la ñu fi fekk
+wol_43212 1 locuteur_1 1391.481 1392.078 <o,f1,male> %hum
+wol_43212 1 locuteur_2 1392.078 1392.820 <o,f1,male> les :fra relais :fra
+wol_43212 1 locuteur_1 1392.820 1393.128 <o,f1,male> %hum
+wol_43212 1 locuteur_2 1393.128 1395.227 <o,f1,male> %e les :fra les :fra animateurs :fra et :fra animatrices :fra
+wol_43212 1 locuteur_1 1395.227 1395.770 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1395.770 1397.000 <o,f1,male> ñoom ñëpp di leen ñaax
+wol_43212 1 locuteur_1 1397.000 1397.561 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1397.561 1400.058 <o,f1,male> ci ci di leen def beneen sensibilisation :fra
+wol_43212 1 locuteur_1 1400.058 1400.402 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1400.402 1403.568 <o,f1,male> ci liñ fi jot a waxtaan yëpp tey comme :fra yàlla def na ñoom ay relais :fra lañ
+wol_43212 1 locuteur_1 1403.568 1403.930 <o,f1,male> [conv] %hum %hum
+wol_43212 1 locuteur_2 1403.930 1405.432 <o,f1,male> ñu fexe ginnaaw loolu
+wol_43212 1 locuteur_1 1405.432 1405.975 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1405.975 1416.950 <o,f1,male> ñu wëyal waxtaan bi ñoom tamit ak ñi nga xam ne mbootaay bi topp seen ginnaaw énu fexe di waxtaan ak ñoom di leen gën a sensibiliser :fra parce :fra que :fra suñu liggéey du lenn du lenn lu dul pour :fra askan bi
+wol_43212 1 excluded_region 1416.950 1418.198 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1418.198 1418.591 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1418.591 1421.419 <o,f1,male> mën cee jëriñu ndax seen njëriñ mooy njëriñu askan bi yëpp
+wol_43212 1 locuteur_1 1421.419 1421.890 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1421.890 1428.168 <o,f1,male> sànq Fatou Ndao wax na ko xaw ma Awa Awa Ndao wax na ko ñoom li ñuy béy moom la addun() moom la askan bi yëpp di dundee
+wol_43212 1 locuteur_1 1428.168 1428.648 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1428.648 1432.638 <o,f1,male> donc :fra ñun liggéey bi ñuy def dina ñëwaat encore :fra dellu si waat ci ñun
+wol_43212 1 locuteur_1 1432.638 1433.126 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1433.126 1434.781 <o,f1,male> donc :fra mbir mi daal ñun ñëpp ñoo ko bokk
+wol_43212 1 locuteur_1 1434.781 1435.334 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_2 1435.334 1438.561 <o,f1,male> ñu fexe vraiment :fra di ñu ngi leen di santbu baax di leen gërëm
+wol_43212 1 locuteur_1 1438.561 1469.702 <o,f1,male> sant yàlla bu baax kon nag %e Bachir bow %e jaaraama [r] kon nag %e xanaa di fàttali rek yenn maanaam digle yi [r] tey jii ñëpp xam nañ ne maanaam lépp li nga xam ne mooy inf() mooy %e information :fra climatique :fra [r] %e jumtukaay la bu am solo bi nga xam ne [r] kenn mënu ko daw ci wàllu yokkute %e mbéy mi rawatina [r] tey tamit ci wàllu changement :fra climatique :fra [r] ñu jëfandikoo lépp li nga xam ne mooy information :fra climatique :fra [r] daanaka day yombal lépp li nga xam ne [r] mooy ay décisions :fra yu baax [r] ngir %e maanaam %e bañ a am yenn gàllankoor yi
+wol_43212 1 locuteur_2 1469.702 1469.973 <o,f1,male> %hum %hum
+wol_43212 1 locuteur_1 1469.973 1493.822 <o,f1,male> %e ci wàllu ci wàllu ci wàllu mbéy mi [r] wala ci wàllu càmm ji wala tamit bépp liggéey ci wàllu kaw gi kon nag li am solo [r] mooy %e yaatal te tamit %e saxal li nga xam ne [r] mooy information :fra climatique :fra bu boobaa lépp li nga xam ne mooy sécurisation :fra sa xaalis say machines :fra sa doole %e dina aar li nga xam ne mooy li nga nar a am ci wàllu maanaam %e mbéy mi
+wol_43212 1 inter_segment_gap 1493.822 1544.146 <o,f1,>
+wol_43212 1 locuteur_1 1544.146 1563.939 <o,f1,male> waxtaan bi nga xam ne [r] ki leen ko jagleel mooy projet :fra 4R bu PAM [r] programme :fra alimentaire :fra mondial :fra [r] lëkkaloo ak tamba FM [bb] RTS Tambacounda kon nag tey ñu ngi doon waxtaan li nga xam ne mooy solo bi nekk ci li nga xam ne mooy pérénisation :fra yaatal soxal li nga xam ne [r] mooy service :fra climatique :fra
+wol_43212 1 locuteur_1 1563.939 1591.450 <o,f1,male> kon nag [r] di gërëm bu baax Bachir Mbow [r] di chef :fra de :fra service :fra ANACIM fii ci Tambacounda [r] di gërëm Awa Ndao animatrice :fra 4R fii si Sinthiou Malem Fatou Sow di relai :fra fii ci projet :fra 4R Sinthiou Malem Momadou sow [r] relai :fra principal :fra fii ci Sinthiou Malem Gunda Diallo relai :fra %e ca Medina Diakha ak Momadou dieng Diallo [r] personne :fra ressource :fra waay xarala [r] %e tey tamit di gërëm Lamine Waly [r] relai :fra ca Sinthiou Damba ak tamit souleymane Balde [r] agent :fra ANCAR
+wol_43212 1 locuteur_1 1591.450 1597.205 <o,f1,male> kon nag di gërëm ñëpp di gërëm ñëpp kontaan ci yéen ci seen participation :fra kon nag yàlla na yàlla defal jàmm
+wol_43212 1 excluded_region 1597.205 1601.271 <o,,unknown> ignore_time_segment_in_scoring
+wol_43212 1 locuteur_1 1601.271 1609.938 <o,f1,male> %e mun na am %e projet :fra bi jeex [r] %e beneen projet :fra ñëw xëy na projet :fra 4R deux :fra trois :fra quatre :fra cinq :fra [r] ak ndimbalu waa ANACIM [r]
+wol_43212 1 locuteur_1 1609.938 1615.041 <o,f1,male> kon nag mbokk yi ba beneen yoon su soobee yàlla jaaraama ci maanaam déglu bi

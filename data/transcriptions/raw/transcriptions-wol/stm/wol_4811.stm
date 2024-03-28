@@ -1,0 +1,249 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 09:17:06 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 6 of 230208
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_4811 1 inter_segment_gap 0.000 1.319 <o,f0,>
+wol_4811 1 inter_segment_gap 1.319 4.543 <o,f0,> Louga FM 88.7 station :fra original :fra RTS
+wol_4811 1 inter_segment_gap 4.543 13.951 <o,f0,>
+wol_4811 1 locuteur_1 13.951 21.821 <o,f1,male> United :en [shh] Purpose :en ci cadre :fra projet :fra tekki jigéen mi nga xamante ne USAID moo ko financé :fra ci ndimbalu Jokalante ak Fapal
+wol_4811 1 locuteur_1 21.821 28.046 <o,f1,male> ñoo leen di jagleel ñetteelu émission :fra fii ci Louga FM RTS alxames ñeent jàpp juróomi waxtu
+wol_4811 1 locuteur_1 28.046 34.377 <o,f1,male> ñu war a waxtaanee nag lu jëm ci wàllu microfinance :fra naka la femme :fra entrepreneur :fra yi war a fexee ba jot ci li nga xamante ne moom mooy financements :fra yi
+wol_4811 1 locuteur_1 34.377 42.257 <o,f1,male> fan la ñuy jaar fan la ñu war a mën a def ba gindeeku loolu nag la ñuy fas yéene waxtaanee alxames bii di ñëw [shh] ñeent jàpp juróomi waxtu fii ci Louga FM RTS 88.7
+wol_4811 1 locuteur_1 42.257 48.395 <o,f1,male> yéen tamit mën ngeen a participé :fra balaa émission :fra bi di ñëw ci 33 879 30 82 [musique]
+wol_4811 1 locuteur_1 48.395 59.840 <o,f1,male> [musique] 33 879 30 82 ngeen bàyyi ci seen i laaj ñu indil leen tontu yi ci biir émission :fra bi alxames ñeent jàpp juróomi waxtu fii ci Louga FM RTS bu leen ko kenn netali [musique]
+wol_4811 1 inter_segment_gap 59.840 63.809 <o,f1,>
+wol_4811 1 locuteur_1 63.809 68.998 <o,f1,male> [pf] voilà :fra jërë ngeen jëf %e mbokk yi ci taamu bi ngeen taamu Louga FM RTS 88.7
+wol_4811 1 locuteur_1 68.998 75.670 <o,f1,male> [i] di leen jaajëfal amati mbégte ak bànneex di dellusiwaat di dalal donc :fra waa Fapal yi nga xam ne saa su ne dañuy ñëw di àndandoo ak ñoom di waxtaan ak ñoom
+wol_4811 1 locuteur_1 75.670 83.370 <o,f1,male> [i] %e ci %e li nga xamante ne moom mooy projet :fra tekki jigéen xam ngeen ni USAID moo ko financé :fra [i] waaye nag %e ci jàppalep waa Fapal bii nii
+wol_4811 1 locuteur_1 83.370 90.539 <o,f1,male> ak waa Jokalante [i] ngir ñu war a mën a réalisé :fra émissions :fra yu am solo %e naka noonu tey jii %e ñu war a waxtaanee ci li nga xamante ne moom moo jëm ci wàllu microfinance :fra
+wol_4811 1 locuteur_1 90.539 98.794 <o,f1,male> [i] comme :fra d' :fra habitude :fra ni ma koy faral di ko baaxee rek di àndandoo ki nga xam ne moom mooy Ibrahima [i] Ibrahima %e Ndiaye jaata Ndiaye wala Jóoba jubba [rire]
+wol_4811 1 locuteur_2 98.794 101.545 <o,f1,male> yow dangaa bëgg daangaa bëgg [rire] dangaa bëgg Jalle [rire] xanaa dangaa bëgg
+wol_4811 1 excluded_region 101.545 104.588 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 104.588 105.777 <o,f1,male> lors :fra Ibrahima maa ngi lay ziar
+wol_4811 1 locuteur_2 105.777 107.028 <o,f1,male> maa ngi ziar Amady
+wol_4811 1 locuteur_1 107.028 110.266 <o,f1,male> naka %e naka naka naka [b] %e bi ñu gëj a gisee ak [b] léegi mbaa yaa ngi woon ci jàmm rek [b]
+wol_4811 1 locuteur_2 110.266 112.021 <o,f1,male> waaw ñu ngi doon sant bu baax a baax [pf] a baax
+wol_4811 1 locuteur_1 112.021 112.745 <o,f1,male> alhamdulilah
+wol_4811 1 excluded_region 112.745 120.544 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 120.544 126.822 <o,f1,male> [rire] dëgg la %e dëgg la Amady [b] %e ñu ngi leen di %e [b] nuyu %e mbokki auditeurs :fra yëpp
+wol_4811 1 excluded_region 126.822 132.540 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 132.540 132.884 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 132.884 136.919 <o,f1,male> %e di leen wax %e [shh] tey jii itam dañoo delluwaat [b] dellusiwaat
+wol_4811 1 locuteur_1 136.919 137.498 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 137.498 141.840 <o,f1,male> %e fas yéene waxtaan ak yéen %e ci %e wàllu projet :fra tekki jigéen
+wol_4811 1 locuteur_1 141.840 142.316 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 142.316 146.273 <o,f1,male> %e ci wàllu financements :fra yi naka la jigéen di def pour :fra mën a jot financement :fra
+wol_4811 1 locuteur_1 146.273 146.780 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 146.780 150.055 <o,f1,male> tey jii nag ma %e ànd ak beneen njaayeen moom itam
+wol_4811 1 excluded_region 150.055 153.728 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 153.728 154.977 <o,f1,male> mais :fra kii moom xam nga li mu yor
+wol_4811 1 locuteur_1 154.977 155.519 <o,f1,male> studio :fra bi
+wol_4811 1 locuteur_2 155.519 156.931 <o,f1,male> [rire] moo yor la :fra solution :fra
+wol_4811 1 locuteur_1 156.931 157.854 <o,f1,male> %hum %hum %hum
+wol_4811 1 locuteur_2 157.854 159.211 <o,f1,male> mooy Fatou Seye la :fra solution :fra
+wol_4811 1 locuteur_1 159.211 160.079 <o,f1,male> Fatou Seye la :fra solution :fra
+wol_4811 1 locuteur_2 160.079 161.020 <o,f1,male> waaw la :fra solution :fra
+wol_4811 1 excluded_region 161.020 163.295 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 163.295 164.928 <o,f1,male> %e tey daañu gis solution :fra
+wol_4811 1 excluded_region 164.928 168.240 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 168.240 174.735 <o,f1,male> [rire] ñu ngi nuyu ñëpp di %e sant ñëpp %e di ñaan %e di gërëm waa %e RTS bu baax a baax
+wol_4811 1 locuteur_1 174.735 175.151 <o,f1,male> %hum %hum [b]
+wol_4811 1 locuteur_2 175.151 176.363 <o,f1,male> ndax yii dafa am solo
+wol_4811 1 locuteur_1 176.363 176.852 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 176.852 180.344 <o,f1,male> ndax comme :fra %e formations :fra yi moom mënta àgg %e mënta daj ñëpp
+wol_4811 1 locuteur_1 180.344 180.742 <o,f1,male> waaw
+wol_4811 1 locuteur_2 180.742 182.986 <o,f1,male> waaye lu mel nii bu amee dina tax ba
+wol_4811 1 excluded_region 182.986 185.235 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 185.235 185.573 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 185.573 189.220 <o,f1,male> waaye itam %e jigéen ñi gën a farluwaat gën a takkaat sër yi
+wol_4811 1 locuteur_2 189.220 194.838 <o,f1,male> %e fas yéene dugg incha :ar allah :ar ci ligéey bi %e te %e [mic] fokk ñu waxtaanee ci ponk yi
+wol_4811 1 locuteur_1 194.838 195.335 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 195.335 197.045 <o,f1,male> tey nag daañu wax ci ponk bu am solo
+wol_4811 1 excluded_region 197.045 198.005 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 198.005 202.012 <o,f1,male> d' :fra accord :fra alors :fra ponku financement :fra di ponk bu am solo boo xamante ne
+wol_4811 1 locuteur_1 202.012 206.445 <o,f1,male> [pf] waxumala sax jigéen ñi waaye daanaka buñu tudd [b] wax waxi financement :fra [i] ñëpp a ñuy bàyyi xel
+wol_4811 1 locuteur_1 206.445 211.384 <o,f1,male> tey jii nag %e bari na jigéen ñoo xwam ne ñu ngi toog jàppoo ko ci 88.7 [i]
+wol_4811 1 locuteur_1 211.384 216.781 <o,f1,male> war a déglu ba xam naka la ñuy war a mën a def %e ba [b] ak yoon wi nga xam ne moom la ñuy mën a jaar [i]
+wol_4811 1 locuteur_1 216.781 219.911 <o,f1,male> ba jot ci li nga xam ne moom mooy financement :fra yi [i]
+wol_4811 1 locuteur_1 219.911 224.887 <o,f1,male> alors :fra soxna si ñu ngi koy nuyu di ko ziar moom ci wàllu boppam yaa ñu koy présenté :fra Ibrahima
+wol_4811 1 locuteur_2 224.887 227.301 <o,f1,male> waaw kii moom mooy comme :fra ni nga ko waxee Fatou Seye Ndiaye
+wol_4811 1 excluded_region 227.301 236.270 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 236.270 239.822 <o,f1,male> [mic] %e nekk aussi :fra %e animatrice :fra
+wol_4811 1 locuteur_1 239.822 240.184 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 240.184 241.089 <o,f1,male> ci %e Fapal
+wol_4811 1 locuteur_1 241.089 241.611 <o,f1,male> %hum %hum [mic]
+wol_4811 1 locuteur_2 241.611 245.570 <o,f1,male> %e [mic] nekk representant :fra wala book point :fra focal :fra bu la :fra solution :fra
+wol_4811 1 locuteur_2 245.570 255.800 <o,f1,male> la solution :fra [mic] di benn mouvement :fra boo xam ne international :fra la %e di xam ne ni %e [mic] kuréelu baykat yi %e yi nekk daanaka ci Afrique [mic]
+wol_4811 1 locuteur_2 255.800 262.391 <o,f1,male> %e ñoo ko seq %e di ci penc boo xam ne dañu ciy diisoo di ci waxtaan di ci trouvé ay solutions :fra yoo xam ne jigéen ñi am nañu ko
+wol_4811 1 locuteur_1 262.391 264.757 <o,f1,male> d' :fra accord :fra [i] kon nag ñu bàyyi ko mu nuyoo Fatou Seye Ndiaye
+wol_4811 1 locuteur_3 264.757 266.349 <o,f1,female> asalaamualeykum amady Ba
+wol_4811 1 locuteur_1 266.349 266.747 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 266.747 279.590 <o,f1,female> ñu ngi lay nuyu di nuyu auditeurs :fra %e RTS yëpp di leen sant di leen gërëm di rafetlu jotaay bi nga xam ne moom lañ def di nuyu waa Fapal ñëpp góor ak jigéen mag ak ndam ñëpp ñu ngi leen di nuyu
+wol_4811 1 locuteur_3 279.590 290.930 <o,f1,female> di nuyu mboolem organ() paysane :fra yi nga xam ne ñoo nekk fii ci région :fra de :fra Louga ñëpp ñu ngi leen di nuyu %e di ñaan yàlla ñu déglu suñu émission :fra bi %e lépp loo xam ne %e lu leen ci leerul la ñu laaj ko
+wol_4811 1 locuteur_3 290.930 294.590 <o,f1,female> ñu ngi nuyu waa unité :fra transformation :fra bi ak président :fra wu Fapal ak ñëpp
+wol_4811 1 locuteur_3 294.590 302.990 <o,f1,female> [mic] képp koo xam ne [mic] mi ngi ñuy déglu ñëpp daal ñu ngi leen di de() ñu ngi leen di nuyu
+wol_4811 1 locuteur_3 302.990 308.860 <o,f1,female> di nuyu [mic] Ibrahima sama nattangoo bii muy ab njóobeen nag xam naa njóobeen boo xam ne moom heure :fra yii dafa tase ak jamonoy [b] ñebe ji moom
+wol_4811 1 locuteur_3 308.860 316.465 <o,f1,female> lépp lu ngeen bëgg a xam rek bu ngeen ko ko laajee dina xam naa dina ko dana ci sawar ci wax ko ndax njóobeen bu lekk ñebe ba pre moom xam naa dana sawar lool ci wax émission :fra
+wol_4811 1 locuteur_1 316.465 319.125 <o,f1,male> [rire] loolu dina %e [rire] dina dina dina am solo
+wol_4811 1 excluded_region 319.125 322.744 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_3 322.744 323.175 <o,f1,female> [pf] %hum %hum
+wol_4811 1 locuteur_1 323.175 325.349 <o,f1,male> %e tey ñu war a waxtaanee lu jëm ci wàllu finance :fra
+wol_4811 1 locuteur_3 325.349 325.910 <o,f1,female> %hum %hum
+wol_4811 1 locuteur_3 325.910 330.434 <o,f1,female> d' :fra abord :fra finance :fra moom bu ñu ko dee wax xam naa ne %e bari na ñu mu yiteel waaye rawatina nag yéen jigéen ñi
+wol_4811 1 locuteur_3 330.434 330.904 <o,f1,female> %hum %hum
+wol_4811 1 locuteur_1 330.904 339.442 <o,f1,male> %e te %e yoon wi nga xamante ne moom la jigéen ñi war a jaar ngir wut %e ci financement :fra yooyu %e lan tey nga ñu indil ci loo xamante ne
+wol_4811 1 locuteur_1 339.442 344.189 <o,f1,male> [i] jàpp nga ne képp kuy déglu dana xam fu mu war a mën a jaar ba mën a jafandikoo financements :fra yooyu
+wol_4811 1 locuteur_3 344.189 349.792 <o,f1,female> [mic] ah tey moom bu ngeen li ñuy waxtaanee muy ponk boo xam ne dafa am solo
+wol_4811 1 locuteur_1 349.792 350.190 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 350.190 351.421 <o,f1,female> muy wàllu financement :fra
+wol_4811 1 locuteur_1 351.421 351.963 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 351.963 357.408 <o,f1,female> ndax bu ñu xoolee jigéen ña xam nañ ne jigéen moom dafa néew doole bu ñëpp demee tim jigéen ci kër gi la nekk
+wol_4811 1 locuteur_1 357.408 357.963 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 357.963 364.890 <o,f1,female> kon %e wareef la si moom mu jéem a yëngatu dara si këram pour :fra mu am loo xam ne dina ko delloo si [b] njaboot gi
+wol_4811 1 locuteur_3 364.890 373.959 <o,f1,female> ndax ñun jigéen buñu ñun li ñu jàppee jigéen ak li ñu jàppee parité :fra bu ñuy wax parité :fra li ñuy jàppee parité :fra ñun mooy ne kër gi kenn ku nekk dacee war a def loxaam
+wol_4811 1 locuteur_3 373.959 381.039 <o,f1,female> ñun Fapal loolu lañuy dund ndax boo xoolee exploitation :fra yi nga xam ne moom lañuy ligéeyante ci suñu village :fra yi
+wol_4811 1 locuteur_3 381.039 385.912 <o,f1,female> mooy dañuy bëgg jigéen ñi def seen loxo ci kër gi góor def ci loxo xale def ci loxo
+wol_4811 1 locuteur_3 385.912 395.379 <o,f1,female> [pf] xëy na xale néew na doole ci njàng la toll ak ligéey yu sew sewaan yi wante ki nga xam ne mi ngi ligéey ligéey bu sew sewaan bi ci kër gi kon kooku ma ngi siy def loxa
+wol_4811 1 locuteur_3 395.379 401.258 <o,f1,female> jigéen ji nga xam ne mi ngi ci kër gi itam waxuñu nga ligéey rek yore sa xaalis di ko def ci natt yi ak xew yi
+wol_4811 1 locuteur_3 401.258 403.838 <o,f1,female> loolu mooy li nga xam ne moo tardé :fra jigéen ñi
+wol_4811 1 locuteur_3 403.838 406.375 <o,f1,female> wante dañoo bëgg fexe ba jigéen ñi ñëpp mën a ligéey
+wol_4811 1 locuteur_3 406.375 414.608 <o,f1,female> xam nañu ne jamono ji meti na rawatina région :fra de :fra Louga région :fra de :fra Louga région :fra boo xam ne boo xoolee ci monde :fra rural :fra bi jafe-jafe kese la
+wol_4811 1 locuteur_3 414.608 421.448 <o,f1,female> ndax mbay lañ yaakaaroon ak càmm te boo xoolee [b] mbay mi léegi dafa xaw a mel ne dafa dellu ginnaaw ndax changement :fra climatique :fra bi
+wol_4811 1 locuteur_3 421.448 427.133 <o,f1,female> boo xoolee nawet bi dafa gàtt lool [i] presque :fra weer weer weer ak genn wàll ba ñaari weer ak genn wàll lay taw
+wol_4811 1 locuteur_3 427.133 439.023 <o,f1,female> kon loolu moo waral jigéen ñi [mic] ñi jéem leen a fexeel ay buntu yoo xam ne dinañu ko ubbi bañ xam fan lañuy teg seen tànk pour :fra financement :fra yi nga xam ne ñoom la fi gouvernement :fra bi tes ak teg ak non :fra gouvernemental :fra bi
+wol_4811 1 excluded_region 439.023 440.759 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 440.759 441.140 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 441.140 444.144 <o,f1,female> ndax jigéen mooy des ci kër gi bu ñëpp demee mooy des ci kër gi
+wol_4811 1 locuteur_3 444.144 454.967 <o,f1,female> %hum te kër gi yaakaar naa ne bu li ma leen di faral di wax rek ñoom góor ñi mane leen kër buñu demee ba saako ceeb nekkatu fa jigéen rek moo mën a lijanti dem si moromu jigéenam wut fa natt fa ay kiloy ceeb mu indi ko togg
+wol_4811 1 locuteur_3 454.967 461.150 <o,f1,female> góor moom mënta dem si moromam naan ko lebal ma tey jii ma ñëw sa kër ku denc dund ci këram nga naan ko lebal ma ñëw yóbbu sa kër ga
+wol_4811 1 locuteur_3 461.150 468.534 <o,f1,female> jigéen rek moo ko mën [mic] kon jigéen ji wareef la mu xool gëstu fan la mën a teg tànkam ba mu mën a indi am [mic] ci lu muy yëngatu
+wol_4811 1 locuteur_3 468.534 474.579 <o,f1,female> ba mën a jàppale borom këram si kër gi ci wàllu wér gu yaram xale yi ci wàllu njàngum xale yi
+wol_4811 1 excluded_region 474.579 477.583 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 477.583 478.171 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 478.171 490.230 <o,f1,female> loolu nag ngir mu mën ko il :fra faut :fra jigéen ji dina def ay pexe ndax bu ñu xoolee financement :fra yaa ngi fi boo xoolee banques :fra yaa ngi fi mutuelle :fra yaa ngi fi ak financement :fra yi nga xam ne gouvernement :fra bi daf ko fee teg
+wol_4811 1 locuteur_1 490.230 490.809 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 490.809 503.311 <o,f1,female> ndax financement :fra yooyu teguñu ko fi ngir benn parti :fra politique :fra taxul ñu teg ko fi dañu ko fee teg ndax jigéen ñi nga xam ne dañuy ligéey war a yokkute moo tax ñu ne femme :fra entreprenariat :fra yi nañu waxtaan ak ñoom ci wàllu finance :fra
+wol_4811 1 locuteur_3 503.311 508.344 <o,f1,female> ndax %e comme :fra sama nattangoo bi Ibrahima ni mu ko waxee léegi formations :fra yi bari na wante mënuñoo daj ñëpp
+wol_4811 1 locuteur_3 508.344 517.919 <o,f1,female> [r] kon il :fra faut :fra ñu def ay émissions :fra rajo yoo xam ne dina tax fu nit nekk ci Sñégal ci àdduna si mën a jot loo ci émissions :fra yooyu ba mën cee xam fan lay teg tànkam
+wol_4811 1 locuteur_1 517.919 518.294 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 518.294 527.928 <o,f1,female> ndax banques :fra yi ñun lañu fi nekkal [b] mutuelle :fra yi ñun la fi nekkal financement :fra yi nga ne ñoo jóge ci gouvernement :fra yi ñun la fi nekkal [i] kon war nañoo xam fu ñuy teg suñuy tànk ak yan chartes :fra la ñu ciy duggee
+wol_4811 1 excluded_region 527.928 537.431 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 537.431 537.872 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 537.872 543.452 <o,f1,female> ndax buñu nee entreprise :fra rek ñu bari dañuy dégg entreprise :fra ñu yaakaar ne [i] ñi nga xam ne dañoo yore alal yu bari [b]
+wol_4811 1 locuteur_3 543.452 550.888 <o,f1,female> di ko ligéey loolu mooy entreprise :fra jaaykatu gerte caaf bi nga xam ne day jaar gerte caaf ca kër ga ngir yokkute sax loolu entreprise :fra la
+wol_4811 1 locuteur_1 550.888 551.323 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_3 551.323 559.303 <o,f1,female> lépp loo xam ne doomu aadama dakoy def ngir yokkute rek loolu entreprise :fra la [i] moo tax ñu jóg bëgg a waxtaan ak jigéen ñi ñu xam fan la ñuy teg seen tànk
+wol_4811 1 locuteur_3 559.303 563.684 <o,f1,female> ba mën a jot ci financement :fra yooyu ba mën a jàppale suñu borom kër yi ci kër yi
+wol_4811 1 locuteur_1 563.684 564.028 <o,f1,male> d' :fra accord :fra
+wol_4811 1 locuteur_3 564.028 564.399 <o,f1,female> waaw
+wol_4811 1 locuteur_1 564.399 565.315 <o,f1,male> loolu am na %e solo defe naa
+wol_4811 1 excluded_region 565.315 567.957 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 excluded_region 567.957 573.982 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 573.982 574.471 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_1 574.471 578.596 <o,f1,male> %e wax na ko léegi nee na am na ñoo xamante ne ci Etat :fra bi la ak i yeneen
+wol_4811 1 excluded_region 578.596 589.797 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 589.797 597.016 <o,f1,male> %e jërëjëf amadou [tx] comme :fra ni nga koo waxee moom moo nekk mooy tey jii %e li ñuy wax %e source :fra de :fra financement :fra
+wol_4811 1 locuteur_1 597.016 597.341 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 597.341 598.590 <o,f1,male> maanaam béréb yi nga xam ne nii
+wol_4811 1 locuteur_1 598.590 599.024 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 599.024 601.829 <o,f1,male> yu fasantikoo la yoo xam ni mënees na faa jëlee xaalis
+wol_4811 1 locuteur_1 601.829 602.354 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 602.354 611.797 <o,f1,male> %e jigéen ñi war nañ koo xam ndax %e xëy na buñuy xool ndax tey jii %e ci xayma wax nañu ne tey jii ci xayma jigéen ñi
+wol_4811 1 locuteur_1 611.797 612.304 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 612.304 616.488 <o,f1,male> maanaam buñu doon buñu doon seet ñi xam ne am nañu ay comptes :fra banques :fra ci ci ci Sénégal
+wol_4811 1 locuteur_1 616.488 616.905 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 616.905 628.524 <o,f1,male> *** jigñ ñi néew nañu si trop :fra trop :fra lu ko waral mooy %e entre :fra ñi ci yor ay entreprises :fra %e yu formelles :fra bariwuñ ñaareel ba ñi ciy ligéey maanaam di jot salaire :fra bariwuñ
+wol_4811 1 locuteur_2 628.524 638.529 <o,f1,male> %e beneen bi ci des itam mooy %e li xam ne nii mooy tax ñu mën a am foofa par exemple :fra di liggéey fenn pour :fra am crédit :fra muy garanti :fra yi des :fra fois :fra dafay jafe ci dafay jafe si ñoom
+wol_4811 1 locuteur_1 638.529 638.818 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 638.818 649.693 <o,f1,male> comme :fra li ñu tuddee banque :fra classique :fra yi mi ngi fi waaye ñaare pour :fra mën cee jot dafa %e ci seen financement :fra dafay nekk loo xam ne nii dafa jafe du lu ñaare loo xam ne nii comme :fra ni ko Fatou Seye waxee léegi
+wol_4811 1 locuteur_2 649.693 658.664 <o,f1,male> %e ligne :fra de :fra crédit :fra boo xam ne nii dañu ko faa teg maanaam %e benn sàq moo xam ne dañu koy teg foofa Etat :fra bi yombal jot ga boo xam ne nii nit ñi daañu ca mën a jot
+wol_4811 1 locuteur_2 658.664 660.889 <o,f1,male> budul loolu rek jot ci banques :fra yi dafay dafay jafe
+wol_4811 1 excluded_region 660.889 668.615 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 668.615 672.831 <o,f1,male> lu demee ne que :fra %e tey jii %e xëy na publicité :fra bi lañuy lañuy bañ
+wol_4811 1 excluded_region 672.831 675.599 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 675.599 675.925 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 675.925 677.463 <o,f1,male> nekk fii ci ci Sénégal
+wol_4811 1 locuteur_1 677.463 677.861 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 677.861 681.806 <o,f1,male> kenn ku nekk ñii dañuy dem ci dëkk yi ñii dañuy dem ba foofa fekk leen fa
+wol_4811 1 locuteur_1 681.806 682.204 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 682.204 683.850 <o,f1,male> %e ci ci fekk fekk leen ci dëkk yi
+wol_4811 1 locuteur_1 683.850 694.363 <o,f1,male> mais :fra xam nga bu fekkee par :fra exemple :fra tey buñu jëlee waxtaan wi ne tey dañuy ñëw war a waxtaan ak jigéen ñi [conv] %e lu jëm ci wàllub %e microfinance :fra tey buñu jëlee par :fra exemple :fra Fapal
+wol_4811 1 locuteur_2 694.363 694.898 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_1 694.898 699.592 <o,f1,male> jigéen ñi nga xamante ne ñu nga fa tey ci kuréel yooyu ñuy ligéeyandool tudd leen fi du doon publicité :fra
+wol_4811 1 excluded_region 699.592 704.952 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 704.952 706.149 <o,f1,male> kon foofu ci loolu
+wol_4811 1 excluded_region 706.149 712.598 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 712.598 714.447 <o,f1,male> [b] dañuy xool yan %e kuréel
+wol_4811 1 locuteur_1 714.447 714.863 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 714.863 718.790 <o,f1,male> ñooy yëngu ci wàllu microfinance :fra fii ci %e ci gox bi
+wol_4811 1 locuteur_1 718.790 719.143 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 719.143 720.232 <o,f1,male> %e bañu ko xoolee
+wol_4811 1 excluded_region 720.232 722.705 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 722.705 723.283 <o,f1,male> Thiès ak Louga
+wol_4811 1 excluded_region 723.283 727.808 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 727.808 728.206 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 728.206 731.462 <o,f1,male> %e kuréel gu mel ne %e CMS mi ngi fi
+wol_4811 1 locuteur_1 731.462 731.842 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 731.842 734.683 <o,f1,male> %e kuréel gu men ne %e Cauris :fra microfinance :fra mi ngi fi
+wol_4811 1 locuteur_1 734.683 734.972 <o,f1,male> %hum %hum
+wol_4811 1 locuteur_2 734.972 736.709 <o,f0,male> kuréel gu mel ni xam ne ñun suñu kuréelu bopp la
+wol_4811 1 locuteur_1 736.709 737.053 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 737.053 740.798 <o,f0,male> ñu koy tex ñu koy wax UFM mi ngi fi Union :fra financière :fra mutaliste :fra mi ngi fi
+wol_4811 1 locuteur_1 740.798 741.216 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 741.216 745.049 <o,f0,male> %e Fadeg %e Njambur %e mi ngi fi
+wol_4811 1 locuteur_1 745.049 745.363 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 745.363 747.299 <o,f0,male> %e ak %e kuréel gu ñuy wax Baobab
+wol_4811 1 excluded_region 747.299 748.891 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 748.891 753.180 <o,f0,male> waw yooyu yëpp jigñ ñi ay sources :fra la yoo xam ne jigéen ñi war nañu fa mën gis seen boppci wàllu koppar
+wol_4811 1 locuteur_2 753.180 753.858 <o,f0,male> ci wàllu koppar
+wol_4811 1 excluded_region 753.858 758.793 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 758.793 759.189 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 759.189 765.128 <o,f0,male> loolu itam Etat :fra bi itam am ay %e ligne :fra yu mu teg ay ay programmes :fra yu mel ne que :fra DER
+wol_4811 1 locuteur_2 765.128 771.081 <o,f0,male> %hum maanaam %e [bb] %e nu nuñu koy waxeeti %e entreprenariat :fra rapide :fra
+wol_4811 1 excluded_region 771.081 776.316 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_2 776.316 783.841 <o,f0,male> %hum %e dafay dafay joxe xaalis te am na ay projets :fra yoo xam ne itam aussi :fra itam ñu ngi ci %e ci biir %e Sénégal
+wol_4811 1 locuteur_2 783.841 785.846 <o,f0,male> lu mel ni que *****
+wol_4811 1 locuteur_1 785.846 786.262 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 786.262 790.152 <o,f0,male> %e benn fond :fra la boo xam ne italien :fra yi ñoo ko ñoo ko def en place :fra
+wol_4811 1 excluded_region 790.152 794.784 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 794.784 795.255 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 795.255 798.855 <o,f0,male> %e am na ay projets :fra yoo xam ne itam ñu ngi ci ay projets :fra Etat :fra lu mel ni que :fra Pagef
+wol_4811 1 locuteur_1 798.855 799.290 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 799.290 803.723 <o,f0,male> %hum projet :fra pour :fra l' :fra entreprenariat :fra des :fra jeunes :fra et :fra des :fra et :fra des :fra femmes :fra
+wol_4811 1 locuteur_1 803.723 804.066 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 804.066 812.227 <o,f0,male> %hum moom itam mu ngi fi %e dafay financé :fra %e ay projets :fra jigéen ak yeneen projets :fra yoo xam ne nii ay programmes :fra la yoo xam ne Etat :fra bi def na ko
+wol_4811 1 locuteur_1 812.227 812.589 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 812.589 822.451 <o,f0,male> mu nekk ci biir %e Sénégal %e te muy jox ay sources :fra de :fra financement :fra yoo xam ne nii %e mi ngi ciy mi ngi mi ngi fii tegu fi yooyu xam na jigéen ñi war nañu ko xam
+wol_4811 1 excluded_region 822.451 825.933 <o,,unknown> ignore_time_segment_in_scoring
+wol_4811 1 locuteur_1 825.933 826.313 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 826.313 833.669 <o,f0,male> xam itam programmes :fra yi nga xam ne ay programmes :fra yoo xam ne nii programmes :fra mu Etat :fra la te mu logé :fra par :fra exemple :fra fu mel ni que :fra ci yenn ministères :fra yi comme :fra ministère :fra de :fra la :fra famille :fra
+wol_4811 1 locuteur_1 833.669 833.977 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_2 833.977 837.686 <o,f0,male> wala ci yeneen ministères :fra yi wala lu mel ni que :fra %e ministère :fra de :fra la :fra la :fra microfinance :fra
+wol_4811 1 locuteur_1 837.686 846.733 <o,f0,male> %hum %hum loolu am na solo defenaa ni soxna %e Fatou Seye ah war na cee am lu mu ci yokk moom it ndax %e ci ci ci ci jigéen ñi nga xamante ne tey ñu ngi ñuy déglu
+wol_4811 1 locuteur_1 846.733 849.628 <o,f0,male> tey wut solution :fra comme yaay madame :fra solution :fra [rire]
+wol_4811 1 locuteur_3 849.628 850.905 <o,f0,female> représentant :fra solution :fra
+wol_4811 1 locuteur_1 850.905 851.285 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_3 851.285 855.736 <o,f0,female> waaw Ibrahima wax na dëgg kër yooyu nga xam ne dañuy jokkalanteeg ci mbirum xaalis yëpp a ngi fi
+wol_4811 1 locuteur_1 855.736 856.189 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_3 856.189 860.637 <o,f0,female> ba tey Copeg Resop seen mutuel bi ma ngi fi ñoom itam dañuy financé :fra jigéen ñi
+wol_4811 1 locuteur_3 860.637 866.691 <o,f0,female> lu mel ne Crédit :fra agricole :fra ñoom itam ñu ngi am nañu ay memebres :fra yoo xam ne fi mu ne nii ña ngi leen di financé :fra
+wol_4811 1 locuteur_1 866.691 867.252 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_3 867.252 876.587 <o,f0,female> wante buñu xoolee banques :fra yu mag yi moom liy seen problèmes :fra %e xëy na bu fekkente ne interets :fra yi ñuy teg muy tegendaay li ndaw naag dafay amaat leneen loo xam ne dafay dugg si biir
+wol_4811 1 locuteur_1 876.587 876.985 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_3 876.985 892.863 <o,f0,female> kooku moom dinañu indil problème :fra ndax %e jigéen ñi bari na ay kuréel yoo xam ne day financé :fra wante nag li may wax jigéen ñi rek booy dem ci mutuel :fra di kii di àbbi xaalis war ngaa xaar bala ngaa def lenn war ngaa xool yan activités :fra ngay def doog a dem
+wol_4811 1 locuteur_1 892.863 893.279 <o,f0,male> %hum %hum
+wol_4811 1 locuteur_1 893.279 901.946 <o,f0,male> xaalis kenn du ko jël ba noppi door a xalaat li ngay def soo ko defee rek dangay échec :fra xaalis bala ngay dem dangay dangay xool sa activité :fra lan la war a jar nga war koo

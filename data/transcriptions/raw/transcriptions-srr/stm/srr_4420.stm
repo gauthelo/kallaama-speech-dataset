@@ -1,0 +1,107 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:53 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 3 of 230306
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_4420 1 Locuteur1 0.000 13.718 <o,f1,male> o xasa nga ŋeso ɓogin balaie :fra a nin jega nga kaaf avant :fra ta ŋisa o ɓoga ngan bata fir kuloox o ga lokanin kafum te ƴax a ƴaxa ngan o uipa nin ŋooñ a soɓa nga ŋooñ jege o yipanin ŋooñ
+srr_4420 1 Locuteur1 13.718 27.616 <o,f1,male> pis ne toujours :fra tamit a buga o mosan kaga ka wetoxa ka ɗaya den pis daal kaga bugu i bate wono xa ma roɗig na to bate gija ɓogoox o waga ngan bo wagin
+srr_4420 1 Locuteur1 27.616 41.540 <o,f1,male> saq ŋes o ɓogin o waga ngiran o kal na ñaal leŋ mbit ñaat ɗik nda o waga ngan koy ka waro ɓogora en :fra permenance :fra comme :fra ne o ɓogora [b] buga nga pisofa ñoow o faño doon cono fa yoq fe yit donan kete xatil na kaga [conv] saqu pis
+srr_4420 1 Locuteu2 41.540 45.472 <o,f1,female> so ka jeg pis ŋoor a jeg pis ndew [b] jega pis ŋoor
+srr_4420 1 Locuteur1 45.472 46.993 <o,f1,male> i jegam pis ŋoor jeg pis ndew
+srr_4420 1 Locuteu2 46.993 48.147 <o,f1,female> so xaye pis ndew
+srr_4420 1 Locuteur1 48.147 48.446 <o,f1,male> %hum %hum
+srr_4420 1 Locuteu2 48.446 52.810 <o,f1,female> a ŋaay waga na fiya bo ande kene ka pis nene ka ŋayu [b]
+srr_4420 1 Locuteur1 52.810 67.034 <o,f1,male> %e nomo fiya bo ande ka ŋaayu non :fr wona buga te ŋayoox o ret ɓisin no pis ŋoor [b] o buga nga bug te ŋayu o mbisin no pis ŋoor te ŋaayin [b] nda anda pis ne nagana xaƴa tank coxino pis rek ŋaay kiran
+srr_4420 1 Locuteur1 67.034 82.080 <o,f1,male> kon ko wago jeg pisof mbit o ga oxa jeg na pis ne doyo nga o ley ne ŋaay na naam te leyonge i bon :fra ana jega waxtu koy période :fra fa ando naye comme :fra ke xene ley na ndiki no période kene ke no niɓaan pisa ŋayo xanga taga ka dama
+srr_4420 1 Locuteur1 82.080 97.940 <o,f1,male> pisi tamit ana jega ɗeen no ɗelem a jega ngan tant :fra que :fra ɗegan a ŋay wanga yo dam ke pratiquement :fra ten dam axam no pises nene ye jikanuma a ŋaay wa 3 fois :fra to dame [b] aprés :fra o copain :fra eso leŋ a gar meen a leyame ka jego ɗeem i ndegin yaga bo fa ndiik koy ŋaay ni num [b]
+srr_4420 1 Locuteur1 97.940 112.543 <o,f1,male> i ŋaay na fulinum yaam mol ne saquma ɗeɓanongo buga fulim te ŋayin [b] pis lakas bugum te ŋayim to comme :fra ga a fulim pis na luɓa fuluma koy bon :fra kam xaƴa fulin nene rek nda yakarame bala i mbada no ndiig na xana ŋayoox
+srr_4420 1 Locuteur1 112.543 126.543 <o,f1,male> yaam race :fra fe jikuma kan yakaar xa ɓeem pis njig duyo pis mosu yo kon sorale am xa ɓeem daal bugim pis njaxana ŋayin kam bug pis na fod na netena ŋayin wala
+srr_4420 1 Locuteu2 126.543 131.390 <o,f1,female> so kam ga ne pisa jeg ta ne mumeen lakas [b] ke ɗim ta [b]
+srr_4420 1 Locuteur1 131.390 131.753 <o,f1,male> %hum %hum
+srr_4420 1 Locuteu2 131.753 135.281 <o,f1,female> pis ne rim ta naga parapport :fra fo o faam sax
+srr_4420 1 Locuteur1 135.281 139.604 <o,f1,male> axa kay pis a ŋada nga sup toox ba rima noŋ pis
+srr_4420 1 Locuteu2 139.604 139.839 <o,f1,female> %hum %hum
+srr_4420 1 Locuteur1 139.839 148.821 <o,f1,male> a fela ngaŋo xiid nu wat na awa rin sans :fra dépend :fra no ŋayoxum koy o jega nga pis na ŋayona pis moom %e na ŋaya xale yo rek
+srr_4420 1 Locuteur1 148.821 164.395 <o,f1,male> premierement :fra fe fe koy a ŋayaxa etanum a rater :fra anga kaga rek a niid nda a ŋada nga ret ba rimo leŋ mom jega mene pis ka ando naye o xiido lu ref na de ɗim pis [b] ka jega meen xxid nu wat na te rim a maya meen sax meme :fra o faamo neen
+srr_4420 1 Locuteur1 164.395 177.477 <o,f1,male> sans :fra dépend :fra ande mbaal ne xaƴena a wida a ŋaay wa ndax fog re fo pis na ando naye ka ximbel mbit pis na ando naye ka xaƴel na koɓale nari ŋoor ke ŋimbel a ŋayoxum [rire_en_fond] yomb ke wo wagu bug te ŋayoox rek o mbisin no pis
+srr_4420 1 Locuteur1 177.477 193.152 <o,f1,male> pis ne taxa waloxa comme :fra ne mbala taxawa loox ta mbit de mboka tel no box :fra non :fra non :fra ne mbiyel kaga pis ke jegan xiɓin mbito jegin xaƴin na koɓale [b] xaƴaŋan na koɓale bajan mbor ndefu maaga pis ɗaɗ ke muk ba ngayit ma pis
+srr_4420 1 Locuteur1 193.152 202.731 <o,f1,male> kon wo wagu soxla pis no kiin leyne kan bugo o ŋaay na naam te leyonge iyo bereb nangam o mbisid im ŋaay na noŋ ŋayin pis maga ajo oru [b]
+srr_4420 1 Locuteu2 202.731 204.093 <o,f1,female> so pis xaye
+srr_4420 1 Locuteur1 204.093 204.643 <o,f1,male> %hum %hum
+srr_4420 1 Locuteu2 204.643 207.429 <o,f1,female> o buga nga jiku comme :fra o buga nga jiku pis
+srr_4420 1 Locuteur1 207.429 207.938 <o,f1,male> %hum %hum
+srr_4420 1 Locuteu2 207.938 210.430 <o,f1,female> xaye pisa chére :fra a parapport :fra fo lakas we
+srr_4420 1 Locuteur1 210.430 215.462 <o,f1,male> bien :fra sur :fra fagun faak fag na jikumo xene na mi wajan ne
+srr_4420 1 Locuteu2 215.462 216.081 <o,f1,female> %hum %hum
+srr_4420 1 Locuteur1 216.081 229.097 <o,f1,male> 360000 jikor jik ta num %e a soɓ i pis ŋoor ne koy kam suf un fo pises bon :fra roga fiya naam saas bo yem sofan sax tomber :fra am fo oxa ando naye a saqa pis
+srr_4420 1 Locuteur1 229.097 245.060 <o,f1,male> i mbaxale bo njubor 80000 coxa num fo pises ŋoor maak nda saq am meen mol ndeɓ lakas na ando naye kan arranger :fra o kino xayit yam o kino xa ka goor goor loxa comme :fra mi im jikoor tino ten xar 220000 wajan naga pis naga wajanes rim un
+srr_4420 1 Locuteur1 245.060 265.671 <o,f1,male> o kina gara ŋuɗ comme :fra ferail :fra fene xew na rek [b] a gara ŋuɗa cel male a xaƴ pis ne pis ne laxasoox kam poɗ ke ba xon maga a soɓ te saqo molo nga jeg na 1 mois :fra o molo nga ga ye sauver :fra anuma bata maak a soɓ im jik pis lakas wagimo saq pis tadike pour :fra gérer :fra aden ka jafeñ ka [b] im jikoxin 220000 ngayino la jikoxong na xaal a taba taba a
+srr_4420 1 Locuteur1 265.671 280.237 <o,f1,male> bon :fra im waña nin rek yaam pis moom a jega nga 1 ans rek wagano jiku 300000 mete ref na pis ŋoor a jega nga 1 ans rek wagano jiku 300000 ka ngefeer na derem mais :fra comme :fra jege dole to ka taba taba a comme :fra mi in mbodu
+srr_4420 1 Locuteur1 280.237 291.859 <o,f1,male> in wañan no ten te wago ndaxik soxla um im jik wino ten 220000 o riko le faak rek o ɓiy no mages a gara leye a ga an pis na xaya maka bo amosat bo sans :fra dépend :fra no ñoow nole o ñoow na nan rek
+srr_4420 1 Locuteu2 291.859 296.369 <o,f1,female> so nene nu yarta paal yaag xato nune nune yarta nene pis
+srr_4420 1 Locuteur1 296.369 304.757 <o,f1,male> non :fra o ñoow paal fo pis ndefe leŋ [pap] %e jeg anum o maag so leŋ o sira saq u xaga o sii wajana saq u
+srr_4420 1 Locuteu2 304.757 305.440 <o,f1,female> %hum %hum
+srr_4420 1 Locuteur1 305.440 321.231 <o,f1,male> amour :fra fe jeg uteen nene sax yaam bugoge jikwo kiin pis sax [b] saq kino a saqa paax o xaga o fi angan projet :fra koy a bug teen xalis awa jeg teen yaam a jeg a plus :fra de :fra 10 wajan nda na qoɓale yo koy toujours :fra waxay no siir xa mbeemo mbay na siir toujours :fra o mbay nga a pis ke
+srr_4420 1 Locuteur1 321.231 334.925 <o,f1,male> comme :fra xaye koy i toloxata no jamano fa ando naye wajanof o xaƴa ngan sax ko dida te ŋudel konn wagiro [conv] saq teen mayu mieux :fra o saq teeno xa o jalta soom [b] comprendre :fra a kon oxa i njal ta soom i mbagu saq
+srr_4420 1 Locuteur1 334.925 356.224 <o,f1,male> a rima na ngan [conv] koy o jik wa mbito dox nita jegaam fog wa ando naye njege moyen :fra [b] o xene na mi a rima nga ndew kam doxin kano poges nda a rima nga ŋoor xam yiku kan [b] jegam xa mbiy fapetew xa ando naye ka taba taba a comme :fra mi a rim anga pis ndew kan doxnit kan [conv] maga mu te rimit na o jeg teen tik [conv] wala
+srr_4420 1 Locuteu2 356.224 358.438 <o,f1,female> so ba ba ŋayu na nene
+srr_4420 1 Locuteur1 358.438 358.552 <o,f1,male> %hum %hum
+srr_4420 1 Locuteu2 358.552 362.659 <o,f1,female> xa %e a qola pod numa fiya pour :fra a jego ɓiy
+srr_4420 1 Locuteur1 362.659 375.541 <o,f1,male> pis koy yoq we ga leya ye 9 mois :fra wene leya 1 ans [tx] i pis moom [b] o fudum moƴu magin miñ o fud mbaal [b] ande mbaal ka leye 5 mois :fra den fo mbame waga 5 mois mais :fra o faam fo pis moom presque :fra
+srr_4420 1 Locuteur1 375.541 390.964 <o,f1,male> 9 mois :fra ke sax yenisaay te xup o soɓa nga o faam moom ka fiya 1 ans yoq we koy ana leya pis ana fiya 10 mois :fra yenisaay 9 mmois :fra [b] mbit 1 ans mais :fra nak exacte :fra fe te fiyan mi ando fuli num [conv] yam
+srr_4420 1 Locuteur1 390.964 404.281 <o,f1,male> maxey sogo jega wajan xoxes na ando naye mo jegan na xoxes daal fapes jego gu im refo ten mbine mais :fra actuellement :fra mu yoqatu fo fop koy mi jiku mumeen xoxes fop ku ref na meen no mumeen mi jikun no kena jal teel
+srr_4420 1 Locuteur1 404.281 420.115 <o,f1,male> kaga koy mi jegan na xoxes [b] a ŋayoxa koy to rima fule ɗena jeg u yit ɗek na num bugan mo ŋayin a ŋaay nanga koy [conv] xan bin date :fra fe heure :fra fa te rimik ka xano andin bu boba xan andate pis kene jega pour :fra a wago rim [b] iyo
+srr_4420 1 Locuteu2 420.115 422.299 <o,f1,female> nanga yara o faam
+srr_4420 1 Locuteur1 422.299 425.995 <o,f1,male> i jegamo faamo leŋo lene im jal ta ɗika re u o leŋo la guɗel
+srr_4420 1 Locuteu2 425.995 429.955 <o,f1,female> a mene ka mbara lo dés :fra fois :fra ga ŋuɗa yo pa kene yiin
+srr_4420 1 Locuteur1 429.955 431.352 <o,f1,male> xa paam
+srr_4420 1 Locuteu2 431.352 432.762 <o,f1,female> xa paam xa pisiin kene yiin
+srr_4420 1 Locuteur1 432.762 445.419 <o,f1,male> kam koy camano ko xa chinois :fra xe ndef na meen a ŋijil a xa pamaxe lool [rire_en_fond] a ŋundana a nik wa xa Chinois xe de ƴaxa den [rire_en_fond] kaga moom a ngijil a xapama xe lool a :fra part :fra kaga mom
+srr_4420 1 Locuteur1 445.419 458.259 <o,f1,male> sasay ke rek ŋuɗo faam mene jikokin %e luma a tetar rek dés :fra fois :fra te jeg quoi :fra mais :fra mi koy jegim mumeen nam xaƴa mumenes fop dal kan ximba den ñowna na den yaam kam leye yoqe xaqo yiko faam
+srr_4420 1 Locuteur1 458.259 473.581 <o,f1,male> [conv] jal bo pare dembin no mbedo nge jeg wajan jal; foden bo pare xiɓ geeko ñowole so dembin mi kaga jambi num [b] mumenes fop owey kam mbines refe mumenes leŋ na leŋ na na nasutoxa carin mbine to refe ko [b] xiɓ nel jalka
+srr_4420 1 Locuteu2 473.581 475.032 <o,f1,female> so o faam
+srr_4420 1 Locuteur1 475.032 475.480 <o,f1,male> %hum %hum
+srr_4420 1 excluded_region 475.480 480.112 <o,,unknown> ignore_time_segment_in_scoring
+srr_4420 1 Locuteur1 480.112 480.341 <o,f1,male> %hum %hum
+srr_4420 1 Locuteu2 480.341 482.098 <o,f1,female> ande ka rima ɗik bo tadik
+srr_4420 1 Locuteur1 482.098 483.014 <o,f1,male> comme :fra siid
+srr_4420 1 Locuteu2 483.014 483.530 <o,f1,female> i
+srr_4420 1 Locuteur1 483.530 484.442 <o,f1,male> xa a mosin mo ga de
+srr_4420 1 Locuteu2 484.442 485.366 <o,f1,female> mose jeg
+srr_4420 1 Locuteur1 485.366 486.157 <o,f1,male> mosin mo ga de
+srr_4420 1 Locuteu2 486.157 487.282 <o,f1,female> kono faam
+srr_4420 1 Locuteur1 487.282 490.526 <o,f1,male> o faam fo pis daal jaf leŋ mosan mo ga no télé :fra
+srr_4420 1 Locuteu2 490.526 491.059 <o,f1,female> %hum %hum
+srr_4420 1 Locuteur1 491.059 498.899 <o,f1,male> te pis [rire_en_fond] na ka rim siid télé :fra mosan mo ga de [b] mene koy mosin mo ga o faam mosimo ga o faamo la rim na siid naak dal ga a ka rim na siid
+srr_4420 1 Locuteu2 498.899 499.305 <o,f1,female> %hum %hum
+srr_4420 1 Locuteur1 499.305 504.102 <o,f1,male> nda o faam fo pis moom mosin mo dona ŋid wedi ime jege koy nda mosin mo ga
+srr_4420 1 Locuteu2 504.102 507.369 <o,f1,female> so o faam ba ŋayu na pod num kene fi a
+srr_4420 1 Locuteur1 507.369 521.566 <o,f1,male> o faam oom ga leye 1 ans feyo o xido muum ken tax te leyonge o tew a refa nga en :fra Etat :fra a moy toxo yer yer yoqo faam ale o xido muum 1 ans fe 12 mois :fra o faam ka jegan
+srr_4420 1 Locuteur1 521.566 532.083 <o,f1,male> %hum waya o tew a refa nga en :fra Etat :fra ale o yera nga yoqo faam waga jego xiid so sogo ñota [conv] no nana no koy kan nanin daal [conv] %hum
+srr_4420 1 Locuteu2 532.083 533.936 <o,f1,female> xa taga tora
+srr_4420 1 Locuteur1 533.936 548.660 <o,f1,male> a sante a nuun rek yaam yakara nga kiin bo gar [conv] le nino micro :fra pour :fra te ley [conv] yakaro kon nuun we ando naye nuun ngaru let namo micro :fra ke tax na nu mbiyan yasam roga dam ta nuun
+srr_4420 1 Locuteu2 548.660 549.600 <o,f1,female> %hum %hum
+srr_4420 1 Locuteur1 549.600 563.727 <o,f1,male> %e no calel nuun no yamo kino xe moom o jega nge accés :fra no calel yoqe fi kino kon ke ref na calelof [b] a déplacer :fra ta xone bo Dackar a déplacer :fra tong Niakhar bo mene kon calel nuun kan yombanan kana nuun nu mbago njalin
+srr_4420 1 Locuteu2 563.727 564.148 <o,f1,female> %hum %hum
+srr_4420 1 excluded_region 564.148 578.736 <o,,unknown> ignore_time_segment_in_scoring
+srr_4420 1 Locuteu2 578.736 579.138 <o,f1,female> %hum %hum
+srr_4420 1 Locuteur1 579.138 592.001 <o,f1,male> mikoy nanim naga mi kan disponible :fra no fop no ku kina lam taxama no ka anduma rek kam doon kang bo taxa a koñale oxu gar na meen leya ka leya reti ma Madou Faye o xaga wa ley fo o kiin
+srr_4420 1 Locuteur1 592.001 608.656 <o,f1,male> sante a tina roog koy yaam xaƴa roog na jag le a mene o kin ko kon nu ngara nga let namo micro :fra kan sate ka nuun xeɗa na nuun no mission :fra ne nu ñaaƴa yasam te ref ka moƴ na nuun daal kaga daal in tagora gid ma nuuna paax
+srr_4420 1 Locuteur1 608.656 625.658 <o,f1,male> yaam xaƴax wiin moom a ndir a jega ndeer in quoi :fra ndir a ŋada jega ndeer in quoi :fra to kin no wiin we moom o refa ngaan oxu gar na a bug tig nawo daal o yomba nana den mi naga nanum quoi :fra pratiquement :fra jege been probleme :fra content :fra na nuna paax
+srr_4420 1 Locuteu2 625.658 626.152 <o,f1,female> merci :fra
+srr_4420 1 Locuteur1 626.152 637.730 <o,f1,male> bug no jafe jafe ke nu mbaga nga lala ina ndata le ando naye xa i mbago ndaaw teen yaam comme :fra i ande wiin we dés :fra fois :fra programme :fra ka gara ba waan i an ke dara
+srr_4420 1 Locuteur1 637.730 653.668 <o,f1,male> in daal in way no saro le toujours :frano busness :fra in calel in ten i njemu ten i mbiya xaye koy o gara nga let namo micro :fra xaƴa xan jeg yakare oxene koy xan donin na ndat bata wago donoox na ndata le kaga daal i yakaru na nuun yasam roga fi in [b]

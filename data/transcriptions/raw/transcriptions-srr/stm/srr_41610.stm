@@ -1,0 +1,117 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:13 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 3 of 230306
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_41610 1 Locuteur1 0.000 16.534 <o,f1,female> question :fra fem poser :fra wa koy ten refu ye xa fiyu empechement :fra faga ke tax na i mbage ndaw kaga kaga ka xup waar o qole wo [rire_en_fond] o qolo muum [rire_en_fond] o qolo mumo we o la ando naye wax deg fa yala a fiya in njax lendal lool so a fiyam gaci we gaci fiya xam
+srr_41610 1 Locuteur2 16.534 16.989 <o,f1,male> %hum
+srr_41610 1 excluded_region 16.989 31.242 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 31.242 42.792 <o,f1,female> mbina a leye yete gat na ga mbi financement :fra fa lakas ka financement :far faga koy we fogit onga a canga ndef xa teɓanong ko leya ye Ayou ka maɓa yinn kay yam i nga a tig kil we groupe :fra we nda saɗa timo ley sax
+srr_41610 1 Locuteur1 42.792 60.224 <o,f1,female> kon nak pate tem say fu jul uma koy xeɗa roog feke te fadiid meme :fra a fadiga nga xay fe xay sax in refa tim men sax um gid ma roog yam xam lala dene wax deg ke ne o gena a fadida nda fogim sax xana soɓaɓ meke
+srr_41610 1 Locuteur1 60.224 75.269 <o,f1,female> yaam kam tayin tellement :fra que :fra jala tange maga sax to de njala sax jege probleme :fra te giñam nda me refma wax deg a jaxala nda xam lool 3 Fpt den mborme u in Der a leye ine xan financer :fra anuun
+srr_41610 1 Locuteur1 75.269 90.444 <o,f1,female> yam kaga waga tumo ley xan i mbinase yam mbinase a fule in [b] 3Fpt ten former :fra u in DER a mbinase a in FEM itam ale xana mbinase a in kaga dal andum ten
+srr_41610 1 Locuteur1 90.444 105.590 <o,f1,female> a jela nga kaga mom wax deg o neɓano mbor ge um teen anda tim ten dara xoy tam telephone :fra koy bo credit :fra fe mikam jika jik credit :fra bo xij nda um xoy tanga o xu daaw ma dal ka ley ka xame i mbi e keke pour :fra naxa nuun janvier :fra nam Décembre
+srr_41610 1 excluded_region 105.590 106.516 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 106.516 120.288 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 120.288 138.013 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 138.013 155.189 <o,f1,female> ino i mbadi ŋot naga pour :fra empoissoné :fra mi dal kege fop dal kam poser :fra anim dal kam xalamata noi xoxes dal kam liɓata rek ke war na wago jeg nda deno koy o coxa nga in pod naana 24 millions :fra dena coxka in a mbugo cung ta in wiin
+srr_41610 1 Locuteur1 155.189 172.637 <o,f1,female> to tiya ga ref ka ando naye ka rabid kel ma jofa to ndigo xaya gara so ndax ka i mbuko ŋaƴa qol na in ngarid liɓ ke ndig ne a tarder :fra maga daal jaxla ndaxam dal andim
+srr_41610 1 Locuteur1 172.637 188.011 <o,f1,female> nda waag anga jeg sax wa ando naye ka ñaƴa fo mi bo maga bo me ando naye dal me tiye ref tu wax deg yaga ka jara naam mayu ka jara nam mayu de yam ande xay nangama jeg to jega fule saate fop a leya ye ka leya ka feluna ka naxa
+srr_41610 1 Locuteur1 188.011 205.097 <o,f1,female> ba bug u ndax ka ret France ken taxu te leya ye financement :fra yega som kaga bug ko leya [rire] soɓa koy o jeg naqad waga nane fa in waga ka njala njof mbamir ka njeg materiel :fra materiel :fra den ga mot ka njalan wargal
+srr_41610 1 excluded_region 205.097 222.517 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 222.517 236.927 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 236.927 251.877 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 251.877 267.515 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 267.515 283.377 <o,f1,female> jirogim fiyo gim dara kam sawar u nda me ref ma o leya tangame gari xay gari rek um jir xa i njal ka ye xa jal ka wagiro jang liɓ mbekin kam xaƴa sax a r anga sax mbines mi jegam espace :fra jegama ngas
+srr_41610 1 Locuteur1 283.377 295.407 <o,f1,female> nda jegim machine :fra jegim courant :fra fa tax na ke te leyonga xator ye poser :fra a nona question :fra fe [rire_en_fond] a re anga ka i njeg u courant :fra a ngas a ref kam mbina a fel te ande espece :fra ne i njale na
+srr_41610 1 excluded_region 295.407 302.318 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 302.318 303.215 <o,f1,male> ɗika nder le
+srr_41610 1 excluded_region 303.215 311.760 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 311.760 327.075 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 327.075 337.824 <o,f1,female> i pare anga liɓ kaga maka nga xaƴa xa i mbaga njik win Lul seseen leye in mboy mbiya fula pin ka in baya financement :fra fe gara nda jegiro financement :fra jegiro courant :fra jegiro dara na xaro dam ka
+srr_41610 1 excluded_region 337.824 352.346 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 352.346 366.186 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 366.186 395.006 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 395.006 412.273 <o,f1,female> manam 27 tonnes :fra a coxong 20 tonnes :fra ke 7 tonnes :fra ke te ret fa den yag koy anda ye o jub refe no saate feke saate fe manquer :fra a o jub wo koy refa nin [applaude] rek topan [top] Omar Gala kaga fi u [rire_en_fond]
+srr_41610 1 excluded_region 412.273 423.295 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 423.295 435.481 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 435.481 450.065 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 450.065 465.045 <o,f1,male> kona o jeɓ kange koy ko ley ka ye xa a a cartouche :fra kay a ngenoxa nga njaɓ kiro nda bo leyona ye i lam tangi wiin lakas we o laks war u ref mene temoin :fra xaye ga o xidum waxtu a pesa areer fogame o tewo xu ref na ku te dam ina bo a pesa fad
+srr_41610 1 Locuteur2 465.045 478.135 <o,f1,male> ka nanan yemb nen njapi a fesik nda o xido muum naga o kin na in rete na pees ko xaƴ ecole :fra le ko fesik i mbese ka i ŋaƴapesale in yeɓ ga a o xene president :fra fene ley ina ye te yaloxe wañu fog ina fo in
+srr_41610 1 Locuteur2 478.135 491.390 <o,f1,male> te ley u ine i mbesa nga bo pare bo nga oleng na nuun fesse e o kino kin xam watin areer ci in ka te jawit na rien :fra que :fra pour :fra te fiya in rek a moƴo dama pour :fra i moƴo ndamir rek i mbaƴo ŋodir te motiver :fra a in rek
+srr_41610 1 Locuteur2 491.390 506.830 <o,f1,male> e xam ci a jara naxam xax um ciya nuuna areeri yona bo école :fra a wet xa ɓiya xe yoqano gina in a ndeta école :fra de anda ke i nana ta ga yaf goor we den yama ŋaƴ kak ke den a ndoqox pantalon :fra a ndoqox chemise :fra e ka mbiya formation :fra to ande ret ke sen
+srr_41610 1 excluded_region 506.830 521.890 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 521.890 532.624 <o,f1,male> maire :fra a gar ama jaf leng de a garide ka waxtan id fa in i ley ne i pertre :fra anga koy wo o formation :fra feke reta nge sen na wo yo
+srr_41610 1 Locuteur1 532.624 534.231 <o,f1,female> a jika na in o pot café :fra ko kilos :fra sukur
+srr_41610 1 excluded_region 534.231 549.334 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 549.334 562.562 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 562.562 575.985 <o,f1,male> xaƴa sax café :fra ne xanga sax moƴu miñ fa in sokoy i muƴ ndofit na qox in de yaam kay ka i mbiyo gu pexey ku ref na de bo ɓaat na te fato kino kin a fi id cotiser :fra nangam sarze mbaɗ yo o gaz :fra ola mbaɗ yo o café :fra
+srr_41610 1 Locuteur2 575.985 587.890 <o,f1,male> mbaɗ yo sukur to cafe faga o yar ka te gelex gelex na kam laaw ke wo yaam xesa no ŋak ne wo bes sax tal kiro ma ñam tona so ñaƴ tik ma Sas escale a ref tide na gar Lul seseen
+srr_41610 1 Locuteur2 587.890 604.287 <o,f1,male> a pes fesiro areer taliro a naq fojem bo 8 mois :fra ke mot seq i ngotan meke koy mbi ik sortie :fra Fatick na ana fa maga Ana i mbi ka ma sortie :fra na Ana soɓ maga a jalo ino ra meke ndeta mbojeeen
+srr_41610 1 excluded_region 604.287 606.778 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 606.778 612.127 <o,f1,male> visiter :fra sit faga mber tid jong pour :fra nga
+srr_41610 1 excluded_region 612.127 614.404 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 614.404 615.319 <o,f0,male> kena de mbi tel
+srr_41610 1 excluded_region 615.319 616.974 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 616.974 618.712 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 618.712 619.516 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 619.516 632.758 <o,f1,male> i moof bo leyele projet :fra ne ka wara mbindel biyo Gie mbaaɗ yo a kayit nangam i inoxo ndabinley ne roog moƴu me i ndef na koy pour :fra i ñaƴa ke mbarat na ñaƴ déja :fra xalis fa i ñaƴ tuna sax i njegiran yam i ŋese i ŋirane
+srr_41610 1 Locuteur2 632.758 645.107 <o,f1,male> te leya ine meke bo ŋolo ŋe a fiya xam dimla a nuun no ñofi a jega win wa ando naye xam xoyan na nuun ka wiin wa ga njambe [rire] a njamb a a njamb a nga
+srr_41610 1 excluded_region 645.107 658.458 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 658.458 670.839 <o,f1,male> o kino xe loq tonga a cono o ref na cono o kino xe gara difong wax deg o yalo xe mat ku te ley na o foxanin a courrier :fra [rire_en_fond] ku te ley na o faxanin nda waxey na cono na cono o kina anta pexum kat
+srr_41610 1 Locuteur2 670.839 684.278 <o,f1,male> [rire] malheureusement :fra koy ye i lofa wax deg i lep taan comme :fra loptano koy a nanga ta feca o feca yasam xon fe ka i njeem bo ŋij de i njema bo kasdame in de nda ino mat wax deg
+srr_41610 1 Locuteur2 684.278 695.708 <o,f1,male> refe maire :fra refe jaraaf jege xa i ngeno xeer na jege de yaam ku i mbug ina mbi ke i leyo gu ye ku bug na roq kam saate fat jaraafa jeg fat maire :fra a yeg i
+srr_41610 1 excluded_region 695.708 710.046 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 710.046 721.555 <o,f1,male> ñaka jemo ɗomi nda ka i njem ŋoxiɗ koy i njema moom ka i ŋoxiɗ nda i njema comme :fra i njema ŋoxiɗ koy e yasam nu ŋoxiɗ ke nena maire :fra [rire]
+srr_41610 1 Locuteur2 721.555 734.321 <o,f1,male> maire :fra mom fogame ka xoxiɗ i de to ke moƴ ina mbata in koy yete ley na ye president :fra ka waro vister :fra salon :fra na France um leye Ayou nanga ley njoko rek feto la te tar i ngar yo ŋot financement :fra
+srr_41610 1 excluded_region 734.321 746.798 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur2 746.798 758.148 <o,f1,male> ndef Fatick moom no 8 heures :fra ŋes [rire_en_fond] bo 4 heures :fra o yera nga fofi sax ko jikin o daqo pas Fatick gatid
+srr_41610 1 Locuteur2 758.148 769.474 <o,f1,male> mof cunga bo ñal neke mof na mof meke i ndef na mene pexey a faga [conv] pexey ina mbaga de xaƴa koy comme :fra mbino mad i ley ta xaƴa ina nga ngada xan da leya in allo [rire_en_fond]
+srr_41610 1 Locuteur1 769.474 783.371 <o,f1,female> xa koy i nga e Ong fa leng wax deg i ŋa e Ong fa leng koy yam anda ye tig bata fela a fiyan andin nda ke ando naye wax deg fa yala andino ka dimle el rek to o gara nga mbine ke
+srr_41610 1 excluded_region 783.371 811.290 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 811.290 828.675 <o,f1,female> kaga xam fi in kaga xam fi in bo xay nda i mbi kaga ka i moof dal ndeta ta ka i moof del ndeta ta ga i moof de cunga rek xaƴa roga faxa
+srr_41610 1 Locuteur3 828.675 831.206 <o,f1,female> nda maire :fra foka te nuun fo Ong leng
+srr_41610 1 Locuteur1 831.206 833.816 <o,f1,female> xa mat i nani ran de
+srr_41610 1 excluded_region 833.816 836.715 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 836.715 849.486 <o,f1,female> i ndete maga koy sax ya i Der a ngoy na in maga daal i njambik a den pour :fra financement :fra fe i kaga dal i njambik a Der pour :fra financement :fra fe de mbisid tchirt [rire_en_fond] nda dal
+srr_41610 1 Locuteur3 849.486 851.495 <o,f1,female> pourtant :fra Der ka financer :fra a wiin we de
+srr_41610 1 Locuteur1 851.495 852.511 <o,f1,female> ka financer :fra
+srr_41610 1 Locuteur3 852.511 857.432 <o,f1,female> a wa refe aussi :fra de entamer :fra tene bugu te fak pour :fra de ngar na nuun
+srr_41610 1 Locuteur1 857.432 858.102 <o,f1,female> i nda kaga itam
+srr_41610 1 Locuteur3 858.102 859.999 <o,f1,female> kaga yo ba jeg na ka mbar no leya nuun
+srr_41610 1 Locuteur1 859.999 862.320 <o,f1,female> kga fop koy aleya ken sax a jega we ley na ye
+srr_41610 1 Locuteur3 862.320 862.755 <o,f1,female> %hum %hum
+srr_41610 1 Locuteur1 862.755 874.640 <o,f1,female> wax deg ka i ndet u bo ngalat dal ndika refe %e Decembre 2022 fe tene muka tina nda i ndoka nga na fevrier ki %e 2023 wax deg moƴa foga ye fevrier feke
+srr_41610 1 Locuteur1 874.640 885.802 <o,f1,female> xana mbinase financement :fra fe xana rok moƴan mo foga paax koy i yam wax deg xaƴa pod nana Der mbis ke kina ley ne na i mbinase ong to mbinase i rang foginum
+srr_41610 1 excluded_region 885.802 899.476 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 899.476 906.373 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur3 906.373 908.093 <o,f1,female> kom mene bo mars :fra leyu kay
+srr_41610 1 Locuteur1 908.093 908.317 <o,f1,female> i
+srr_41610 1 Locuteur3 908.317 910.665 <o,f1,female> nuun kay tewlu yo mars mars fiyange
+srr_41610 1 Locuteur1 910.665 911.043 <o,f1,female> %hum %hum
+srr_41610 1 Locuteur3 911.043 915.503 <o,f1,female> nu ñaƴo yo ngota caf nuna ke ñaƴo yo bo maga ndet ley ne mars :fra fada
+srr_41610 1 excluded_region 915.503 917.364 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 917.364 918.971 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 918.971 921.860 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 921.860 939.695 <o,f1,female> ka i mbiya mbuga tu de wax deg fa yala a in mboy cunga nda koy wax deg Pape Jean Pape Jean Ndiaye def fa Sidy feke promotionnaire :fra a ndefu ka leyame Aissatou me ha te leyame saate fe ando naye maga Sidy genu um ref promotionnaire :fra um ino kim pour :fra naxa nuun sandinum sax me an a faxa in woy cunga rek
+srr_41610 1 Locuteur3 939.695 944.604 <o,f1,female> so maire :fra na xara yoɗ nuwa yam nanam ndiki nu leye no mare kene
+srr_41610 1 excluded_region 944.604 945.921 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 excluded_region 945.921 947.497 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur3 947.497 950.208 <o,f1,female> te coxanun 2 hectares :fra to leye nuun dara dara
+srr_41610 1 excluded_region 950.208 951.860 <o,,unknown> ignore_time_segment_in_scoring
+srr_41610 1 Locuteur1 951.860 964.129 <o,f1,female> xa a leye in tig mat wax deg financement :fra fe sax ina ñaƴa nana qox in ndeta ka i mbin un yaaga i ndet ndeta bata sut wid i ande nu njega financement :fra waw wax deg maire :fra leye in tig yate cox na in hectare :fra ɗik ke moom leye intig
+srr_41610 1 Locuteur2 964.129 969.048 <o,f0,male> ino dal ye i mbi na ye i mbina formation :fra fe bo pare

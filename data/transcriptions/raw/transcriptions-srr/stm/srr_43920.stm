@@ -1,0 +1,208 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:25 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 1 of 230403
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_43920 1 Locuteur1 0.000 0.901 <o,f1,male> fo o fogole
+srr_43920 1 Locuteur1 0.901 62.513 <o,f1,male> [musique]
+srr_43920 1 Locuteur1 62.513 76.388 <o,f1,male> alo [musique] 777171714rek nu ndok no ɓakole rek nu mbago rek mbago njokor fo fog nuun kharit nuun Khadim Diome fo Waly Diouf [musique] no Ndiob FM 106 point 4
+srr_43920 1 Locuteur1 76.388 119.991 <o,f1,male> [musique]
+srr_43920 1 Locuteur1 119.991 127.121 <o,f1,male> i mbato continuer :fra rek cunga rek auditeur :fra ke fo auditrice :fra ke o ɓako le ne layta numa rek alo
+srr_43920 1 Locuteur2 127.121 128.875 <o,f1,male> alo wa
+srr_43920 1 Locuteur1 128.875 130.127 <o,f1,male> waaw an leyun
+srr_43920 1 Locuteur2 130.127 132.603 <o,f1,male> () ndiene sene o
+srr_43920 1 Locuteur1 132.603 133.902 <o,f1,male> axa
+srr_43920 1 Locuteur2 133.902 135.067 <o,f1,male> njene sene
+srr_43920 1 Locuteur1 135.067 136.675 <o,f1,male> Njene Sene ()
+srr_43920 1 Locuteur2 136.675 137.421 <o,f1,male> i
+srr_43920 1 Locuteur1 137.421 138.085 <o,f1,male> iyo
+srr_43920 1 Locuteur2 138.085 139.741 <o,f1,male> fo ɓak lalo
+srr_43920 1 Locuteur1 139.741 141.868 <o,f1,male> a ɓak lalo Njene Sene
+srr_43920 1 Locuteur2 141.868 143.504 <o,f1,male> i nam fio ye
+srr_43920 1 Locuteur1 143.504 145.794 <o,f1,male> i sant a roga paax waay
+srr_43920 1 Locuteur2 145.794 146.906 <o,f1,male> yasam sant miñ
+srr_43920 1 Locuteur1 146.906 148.160 <o,f1,male> alkhadoulilah
+srr_43920 1 Locuteur2 148.160 152.531 <o,f1,male> ndaxar ke nu cota a jega importance :fra a paaxa paax
+srr_43920 1 Locuteur1 152.531 153.045 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur2 153.045 156.563 <o,f1,male> i content :fra na nuun nuun fop Ngor Dione
+srr_43920 1 Locuteur1 156.563 157.447 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur2 157.447 159.108 <o,f1,male> ka Ngor Dione ne
+srr_43920 1 Locuteur3 159.108 161.175 <o,f1,male> maxey nafio waay
+srr_43920 1 Locuteur2 161.175 161.800 <o,f1,male> i soɗa ma Ngor
+srr_43920 1 Locuteur3 161.800 162.767 <o,f1,male> jam som jego
+srr_43920 1 Locuteur2 162.767 164.196 <o,f1,male> wa Ngor na fio ye
+srr_43920 1 Locuteur3 164.196 165.792 <o,f1,male> wa maxey sant a roga paxa paax
+srr_43920 1 Locuteur2 165.792 167.394 <o,f1,male> yasam sant miñ
+srr_43920 1 Locuteur3 167.394 169.284 <o,f1,male> amin amin rabil alamiin
+srr_43920 1 Locuteur2 169.284 171.679 <o,f1,male> a yasam roga xaƴa in mbamir in
+srr_43920 1 Locuteur3 171.679 173.188 <o,f1,male> amiin amiin yarabin alamin
+srr_43920 1 Locuteur2 173.188 175.143 <o,f1,male> i imbi in nene xa qid xa qid
+srr_43920 1 Locuteur3 175.143 176.989 <o,f1,male> amiin amiin amiin
+srr_43920 1 Locuteur2 176.989 180.391 <o,f1,male> roog moƴu i content :fra na nuun a paxa paax ()
+srr_43920 1 Locuteur3 180.391 182.063 <o,f1,male> jerejëf in moƴu content :frea na nuun
+srr_43920 1 Locuteur2 182.063 184.978 <o,f1,male> taxar ke nu leya mene danaka
+srr_43920 1 Locuteur3 184.978 185.467 <o,f1,male> jerejef
+srr_43920 1 Locuteur2 185.467 186.663 <o,f1,male> mayu ten a mo a inoyo
+srr_43920 1 Locuteur3 186.663 187.612 <o,f1,male> %hum %hum jerejef
+srr_43920 1 Locuteur2 187.612 189.357 <o,f1,male> walay mayu ten a mo a inoyo
+srr_43920 1 Locuteur3 189.357 190.752 <o,f1,male> jerejef jerejef
+srr_43920 1 Locuteur2 190.752 192.685 <o,f1,male> i leya ngan dana ka i ɓato mbetan wa denoyo
+srr_43920 1 Locuteur3 192.685 194.542 <o,f1,male> merci :fra beaucoup :fra jerejef
+srr_43920 1 Locuteur2 194.542 197.663 <o,f1,male> walay walay merci :fra ken leya moom roog moƴu a wara ɓato jeg
+srr_43920 1 Locuteur3 197.663 198.592 <o,f1,male> jerejef
+srr_43920 1 Locuteur2 198.592 200.547 <o,f1,male> ndaxar ki mbara ɓato njimel men ndax ()
+srr_43920 1 Locuteur3 200.547 202.869 <o,f1,male> jerejef faley fa mosa paax
+srr_43920 1 Locuteur2 202.869 204.780 <o,f1,male> wa kay jerejef
+srr_43920 1 Locuteur3 204.780 217.659 <o,f1,male> jerejef jerejef [b] o pogoxe na xen wa a gen mana saax la ɓak lalo i profiter :fra oxa ten rek simna a be es Waly Sene fo ñam Ngom fo mbaye Diouf
+srr_43920 1 Locuteur3 217.659 225.907 <o,f1,male> fo baab babes Dione sim na a xene faye sim na fogole ɓaak lalo fop dal alo
+srr_43920 1 Locuteur4 225.907 227.203 <o,f1,male> alo oui :fra
+srr_43920 1 Locuteur3 227.203 228.713 <o,f1,male> pogoxe nam fiyo waay
+srr_43920 1 Locuteur4 228.713 230.535 <o,f1,male> maxey ziare ang
+srr_43920 1 Locuteur3 230.535 231.902 <o,f1,male> e Baye Saliou
+srr_43920 1 Locuteur4 231.902 232.635 <o,f1,male> nakamou
+srr_43920 1 Locuteur3 232.635 233.972 <o,f1,male> namfio waay
+srr_43920 1 Locuteur4 233.972 235.326 <o,f1,male> sant a yaloxe a paxa paax
+srr_43920 1 Locuteur3 235.326 236.614 <o,f1,male> alkhadoulilah namo fogole faral
+srr_43920 1 Locuteur4 236.614 238.769 <o,f1,male> owey men a paxa paax
+srr_43920 1 Locuteur3 238.769 239.921 <o,f1,male> barikal alkhadoulilah
+srr_43920 1 Locuteur4 239.921 242.278 <o,f1,male> remercier :fra a nuun no émission :fra ne rek
+srr_43920 1 Locuteur3 242.278 243.220 <o,f1,male> merci :fra beaucoup :fra
+srr_43920 1 Locuteur4 243.220 247.406 <o,f1,male> vraiment :fra encourager :fra a nuun nuun aller :fra de :fra l' :fra avant :fra
+srr_43920 1 Locuteur3 247.406 248.402 <o,f1,male> merci :fra beaucoup :fra
+srr_43920 1 Locuteur4 248.402 252.433 <o,f1,male> kenu lkeya a jega solo a jega njiriñ lool
+srr_43920 1 Locuteur3 252.433 253.244 <o,f1,male> merci :fra beaucoup :fra
+srr_43920 1 Locuteur4 253.244 259.777 <o,f1,male> vraiment :fra kon kene xama xam fene nu ando naye nuun mbey atida noyo () yasam roga rabda nuun
+srr_43920 1 Locuteur3 259.777 260.960 <o,f1,male> amiin amiin yarabana
+srr_43920 1 Locuteur4 260.960 265.748 <o,f1,male> [b] *
+srr_43920 1 Locuteur3 265.748 267.165 <o,f1,male> amiin
+srr_43920 1 Locuteur4 267.165 275.080 <o,f1,male> voila :fra comme :fra nen ley tuna rek vraiment :fra reverdire :fra Ndiob moom a wara wago ref parce :fra que :fra initiative :fra no departement :fra fe sax
+srr_43920 1 Locuteur3 275.080 275.546 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur4 275.546 281.274 <o,f1,male> comme :fra ne leyta numa rek ()
+srr_43920 1 Locuteur3 281.274 281.857 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur4 281.857 284.147 <o,f1,male> to kaga kam foge initiative :fra mbaxo
+srr_43920 1 Locuteur3 284.147 285.092 <o,f1,male> vraiment :fra vraiment :fra
+srr_43920 1 Locuteur4 285.092 288.476 <o,f1,male> et :fra aussi :fra comme :fra nenu ley tuna rek si seulement :fra directeur :fra ecole :fra ke
+srr_43920 1 Locuteur3 288.476 289.193 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur4 289.193 293.046 <o,f1,male> parce :fra que :fra ku ga ona rek o ɗoɓanonga ()
+srr_43920 1 Locuteur3 293.046 293.572 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur4 293.572 297.479 <o,f1,male> i nda aussi :fra kem leya dans :fra le :fra systeme :fra éducatif :fra rek
+srr_43920 1 Locuteur3 297.479 297.901 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur4 297.901 301.888 <o,f1,male> *
+srr_43920 1 Locuteur3 301.888 303.196 <o,f1,male> merci :fra waay
+srr_43920 1 Locuteur4 303.196 307.026 <o,f1,male> *
+srr_43920 1 Locuteur3 307.026 307.567 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur4 307.567 311.794 <o,f1,male> fogame ke wiin we mbug na () xana wago soti inchalah
+srr_43920 1 Locuteur3 311.794 312.794 <o,f1,male> ke leya jega solo a paax
+srr_43920 1 Locuteur4 312.794 316.200 <o,f1,male> jajefa a nuuna paax leya nuun ne nu Ndiob
+srr_43920 1 Locuteur3 316.200 328.477 <o,f1,male> jerejef Saliou o xene Saliou Diouf no saax le mana o Faral a fog vraiment :fra les :fra acteur :fra du :fra reverdissement :fra yam i ngid mana paax parce :fra que :fra c ':fra un jeune :fra engagé:fra oxa ando naye oxey fiya calel
+srr_43920 1 Locuteur3 328.477 341.366 <o,f1,male> paax mana saax la o Faral fo no commune :fra ne ŋid mana paax parce :fra que :fra oxey foga no pays :fra leaders :fra formateur :fra ke ando naye owey mborme a les :fra producteurs :fra au :fra nivaux :fra de :fra la :fra commune :fra in way njajafalaŋ a paax to leyange intervention :fra ofa jege o njiriñ
+srr_43920 1 Locuteur1 341.366 350.102 <o,f1,male> Monsieur serigne Diouf Faraar contribution :fra fe wa mosa trop :fra o nana ngan sax Khadim nana nete leyit na npo coté:fra école :fra
+srr_43920 1 Locuteur3 350.102 350.817 <o,f1,male> école :fra
+srr_43920 1 Locuteur1 350.817 356.746 <o,f1,male> manam xa teɓanoŋaxe () manam a seytu ndaxar ka fog ten
+srr_43920 1 Locuteur3 356.746 357.193 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur1 357.193 364.260 <o,f1,male> donc :fra a faxa den wene doctor :fra ke ɓato ndamta dena a paxa paax de moƴo an ke ref na o njiriñ ndaxar
+srr_43920 1 Locuteur3 364.260 364.759 <o,f1,male> a paxa paax
+srr_43920 1 Locuteur1 364.759 369.193 <o,f1,male> a fiya a paax kon Saliou vraiment :fra in way sante ang ngid mang a paax
+srr_43920 1 Locuteur3 369.193 370.100 <o,f1,male> a paxa paax
+srr_43920 1 Locuteur1 370.100 386.408 <o,f1,male> leya nge rek mbati goor goorlu rek no saax le refo na parce :fra que :fra en :fra tant :fra que :fra paysan :fra formateur :fra leaders :fra vraiment :fra o contribuer :fra contribution :fra fa mostu neke a i njege dara a yasm roog fe ando naye a jega fop a yiya nong jam fo ɓas lof
+srr_43920 1 Locuteur3 386.408 388.451 <o,f1,male> amiin amiin alo
+srr_43920 1 Locuteur5 388.451 389.365 <o,f1,female> alo
+srr_43920 1 Locuteur1 389.365 390.709 <o,f1,male> alo o pogoxe nam fio waay
+srr_43920 1 Locuteur5 390.709 393.064 <o,f1,female> wa maxey meen Adama Diouf
+srr_43920 1 Locuteur1 393.064 395.426 <o,f1,male> Adama Diouf ()
+srr_43920 1 Locuteur5 395.426 396.154 <o,f1,female> Waly
+srr_43920 1 Locuteur1 396.154 397.442 <o,f1,male> nam fiyo ye ad
+srr_43920 1 Locuteur5 397.442 399.040 <o,f1,female> way maxey men rek Diouf
+srr_43920 1 Locuteur1 399.040 399.733 <o,f1,male> jam soom waay Diouf
+srr_43920 1 Locuteur5 399.733 400.965 <o,f1,female> jam soom kay
+srr_43920 1 Locuteur1 400.965 405.692 <o,f1,male> *
+srr_43920 1 Locuteur1 405.179 406.608 <o,f1,male> alkhadoulialh
+srr_43920 1 Locuteur5 406.608 410.612 <o,f1,female> yaam kenu leya ka felam lool
+srr_43920 1 Locuteur1 410.612 410.760 <o,f1,male> nene yo %hum
+srr_43920 1 Locuteur5 410.760 411.809 <o,f1,female> ga a ndaxar
+srr_43920 1 Locuteur1 411.809 412.278 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur5 412.278 415.472 <o,f1,female> oxu ando naye andiro o njirñonge o ɗof refo
+srr_43920 1 Locuteur1 415.472 416.751 <o,f1,male> ndeti kene way
+srr_43920 1 Locuteur5 416.751 420.758 <o,f1,female> ndaxar ka maya njiriñ yaam ten i mbonwa ten i ŋaɗa ndana
+srr_43920 1 Locuteur1 420.758 421.310 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur5 421.310 422.717 <o,f1,female> ten i mbaƴora
+srr_43920 1 Locuteur1 422.717 423.713 <o,f1,male> te ref ndigil
+srr_43920 1 Locuteur5 423.713 426.556 <o,f1,female> parce :fra que :fra teex nu ga oxa mbin Doctor :fra xaye ndaxar taxu te fiyel
+srr_43920 1 Locuteur1 426.556 427.137 <o,f1,male> a paax
+srr_43920 1 Locuteur5 427.137 427.834 <o,f1,female> *
+srr_43920 1 Locuteur1 427.834 428.947 <o,f1,male> bilahi
+srr_43920 1 Locuteur5 428.947 434.943 <o,f1,female> yag koy i mbaño ŋasit taxar to ngogorlu ten mu kina refa teen ()o ga a nga ndaxar o respecter :fra in
+srr_43920 1 Locuteur1 434.943 435.495 <o,f1,male> %hum %hun
+srr_43920 1 Locuteur5 435.495 436.937 <o,f1,female> ndaxar ne o respecter :fra in bata maak
+srr_43920 1 Locuteur1 436.937 437.343 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur5 437.343 439.101 <o,f1,female> xaye jego njiriñ
+srr_43920 1 Locuteur1 439.101 439.857 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur5 439.857 443.757 <o,f1,female> yaag koy wax deg émission nena nuun a fela xam lool bo pam roog
+srr_43920 1 Locuteur1 443.757 445.420 <o,f1,male> nuun mbala nun waay Ad
+srr_43920 1 Locuteur5 445.420 447.501 <o,f1,female> walahi sant a oxene ref tona
+srr_43920 1 Locuteur1 447.501 450.483 <o,f1,male> Khadim Dione Khadim Dione jerejef
+srr_43920 1 Locuteur5 450.483 452.282 <o,f1,female> roga cita xuuɗ saax le fop waay
+srr_43920 1 Locuteur1 452.282 452.608 <o,f1,male> amiin
+srr_43920 1 Locuteur5 452.608 455.367 <o,f1,female> jeregen jef waay content :fra nam a paxa pax
+srr_43920 1 Locuteur1 455.367 456.458 <o,f1,male> amiin Diouf
+srr_43920 1 Locuteur5 456.458 457.591 <o,f1,female> nene nu mbina de Waly
+srr_43920 1 Locuteur1 457.591 458.024 <o,f1,male> %hum %hum
+srr_43920 1 Locuteur5 458.024 462.813 <o,f1,female> mene dal fi uma den tostos na rose a xafa mbela la mene ref ma ref
+srr_43920 1 Locuteur1 462.813 464.011 <o,f1,male> alkhadoulilah jerejef
+srr_43920 1 Locuteur5 464.011 467.994 <o,f1,female> jegam ten maak kam fi bo mbine mi fop a xet fo nebedaay
+srr_43920 1 Locuteur1 467.994 469.536 <o,f1,male> alkhadoulilah jerejef
+srr_43920 1 Locuteur5 469.536 471.869 <o,f1,female> parce :fra que :fra nebeday ka jego njiriñ nu anda ten tig
+srr_43920 1 Locuteur1 471.869 472.958 <o,f1,male> jerejef Ya Ad
+srr_43920 1 Locuteur5 472.958 475.753 <o,f1,female> ay waay jeregen jef waay maxey simna a yaal mbin
+srr_43920 1 Locuteur1 475.753 477.134 <o,f1,male> %hum iyo
+srr_43920 1 Locuteur5 476.719 479.357 <o,f1,female> jerejef Waly in mbay ngidmanga paax
+srr_43920 1 Locuteur1 479.357 487.768 <o,f1,male> i content :fra na paax jerefef merci :fra beaucoup :fra Khadim o xaga fogum waga ley na ten tig Adama Diouf
+srr_43920 1 Locuteur3 487.768 498.312 <o,f1,male> Adama Adam in way sim nanga paaxa paax to musluwa koy vraiment :fra intervention :fra of a jega njiriñ lool a jega solo parce :fra que :fra nan nena wo vraiment :fra i taam wa de ŋoyit no rajo le
+srr_43920 1 Locuteur3 498.312 509.620 <o,f1,male> parce :fra que :fra wo waxey leya ye waxey fiya activité :fra ka nado naye vraiment :fra tig paxo i encourager :fra nag rek to ku ando naye vraiment :fra i njegan to i mbagaŋo ndam to ten xan i ndam toŋten inchaalah
+srr_43920 1 Locuteur3 509.620 523.671 <o,f1,male> merci :fra beaucoup :fra kon a fiya ngan rek Waly kam émission :fra ne i mbare ley bo ƴut to i ne e le :fra maire :fra de :fra la :fra commune :fra Monsieur :fra Omar Ba parce :fra que :fra a jega activité :fra mayu ka ando naye
+srr_43920 1 Locuteur3 523.671 536.838 <o,f1,male> dans :fra le :fra cadre :fra du :fra reverdissement :fra no poche :fra na sutan a fiyan no commune :fra ne ndeti keke te ref ka ando naye vraiment :fra ref o njiriñ wo soom de o njiriñ no commune :fra ne yo commeune ne fop o ndeta nga ()
+srr_43920 1 Locuteur3 536.838 552.646 <o,f1,male> plantation :fra ke mbiye na mene fop ten initier :fra un o ndeta ngan a jeg a initiative :fra no saax lu ref na a identifier :fra taxar paax ka ando naye a mbage ɓis maga menage :fra o menage :fra a jegg 3 arbres :fra fogame kene i commencer :fra an to i ngaƴa fuli ran
+srr_43920 1 Locuteur1 552.646 553.369 <o,f1,male> a pama jofu
+srr_43920 1 Locuteur3 553.369 563.245 <o,f1,male> ka fi commande :fra to gara fule mais :fra xana continuer :fra in kam kene koy i remercier :fra an a paxa paax nu nga a calele ke te jala no commune ne in way sant ana paax ngid man a paax dans :fra le :fra cadre :fra de :fra reverdissement :fra merci :fra le :fra maire :fra
+srr_43920 1 Locuteur1 563.245 575.349 <o,f1,male> jokonjal Khadim ne ley
+srr_43920 1 inter_segment_gap 575.349 586.974 <o,f1,> 
+srr_43920 1 inter_segment_gap 586.974 596.223 <o,f1,> 
+srr_43920 1 inter_segment_gap 596.223 597.383 <o,f1,> 
+srr_43920 1 Locuteur1 597.383 600.231 <o,f1,male> \
+srr_43920 1 inter_segment_gap 600.231 601.372 <o,f1,> 
+srr_43920 1 inter_segment_gap 601.372 603.037 <o,f1,> 
+srr_43920 1 inter_segment_gap 603.037 604.104 <o,f1,> 
+srr_43920 1 inter_segment_gap 604.104 605.586 <o,f1,> 
+srr_43920 1 inter_segment_gap 605.586 607.500 <o,f1,> 
+srr_43920 1 inter_segment_gap 607.500 609.436 <o,f1,> 
+srr_43920 1 inter_segment_gap 609.436 610.742 <o,f1,> 
+srr_43920 1 inter_segment_gap 610.742 611.766 <o,f1,> 
+srr_43920 1 inter_segment_gap 611.766 613.472 <o,f1,> 
+srr_43920 1 inter_segment_gap 613.472 615.098 <o,f1,> 
+srr_43920 1 inter_segment_gap 615.098 616.926 <o,f1,> 
+srr_43920 1 inter_segment_gap 616.926 618.323 <o,f1,> 
+srr_43920 1 inter_segment_gap 618.323 624.133 <o,f1,> 
+srr_43920 1 inter_segment_gap 624.133 625.692 <o,f1,> 
+srr_43920 1 inter_segment_gap 625.692 628.192 <o,f1,> 
+srr_43920 1 inter_segment_gap 628.192 630.217 <o,f1,> 
+srr_43920 1 inter_segment_gap 630.217 634.277 <o,f1,> 
+srr_43920 1 inter_segment_gap 634.277 635.335 <o,f1,> 
+srr_43920 1 inter_segment_gap 635.335 638.375 <o,f1,> 
+srr_43920 1 inter_segment_gap 638.375 639.140 <o,f1,> 
+srr_43920 1 inter_segment_gap 639.140 642.047 <o,f1,> 
+srr_43920 1 inter_segment_gap 642.047 642.788 <o,f1,> 
+srr_43920 1 inter_segment_gap 642.788 1895.792 <o,f1,> 

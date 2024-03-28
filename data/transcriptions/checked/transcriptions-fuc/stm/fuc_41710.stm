@@ -1,0 +1,23 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:25 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 3 of 230906
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_41710 1 locuteur1 0.000 19.555 <o,f1,male> [musique]
+fuc_41710 1 excluded_region 19.555 59.888 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41710 1 locuteur1 59.888 100.199 <o,f1,male> musidal fuladuu hono RTS radio :fra kolda e projet :fra ma??e mbiyeree?o 4R :fra e ndeer région :fra ji Tamba Kaolack Kolda Kafrine et :fra Fatick ?eenin mba?a emission :fra ji ?oo ?o RTS mbo Kolda oo ?oo talaata noon cappantati novembre :fra 2021 emission :fra warindo oo mba?eten nin 20 heures :fra haa 21 heurs :fra ?o 92 POINT 2 FM ?um noon ko programme :fra alimentaire :fra mondial :fra PAM e projet :fra 4R :fra mbo nganndu?aa hoore maa ko bilan :fra ma??e ?e kaalta nin fii e oo ?oo emission :fra mbarindo oo so tawii 20 heures :fra yonii jemma haa 21 heures :fra ?oo ?o 92 POINT 2 FM [musique]
+fuc_41710 1 locuteur1 100.199 117.812 <o,f1,male> [musique]

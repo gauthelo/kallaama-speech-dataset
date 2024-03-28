@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="PROPRIETAIRE" audio_filename="wol_11420" version="3" version_date="231011">
+<Speakers>
+<Speaker id="spk1" name="locuteur 1" check="yes" type="male" dialect="native" accent="wolof" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="20.924">
+<Turn startTime="0" endTime="20.924" speaker="spk1" mode="spontaneous">
+<Sync time="0"/>
+waaw asalaamaaleykum wa raxmatulaxi wa barakaatuxoo yéen mbokki baykatu région :fra Louga rawatina ñi nga xam ne dañoo ñëw wékku ci fédération :fra des :fra associations :fra paysans :fra de :fra Louga 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ñu gën koo xam ci Fapal muy kuréelu mbootaayu baykatu région:fra Louga 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ñoo leen i indil ay jiwu yu bees yu mucc ayib muy semence :fra certifiée :fra 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ak ay matériels :fra agricoles :fra yoo xam ne di ngeen ko mën a jëfandikoo 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ba mën a am campagne :fra gu mucc ayib 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

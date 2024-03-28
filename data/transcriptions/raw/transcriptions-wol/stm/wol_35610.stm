@@ -1,0 +1,73 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 10:38:05 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 2 of 230524
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_35610 1 locueteur_1 0.000 1.068 <o,f1,male> salaamaaleykum [b] soxna si
+wol_35610 1 locuteur_2 1.068 2.084 <o,f1,female> [b] maaleykum salaam
+wol_35610 1 excluded_region 2.084 5.015 <o,,unknown> ignore_time_segment_in_scoring
+wol_35610 1 locuteur_2 5.015 6.553 <o,f1,female> man maay Khady Diagne [conv]
+wol_35610 1 locueteur_1 6.553 6.927 <o,f1,male> %hum %hum
+wol_35610 1 locuteur_2 6.927 7.856 <o,f1,female> [b] dëkk Dya
+wol_35610 1 locueteur_1 7.856 9.239 <o,f1,male> %hum %hum [conv]
+wol_35610 1 locuteur_2 9.239 10.498 <o,f1,female> Khady Diagne laa dëkk Dya
+wol_35610 1 locueteur_1 10.498 12.200 <o,f1,male> [conv] donc :fra Khady ci looy yëngu
+wol_35610 1 locuteur_2 12.200 14.967 <o,f1,female> [conv] man de maa ngi yëngu ci coopérative :fra bi [conv]
+wol_35610 1 locueteur_1 14.967 17.826 <o,f1,male> [conv] %hum %hum [conv] béykat nga
+wol_35610 1 locuteur_2 17.826 18.605 <o,f1,female> béykat laa
+wol_35610 1 locueteur_1 18.605 19.175 <o,f1,male> %hum %hum
+wol_35610 1 locuteur_2 19.175 21.481 <o,f1,female> waaw ma ngi béy gerte di béy dugub [conv]
+wol_35610 1 locueteur_1 21.481 24.665 <o,f1,male> ndax yaa ngi doon déglu émission :fra yi coopérative :fra bi doon def ci rajo bi [conv]
+wol_35610 1 locuteur_2 24.665 28.791 <o,f1,female> waaw wax dëgg yàlla dama koy déglu léeg-léeg ñu koy nettali [conv] mais :fra man ci sama bopp moo dégg a gu ma ko
+wol_35610 1 locueteur_1 28.791 29.544 <o,f1,male> %hum [b]
+wol_35610 1 locuteur_2 29.544 36.177 <o,f1,female> waaw waaye [b] maa ngi yaakaar xëy na bu ngeen ci jógee danañ mën di jokkoo ba ñëpp di si xam dara [b] di si dégganteeg yéen [b] bu neexee yàlla [b]
+wol_35610 1 locueteur_1 36.177 38.218 <o,f1,male> ndax xam nga semence :fra [conv] certifiée :fra [b]
+wol_35610 1 locuteur_2 38.218 40.299 <o,f1,female> waaw xam naa ko moom [conv]
+wol_35610 1 locueteur_1 40.299 40.896 <o,f1,male> [b] %hum %hum
+wol_35610 1 locuteur_2 40.896 42.018 <o,f1,female> xam naa ko bu baax [b]
+wol_35610 1 locueteur_1 42.018 44.800 <o,f1,male> [b] nan la ñuy ràññee semence :fra certifiée :fra [b] ak bu dul certifiée :fra
+wol_35610 1 locuteur_2 44.800 48.206 <o,f1,female> %e [b] man ci suma gis-gis daal su ma ko tiimee nii
+wol_35610 1 locueteur_1 48.206 48.644 <o,f1,male> %hum %hum
+wol_35610 1 locuteur_2 48.644 53.526 <o,f1,female> *** dinaa xam ne %e gerte gii certifié :fra nañ ko [b] wala certifié :fra wuñ ko
+wol_35610 1 locueteur_1 53.526 54.147 <o,f1,male> %hum %hum
+wol_35610 1 locuteur_2 54.147 58.303 <o,f1,female> ci ci ci d' :fra après :fra ni ñu ma jàngalee waaye nag [conv] répétition :fra bi laay xaw a kii
+wol_35610 1 locueteur_1 58.303 58.755 <o,f1,male> %hum %hum
+wol_35610 1 locuteur_2 58.755 62.370 <o,f1,female> waaye boo ko tiimee daal dinaa xam ne bii moom [conv] certifié :fra naén ko
+wol_35610 1 locueteur_1 62.370 62.883 <o,f1,male> %hum %hum
+wol_35610 1 locuteur_2 62.883 64.577 <o,f1,female> waa bi ci des amul ko
+wol_35610 1 locueteur_1 64.577 65.162 <o,f1,male> %hum %hum [conv]
+wol_35610 1 locuteur_2 65.162 65.507 <o,f1,female> waa
+wol_35610 1 locueteur_1 65.507 67.497 <o,f1,male> [conv] ndax yaa ngi béy yaa ngi kay bay
+wol_35610 1 locuteur_2 67.497 69.957 <o,f1,female> waaw ren moom laa béy fure bi laa béy [conv]
+wol_35610 1 locueteur_1 69.957 71.203 <o,f1,male> naka la tool yi mel [conv]
+wol_35610 1 locuteur_2 71.203 72.632 <o,f1,female> ma sant naa yàlla moom [conv]
+wol_35610 1 locueteur_1 72.632 73.237 <o,f1,male> macha :ar allah :ar
+wol_35610 1 locuteur_2 73.237 86.047 <o,f1,female> waaw wax dëgg yàlla maa ngi ciy yaakaar rafet na [conv] te liñ ci bëgg danañ ko am même :fra booy jaay da nga bàyyi [b] loo xam ne da nga ci ji sa amorom ji ci te [b] fa nga koy jaay mooy fa ngay bëggee ñu jaay ko encore :fra suñu yeneen partenaires :fra [b] pour :fra mu law ci gox bi [b] %hum %hum
+wol_35610 1 locueteur_1 86.047 92.236 <o,f1,male> ndax mos ngaa jot ay messages :fra [b] sa téléphone :fra yu lay wax ci semence :fra certifiée :fra ak ku ko bëgg foo ko mën a amee [conv]
+wol_35610 1 locuteur_2 92.236 96.198 <o,f1,female> déet bëriwxul nag ah danaa xanaa réunions :fra yi may dem léeg-léeg ma di ko ci for tuuti
+wol_35610 1 locueteur_1 96.198 97.450 <o,f1,male> kon sa téléphone :fra mosoo see jot
+wol_35610 1 excluded_region 97.450 100.432 <o,,unknown> ignore_time_segment_in_scoring
+wol_35610 1 locueteur_1 100.432 100.957 <o,f1,male> incha :ar allah :ar [b]
+wol_35610 1 locuteur_2 100.957 101.969 <o,f1,female> bu neexee yàlla waaw [b]
+wol_35610 1 locueteur_1 101.969 104.173 <o,f1,male> donc :fra looy wax sa mbokku béykat yi [b]
+wol_35610 1 locuteur_2 104.173 137.844 <o,f1,female> xanaa ñu yokk a góorgóorlu [b] ndax béykat moom amul lu dul mbéy [b] góorgóorlu dem ci [b] ni ñuy amee semences :fra yu baax yi [conv] ak i tamit xam nañ nan lañ koy defaree ndax i tamit toujours :fra defal ma [conv] bu ñu ko sañoom ñu am ñoo ñun ngeen dimbale ñu ci ñoo xam ne ñi nga xam ne dañ koy defar [conv] ak boo ak boole koog engrais :fra biñ ñuy jox [conv] su boobaa béykat moom luy baaxal toolam rek la soxla [conv] suñ mënee am ci %e compost :fra yi [conv] boole ak engrais :fra yu baax yi ñuy jënd rek dinañ gis ñoom [conv] waaw
+wol_35610 1 locueteur_1 137.844 138.966 <o,f0,male> kon ñu ngi lay jaajëfal
+wol_35610 1 locuteur_2 138.966 139.517 <o,f0,female> [conv] %hum %hum
+wol_35610 1 locueteur_1 139.517 141.336 <o,f0,male> baal ñu fàttali ñu sa tur ak sa sant ak fi nga dëkk
+wol_35610 1 locuteur_2 141.336 143.887 <o,f0,female> maa tudd Khady Diagne [conv] dëkk Dya
+wol_35610 1 locueteur_1 143.887 144.599 <o,f0,male> dëkk Dya
+wol_35610 1 locuteur_2 144.599 145.093 <o,f0,female> waaw
+wol_35610 1 locueteur_1 145.093 146.077 <o,f0,male> [conv] jërëjëf Khady

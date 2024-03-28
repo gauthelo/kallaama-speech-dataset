@@ -1,0 +1,392 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:09 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 4 of 230822
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_41211 1 locuteur1 0.000 77.986 <o,f1,male> [musique]
+fuc_41211 1 locuteur1 77.986 83.681 <o,f1,male> bandiraɓe tedduɓe yettotoɓe radio :fra communautaire :fra mo Podor :fra 90 POINT 7
+fuc_41211 1 locuteur1 83.681 105.791 <o,f1,male> ballal Allah e welede mum en garti e jamma hannde o yuɓɓinde yewtere nde gownoɗen yuɓɓinde so tawi ɗiɗo saahaji keedi woni waktuji jeetati jamma so fawi hoojomaji capantati ha waktuji nogas e ɗiɗi jamma walla mbiyen 8H30 ha 22H walla mbiyen ha 10H jamma
+fuc_41211 1 locuteur1 105.791 113.411 <o,f1,male> tawa yuɓɓinanta on yewtere nde ko musidɗo moon sehil moon almudo moon miñiraguel moon ceerno Ibrahima Ba
+fuc_41211 1 locuteur1 113.411 122.851 <o,f1,male> en garti no mbiɗen ni e jamma hannde o yuɓɓinde yewtere de e saaha mo ganduɗa ko on saaha gownoɗen ɗum yuɓɓinde
+fuc_41211 1 locuteur1 122.851 141.352 <o,f1,male> kono ma en jafno woon e bandiraɓe ɓe ganduɗa ko hettiyankoɓe yewtere nde ko wayno musidɗo men Djiby Yero Dia e ko nandi hen ɓe ganduɗa ɓeeɗo ni ne jinno hande jewten no fewi e ko faati e guykaji gonɗiɗi e nokkuji ɗi e no waayi hawnade ni
+fuc_41211 1 locuteur1 141.352 156.433 <o,f1,male> kono noon ma en jafnomo no fewi no fewi no fewi sababude enen daaña hobɓe ɓe ganduɗa ko e golleɗe jeeya te ko jewteten ko ne ɗeeɓi lutodirde e ɗum ɗon seeɗa saabu jewteten koye banggue awdi ndeema
+fuc_41211 1 locuteur1 156.433 173.392 <o,f1,male> ɗum ko yewtere nde ganduɗa ko alay saago nde waɗa nde tawno ko noon golle men mbayi ko ɓe ganduɗa eɗen cifodiri e muɗumen nanodiral wonde eɗen badda e mabɓe jewte ɗen ɗon ɗum ɗon nde ɗon yewtere nde jogorɗen fuɗɗade hannde koye jewte ɗeɗon jeeha
+fuc_41211 1 locuteur1 173.392 186.099 <o,f1,male> kono ñagoɗen musibɓe men Djiby Yero tan o jaggana en gantu kanko eɓe ganduɗa ñaguinoma en yewtere nde ɗon woni gadodiren e mabɓe so Allah wurni en en tawama talata garowo inchallah
+fuc_41211 1 locuteur1 186.099 200.372 <o,f1,male> so tawi Allah haaji ma en mbad feere foof ha mbaɗen yewtere nde ganduɗa faati koye guykaji ɗi ganduɗa ko kañumen gooni guykaji jawɗele e oɗo saaha mo ganduɗa ko saaha julde taske kadi na fawosini hen no fewi no fewi no fewi
+fuc_41211 1 locuteur1 200.372 223.403 <o,f1,male> ɗum noon o yaafo en no fewi no fewi saabu hannde eɗen gadodirno e makko ɗum ɗon ɗum noon ko ɗum tan saabato wasde men wadde yewtere nde ɗon hande ɗum noon hobɓe ɓe ganduɗa eɗen gadori e muɗumen woni enen ciifodire muɗumen nanodiral wonde eɗen badda e mabɓe jewte ɗeɗon mbiɗi sikki jewteɗe ma duuño fodde jewte naayi wona noon jewte deggodirɗe wonata so Allah yanti hen
+fuc_41211 1 locuteur1 223.403 241.923 <o,f1,male> kono noonma woon kam jewte lowlombe inchallah ɗum noon hannde gadodir ɗen e mabɓe eɗen puɗɗodira e mabɓe yewtere nde ko caggal nde certuɗen nde woni kebɗen %e wonde tabiti wonde yewtere nde ne footi wawde fuɗɗade hannde jamma inchallah so tawi Allah addimo
+fuc_41211 1 locuteur1 241.923 255.973 <o,f1,male> eyyi ɗum noon eɗen pattiɓe waktuji nogas e goho woni 9h ha 10h so Allah haaji men badde mabɓe yewtere fonde waktu timmuɗo so Allah yanti hen eɗen ñago yimɓeɓe tan nde kettoto ɗum no fewi no fewi no fewi
+fuc_41211 1 locuteur1 255.973 272.564 <o,f1,male> ko yewtere nde ganduɗa ko yewtere wande fayida koye jewte ɗe ganduɗa eɗen juɓɓina ɗum e banggue ndeema ko ganduɗa koɗoni ko ndeema maaro e ndeemoji goɗɗi ɗi ganduɗa so Allah haaji ɗum foof ne wawi kaalen ɗum hen
+fuc_41211 1 locuteur1 272.564 287.144 <o,f1,male> eyyi ɗum noon ko ɗum saabi hande en mbawata wadde yewtere nde mbiɗen ni banggue banggue banggue guykaji ɗi ko ɗum saabi eɗen mbiɗen eɗen jiiɗi musibɓeɓe jaafo en no fewi
+fuc_41211 1 locuteur1 287.144 310.053 <o,f1,male> nde tawno ko ɗum ɗo ne koye golle ɗe ganduɗa ko golle radio :fra jeeya nde tawno radio :fra wurnata ɗum ko ciifle mbaɗe ni sponsor :fra ji ɗi ganduɗa ene gaara ne mbaɗa jewte muɗumen ne waɗa publicité :fra ji muɗumen ko ɗum wawi wurnude radio :fra ngo nde tawno radio :fra ngo wuuri koye koye hattan muɗum wuuri koye ballodiral e ganduɗa yimɓeɓe
+fuc_41211 1 locuteur1 310.053 318.643 <o,f1,male> woni saaha foof taw eɗen mbawa dañje hen ko ganduɗa ko hen ndelam meɗen yooɓate woni ndelam kumɓam ko hen yooɓate
+fuc_41211 1 locuteur1 318.643 338.223 <o,f1,male> gueɗe kewɗe ko hen mbawi firlitede ɗum noon ɗum saabi radio :fra ngo saaha foof na na yiiɗa wadde gueɗe mbaɗe ni ko faati e e ko ganduɗa ko ɗo ni kañum woni Ticmbay ɗum noon ma en mbaddu hen yewtere nde ganduɗa e wallidiɓe meɗen
+fuc_41211 1 locuteur1 338.223 346.804 <o,f1,male> musibɓe meɗen IJAK naaɓe ko kamɓe gooni wallidiɓe yewtere nde ɗon mbi sikki ko kamɓe ɗowata yewtere nde ɗon ha wawa yuɓɓude so Allah yanti hen
+fuc_41211 1 locuteur1 346.804 380.694 <o,f1,male> ɗum noon ko ɗum saabi mbiɗen musidɗo men Djiby Yereo Dia yo ɓe ganduɗa wona kanko tan ni e wodɓe ñaguinoɓe en ɗum ɗon ha mbiɗen so Allah haaji ma en eeto wadde hen yewtere kono nden taw en enen gandi ni ɗum ɗo ne fonno wadde hannde kono en keeɓano ko mbiten confirmation :fra wonde yewtere nd ene footi enen ganduno ne footi fuɗɗade hannde kono en keeɓano confirmation :fra mooɓe gaar ko caggal muɗum keɓɗen tigui ciifande %e tabitinde wonde so Allah yanti hen maaɓe gaar yidde liggodirde e meɗen e ngal ɗon banggal
+fuc_41211 1 locuteur1 380.694 395.024 <o,f1,male> ɗum noon ko ɗum saabi jafniɗen kala ɓe ganduɗa ɓeeɗo ni ene padno en e jewte ɗe gandiɗa ɗe jiidani e nde ɗon yewtere ɗum noon ko ɗum saabi tan jafnoɗen hen bandiraɓeɓe no fewi no fewi no fewi
+fuc_41211 1 locuteur1 395.024 409.864 <o,f1,male> kadi ɗum ɗo koye golle ɗe jeeya ɗum noon men mbaat golle ɗe ganduɗa ko golle paatuɗe e projet :fra mbiteɗo Ticmbay ɓe jewtata koye banggue ndeema inchallah ko hen jogorɗen duuñade
+fuc_41211 1 locuteur1 409.864 423.285 <o,f1,male> en gandi ɗumne kadi koye nafooje jeeyaɗe e yimɓeɓe to banggue holno awdi fewnirte holno dañirte holno awdi dañirte holno awdi liggorte e gueɗe ɗen ɗon e gueɗe ɗen ɗon gueɗe kewɗe ne coomi e nder hen
+fuc_41211 1 locuteur1 423.285 439.585 <o,f1,male> ɗum noon so Allah haaji ma en mbaddu e mabɓe no mbiɗen ni jewte kewɗe ma en mbadde mabɓe yewtere ñande hande jeeɗiɗi lewru ndu ɗo so Allah yani hen kono kadi so Allah jaaɓi ma en badde mabɓe yewtere wonde ñande sappo e naayi lewru août :fra so Allah yanti hen
+fuc_41211 1 locuteur1 439.585 448.745 <o,f1,male> ma en mbattide mabɓe yawtere nde ganduɗa ko ñande nogas e goho août :fra inchallah so tawi Allah newni ma en mbattide mabɓe yewtere ñande nogas e jeetati août :fra so Allah yanti hen
+fuc_41211 1 locuteur1 448.745 461.682 <o,f1,male> ɗum ko jewte ɗe ganduɗa eɗen pattidiri ɗum e mabɓe ɗum noon beeɗa andi eɗen patti musibɓe tan e jettu ngo mabɓe e ɗum noon jafnoɗen musidɗo men Djiby Yero Dia no mbiɗen ni
+fuc_41211 1 locuteur1 461.682 474.086 <o,f1,male> eɗen mbawi wiide noon oɗo saaha so tawi omo hetti en omon mbawi udditan on ɓoggol ngol haade 9h yonde beela o haala tigui ko yidno haalde ko walla ni kala mo ganduɗa yidno ko haalde ɗum ɗon
+fuc_41211 1 locuteur1 474.086 484.586 <o,f1,male> kono so tawi Allah newni ha 9h yoni inchalla ken bismotoɓe ɗo hoɓɓe ɗum noon no mbiɗen ni en jefnima dendagal hettiyankoɓe ɓe
+fuc_41211 1 locuteur1 484.586 504.565 <o,f1,male> ɗum noon mbiɗen musidɗo karalla meɗen ceerno Djiby Sy e bmo wawi udditande en ɓoggol ngol so tawi won musibɓe ɓe ganduɗa ne gooni e ɓoggol ngol gaam wade addude miijoji muɗumen haade men fuɗɗade yewtere nde ganduɗa ko yewtere nde jogorɗen waddude e musidɓe men ɓe ganduɗa ko kañumen gonɗen e yidde bismade ɗo
+fuc_41211 1 locuteur1 504.565 516.647 <o,f1,male> ɗum noon en calmini en juurima dendagal hettiyankoɓe radio :fra communataire :fra mo Podor 90 POINT 7 ɗum noon 90 PONINT 7 no mbiɗen ni 88 628 00 01
+fuc_41211 1 locuteur1 516.647 526.717 <o,f1,male> eɗne joogui fodde minutes :fra aji sappo gaam wawde udditde ɓoggol ngol haade men yettade e hoɓɓe ɓe ganduɗa ko kañumen gooni hobɓɓe men e jamma hande o
+fuc_41211 1 locuteur1 526.717 753.042 <o,f1,male> [musique]
+fuc_41211 1 locuteur1 753.042 769.429 <o,f1,male> ceerno Djiby golle ma jooɗi peewi en no mbiɗen ni so tawino musiɓeɓe na nanan no en nananno en ɓe mabwno addude miijo mabɓe e ko ganduɗa ko ɗo ni haade yewtere men hobɓe men ɓe fuɗɗade
+fuc_41211 1 locuteur1 769.429 818.670 <o,f1,male> no biɗen ni enen joogui yewtere nde ganduɗa eɗen pooti ɗum yuɓɓiɗinde e hobɓe ɓe ganduɗa eɗen bismo ɗumen ɗo so tawi waktuji jeenaayi jamma joni ha waktuji sappo so Allah yanti hen ɗum non mbiɗa andi ɓooyata hobɓeɓe gaara ɗum no mbiɗen ni so Allah haaji eɗen jogori waddude mabɓe yewtere aadide e jewte ɗe jogorɗen yuɓɓidinde e mabɓe fodde fodde jewte naayi so Allah yanti hen ene wawi ni wonoya jewte goɗɗe coose e nder hen taw ɓuuri jewte naayi ɗeɗon ɗum noon kono haade hay hunde taw koye jewte naayi ɗe kam ma en jubɓidin ɗum e mabɓe so Allah jaaɓi inchallah ɗum noon no mbiɗen ni so tawi hobɓeɓe jettima e on saaha kala mo ganduɗa ne yiiɗi kadi addude hen miijo mum walla addude hen ballal mum
+fuc_41211 1 locuteur1 818.670 848.131 <o,f1,male> so tawi yewtere nde wodɗoyi ma en uddit ɓoggol ngol ganduɗa oɗon ni yiiɗi addude hen miijo mum walla ballal mum foof wawa addude hen miijo mum e addude hen ballal muɗum e yewtere nde ganduɗa ko enen jiiɗi yuɓɓidinde ɗum e musibɓe ɓe ganduɗa ko kañumen gonɗen e bismade so tawi neeɓata so Allah yanti hen ɗum noon no mbiɗen ni en mbiyat karalla o tan yo ɗaccu ko sawto o wona e humbude haade musibɓeɓe yettade e joƴƴindeɓe gaam mbawen fuɗɗade yewtere de
+fuc_41211 1 locuteur1 848.131 1346.817 <o,f1,male> [musique]
+fuc_41211 1 locuteur1 1346.817 1375.116 <o,f1,male> bandiraɓe tedduɓe hettotoɓe radio :fra communautaire :fra mo Podor 90 PIONT 7 ballal Allah e welede mum en garti e jamma no mbiɗen ni yubɓinde yewtere nde ganduɗa ko yewtere men nde inirɗen ndeema e gaynaka jamma hannde o no mbiɗen ni wonani en to kaɓirɗe to ko cukalel laaɓa juuɗe %e ceerno Djiby Sy en jettimo no fewi e technique :fra makko no mbiɗen ni eɗen bismi ɗo hannde hobɓe ɓe ganduɗa ko hobɓe arɓe yidde wallodirde e meɗen
+fuc_41211 1 locuteur1 1375.116 1413.318 <o,f1,male> gaam eɗen jiiɗi yewtude ko faati e awdi nde ganduɗa ndi ɗo ni ko awdi nde gawaten ndi awdi keeladinnde gawaten ndi eɗen jiiɗi andude tiguiri muɗum e nder nder muɗum e lowdi muɗum e cenkke muɗum e foof muɗum ballo ndirten hen koye musibɓe ɓe ganduɗa ena gummi e projet :fra mbiyeteɗo Ticmaby e musibɓe men ɓe ganduɗa ne ummi e fedde men wiitede IJAK mbiɗa sikki tawi ko noon musibɓe calmodiron e bandiraɓeɓe moni e moon kala haali moni kañum e haala holko arani ɗo e holko woni darde muɗum e yewtere nde jogorɗen yubɓinde gaam yimɓeɓe paama ɗum
+fuc_41211 1 locuteur2 1413.318 1424.358 <o,f1,male> assalamu alaeykum rahamatullah bandiriɓe on calminama on jurama min mbitemi ko Saydou Sall komi kirjinowo ɗon e fedde wiitede IJAK
+fuc_41211 1 locuteur2 1424.358 1431.491 <o,f1,male> fedde nde ganduɗa kañum reeni ene jeeya e golle mum batte ndeema e gaynaka e awa
+fuc_41211 1 locuteur2 1431.491 1441.191 <o,f1,male> inchallahu taala ɗum e ɗum addi amen ɗo hannde gaam yewtidde e woon e gueɗe inchallahu taala ko faate e nder golle ni mo ganduɗa ɗum min mbaɗata inchallah ko Douye jeeyami noon
+fuc_41211 1 locuteur3 1441.191 1452.655 <o,f1,male> eyyi bandiraɓe on calminama ɗo gonɗon e no gonirɗon fo on mbiyama [bg] jaam hiiri to gonɗon
+fuc_41211 1 locuteur3 1452.655 1472.269 <o,f1,male> min mbiyatemi ko Mahmaoudou Dia jeeyami ko nokkumen Guiya komi kirjinowo e fedde men IJAK fedde remoɓe wonde ɗo henne ina wallodira e aynaɓe e awoɓe komin neelaɓe mabɓe noon eɓe joogui jokkodiral e fedde wonde ene wiiye Ticmbay
+fuc_41211 1 locuteur3 1472.269 1482.899 <o,f1,male> ɗum woni ɗo koyɗamen hannde min jewtide e bandirɓe ɓe ko fewti e awdi comme :fra ceerno Ibrahima Ba wiiri ni
+fuc_41211 1 locuteur1 1482.899 1504.329 <o,f1,male> Allah jarama on jarama mbiɗi sikki mataw so tawi yimɓeɓe foof nana dekkila ene keeɗo ko jogorɗen wadde ɗo ko so Allah haaji ɗum noon en garat tigui e ko ganduɗa ko kañum woni namde paatuɗe e ligguey mo jogorɗen liggade o ɗo yete ɓe mbi jogorɗen yewtude koye awdi keeladi
+fuc_41211 1 locuteur1 1504.329 1516.138 <o,f1,male> awdi keeladi koye ɗum ɗon jidɗen yewtude wadde namdal men gadanal e awdi ndi wonata ko holko woni awdi keeladi
+fuc_41211 1 excluded_region 1516.138 1518.312 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur2 1518.312 1527.474 <o,f1,male> hamdulillah bandiraɓe on calminama gongol inchallah namdal ngal inchallah mami eeto hen jabade siko Allah jaaɓi o namdiɗo ko kowoni awdi keeladi
+fuc_41211 1 locuteur2 1527.474 1539.882 <o,f1,male> siiki Allah jaaɓi inchallah mamin gaddi hen wonen e jaabuwul inchallahu taala eɗen gandi ɗon ɗo ganduɗa ɗon awdi fewjete guuile ummade e guesa ba
+fuc_41211 1 locuteur2 1539.882 1549.220 <o,f1,male> ɗon ɗo ganduiɗa ɗon awdi ndi fewjete guila ɗon fuɗɗete ande beele ndi ɗo awdi ne jogori wonde awdi keptinadi walla heptinaka [bg]
+fuc_41211 1 locuteur2 1549.220 1557.660 <o,f1,male> saabu so yeeyi on mo ganduɗa kañum woni ndeemowo %e ndeemowo mo ganduɗa ene yeñcina awdi mo totta ndi
+fuc_41211 1 locuteur2 1557.660 1567.609 <o,f1,male> guiley toon gollal makko ngal ha wawa sellinde awdi ndi guilay toon fuɗɗoto guila ɗon e dner guesa ba ɗon woni gollal makko ngal ko ɗon fuɗɗi
+fuc_41211 1 locuteur2 1567.609 1576.309 <o,f1,male> siiki ummima ɗon on mo ganduɗa ina rewido awdi ndi saabu awdi so awama e nder guesa alay saago ma woon dewiniɗo ɗum
+fuc_41211 1 locuteur2 1576.309 1593.759 <o,f1,male> enen foof enen gandi noon remoɓe machallah ne mbawi ne mbawi remde ne gandi %e ko watte ko hen nder ndeema ne gandi saahaji mbatteɗi foof ko watte hen awde kono ma alay saago %e dewotoɗo o rewintoɗo ganduɗa kañum woni awɗele ɗe aly saago artan e nder guesa guesa ba
+fuc_41211 1 locuteur2 1593.759 1602.580 <o,f1,male> te ɗum arata key nder guesa ba wona yaade tan ɗon e ndeemowo wona e haldude mum kono ma yaaha ha yetto ɗon e guesa ba siiki jaari naata hen e nder guesa ba ƴeewa guesa ba hono wayi
+fuc_41211 1 locuteur2 1602.580 1613.998 <o,f1,male> wadde key nder e nder awre nde guila toon %e awdi %e keeladi guila toon fuɗɗete toppitede
+fuc_41211 1 locuteur2 1613.998 1632.397 <o,f1,male> te kadi toppitede ene jeeya hen ƴewde guesa ba ko awanoka hen rawane comme :fra par :fra exemple :fra sen gaari hannde campagne :fra oɗo ceeɗu enen joogori hen wadde campagne :fra oɗo ndugngu eɗen joogorno wadde awdi ƴewrete ko awanoka hen campagne :fra jawtuɗo o beele ne yerodiri e variété :fra mo ganduɗa ene jogori haddede
+fuc_41211 1 locuteur2 1632.397 1647.513 <o,f1,male> saabu siki yeridira siki awama hen variété :fra goɗɗo ina wawi addude ko wiyete ko or :fra type :fra wadde on wadde guila ɗon andete ndi ɗo awdi wawa wonde awdi keeladi saabu wonti or :fra type :fra yani maaro wokko yanti hen wadde wiite koɗo maaro hanti wona maaro keeladi
+fuc_41211 1 locuteur2 1647.513 1655.673 <o,f1,male> wadde ɗon foof ene jeeya hen ƴeewe guesa ba ko remanoko hen rawane e que :fra variété :fra jogorɗo adde hen e awdi ndi hikka hono waayi ɗum ko hen hen
+fuc_41211 1 locuteur1 1655.673 1675.062 <o,f1,male> ahan eyyi musidɗo no mbiɗa ni %e sikki a haali tigui awdi keeladi awdi ndi ganduɗa no mbiɗa ni ko awdi gawatedi e ko awdi labadi ceerno musidɗo hol sababu awdi keeladi
+fuc_41211 1 locuteur3 1675.062 1676.920 <o,f1,male> eyyi
+fuc_41211 1 excluded_region 1676.920 1678.900 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur1 1678.900 1680.877 <o,f1,male> cuuɓo mbiya yo suuɓe awdi keeladi
+fuc_41211 1 locuteur3 1680.877 1684.837 <o,f1,male> awdi keeladi addi ɗum suuɓede tan wiyede yo suuɓe
+fuc_41211 1 locuteur1 1684.837 1685.357 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1685.357 1692.321 <o,f1,male> ko kañum ɓuuri wawde moƴƴude [bb] ina wawi ɓuuri wawde moƴƴude guila e fungogo
+fuc_41211 1 locuteur1 1692.321 1692.797 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1692.797 1705.808 <o,f1,male> ha %e ɓuuri wade kadi jibinde ko ɓeydi ɗum kadi koko rewna lawol so wima awdi cee() %e semence :fra certifié :fra woni awdi awdi cettinadi
+fuc_41211 1 locuteur1 1705.808 1706.304 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1706.304 1708.110 <o,f1,male> koko rewna lawol hunde foof waɗi ko lawol
+fuc_41211 1 locuteur1 1708.110 1708.527 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1708.527 1709.308 <o,f1,male> guila e guesa ba
+fuc_41211 1 locuteur1 1709.308 1709.668 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1709.668 1714.288 <o,f1,male> ha beela ɓendi walla ɓendani ha rewide ha sooñe ha nawe laboratoire :fra
+fuc_41211 1 locuteur1 1714.288 1715.059 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1715.059 1722.352 <o,f1,male> fewde ha fewa laamu ngu setto wiima ahan ndi ɗo awdi ko awdi pewdi cettadi ɗiɗo ne wawi wonde awdi
+fuc_41211 1 locuteur1 1722.352 1740.817 <o,f1,male> e mais :fra kono kono awdi nawede awdi ɗum woni ɗum woni sababu awdi keeladi [bg] kono noon beela beela ɗum tan ene wawi settinde maaro ko ganduɗa ko ɗo ni so neɗɗo yeeyi ƴetti awdi muɗum lamdi ceer
+fuc_41211 1 locuteur1 1740.817 1757.598 <o,f1,male> a tinani a nanani ande a addi awi ɗum e nokku mo ganduɗa ɓadiɗo nokku mo ganduɗa awdi ndi mbiyadi ndi ɗi ko keeladi beela sa are guese ɗe tan an tinaka no awete a tawaka hay hay hen gotiri jillani gotiri hen foof ko awana ko ɗo ko ɗum tan fuuɗi hen beela aɗa wawi ɗum cerdude
+fuc_41211 1 locuteur3 1757.598 1762.151 <o,f1,male> eyyi ɗon serdude ɗum weɓani no fewi serdude ɗum weeɓani
+fuc_41211 1 locuteur1 1762.151 1762.611 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1762.611 1770.392 <o,f1,male> ndeemowo o guila haade makko remde ɗum waɗi lawol ngol o rewata mbaɗo controle :fra ara ƴeewa holɗo ɗo o footi awde awdi ndi
+fuc_41211 1 locuteur1 1770.392 1770.751 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1770.751 1782.110 <o,f1,male> o heeɓa awdi makko awdi kadi wona sa so joomum sene heeɓa awdi mum wonko yadata hen guila e étiquette :fra uji ji foof ko lawol waɗi ko lawol ɗo rewete ha yetto ha ha sooñe
+fuc_41211 1 locuteur1 1782.110 1782.584 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1782.584 1783.130 <o,f1,male> eyyi
+fuc_41211 1 locuteur1 1783.130 1798.695 <o,f1,male> %e min jinnomi ko pusonon yimɓeɓe woni woni awdi keeladi on kaali kono hen sahaji mbiɗa nana oɗon mbaɗa le :fra pré-base :fra base :fra naggam naggam jibingol ngol jibingol gol ɗon mbi sikki toon awdi keeladi jibina mataw
+fuc_41211 1 locuteur3 1798.695 1799.588 <o,f1,male> eyyi
+fuc_41211 1 locuteur1 1799.588 1802.703 <o,f1,male> beela oɗon mbawi ɗum waɗande yimɓeɓe e Pulaar tan ha paama tigui rigui
+fuc_41211 1 excluded_region 1802.703 1803.723 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur3 1803.723 1804.926 <o,f1,male> aɗa andi pewnugol awdi
+fuc_41211 1 locuteur1 1804.926 1805.326 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1805.326 1807.310 <o,f1,male> ko karallagal tigui rigui rigui namdi
+fuc_41211 1 locuteur1 1807.310 1807.790 <o,f1,male> eyyi
+fuc_41211 1 locuteur3 1807.790 1812.293 <o,f1,male> enen ɗo joni e fedde men nde arata ɗo tan ko tolno mbiteɗo mbiteɗo pré-base :fra
+fuc_41211 1 locuteur1 1812.293 1812.803 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1812.803 1814.059 <o,f1,male> et :fra base :fra ɗum arata ɗo e men
+fuc_41211 1 locuteur1 1814.059 1814.596 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1814.596 1816.291 <o,f1,male> kono fuɗɗi ko guila e suus o
+fuc_41211 1 locuteur1 1816.291 1816.938 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1816.938 1827.695 <o,f1,male> ɗon fuɗɗi waɗi tolno gadana zéro :fra diiga rewi hen tolno goho tolno ɗiɗi tolno tati tolno naayi ɗum ko ISRA naaɓeliggoto ɗum
+fuc_41211 1 locuteur1 1827.695 1828.294 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1828.294 1833.564 <o,f1,male> laamu ngu liggoto ɗum seeɓe ligguima tolno naayaɓo o [bg] ko kañum yaltinanta men pré-base :fra
+fuc_41211 1 locuteur1 1833.564 1834.049 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1834.049 1838.609 <o,f1,male> pré-base :fra woni kewɗen o eɗen ko goto goto heewi ɗum tottede awa
+fuc_41211 1 locuteur1 1838.609 1839.043 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1839.043 1842.172 <o,f1,male> par :fra ce :fra que :fra addi ɗum kilo :fra ko kañum ɓuuri sadde
+fuc_41211 1 locuteur1 1842.172 1842.577 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1842.577 1845.072 <o,f1,male> e ko %e ɗiɗi keddiɗi ɗi
+fuc_41211 1 locuteur1 1845.072 1845.446 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1845.446 1852.908 <o,f1,male> sen paari e pré-base :fra o payen e base :fra o sen gummima e base :fra o kañum woni ko cotteten ɗi kilo :fra capanɗe jeegom e jooyi o
+fuc_41211 1 locuteur1 1852.908 1853.383 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1853.383 1855.728 <o,f1,male> goto hen fo noon ɓuuri wawde jibinde e keddiɗo o
+fuc_41211 1 locuteur1 1855.728 1870.528 <o,f1,male> %hum %hum noon tigui mbi sikki musibɓeɓe nani tigui ko kalɗa ko ceerno Saydou holko woni holko woni nafoore awdi awdi keeladi
+fuc_41211 1 excluded_region 1870.528 1872.387 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur2 1872.387 1878.999 <o,f1,male> eyyi kañum ko musidɗo fuɗɗinoma haalde hen nafoore mum ko sa awi awdi kaaladi
+fuc_41211 1 locuteur1 1878.999 1879.355 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1879.355 1883.026 <o,f1,male> e awdi mo won a keeladi nafoore nde ne yiiye guila e pudgol ngol
+fuc_41211 1 locuteur1 1883.026 1883.557 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1883.557 1886.323 <o,f1,male> yani pudgol awdi keeladi ndi kañum ɓuurata fewde
+fuc_41211 1 locuteur1 1886.323 1886.640 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1886.640 1889.526 <o,f1,male> e awdi awdi mo heelaka saabu ko waɗi ɗum
+fuc_41211 1 locuteur1 1889.526 1889.912 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1889.912 1895.707 <o,f1,male> awdi keeladi ndi koko suuɓa suuɓa subta ha taw ko variété :fra foof ne daado banggue
+fuc_41211 1 locuteur1 1895.707 1895.963 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1895.963 1898.414 <o,f1,male> taw sa awi variété :fra o kañum foof kañum fuddata
+fuc_41211 1 locuteur1 1898.414 1898.938 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1898.938 1903.516 <o,f1,male> on ko awdi mo ganduɗa [bg] ndin ndi waɗa certifié :fra waɗaka certifié :fra eyyi
+fuc_41211 1 locuteur1 1903.516 1903.879 <o,f1,male> %hum %hum
+fuc_41211 1 excluded_region 1903.879 1904.957 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur2 1904.957 1905.751 <o,f1,male> cettatka
+fuc_41211 1 locuteur1 1905.751 1906.054 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1906.054 1906.545 <o,f1,male> siɓako
+fuc_41211 1 locuteur1 1906.545 1906.851 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1906.851 1909.980 <o,f1,male> on aɗa wawi ɗum awde sa awi ɗum dañca ko aɗa wawi hen dañje or :fra type :fra uji
+fuc_41211 1 locuteur1 1909.980 1910.319 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 1910.319 1921.829 <o,f1,male> taw maaro ko ɗo maaro ko fuddata ɓendinta wadde nafoore nde ganduɗa kañum ɗum ene jeeya hen e nafoore nde ganduɗa %e ina heewi nafoore machallah kono ɗum ɗo kam ne jeeya hen nafoore nde ganduɗa nani e nder awdi cettadi
+fuc_41211 1 locuteur1 1921.829 1926.701 <o,f1,male> %hum %hum noon tigui aɗa andi namdeɗe ne wayi ne ɗeeɓi eɗe ɗeeɓi wonde namde natodirɗe
+fuc_41211 1 locuteur2 1926.701 1927.060 <o,f1,male> ahan
+fuc_41211 1 locuteur1 1927.060 1950.951 <o,f1,male> namdeɗe sa ƴeewiɗe kañƴe foof sa rendini ne wawno wonde namdal goltal kono noon namdeɗe ne ɗeeɓi nantodirde ceerno Mamadou a nani ko waaji o haali ko e nafoore awdi keeladi holko serdi awdi keeladi e awdi ndi heelaka to banggue awdi mbiyetedi ndi ko cettadi e awdi nde wiyade ndi ɗo settaka beela ne jogui cerdal
+fuc_41211 1 locuteur3 1950.951 1954.371 <o,f1,male> aɗa andi batte karallagal to henna
+fuc_41211 1 locuteur1 1954.371 1954.971 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1954.971 1957.262 <o,f1,male> awdi cettadi ndi
+fuc_41211 1 locuteur1 1957.262 1957.694 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1957.694 1959.745 <o,f1,male> kañum
+fuc_41211 1 locuteur1 1959.745 1960.370 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1960.370 1964.908 <o,f1,male> hay moƴƴu() hay hay batte leydi kañum ɓuuri wade saɓorde hen
+fuc_41211 1 locuteur1 1964.908 1965.520 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1965.520 1969.682 <o,f1,male> eɗen teski eɗen teski awɗele tan ɓarfino ɓeeta ɗe
+fuc_41211 1 locuteur1 1969.682 1970.175 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1970.175 1974.194 <o,f1,male> keewi hande e leyɗele men ɗe ñabbuli garɗi hen ko kañƴi gaddi ɗum hen
+fuc_41211 1 locuteur1 1974.194 1974.614 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1974.614 1979.472 <o,f1,male> par :fra ce :fra que :fra ɗi nagal hattano on hattano mo ganduɗa awdi cettadidi ne joogui
+fuc_41211 1 locuteur1 1979.472 1980.073 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1980.073 1994.176 <o,f1,male> hande sa yeehi hande guese ɗe kewɗe hen yimɓe nana mbima ko fonto aari hen mooƴu watti arde hen goɗɗum e goɗɗum rafiji ɗi nana pawpawtodira e nder leyɗele ɗe yeeyi ha ganduɗa watti hanti bonnude rendement :fra ji men
+fuc_41211 1 locuteur1 1994.176 1994.697 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 1994.697 2000.338 <o,f1,male> ɗum fo ina teska en batte woppude nde awɗel cettaɗeɗe
+fuc_41211 1 locuteur1 2000.338 2000.637 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2000.637 2003.102 <o,f1,male> ko hen hunde hen gueɗel
+fuc_41211 1 locuteur1 2003.102 2003.584 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur1 2003.584 2016.760 <o,f1,male> %hum %hum kono noon ma mbiɗa andi ma sen udditi ɓoggol ngol so ɓooyi so renaki ma wod mbiɗoma min mbiɗa joogui awdi kayri gawnmi duuɓi sappo jooyi hikka duuɓi nogas kayri gawatmi te mbeɗa daaña hen ɗum ɗo mbeɗa daaña hen ɗum ɗo
+fuc_41211 1 locuteur1 2016.760 2025.098 <o,f1,male> beela ɗum tan yoni verdal wonde awdi ndi awdi keeladi ndi ina ina ina ɓuuri ina ɓuuri ɗum ɗo ina ɓuuri awdi ndi heelaka ndi
+fuc_41211 1 locuteur3 2025.098 2030.198 <o,f1,male> eyyi kadi hayso jomum sa reemi somi reemi awdi keeladi Saydou oɗo reemi awdi ndi heelaka
+fuc_41211 1 locuteur1 2030.198 2030.778 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2030.778 2032.994 <o,f1,male> somin baddi hen ko footi ko wadde hen foof e nder guesa ba
+fuc_41211 1 locuteur1 2032.994 2033.549 <o,f1,male> %hum %humn
+fuc_41211 1 locuteur3 2033.549 2034.688 <o,f1,male> somin pesdi tan
+fuc_41211 1 locuteur1 2034.688 2035.122 <o,f1,male> %hum %hums
+fuc_41211 1 locuteur3 2035.122 2036.069 <o,f1,male> tan min ɓuratamo poids :fra
+fuc_41211 1 locuteur1 2036.069 2036.913 <o,f1,male> teddedi ndi
+fuc_41211 1 locuteur3 2036.913 2037.443 <o,f1,male> teddedi ndi
+fuc_41211 1 locuteur1 2037.443 2038.943 <o,f1,male> a cerdal cerdal ngal
+fuc_41211 1 excluded_region 2038.943 2040.800 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur3 2040.800 2043.944 <o,f1,male> hayto teddedi to ina yeehi toon kadi hayto sellude nde abbere nde
+fuc_41211 1 excluded_region 2043.944 2045.380 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur3 2045.380 2046.476 <o,f1,male> kaddi abbere nde ne yeehi toon
+fuc_41211 1 excluded_region 2046.476 2048.055 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur1 2048.055 2048.465 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2048.465 2048.994 <o,f1,male> ne yeehi toon
+fuc_41211 1 locuteur1 2048.994 2049.474 <o,f1,male> ina yeehi toon
+fuc_41211 1 locuteur3 2049.474 2050.014 <o,f1,male> ina yeehi toon
+fuc_41211 1 locuteur1 2050.014 2053.318 <o,f1,male> wadde awdoi ndi so tawi awdi ndi wona keeladi ndi
+fuc_41211 1 locuteur3 2053.318 2053.882 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur1 2053.882 2057.428 <o,f1,male> awdi keeladi ndi ne daaɗi ɗum dahammaeji
+fuc_41211 1 excluded_region 2057.428 2058.595 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 excluded_region 2058.595 2059.316 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur1 2059.316 2060.922 <o,f1,male> wadde ɗum yimɓeɓe ne pooti wattude ha()
+fuc_41211 1 excluded_region 2060.922 2062.182 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur3 2062.182 2062.567 <o,f1,male> wally
+fuc_41211 1 locuteur1 2062.567 2075.233 <o,f1,male> est :fra ce :fra que :fra yimɓeɓe ne teskiti ɗum ɗon walla teskitaki ɗum ko namdal gongal kono noon ɗum mbi sikki mataw kamɓe kamɓe yeɗotoɓeɓe ko kamɓe jogori en ɗum jabade mais :fra kono kadi beela ne waɗi ne waɗi cerdal banggue goɗɗo to banggue to banggue taago sammere nde
+fuc_41211 1 locuteur3 2075.233 2076.210 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur1 2076.210 2085.271 <o,f1,male> tag() tagueki tagaki sammere nde aɗa yiiya hen sahaji neɗɗo wiima mi liimi e sammeram gabbe temedere e capanɗe jooyi gabbe temedde ɗiɗi gabbe temettati
+fuc_41211 1 locuteur1 2085.271 2096.724 <o,f1,male> mi wiima o wiima mi liimi e guesam %e gawƴal sammere gabbe temedere e nogas guila nden aɗa aɗa faama tigui guesa mbaɗo de wonko wonko wonko saawi guila suwa sawtude
+fuc_41211 1 locuteur3 2096.724 2097.114 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur1 2097.114 2103.248 <o,f1,male> beela ina ɗum ne setti ne %e ina faawi e nder cammeji awdi cettadi e awdi ndi settaka
+fuc_41211 1 locuteur3 2103.248 2106.643 <o,f1,male> ɗum ko hen gueɗel ina teska
+fuc_41211 1 locuteur1 2106.643 2106.983 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2106.983 2111.252 <o,f1,male> mien hamin %e hay onon rewintoɓe saaha gueseɗe
+fuc_41211 1 locuteur1 2111.252 2111.672 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2111.672 2115.151 <o,f1,male> aɗa yiiya o so waɗi awdi cettadi o waɗi ndi settaka
+fuc_41211 1 locuteur1 2115.151 2115.588 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2115.588 2121.115 <o,f1,male> sa waɗi kilos :fra ji capanɗe jeetati e nder hectare :fra ma o waɗi temedere e capanɗe jooyi kiols :fra
+fuc_41211 1 locuteur1 2121.115 2121.650 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2121.650 2125.142 <o,f1,male> ma yii so tawi o waɗi hen ko footi waɗede ko e nder guesa ba
+fuc_41211 1 locuteur1 2125.142 2125.572 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2125.572 2131.629 <o,f1,male> guila fergogo e hoore mum ina serta [bb] aɗa yiiya joni %e mbaɗo no denɗam Amadou
+fuc_41211 1 locuteur1 2131.629 2132.204 <o,f1,male> roƴƴere nde
+fuc_41211 1 locuteur3 2132.204 2134.483 <o,f1,male> eyi roƴƴere nde aɗa yiiya joni mbaɗo no denɗam Amadou Faty Sambay
+fuc_41211 1 locuteur1 2134.483 2134.880 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2134.880 2138.219 <o,f1,male> wiima ahan mi waɗi hen temedde ɗiɗi kiols :fra e hectare :fra maaro ko aari ha heewi
+fuc_41211 1 locuteur1 2138.219 2138.676 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2138.676 2145.462 <o,f1,male> kono taw so waɗino hen kilos :fra ji temedere walla capanɗe jeetati kiols :fra o waɗi hen ko footi ko wadde hen taw awdi cettadi moƴƴiri
+fuc_41211 1 locuteur1 2145.462 2145.930 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2145.930 2147.918 <o,f1,male> tan omo daaña hen ko footi ko dañje
+fuc_41211 1 excluded_region 2147.918 2149.001 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 excluded_region 2149.001 2150.201 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur1 2150.201 2150.757 <o,f1,male> mo awi o
+fuc_41211 1 locuteur3 2150.757 2151.537 <o,f1,male> eyyi mo awi o
+fuc_41211 1 locuteur1 2151.537 2163.251 <o,f1,male> [bg] [bb] ceerno Saydou mbeɗa sikki men gartu e e labɓitinde ko ganduɗa ko ɗo ni ko kañum woni nafoore awdi awdi
+fuc_41211 1 excluded_region 2163.251 2163.966 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur1 2163.966 2177.961 <o,f1,male> en nani namde ɗeɗo ko namde ɗiɗi ɗebɗe ɗebɗe wonde namdal gootal nafoore wondede e awdi keeladi beela hakkilaji yimɓeɓe na kucca hen nane en nani ceerno Mamadou o wii o wii to banggue cafekiki ne serti
+fuc_41211 1 locuteur1 2177.961 2185.648 <o,f1,male> sa ñaami e maaro awdi keeladi ene serti dahamme e awdi ndi wona awdi keeladi
+fuc_41211 1 locuteur1 2185.648 2201.753 <o,f1,male> kono wonko haali ko ɓuuri wadde important :fra woni to banggue kaddi to abbere awdi keeladi kaddi muɗum ɓuuri hewde e abbere awdi ndi heelaka ɗum addata teddedi ndi aɗa andi ko kaddi ndi toon teddedi ndi woni taw ko sammere taw ko aw abbere nde ne wawi wonde wootere
+fuc_41211 1 locuteur1 2201.753 2212.133 <o,f1,male> to banggue juteedi centimétre :fra uji ne mbawi fodde yimɓe mbawi fodde darɗe kono sa peesiɓe kamɓe ɗiɗi foof taw tawa oɗo kilos :fra muɗum e oɗo kilos:fra muɗum goona gotum
+fuc_41211 1 locuteur1 2212.133 2229.173 <o,f1,male> taw kamɓe jibinida ñalawma goto kamɓe kamɓe kamɓe kamɓe gondi nokku goto kono noon to banggue cellal mabɓe taw wona wona wona gootum oɗo ne joogui ngal ɗo cellal oɗo ne joogui ngal ɗo cellal beele ko ɗul tan woni sababu yimɓeɓe ne rerɗine e awdi keeladi
+fuc_41211 1 locuteur2 2229.173 2234.146 <o,f1,male> eyyi ɗum ne waɗi hen sababuji kewɗi saabu rendement :fra o aɗa andi mbaddaten tan koye rendement :fra
+fuc_41211 1 locuteur1 2234.146 2234.506 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2234.506 2239.325 <o,f1,male> te yimɓe foof ne gandi kam a maaro kam si ɓuuri poids so ɓuuri teddedi tan kañum ɓuuratma rendement :fra
+fuc_41211 1 locuteur1 2239.325 2239.814 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2239.814 2248.874 <o,f1,male> wadde ɗum tan taw ko ɗum mbadda ten [bg] wadde ko ɗum hunde %e ko différence :fra mawɗo gonɗo hakkude awdi keeladi e mo heelaka rendement :fra
+fuc_41211 1 excluded_region 2248.874 2249.964 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur1 2249.964 2250.524 <o,f1,male> noon tigui
+fuc_41211 1 locuteur2 2250.524 2251.787 <o,f1,male> effectivement :fra kañum ɓurata teddude
+fuc_41211 1 locuteur1 2251.787 2252.193 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2252.193 2254.892 <o,f1,male> saabu awdi keeladi ndi [bb] gabbe ɗe koko cuuɓa
+fuc_41211 1 locuteur1 2254.892 2255.298 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2255.298 2256.333 <o,f1,male> gabbe ɗe foof ko karɗe
+fuc_41211 1 locuteur1 2256.333 2256.640 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2256.640 2258.678 <o,f1,male> wadde sa haari ɗum sa sa awi ɗum
+fuc_41211 1 locuteur1 2258.678 2259.065 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2259.065 2261.698 <o,f1,male> ma dañ hen %e gaƴƴe tidde
+fuc_41211 1 locuteur1 2261.698 2262.178 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2262.178 2265.473 <o,f1,male> or :fra que :fra on mon ganduɗa waɗaka heelaka
+fuc_41211 1 locuteur1 2265.473 2265.963 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2265.963 2278.639 <o,f1,male> %e siɓaka aɗa wawi hen tawde hen gabbe nde ganduɗa karani sa awi ɗum ene fuuɗa abbere ene waasa harde ene waasa teddude sa awi ene fuuɗa kono wayata no abbere harde nde no fuɗirata ni jidata
+fuc_41211 1 locuteur1 2278.639 2293.035 <o,f1,male> eyyo so tawi mi faami tigui ko jidɗon haalde ko woni awdi keeladi o tawi a awi ɗum ina gasa taw sammere nde ko mbiten ñande ko
+fuc_41211 1 locuteur2 2293.035 2293.544 <o,f1,male> ñande
+fuc_41211 1 locuteur1 2293.544 2304.251 <o,f1,male> ko mbiten ñande ko ko ƴarotoɗa ko tan guupi keewa e e leydi awdi keeladi footani ɗum footani ɗum wadde wadde mataw noon ceerno Mamadou
+fuc_41211 1 locuteur3 2304.251 2308.952 <o,f1,male> eyyi awdi keeladi awdi keeladi so tawi a waɗi hen ko poɗɗo ko wadde hen foof
+fuc_41211 1 locuteur1 2308.952 2309.216 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2309.216 2310.672 <o,f1,male> a rewi lawol ngol
+fuc_41211 1 locuteur1 2310.672 2311.172 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2311.172 2313.382 <o,f1,male> ko guilay awre nde saaha de poɗɗa nde awde
+fuc_41211 1 locuteur1 2313.382 2313.811 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2313.811 2314.886 <o,f1,male> aɗa rewa hen saahaji ɗi ɗon
+fuc_41211 1 locuteur1 2314.886 2315.206 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2315.206 2320.732 <o,f1,male> ha gueɗel hen foof jontuguel a waɗi ɗum hen engrais :fra ji mum produit :fra ji mum a illni ɗum no hannirta ni
+fuc_41211 1 locuteur1 2320.732 2321.240 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2321.240 2324.012 <o,f1,male> so Allah jaaɓi kañum ɓurrata famɗude fomko
+fuc_41211 1 locuteur1 2324.012 2324.432 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2324.432 2325.389 <o,f1,male> e maaroji ɗi to
+fuc_41211 1 locuteur1 2325.389 2328.160 <o,f1,male> [bb]
+fuc_41211 1 excluded_region 2328.160 2329.242 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur3 2329.242 2331.944 <o,f1,male> %e eɓe jaafo yimɓeɓe heɗotoɓe jaafo e kongol ngol
+fuc_41211 1 locuteur1 2331.944 2332.354 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2332.354 2337.288 <o,f1,male> debbo cowiɗo ni soko so tawi rendez-vous :fra mum foof timmi timmidi
+fuc_41211 1 locuteur1 2337.288 2337.648 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2337.648 2340.449 <o,f1,male> kala ko médecin :fra o windanimo omo sooda omo waɗa e ɓamdu makko
+fuc_41211 1 locuteur1 2340.449 2340.896 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2340.896 2343.765 <o,f1,male> so jibinoyi bébé :fra kañamu ɓurata wonde bébé :fra timmuɗo
+fuc_41211 1 locuteur1 2343.765 2344.068 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur3 2344.068 2348.265 <o,f1,male> e mo ganduɗa oɗo kañum rewidirano rendez-vous :fra ji mum harani harani tigui rigui [bg]
+fuc_41211 1 locuteur1 2348.265 2348.692 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur1 2348.692 2363.214 <o,f1,male> beela joni namdal battini ngal ngal e e toɓɓere adana nde wonata ko beela holko woni gartam to banggue rendement :fra min mi awi hectare :fra awdi keeladi
+fuc_41211 1 locuteur1 2363.214 2379.470 <o,f1,male> oɗo awi hectare :fra awdi ndi heelaka holko wonata gartam rendement :fra hectares :fra uji ɗiɗi ɗi beela ne waɗi cerdal to banggue rendement :fra walla hay kanƴƴi foof rendement :fra majji ko gootum wonata ceerno Saydou walla ceerno Mamadou goto e moon
+fuc_41211 1 locuteur2 2379.470 2381.033 <o,f1,male> eyyi rendement :fra ji ɗi
+fuc_41211 1 locuteur1 2381.033 2381.453 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2381.453 2383.511 <o,f1,male> eɗi eɗi certi
+fuc_41211 1 locuteur1 2383.511 2384.087 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2384.087 2387.210 <o,f1,male> so tawi a waɗi hectare :fra
+fuc_41211 1 locuteur1 2387.210 2387.812 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2387.812 2388.382 <o,f1,male> keelaɗo
+fuc_41211 1 locuteur1 2388.382 2388.862 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2388.862 2390.302 <o,f1,male> o waɗi hectare :fra mo heelaka
+fuc_41211 1 locuteur1 2390.302 2390.698 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2390.698 2396.658 <o,f1,male> tan en certat rendement :fra aji [bb] haysoko cogguji haysoko an a ummima to a aari
+fuc_41211 1 locuteur1 2396.658 2397.030 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2397.030 2397.869 <o,f1,male> aɗa sooda maaro
+fuc_41211 1 locuteur1 2397.869 2398.351 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2398.351 2399.627 <o,f1,male> a tawi guesa ba eba daari
+fuc_41211 1 locuteur1 2399.627 2400.087 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2400.087 2412.789 <o,f1,male> tan toujours :fra %e guesa mum gawɗo o awdi keeladi ndi [bb] kanko toon ɓurta faade [bb] kanko so waɗi foof hay abbere a tawata hen ina foomi tawata gabbeɗe foof ne ene loowi ene daari
+fuc_41211 1 locuteur1 2412.789 2413.256 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2413.256 2415.941 <o,f1,male> tawi noon oto noon mbaɗo ko ɓarfino ɓeeta tan soodi waɗi hen
+fuc_41211 1 locuteur1 2415.941 2416.350 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2416.350 2421.965 <o,f1,male> e guesa mum hayso ko waɗi hen so hawre coodowo ngana so darima mo o serdu gueseɗe
+fuc_41211 1 locuteur1 2421.965 2422.725 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2422.725 2423.220 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur1 2423.220 2427.517 <o,f1,male> so hawre so hawre codowo codowo holɗum codowo
+fuc_41211 1 locuteur2 2427.517 2429.020 <o,f1,male> taw codowo maaro
+fuc_41211 1 locuteur1 2429.020 2430.074 <o,f1,male> gadoriɗo sodde maaro
+fuc_41211 1 locuteur2 2430.074 2432.107 <o,f1,male> gardiriɗo maaro sodde maaro [bb] duttoɓeɓe
+fuc_41211 1 locuteur1 2432.107 2432.527 <o,f1,male> eyyi
+fuc_41211 1 locuteur2 2432.527 2444.430 <o,f1,male> aɗa andi a wawa sodde kilos :fra maaroji capanɗe jeegom e jooyi ɗi gawa on semence :fra certifié :fra awdi keeladi o soodaɗo ahan o wiima o soodi ɗo muudo capanɗe jeegom [bb] ko maaro moƴƴo Djibril Cheikh remno ɗum rawane sooñi rendement :fra ha heewi mi ara mi waɗa ɗum e guesam
+fuc_41211 1 locuteur1 2444.430 2444.855 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2444.855 2449.380 <o,f1,male> kono an ka coodowo maaro ka duttoyowo sa ari a hucciti e guese ɗiɗi ɗe tan
+fuc_41211 1 locuteur1 2449.380 2449.820 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2449.820 2451.084 <o,f1,male> tan koye guesam ba paata
+fuc_41211 1 locuteur1 2451.084 2458.981 <o,f1,male> [bb] est :fra ce :fra que :fra wona est :fra ce :fra beela beela jogorɓe noddude ɓe jogorani wiide an gonɗa tan ko yidde yo awdi ma jaar [rire]
+fuc_41211 1 locuteur2 2458.981 2464.880 <o,f1,male> [rire_en_fond] ne wawi ɓe jiira noon kono ko lawol tan no wiirini kadi toujours :fra kadi no kewɗen yirude ɗum ni
+fuc_41211 1 locuteur1 2464.880 2465.250 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur2 2465.250 2466.143 <o,f1,male> noon tan heewi waade
+fuc_41211 1 locuteur1 2466.143 2490.885 <o,f1,male> noon tigui noon tigui mbiɗa sikki yimɓeɓe ɓe paami tigui rigui ko jidɗa ko jidɗa haalde ko ɓe paami tigui rigui no golleɗe jarini mbiɗa sikki so atwi technicien o omo paari omo wawi men fawande page :fra publicitaire :fra mo ganduɗa ko Jokalante o jeehi ɗum caggal mbawen udditde ɓoggol ngol haade men yettade namde men ɗiɗiɓel
+fuc_41211 1 locuteur1 2490.885 2520.628 <o,f1,male> [musique]
+fuc_41211 1 locuteur4 2520.628 2555.316 <o,f1,male> an deemowo gonɗo e falde Podor walla nokku ronka walla diwan Matam so ndugungu heedi caɗele awdi ene heptoma ɗen caɗele kayi safroyima e oɗo saaha gaam safrude ɗen caɗele bippu e 33 869 75 98 bippu e 33 869 75 98 mbatta ko tati laabi ɗiɗi mbaɗa jeetati mbaɗa jeegom mbaɗa jeenaayi mbaɗa jeeɗiɗi mbaɗa jooyi mbaɗa jeenaayi mbaɗa jeetati
+fuc_41211 1 locuteur4 2555.316 2573.790 <o,f1,male> on saaha [conv] a yooɓata haydrara so tawi a noddi ma karalla nodde jokkodira e ma gaam mbawa hebde awdi ndi cohluɗa taw ko awdi senidi moƴƴiri taw leelani
+fuc_41211 1 locuteur1 2573.790 2591.318 <o,f1,male> ceerno Djiby ceerno Djiby golle ma jooɗi peewi Allah jarama on ajarama no wiini ko noon tigui so tawi en udditi ɓoggol ngol kal mo ganduɗa dañi namdal ngal yiiɗi namdade so tawi namdal ngal o dañani hen ko yonimo tigui rigui
+fuc_41211 1 locuteur1 2591.318 2610.055 <o,f1,male> omo wawi noddude 33 869 74 04 o bippat hen tan so bippi ɓen noddumo jabtonomo namdal ngal no yiɗiri ni kono kadi en mbiyatmo kanko ceerno Djiby yo udditan en ɓoggol ngol kal mo ganduɗa ne yiiɗi addude ballal muɗum walla namnade e yewtere nde yo waat 88 628 00 01
+fuc_41211 1 locuteur1 2610.055 2625.925 <o,f1,male> capanɗe jeetati e jeettati temedde jeegom e nogas e jeetati mbaɗa ɓoolum laabi tati mbaɗa gotel ko ɗon natta gaam addude namdal ma walla ni addude ballal maɗa e yewtere nde ko ɗon tigui golle jogori ruttorade inchallah joni bisimilla ma musidɗo
+fuc_41211 1 locuteur5 2625.925 2627.362 <o,f1,male> assalamu aleykum
+fuc_41211 1 locuteur1 2627.362 2628.862 <o,f1,male> waleyna walaykum wa rahmatullah
+fuc_41211 1 locuteur5 2628.862 2630.633 <o,f1,male> ceerno a juurama
+fuc_41211 1 locuteur1 2630.633 2631.713 <o,f1,male> no mbaɗɗa e tampere
+fuc_41211 1 locuteur5 2631.713 2633.690 <o,f1,male> Hamidine Thiam to Donnaye Taredji
+fuc_41211 1 locuteur1 2633.690 2635.010 <o,f1,male> ceerno Hamedine bisimilla ma
+fuc_41211 1 locuteur5 2635.010 2636.470 <o,f1,male> wona ceerno ko Almudo tan
+fuc_41211 1 locuteur1 2636.470 2637.923 <o,f1,male> eyyi bisimilla sedy Thiam
+fuc_41211 1 locuteur5 2637.923 2639.603 <o,f1,male> en calmidiri en jurodiri
+fuc_41211 1 excluded_region 2639.603 2641.921 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 locuteur5 2641.921 2644.273 <o,f1,male> foof ko yimɓe beltima e ko gadduɗon ko
+fuc_41211 1 locuteur1 2644.273 2645.230 <o,f1,male> yo Allha weltin en
+fuc_41211 1 locuteur2 2645.230 2645.711 <o,f1,male> on jarama
+fuc_41211 1 locuteur5 2645.711 2646.974 <o,f1,male> awdi keeladi kaam
+fuc_41211 1 locuteur1 2646.974 2647.433 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2647.433 2649.472 <o,f1,male> wona Foutanke foofti ɗum namdede
+fuc_41211 1 locuteur1 2649.472 2650.192 <o,f1,male> noon tigui
+fuc_41211 1 locuteur5 2650.192 2652.683 <o,f1,male> saabu keele ko guilay men ganduɗen
+fuc_41211 1 locuteur1 2652.683 2653.403 <o,f1,male> noon tigui
+fuc_41211 1 locuteur5 2653.403 2655.683 <o,f1,male> keele eɗen gandiri no mbaɗɗanno ɗen e guese men
+fuc_41211 1 locuteur1 2655.683 2656.371 <o,f1,male> wallahi
+fuc_41211 1 locuteur5 2656.371 2660.351 <o,f1,male> saabu nde ɓuurɗa horsinde [bb] ko nden kenannoɗa banggue
+fuc_41211 1 locuteur1 2660.351 2660.859 <o,f1,male> noon tigui
+fuc_41211 1 locuteur5 2660.859 2663.176 <o,f1,male> guila e gabbe mum ha no dardino e gawƴal ngal
+fuc_41211 1 locuteur1 2663.176 2663.816 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2663.816 2666.932 <o,f1,male> mbawa ɗum miijade so Allah wurnima ɗum wuuri mbawa ɗum awde
+fuc_41211 1 locuteur1 2666.932 2667.535 <o,f1,male> wallahi
+fuc_41211 1 locuteur5 2667.535 2668.781 <o,f1,male> ɗum ko keele mbiyanno ɗen
+fuc_41211 1 locuteur1 2668.781 2669.396 <o,f1,male> noon tigui
+fuc_41211 1 locuteur5 2669.396 2672.125 <o,f1,male> tubakoɓe gaddanimen semence :fra certifié :fra
+fuc_41211 1 locuteur1 2672.125 2672.492 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2672.492 2673.395 <o,f1,male> beela awdi keeladi
+fuc_41211 1 locuteur1 2673.395 2674.221 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2674.221 2675.578 <o,f1,male> abbade o ɗon miijo
+fuc_41211 1 locuteur1 2675.578 2676.301 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2676.301 2680.186 <o,f1,male> aɗa miijino monsieur :fra Sall e Diawo ko kaaliko ɗon
+fuc_41211 1 locuteur1 2680.186 2680.606 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2680.606 2681.578 <o,f1,male> woɗɗo dirani
+fuc_41211 1 locuteur1 2681.578 2682.376 <o,f1,male> noon tigui
+fuc_41211 1 locuteur5 2682.376 2687.427 <o,f1,male> firti tan ko neɗɗo yo ƴeew ko jallugol moƴƴol
+fuc_41211 1 locuteur1 2687.427 2687.787 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2687.787 2689.727 <o,f1,male> wawa dañje hen guura kay no fewi
+fuc_41211 1 locuteur1 2689.727 2690.249 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2690.249 2692.257 <o,f1,male> wawa yañu ɗum janggo e jaam wawa rumde
+fuc_41211 1 locuteur1 2692.257 2692.677 <o,f1,male> noon tigui
+fuc_41211 1 locuteur5 2692.677 2696.617 <o,f1,male> saabu hayso ko ko [bg] ko fawanma ko gonɗa aɗa ñama jamma e ñalawma
+fuc_41211 1 locuteur1 2696.617 2697.153 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2697.153 2703.734 <o,f1,male> so waylotakone abbere nde so ɓooyi wonata koye sewde [bb] kono ka anda ka nada ƴew hayso ko jawdi ma joguiɗa
+fuc_41211 1 locuteur1 2703.734 2704.224 <o,f1,male> %hum %hum
+fuc_41211 1 locuteur5 2704.224 2708.062 <o,f1,male> no jibinirta ni so ɓooyi tan [bb] ɓiɗɗo ɓurɗo wattidade foof ɓuranma famɗude
+fuc_41211 1 locuteur1 2708.062 2708.671 <o,f1,male> noon tigui
+fuc_41211 1 locuteur5 2708.671 2709.881 <o,f1,male> so famɗiti adda caɗele
+fuc_41211 1 locuteur1 2709.881 2710.341 <o,f1,male> %hum %hum
+fuc_41211 1 excluded_region 2710.341 2712.755 <o,,unknown> ignore_time_segment_in_scoring
+fuc_41211 1 excluded_region 2712.755 2714.848 <o,,unknown> ignore_time_segment_in_scoring

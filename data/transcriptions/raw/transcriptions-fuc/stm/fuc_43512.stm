@@ -1,0 +1,422 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:04 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 7 of 230914
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_43512 1 locuteur1 0.000 8.937 <o,f1,male> ko yii leeñol ngol ko woni sohla mum ganduɗo leeñol ngol rendo ngo ko hunde nde ganduɗa ko Mauritanie e Sénégal maayo yonani ɗum keerol
+fuc_43512 1 locuteur1 8.937 17.217 <o,f1,male> enen jiidi yumma jiidi baaba en mbawi sertude ɗum noon oto cerden koyemen wadde ko kala ko jooli to ko ɗum jolata ga e o () bisimila ma musidɗo
+fuc_43512 1 locuteur2 17.217 18.247 <o,f1,male> salamu aleykum
+fuc_43512 1 locuteur1 18.247 20.004 <o,f1,male> aleykumu salam wa rahmatullah
+fuc_43512 1 locuteur2 20.004 21.487 <o,f1,male> Baara Diaby Donnayi Taredji
+fuc_43512 1 locuteur1 21.487 23.167 <o,f1,male> Baara Diaby bisimilla ma
+fuc_43512 1 locuteur2 23.167 24.729 <o,f0,male> bisimilla aɗa selli
+fuc_43512 1 locuteur1 24.729 26.109 <o,f0,male> Baara no mbaɗɗa e tampere
+fuc_43512 1 locuteur2 26.109 26.949 <o,f0,male> mbaɗɗa e tampere
+fuc_43512 1 locuteur1 26.949 28.149 <o,f0,male> no Mamadou Djiby waɗi
+fuc_43512 1 locuteur2 28.149 29.229 <o,f0,male> omo selli machallah
+fuc_43512 1 locuteur1 29.229 30.489 <o,f0,male> no Ousmane Djiby waɗi
+fuc_43512 1 locuteur2 30.489 31.628 <o,f0,male> eɓe celli eɓe celli machallah
+fuc_43512 1 locuteur1 31.628 33.189 <o,f0,male> bisimilla no bamma
+fuc_43512 1 locuteur2 33.189 34.154 <o,f0,male> Mamadou Demba [rire_en_fond]
+fuc_43512 1 locuteur1 34.154 36.040 <o,f0,male> [rire] Samba no waɗi
+fuc_43512 1 locuteur2 36.040 37.936 <o,f0,male> ne waɗi fulla e fayida
+fuc_43512 1 excluded_region 37.936 39.593 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur2 39.593 40.404 <o,f1,male> tabarikalla
+fuc_43512 1 locuteur1 40.404 41.196 <o,f1,male> jaam tan ni Diaby
+fuc_43512 1 locuteur2 41.196 42.684 <o,f1,male> eyyi mi weltini hen Podor naaɓe foof
+fuc_43512 1 locuteur1 42.684 57.144 <o,f1,male> eyyi ɓe beltima [shh] ceerno Baara o ɓoccitima en calminiɓe en calmini musidɗo moon Bocar Moussa en mbimo yo jaam hiire makko nonne kayne galle makko kanko walla
+fuc_43512 1 locuteur1 57.144 67.589 <o,f1,male> en calmini dendagal galle soubalɓe to Naayi en mbiɓe kamɓe kala yoo jaam hiire mabɓe en dewni salminago ngo e junggo musidɗo men Baara en mbiɓe kamɓe kala yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 67.589 79.099 <o,f1,male> tawno kankone ko cukalel laaɓa juuɗe ñamdata koye mawɓe kalado naati ma yimɓeɓe foof belto saabu kamɓe foof mo weltinɓe wonde ko welti ko mo tintini yimɓeɓe kala mo welti e ko welti ko
+fuc_43512 1 locuteur1 79.099 84.269 <o,f1,male> ɗum noon ceerno Baara golle ma jooɗi pewi Allah jarama a jarama bisimilla ma musidɗo
+fuc_43512 1 locuteur1 84.269 102.516 <o,f1,male> musidɗo mataw o yettaki so tawi o wawino yettade enen paadimo ɗum noon mbiɗen ko kalmo ganduɗa ne yiiɗi addude ballal mum waɗata ko 88 628 00 01 capanɗe jeetati e jeetati temedde jeegom e nogas e jeetati mbaɗa ɓoolum laabi tati mbaɗa gotel ko ɗon natta gadda ballal maɗa
+fuc_43512 1 locuteur1 102.516 116.856 <o,f1,male> en calmini musidɗo men Yero Diaw to Thile Boubarcara e joom suudu muɗum Ramata Lam en mbiɓe yo jaam hiire mabɓe en bayriɓe nande eɗen gandi kam hakkillaji mabɓe ne keedi e meɗen enenne kayne en calminiɓe en jurimaɓe
+fuc_43512 1 locuteur1 116.856 129.036 <o,f1,male> noon calminirtumi denɗam Houleye Demba ɗon to wuuro meɗen Arifundu en calamini ceerno Djiby Diallo en kawam ceerno Bathia en calminiɓe en calmini en juurimaɓe kamɓe kala
+fuc_43512 1 locuteur1 129.036 140.966 <o,f1,male> en calmini banimen debbo Yaye Booy Aissata Dikkel ɗum ko Diatare noon calminirten Yayou Ban en Mouhamadoul Fadoul Sy en calminiɓe en calmini galle makko en calmini dendagal Diatare naaɓe
+fuc_43512 1 locuteur1 140.966 156.446 <o,f1,male> en gaccani hay goto ko wayno Mamadou Sileye Gueddaɗo en e dendagal Diatare naaɓe kala ko ñallata e Rindiaw en mbi kamɓe kala yo jaam hiire mabɓe nde tawno eɗen gandi oɗo saaha so heedi hakkillaji mabɓe ena keedi e heeɗade meɗen ko wayno musidɗo men Amadou Aw en
+fuc_43512 1 locuteur1 156.446 169.397 <o,f1,male> e ko nandi hen kamɓe kala en ketti en jettaɓe e kettogol mabɓe ɗum noon en mbi dendagal Diatare naaɓe yo jaam hiire mabɓe ɗum noon en calminiɓe en juurimoɓe en jettiɓe no fewi no fewi no fewi e kettogol mabɓe
+fuc_43512 1 locuteur1 169.397 179.716 <o,f1,male> noon calminirten musibɓe men wonɓe toon to wuuro meɗen Hammat Sall en calminiɓe ko wayno Dialo Hawoly en Amadou Mactare en Aissata Amina en kamɓe kala yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 179.716 208.337 <o,f1,male> noon calminirten hay wonɓe ɗo musibɓe men wonɓe ɗo ɗo * Mamadoun Wanne nonne kayne ɓe ganduɗa ɓeeɗo ni ko dendagal hodɓe ɗon e wuuro meɗen * walla mbiyen projet :fra men * kamɓe kala en mbiɓe yo jaam hiire mabɓe nde tawno eɗen gandi so oɗo saaha heedi kamɓene hakkillaji mabɓe ne keedi e hettade radio :fra ngo ɗum noon en calminiɓe en calmini dendagal wonɓe ɗon ɗo wuuro meɗen Masina
+fuc_43512 1 locuteur1 208.337 225.966 <o,f1,male> en jettiɓe kamɓe kala e kettogol mabɓe en mbiɓe yo jaam hiire mabɓe Donnaye Waalo en calminiɓe en calmini musidɗo men ceerno Cubballo e galle muɗum e dendagal Donnaye Waalo naaɓe en gaccani hay goto wuuro babmen kawmen Amadou Sidiobe en calmini ɗum en calmini galle o en calmini dendagal Guayo naaɓe
+fuc_43512 1 locuteur1 225.966 233.768 <o,f1,male> en gaccani ɗon hay goto nde tawno oɗo saaha so heedi eɗen gandi hakkillaji mabɓe ne keedi e kettogol ɗum noon en mbiɓe yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 233.768 250.077 <o,f1,male> noon calminirten musibɓe men wonɓe toon to wuuro meɗen Mboyo Waalo en mbiɓe kamɓe kala yo jaam hiire mabɓe en jettiɓe e kettogol mabɓe Oumar Amadou Mbowa calminima a juurama noon calminirten Rougui Diallo en Madina Sow a calminama Madino [rire]
+fuc_43512 1 locuteur1 250.077 259.197 <o,f1,male> noon mbiɗa sikki mataw ɓe paami Deiynaba Sow nonne kayne Madina Diagne en mbiɓe kamɓe kala yo jaam hiire mabɓe en Souleymany Ly e galle muɗum
+fuc_43512 1 locuteur1 259.197 268.558 <o,f1,male> Bandel Diagne a salminama en calmini dendagal Mboya naaɓe en mbiɓe kamɓe kala yo jaam hɓiire mabɓe nde tawno eɗen gandi oɗo saaha so heedi bisimilla ma musidɗo
+fuc_43512 1 locuteur3 268.558 269.805 <o,f1,female> alo
+fuc_43512 1 locuteur1 269.805 270.542 <o,f1,male> alo ouais :fra
+fuc_43512 1 locuteur3 270.542 272.045 <o,f1,female> ceerno Ibrahima
+fuc_43512 1 locuteur1 272.045 272.825 <o,f1,male> eyyi
+fuc_43512 1 locuteur3 272.825 274.499 <o,f1,female> mbaɗɗa Ba
+fuc_43512 1 locuteur1 274.499 275.699 <o,f1,male> bisimilla ma hol musidɗo
+fuc_43512 1 locuteur3 275.699 277.979 <o,f1,female> aɗa selli o ko Ramata Lam
+fuc_43512 1 locuteur1 277.979 280.155 <o,f1,male> sokhna Ramata jaam hiire ma
+fuc_43512 1 locuteur3 280.155 281.536 <o,f1,female> jaam hiiri toon
+fuc_43512 1 locuteur1 281.536 282.385 <o,f1,male> a hiire jaam
+fuc_43512 1 locuteur3 282.385 284.365 <o,f1,female> [bg] yimɓe galle ene celli
+fuc_43512 1 locuteur1 284.365 285.926 <o,f1,male> wallahi eɓe celli machallah
+fuc_43512 1 locuteur3 285.926 287.845 <o,f1,female> to Madiw naaɓe foof ene celli
+fuc_43512 1 locuteur1 287.845 289.345 <o,f1,male> eɓe celli alhamdulillah
+fuc_43512 1 locuteur3 289.345 291.505 <o,f1,female> Yero wi ne salminma
+fuc_43512 1 locuteur1 291.505 293.075 <o,f1,male> e mi salmitimomo
+fuc_43512 1 locuteur3 293.075 294.815 <o,f1,female> o wiima ya addanmo juulo
+fuc_43512 1 locuteur1 294.815 301.540 <o,f1,male> juulo bisimilla makko gandan momi ko huuɗo [rire_en_fond] ko huuɗo huuɗo gaddantumomi
+fuc_43512 1 excluded_region 301.540 303.691 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 excluded_region 303.691 305.687 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur3 305.687 309.604 <o,f1,female> [rire] eyyi eyyi huuɗo o ɓuuri yidde e juula kam hande kayi [bb]
+fuc_43512 1 locuteur3 309.604 311.836 <o,f1,female> min beltinima on seydi Ba %e
+fuc_43512 1 locuteur1 311.836 313.677 <o,f1,male> yo Allah weltin en seydi
+fuc_43512 1 excluded_region 313.677 314.940 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur1 314.940 318.193 <o,f1,male> noon noon noon en mbaas kewɗe Allah e ɗeɗo dumunnaji
+fuc_43512 1 locuteur3 318.193 320.238 <o,f1,female> wallay gonga kay ko hen jeeya
+fuc_43512 1 locuteur1 320.238 321.143 <o,f1,male> noon tigii wallahi
+fuc_43512 1 locuteur3 321.143 322.779 <o,f1,female> emission :fra o weeli
+fuc_43512 1 locuteur3 322.779 324.399 <o,f1,female> eyyi a jarama seydi Lam
+fuc_43512 1 excluded_region 324.399 326.407 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur3 326.407 328.272 <o,f1,female> a tampi a tampi no fewi
+fuc_43512 1 excluded_region 328.272 329.237 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur1 329.237 330.195 <o,f1,male> enen dendi
+fuc_43512 1 excluded_region 330.195 332.924 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur3 332.924 334.841 <o,f1,female> ko woni ko e fandare ma yo Allah yettin ɗum
+fuc_43512 1 locuteur1 334.841 336.461 <o,f1,male> amine ya rabbal alamina Allah
+fuc_43512 1 locuteur3 336.461 337.853 <o,f1,female> eyyi Ba a jarama
+fuc_43512 1 locuteur1 337.853 339.173 <o,f1,male> a jarama seydi Lam
+fuc_43512 1 locuteur3 339.173 340.377 <o,f1,female> eyyi kayi
+fuc_43512 1 locuteur1 340.377 349.496 <o,f1,male> a jarama merci :fra a jarama [shh] [bg] o ko banimen debbo Ramata Lam en calminiɓe en calmini musidɗo men Yero Diaw no wiini kono kadi en calmini mawɗo men
+fuc_43512 1 locuteur1 349.496 359.869 <o,f1,male> %e bammen en ñanguimomo dowaw en dokkimo douwaw enen gandi hakkille makko nani heedi e meɗen ɗum noon enenne en ceerani e salmindeɓe en ceerani e wiide ñagademo duwaw
+fuc_43512 1 locuteur1 359.869 373.491 <o,f1,male> ɗum noon en mbimo yo barke duwaw hejju en noon en calmini dendagal ko hettoto en ɗon ɗo wuuro meɗen Thilé boubacara no mbiɗen ni nonne kayne wuuro meɗen bisimilla ma musidɗo alo
+fuc_43512 1 locuteur4 373.491 374.988 <o,f1,male> salamu aleykum
+fuc_43512 1 locuteur1 374.988 376.724 <o,f1,male> alaeyna waleykumu salam warahmatullah
+fuc_43512 1 locuteur4 376.724 377.845 <o,f1,male> seydi Ba
+fuc_43512 1 locuteur1 377.845 379.040 <o,f1,male> seydi Dia
+fuc_43512 1 locuteur4 379.040 380.358 <o,f1,male> seydi Ba
+fuc_43512 1 locuteur1 380.358 381.871 <o,f1,male> seydiu Dia
+fuc_43512 1 locuteur4 381.871 383.611 <o,f1,male> alabarka ma seydi Ba
+fuc_43512 1 locuteur1 383.611 384.988 <o,f1,male> alabarka ma seydi Dia
+fuc_43512 1 locuteur4 384.988 386.445 <o,f1,male> ko bonata ala
+fuc_43512 1 locuteur1 386.445 387.251 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 387.251 388.485 <o,f1,male> kono ko *
+fuc_43512 1 locuteur1 388.485 389.159 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 389.159 391.737 <o,f1,male> seydi Ba en *
+fuc_43512 1 locuteur1 391.737 393.601 <o,f1,male> eyyi en galodiri enen kala
+fuc_43512 1 locuteur4 393.601 395.621 <o,f1,male> en * kala bandiraɓe yaaɓe
+fuc_43512 1 locuteur1 395.621 396.360 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 396.360 401.154 <o,f1,male> ceerno Ibrahima [bb] mi salimini ceerno mum Bocar Sy
+fuc_43512 1 locuteur1 401.154 401.822 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 401.822 403.741 <o,f1,male> mi wiinoma funere ma
+fuc_43512 1 locuteur1 403.741 404.445 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 404.445 408.589 <o,f1,male> mbimi [bb] ko wooni théme hande joni kalen hen
+fuc_43512 1 locuteur1 408.589 410.805 <o,f1,male> [bb] kalten ko haala jeygu soble
+fuc_43512 1 locuteur4 410.805 414.099 <o,f1,male> [rire] %e *
+fuc_43512 1 locuteur1 414.099 414.882 <o,f1,male> ahan
+fuc_43512 1 locuteur4 414.882 415.362 <o,f1,male> ceerno Ibrahima
+fuc_43512 1 locuteur1 415.362 415.799 <o,f1,male> [bb]
+fuc_43512 1 locuteur4 415.799 418.139 <o,f1,male> haydara tampinani hoore ma
+fuc_43512 1 locuteur1 418.139 418.979 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 418.979 420.296 <o,f1,male> ko yimɓe tan tampanɗa
+fuc_43512 1 locuteur1 420.296 420.998 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 420.998 422.813 <o,f1,male> ya yooɓe moƴƴere Allah
+fuc_43512 1 locuteur1 422.813 423.833 <o,f1,male> amine ya rabbal alamina
+fuc_43512 1 locuteur4 423.833 430.260 <o,f1,male> kono sobleɗe [bb] ko daaña hen [bb] ko hen ko ari foof yo barke woon e mum tan
+fuc_43512 1 locuteur1 430.260 431.160 <o,f1,male> amine ya rabbal alamina
+fuc_43512 1 locuteur4 431.160 433.745 <o,f1,male> neɗɗo ne heewi yidde ko moƴƴani e mum
+fuc_43512 1 locuteur1 433.745 434.370 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 434.370 438.165 <o,f1,male> ene heewi ñaama hunde ha heeɓa reedu tuuta a yeeɗaka
+fuc_43512 1 locuteur1 438.165 438.792 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 438.792 440.915 <o,f1,male> aɗa waɗa hunde e poche :fra ma gujjo nawa
+fuc_43512 1 locuteur1 440.915 441.583 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 441.583 442.838 <o,f1,male> habnuma
+fuc_43512 1 locuteur1 442.838 443.248 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 443.248 449.905 <o,f1,male> kala ko yanti hande e sobleɗe [bb] e fere muɗum [bb] e tampere muɗum [bb] foof poɗɗa
+fuc_43512 1 locuteur1 449.905 450.353 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 450.353 452.128 <o,f1,male> mbaɗɗa e poche :fra ya daañ ya daañ hen jaam
+fuc_43512 1 locuteur1 452.128 453.028 <o,f1,male> amine ya rabbal alamina
+fuc_43512 1 locuteur4 453.028 454.048 <o,f1,male> kowoni hen fo yataw ɓuuri
+fuc_43512 1 locuteur1 454.048 454.598 <o,f1,male> amine
+fuc_43512 1 locuteur4 454.598 455.906 <o,f1,male> mbiɗa wawi nden so yonti
+fuc_43512 1 locuteur1 455.906 456.959 <o,f1,male> amine ya rabbal alamina
+fuc_43512 1 locuteur4 456.959 458.458 <o,f1,male> ko ɗum musiba ndeema men ɗo Guiya ɗo
+fuc_43512 1 locuteur1 458.458 458.914 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 458.914 461.157 <o,f1,male> wallahi ko ɗum ɓurmi yurmade *
+fuc_43512 1 locuteur1 461.157 461.943 <o,f1,male> noon tigui *
+fuc_43512 1 locuteur4 461.943 463.497 <o,f1,male> Waalo Fadenaɓe foof mi renti ɗumen
+fuc_43512 1 locuteur1 463.497 463.977 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 463.977 465.417 <o,f1,male> ya woon Douye naajo
+fuc_43512 1 locuteur1 465.417 465.898 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 465.898 469.132 <o,f1,male> Aly * Ndiaye [bb] mi weltini ɗum
+fuc_43512 1 locuteur1 469.132 469.686 <o,f1,male> eskey
+fuc_43512 1 locuteur4 469.686 471.186 <o,f1,male> ceerno Saydou Guro Guéye
+fuc_43512 1 locuteur1 471.186 471.595 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 471.595 476.048 <o,f1,male> e ceerno Oumar Selo [bb] eɓe %e beltinima ɓe beltinima
+fuc_43512 1 locuteur1 476.048 476.568 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 476.568 477.844 <o,f1,male> haaɓe beltonoma
+fuc_43512 1 locuteur1 477.844 478.500 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 478.500 485.279 <o,f1,male> Tivaoune Guiya yen foof * ɗum ɗon [bb] Abdoul Ba [bb] Abdoul jaam hiiri mi samnima
+fuc_43512 1 locuteur1 485.279 485.879 <o,f1,male> eskey
+fuc_43512 1 locuteur4 485.879 488.579 <o,f1,male> mi salmini Bintou Ba Bintou Dia to mbaalo
+fuc_43512 1 locuteur1 488.579 488.940 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 488.940 489.949 <o,f1,male> to Aminata Guiya en
+fuc_43512 1 locuteur1 489.949 490.464 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 490.464 493.069 <o,f1,male> Diary Ba hayno Guiya naaɓe kono mbiɗo salninɓe
+fuc_43512 1 locuteur1 493.069 493.433 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 493.433 494.878 <o,f1,male> Hamedine Sow mi salmini ɗum
+fuc_43512 1 locuteur1 494.878 495.544 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 495.544 497.533 <o,f1,male> Ware Kadde naaɓe ne beltanimama
+fuc_43512 1 locuteur1 497.533 497.952 <o,f1,male> eskey
+fuc_43512 1 locuteur4 497.952 501.432 <o,f1,male> kono sen gaari ha Rindiaw [bb]
+fuc_43512 1 locuteur1 501.432 501.852 <o,f1,male> eskey
+fuc_43512 1 locuteur4 501.852 503.576 <o,f1,male> mi salmini Souleymany
+fuc_43512 1 locuteur1 503.576 504.198 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 504.198 505.546 <o,f1,male> o ko ɓii yagguet deefa
+fuc_43512 1 locuteur1 505.546 506.054 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 506.054 507.645 <o,f1,male> mi salmini Aminata
+fuc_43512 1 locuteur1 507.645 508.224 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 508.224 510.285 <o,f1,male> mi salmini kala kettoɗo dandam nde
+fuc_43512 1 locuteur1 510.285 510.765 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 510.765 514.727 <o,f1,male> Takka Sy noon [bb] e galle foof mi salmini galle *
+fuc_43512 1 locuteur1 514.727 515.211 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 515.211 516.588 <o,f1,male> ko bonata ala
+fuc_43512 1 locuteur1 516.588 517.007 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 517.007 518.628 <o,f1,male> malla Moussa Sow
+fuc_43512 1 locuteur1 518.628 519.408 <o,f1,male> amine ahan
+fuc_43512 1 locuteur4 519.408 520.065 <o,f1,male> e galle mum
+fuc_43512 1 locuteur1 520.065 520.546 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 520.546 522.225 <o,f1,male> mbeɗa weltina no fewi no fewi
+fuc_43512 1 locuteur1 522.225 522.603 <o,f1,male> eskey
+fuc_43512 1 locuteur4 522.603 524.506 <o,f1,male> mi salmini *en
+fuc_43512 1 locuteur1 524.506 524.986 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur4 524.986 527.245 <o,f1,male> Malick Sow
+fuc_43512 1 locuteur1 527.245 528.025 <o,f1,male> noon tigui
+fuc_43512 1 locuteur4 528.025 531.386 <o,f1,male> ceerno woto Allah bonnu jikku
+fuc_43512 1 locuteur1 531.386 532.465 <o,f1,male> amine ya rabbal alamina
+fuc_43512 1 locuteur4 532.465 533.643 <o,f1,male> mi weltinimama no fewi no fewi no fewi
+fuc_43512 1 locuteur1 533.643 534.625 <o,f1,male> yo Allah weltin en
+fuc_43512 1 locuteur1 534.625 558.147 <o,f1,male> [shh] ah o ko musidɗo men Djibiru Dia en beltinimomo no fewi [bg] enen gandi kankone so tawi o naati e ɓoggol tan ko yimɓeɓe foof beltoto yimɓeɓe foof hakkilaji mumen goonat henn ne gandi nde tawno enen gandi softede makko e yiddemo radio :fra communautaire :fra mo Podor 90 POINT 7 bisimilla ma musidɗo alo
+fuc_43512 1 locuteur5 558.147 559.230 <o,f1,male> alo
+fuc_43512 1 locuteur1 559.230 559.726 <o,f1,male> eyyi
+fuc_43512 1 locuteur5 559.726 560.522 <o,f1,male> Ibrahima mam
+fuc_43512 1 locuteur1 560.522 560.882 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 560.882 564.917 <o,f1,male> Tamsir Diop Niandane Tamsir Diop Niandane
+fuc_43512 1 locuteur1 564.917 566.229 <o,f1,male> Tamsir Diop bisimilla ma
+fuc_43512 1 locuteur5 566.229 567.468 <o,f1,male> mbaɗɗa e tampere Ba
+fuc_43512 1 locuteur1 567.468 568.463 <o,f1,male> no Niandane naaɓe
+fuc_43512 1 locuteur5 568.463 569.638 <o,f1,male> alahamdulillah
+fuc_43512 1 locuteur1 569.638 570.509 <o,f1,male> machallah Diop
+fuc_43512 1 locuteur5 570.509 571.844 <o,f1,male> mi weltima e haalama noon
+fuc_43512 1 locuteur1 571.844 572.819 <o,f1,male> yo Allah weltine
+fuc_43512 1 locuteur5 572.819 574.575 <o,f1,male> wallay mi heeɗima lowdi ndi yewtere he
+fuc_43512 1 locuteur1 574.575 575.535 <o,f1,male> eskey seydi Diop
+fuc_43512 1 locuteur5 575.535 579.015 <o,f1,male> joni noon comme :fra lowdi ndi lowdi ndi mi famani lowdi no fewi
+fuc_43512 1 locuteur1 579.015 581.234 <o,f1,male> an min kalata ko haala jeygu soble yo yimɓeɓe
+fuc_43512 1 excluded_region 581.234 581.806 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur1 581.806 584.278 <o,f1,male> ɗe ɓenda kadi yo yimɓeɓe mbattu hakkillaji muɗumen beel
+fuc_43512 1 excluded_region 584.278 586.436 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur1 586.436 587.039 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 587.039 589.437 <o,f1,male> sobleɗe woto yimɓe heeño sobleɗe
+fuc_43512 1 locuteur1 589.437 589.832 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 589.832 592.177 <o,f1,male> sooɓe keeñima sobleɗe ligguey o bonat
+fuc_43512 1 locuteur1 592.177 592.757 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 592.757 594.477 <o,f1,male> te min jiiɗa ligguey o boona
+fuc_43512 1 locuteur1 594.477 595.227 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 595.227 596.790 <o,f1,male> andi so tawi aɗa haaɓaye e neɗɗo
+fuc_43512 1 locuteur1 596.790 597.210 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 597.210 598.606 <o,f1,male> footani *
+fuc_43512 1 locuteur1 598.606 599.206 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 599.206 603.796 <o,f1,male> siibu mbiɗa andi ko funtodirte ko kono woni [bb] garden soblemen
+fuc_43512 1 locuteur1 603.796 604.257 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 604.257 605.640 <o,f1,male> ha sobleɗe ɓenda
+fuc_43512 1 locuteur1 605.640 606.141 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 606.141 607.651 <o,f1,male> min mbawa yeeyde sobleɗe
+fuc_43512 1 locuteur1 607.651 608.144 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur5 608.144 609.570 <o,f1,male> min wawa moftude ɗum
+fuc_43512 1 locuteur1 609.570 610.227 <o,f1,male> noon tigui
+fuc_43512 1 locuteur5 610.227 611.351 <o,f1,male> ɗum jinmi haalde hen
+fuc_43512 1 locuteur1 611.351 612.496 <o,f1,male> ajarama seydi Diop
+fuc_43512 1 locuteur5 612.496 613.565 <o,f1,male> min salmini galle
+fuc_43512 1 excluded_region 613.565 616.206 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur5 616.206 617.346 <o,f1,male> jarama Ba
+fuc_43512 1 locuteur1 617.346 617.826 <o,f1,male> alo
+fuc_43512 1 locuteur5 617.826 619.082 <o,f1,male> an
+fuc_43512 1 locuteur1 619.082 620.757 <o,f1,male> Tamsir kay mataw ko Tamsir Diop Guiya
+fuc_43512 1 locuteur5 620.757 623.077 <o,f1,male> Tamsir Diop Niandane mbiya Guiya [rire]
+fuc_43512 1 locuteur1 623.077 634.248 <o,f1,male> [rire_en_fond] en jetti musidɗo men Tamsir Diop en jarnimomo no fewi no fewi no fewi
+fuc_43512 1 locuteur1 634.248 643.488 <o,f1,male> en calmini dendagal Niandane naaɓe en mbiɓe kamɓe kala yo jaam hiire mabɓe nde tawno eɗen gandi oɗo saaha so heedi hakkillaji mabɓe ene mawni e kettogol ngol
+fuc_43512 1 locuteur1 643.488 649.427 <o,f1,male> ɗum noon kamɓe kala en mbiɓe yo jaam hiire mabɓe noone calminirten ha musibɓe men wonɓe ɗon ɗo wuuro meɗen Gumel Baraji
+fuc_43512 1 locuteur1 649.427 655.248 <o,f1,male> banimen debbo Houraye Sy en calminiɓe en calmini dendagal galle o kamɓe kala en mbiɓe yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 655.248 668.747 <o,f1,male> en calmini musidɗo men Abdoulaye Sall toon to wuuro meɗen Pendaw noon calminirten galle Mbaylo no didorino Mbayla Thiam a salminama kamɓe kalae kuɓal dendagal galle Mbaylo en gaccani hay goto senlimti tan wodat mo gaccuɗen
+fuc_43512 1 locuteur1 668.747 681.777 <o,f1,male> kono en mbiyat banimen debbo Magautte Tunkara e musibɓe men Mbayla Thiam yooɓe jettin calminali men enen e dendagal galle Mbaylo mbiyenɓe kamɓe kala yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 681.777 690.699 <o,f1,male> musidɗo men Binta Dia to Mbaalo a salminama a juurama en calmini dendagal Mbaalo naaɓe en dewni salminago e musidɗo men Binta Dia en mbiɓe yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 690.699 711.554 <o,f1,male> noonne calminirten kalɓe ganduɗa ɓeeɗo oɗo saaha hakkillaji muɗumen ne keedi e hettade radio :fra communautaire :fra mo Podor 90 POINT 7 ɗum noon en jetti kamɓe kala e kettogol mabɓe ɗum noon mbiɗen ni musibɓeɓe yooɓe tinni ɓe gadda ballal mabɓe e yewtere nd ende tano yewtere nde ko wuulago jamma ɗaccitake e goto
+fuc_43512 1 locuteur1 711.554 718.924 <o,f1,male> goto kala ne jogui ko footi addude hen monikala ne jogui ko footi wadde hen [bg]
+fuc_43512 1 locuteur1 718.924 923.665 <o,f1,male> [musique]
+fuc_43512 1 locuteur1 923.665 941.069 <o,f1,male> ceerno Djiby golle ma jooɗi pewi Allah jarama a jarama no mbiɗen kal mo ganduɗa ne yiiɗi addude ballal muɗum e yewtere nde waɗata ko 88 628 00 01 capanɗe jeetati e jeetati temedde jeegom e nogas e jeetati mbaɗa ɓoolum laabi tati mbaɗa gotel ko ɗon natta gadda balla maɗa e yewtere nde
+fuc_43512 1 locuteur1 941.069 956.669 <o,f1,male> en calmini en jurima dendagal ɓe ganduɗa ne ketto en ɗon ɗo wuuro meɗen Jungo en calminiɓe kamɓe kala en dewni salminade e musidɗo men yaye :wolof yaye :wolof meɗen Deiynaba Doɓale en calminimo en juurimaɓe en ñaganimomo cellal
+fuc_43512 1 locuteur1 956.669 976.160 <o,f1,male> e ɓandundu noone kayne musidɗo men Deiynaba Malick Deiynaba Baydy a salminama sokhna Mariatou a salminama noonne kayne Ousmane Mbow en mbiɓe kamɓe kala yo jaam hiire mabɓe Ibrahima Ndiaye a salminama sokhna Aissata Ndiaye a salminama hay goto jeyjitanima nonne kayne bani men debbo Haby Binta en mbiɓe yo jaam hiire mabɓe Harouna Dioldé a salminama
+fuc_43512 1 locuteur1 976.160 987.260 <o,f1,male> en calmini musidɗo men Samba Houlimata ɗum ko toon to wuuro meɗen Bafare en calmini musidɗo men Cheikh Samba Diarel e dendagal Bafare naaɓe Mamadou Sall a salminama
+fuc_43512 1 locuteur1 987.260 998.480 <o,f1,male> en mbiɓe kamɓene yo jaam hiire mabɓe nde tawno enen gandi so oɗo saaha heedi hay goto ɗanotako so yewtere nde joofi mudiɗo men Djiby Seydou ɗum ko wuuro meɗen Doumgua en mbiɓe yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 998.480 1008.200 <o,f1,male> kawmen Amadou Colly en calminimo en juurimoɓe en mbiɓe kamɓene yo jaam hiire mabɓe nde tawno enen gandi so oɗo saaha heedi hakkillaji mabɓe ne ketta e heeɗade nde
+fuc_43512 1 locuteur1 1008.200 1027.700 <o,f1,male> ɗum noon no mbiɗen ni yewtere nde enen foof ne nani ko musibɓeɓe kaali hen ko yimɓeɓe yooɓe tinno ɓe gacca ko remete ko ɓenda beela ma nafoore yaltu hen beela nafoore nde so ari enen kala eɗen tiina ɗum enen kala eɗen jiiya ɗum
+fuc_43512 1 locuteur1 1027.700 1043.821 <o,f1,male> eɗen gandi ko hikka dabbude nde ɗeeɓi judde seeɗa kadi ɓuuɓol ngol ne ɗeeɓi mawnude ɗum tardini ko heewi e sobleɗe sowonano ɓuuɓol ngol judde nde ne wawi taw oɗo saaha taw ko heewi hen ɓendi ɓendugol moƴƴol
+fuc_43512 1 locuteur1 1043.821 1068.241 <o,f1,male> kono ɓuɓol ngol nde tawno so tawi a waɗi hen ndiyam e ɓuɓol ngol sobleɗe jawata dartade ɗum noon en ñaago musibɓeɓe tan yataw ko ɗum ɓuuri e meɗen enen kala yataw ko ɗum woni ɓuural wonande dendagal ndeemɗo e dendagal jeeyowo beela ma dañ hen muudo muɗum beele ma dañ hen arsugue muɗum no musidɗo men Djiby Yero Dia wii joni ni
+fuc_43512 1 locuteur1 1068.241 1081.258 <o,f1,male> monikala so yeeyi yataw ko yeeyi ko ne wawa ɗum naftorade wona muudo muɗum nde tawno neɗɗo heppani hunde no Djiby Yero Dia haldiri joni ni heewi ko neɗɗo heppani tawa so ari wona no sikkiranoni ɗum wayata
+fuc_43512 1 locuteur1 1081.258 1105.441 <o,f1,male> neɗɗo yeeyi waɗe poche :fra poche :fra muɗum taaƴa neɗɗo yeeyi waɗe poche :fra saami kono kadi neɗɗo yeeyi waɗe poche :fra naawi naftori ɗum noon tawde en ganda hen ko nafata ñaagoɗen Allah so tawi jeeygu ngu waɗi yo Allah addu hen prix :fra so tawi prix :fra o dañama yo Allah rokku wona nafoore dendagal ndeemɗo monikala naftoro hen fodde ko daañi hen ko Allah waɗana ɗum hen suturo
+fuc_43512 1 locuteur1 1105.441 1127.531 <o,f1,male> nde tawno eɗen gandi koye ɗum tan mbawɗen hejje koye ɗum tan heeƴi e meɗen nde tawno so tawi ɗum woodi ko nden naafore nde wawata yiiyede ɗum noon no mbiɗen ni tinnoɗen e jeeygu ngu tinnoɗen e jeehe ɗe kadi en mbatten hakkillaji e ko ganduɗa ko ɗo ni ko ɗum woni %e
+fuc_43512 1 locuteur1 1127.531 1138.753 <o,f1,male> ko yewtete ko monikala heeɗo hen no moƴƴi janggo e jaam so tawi woodi ko keewi taw mi cikkannomi ala hen taw mi nanano ala hen taw mi tinani ala hen
+fuc_43512 1 locuteur1 1138.753 1153.022 <o,f1,male> [bg] mbiɗen ko jeeygu ngu hikka ina wawi waɗa waylo waylo seeɗa gonɗo hen sababude %e woon contrat :fra ji ɗi commerçant :fra ji ɗi pooti addude signe :fra ñinde ɗum signe :fra dirde ɗum e jeehe ɗe
+fuc_43512 1 locuteur1 1153.022 1165.009 <o,f1,male> taw ko kala mo ganduɗa oɗo ne yiiɗi yeyde taw nawata koye nokkuji ɗin ɗon wawa yeyde soble muɗum ɓe ganduɗa ɓeeɗo ni ko kañumen gooni soodoɓe
+fuc_43512 1 locuteur1 1165.009 1180.233 <o,f1,male> eɗen gandi no mbiɗen ni rawande waɗino caɗele kono caɗele ɗe holno yimɓe mbaɗata ha dentoɗe ɗum peeje kewɗe daɗɗama hen ha so tawi hande neɗɗo o kala oona peesa tawata ko kaliss mo peesanta o nana jooɗi
+fuc_43512 1 locuteur1 1180.233 1194.989 <o,f1,male> ɗum enen hikka enen foof eɗen gandi sellata wonde neɗɗo o ne peesana neɗɗo taw kalis mo peesirta o kaliss o yimɓe ganda ɗo kaliss o woni woni ya yetto e joomum taw ina waɗa caɗele mbannoɗe rawnde ɗe
+fuc_43512 1 locuteur1 1194.989 1207.764 <o,f1,male> joom soble codowo yiiyani ko sodata ko ko jeeyowo o tan yii neldamo ara ha yetto e makko o yaltina hen ayibbaji ɗi ngala hen o yaltina hen caɗele ha ɗum saabo ɗum yooɓe ɗum heddo
+fuc_43512 1 locuteur1 1207.764 1221.814 <o,f1,male> wonta das gurŋuruŋaji ganduɗa ɗi ɗo ni gala jeeri gala waalo hay goto anda ɗo jofata ɗum yimɓe ne mbawi wadde feere foof ha tarto ɗum haaloɓe Pulaar mbi dawɗo bongol welani kono ne footi webtinde
+fuc_43512 1 locuteur1 1221.814 1247.074 <o,f1,male> ɗum noon en mbiyani dawnoɗen ko bongol kono sen dawi ngol fewani ene gaasa taw findinta en koye garoji ɗi ɓuuren fewnidde ha laabi ɗi mbawa fortade kala dewɗo hen taw saɗede wodnode nde taw kañum saɗede yettotako ɗum te ɗum ñaagui ɗen Allah tye eɗen jaggui hikka so Allah wurni en ɗen ɗon caɗele Allah ko moƴƴo eɗe mbasa heptade hay goto
+fuc_43512 1 locuteur1 1247.074 1268.389 <o,f1,male> ɗe mbasa hetade ko wood yanoko Allah artira ɗum e juuɗe nawananoɓe ɓe ko heddi rewa e lawol poccigol beele joomumen ma keeɓ hen ko pooti ko hen hebde e kanɗe taw saɗede gala hen ɗum noon ceerno Djiby ɓamtana hen sawtogo haade musibɓe yettade e ɓoggol ngol
+fuc_43512 1 locuteur1 1268.389 1278.448 <o,f1,male> [musique]
+fuc_43512 1 locuteur1 1278.448 1294.944 <o,f1,male> bisimilla ma musidɗo alo alo alo musidɗo mataw ne joogui caɗele retour :fra o nanta ko kalten ko
+fuc_43512 1 locuteur1 1294.944 1305.564 <o,f1,male> [musique]
+fuc_43512 1 locuteur1 1305.564 1306.409 <o,f1,male> alo
+fuc_43512 1 locuteur6 1306.409 1307.309 <o,f1,male> Ba
+fuc_43512 1 locuteur1 1307.309 1308.155 <o,f1,male> Ben mbaɗɗa
+fuc_43512 1 locuteur6 1308.155 1309.235 <o,f1,male> seydi Ba
+fuc_43512 1 locuteur1 1309.235 1310.135 <o,f1,male> seydi Dia
+fuc_43512 1 locuteur6 1310.135 1311.280 <o,f1,male> seydi Ba
+fuc_43512 1 locuteur1 1311.280 1312.540 <o,f1,male> mbaɗɗa e tampere
+fuc_43512 1 locuteur6 1312.540 1313.920 <o,f1,male> wallay Ba
+fuc_43512 1 locuteur1 1313.920 1315.360 <o,f1,male> jaamtan alhamdulillahi Dia
+fuc_43512 1 locuteur6 1315.360 1316.140 <o,f1,male> jaam ɓolo woni toon
+fuc_43512 1 locuteur1 1316.140 1317.255 <o,f1,male> mawɗum alhamdulillah
+fuc_43512 1 locuteur6 1317.255 1317.800 <o,f1,male> no suukaɓe
+fuc_43512 1 locuteur1 1317.800 1319.360 <o,f1,male> jaam woni seydi Dia
+fuc_43512 1 locuteur6 1319.360 1320.740 <o,f1,male> mawɗum alhamdulillahi Ba
+fuc_43512 1 locuteur1 1320.740 1322.077 <o,f1,male> alhamdulillahi yettude Allah
+fuc_43512 1 locuteur6 1322.077 1323.216 <o,f1,male> min naani haala moon
+fuc_43512 1 locuteur1 1323.216 1323.819 <o,f1,male> eskey
+fuc_43512 1 locuteur6 1323.819 1325.812 <o,f1,male> yewtere nde weeli waɗi fayida
+fuc_43512 1 locuteur1 1325.812 1326.592 <o,f1,male> eskey
+fuc_43512 1 locuteur6 1326.592 1334.812 <o,f1,male> ko Dia haali ko tanam Djiby [bb] e Tamsir Diop [bb] haydara ko wattete hen min de *
+fuc_43512 1 locuteur1 1334.812 1335.477 <o,f1,male> wallahi
+fuc_43512 1 locuteur6 1335.477 1337.577 <o,f1,male> yooɓe gaccu bagage :fra mabɓe ha ɓenda ha moƴƴa
+fuc_43512 1 locuteur1 1337.577 1338.174 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur6 1338.174 1340.112 <o,f1,male> sa hurmi tan
+fuc_43512 1 locuteur1 1340.112 1340.592 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur6 1340.592 1342.992 <o,f1,male> kala ko Allah hawridinma ganda ko ɗum arsugue ma
+fuc_43512 1 locuteur1 1342.992 1343.555 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur6 1343.555 1345.538 <o,f1,male> ma waw moftade ma waw yeyde
+fuc_43512 1 locuteur1 1345.538 1346.258 <o,f1,male> wallahi
+fuc_43512 1 locuteur6 1346.258 1350.070 <o,f1,male> * kono so itta ne hecciɗi [bb] sa yeeyani a perti
+fuc_43512 1 locuteur1 1350.070 1350.580 <o,f1,male> noon tigui
+fuc_43512 1 locuteur6 1350.580 1351.853 <o,f1,male> te alay saago a yeyan
+fuc_43512 1 locuteur1 1351.853 1352.453 <o,f1,male> noon tigui
+fuc_43512 1 locuteur6 1352.453 1356.113 <o,f1,male> sa itti ko ɓendani [bb] feere foof mbaɗɗa ma yeey
+fuc_43512 1 locuteur1 1356.113 1356.881 <o,f1,male> ma sertu hen
+fuc_43512 1 locuteur6 1356.881 1358.875 <o,f1,male> ɗumne aɗa wawi yeyoyde ko moƴƴani
+fuc_43512 1 locuteur1 1358.875 1359.295 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur6 1359.295 1360.435 <o,f1,male> ɗen moftotako
+fuc_43512 1 locuteur1 1360.435 1360.975 <o,f1,male> %hum %hum
+fuc_43512 1 locuteur6 1360.975 1362.355 <o,f1,male> yo Allah waɗan men jaam
+fuc_43512 1 locuteur1 1362.355 1363.254 <o,f1,male> amine ya rabbal alamina
+fuc_43512 1 locuteur6 1363.254 1364.074 <o,f1,male> yo Allah waɗan men suturo
+fuc_43512 1 locuteur1 1364.074 1365.034 <o,f1,male> amine amine Dia
+fuc_43512 1 locuteur6 1365.034 1367.198 <o,f1,male> ko wawi dañede hen kadi il :fra faut :fra yataw ko enen jeeɗa
+fuc_43512 1 locuteur1 1367.198 1367.974 <o,f1,male> amine Dia
+fuc_43512 1 locuteur6 1367.974 1369.051 <o,f1,male> yo Allah surren
+fuc_43512 1 locuteur1 1369.051 1369.892 <o,f1,male> amine ya rabbal alamina
+fuc_43512 1 locuteur6 1369.892 1370.972 <o,f1,male> mi salminima Ba
+fuc_43512 1 locuteur1 1370.972 1371.810 <o,f1,male> a jarama seydi Dia
+fuc_43512 1 locuteur6 1371.810 1372.290 <o,f1,male> jarama
+fuc_43512 1 locuteur1 1372.290 1388.660 <o,f1,male> a jarama machallah [bg] o ko musidɗo men Boubou Dia en calminimo en calmini dendagal galle makko en calmini musidɗo men Mama Boubou mi halta ko heddi ko mbi sikki o faami ko jinmi haalde ko ɗum ko Douye
+fuc_43512 1 locuteur1 1388.660 1396.940 <o,f1,male> en jettima en calminimo en calmini ceerno o ceerno ɓe kersanmi kono Mama kam mbiɗa andi mi huulani haalde ko jinmi haalde ko ceerno noon mbiɗa hersa ɗum
+fuc_43512 1 locuteur1 1396.940 1414.640 <o,f1,male> en calminimo en calmini galle makko en calmini dendagal Douye naaɓe kamɓe kala en mbiɓe yo jaam hiire mabɓe nde tawno eɗen gandi hakkillaji mabɓe ne keedi e hettade men ɗum noon noon calminirten musibɓe men wonɓe ha to lobbudu Douye en mbiɓe yo jaam hiire mabɓe kamɓe kala e kuuɓal en gaccani hay goto
+fuc_43512 1 locuteur1 1414.640 1441.235 <o,f1,male> en dewni saliminago e juuɗe ceerno men ceerno Hammat Sylla en mbi yo yettinan en dendagal wuuro men lobbudu Douye ha waɗi kuuɓal noon calminirten wuuro meɗen wonɓe musibɓe men wonɓe to Bakhaw Bourlol Fada Garage Doppeji wuuro Kelle e dendagal ko woni toon kamɓe en mbiɓe yo jaam hiire mabɓe nde tawno enɗen gandi so oɗo saaha heedi hakkillaji mabɓe na mawna e kettogol ɗum noon yo jaam mabɓe
+fuc_43512 1 locuteur1 1441.235 1448.981 <o,f1,male> noon calminirten musibɓe men wonɓe ɗon ɗo wuuro meɗen Ngawle en gaccani hen hay goto kamɓe kala en calminiɓe en juurimaɓe en jettiɓe e kettogol mabɓe
+fuc_43512 1 locuteur1 1448.981 1466.040 <o,f1,male> calmini musibɓe men wonve ha to wuuro meɗen Daado en calminiɓe en juurimoɓe wuuro men Goumen wuuro men Fonde Ass en mbiɓe kamɓe kala yo jaam hiire mabɓe noon calminirten musibɓe men wonɓe ha ɗo ɗon wuuro meɗen en alo alo
+fuc_43512 1 excluded_region 1466.040 1468.005 <o,,unknown> ignore_time_segment_in_scoring
+fuc_43512 1 locuteur1 1468.005 1468.442 <o,f1,male> eyyi
+fuc_43512 1 locuteur7 1468.442 1470.377 <o,f1,female> aɗa selli
+fuc_43512 1 locuteur1 1470.377 1471.216 <o,f0,male> bisimilla
+fuc_43512 1 locuteur7 1471.216 1473.129 <o,f0,female> mawɗum de
+fuc_43512 1 locuteur1 1473.129 1473.921 <o,f0,male> hol musidɗo
+fuc_43512 1 locuteur7 1473.921 1476.306 <o,f0,female> Mariame Sall* Kaƴel
+fuc_43512 1 locuteur1 1476.306 1476.992 <o,f0,male> [bb]
+fuc_43512 1 locuteur7 1476.992 1479.441 <o,f0,female> Mariame Sall *to Kaƴel
+fuc_43512 1 locuteur1 1479.441 1480.774 <o,f0,male> Faty
+fuc_43512 1 locuteur7 1480.774 1482.099 <o,f0,female> Mairame
+fuc_43512 1 locuteur1 1482.099 1483.730 <o,f0,male> Mariame bisimilla ma
+fuc_43512 1 locuteur7 1483.730 1485.112 <o,f0,female> mba
+fuc_43512 1 locuteur1 1485.112 1487.047 <o,f1,male> baraikalla bisimilla ma e yewtere nde
+fuc_43512 1 locuteur1 1487.047 1502.358 <o,f1,male> [shh] eywa sokhna Mariame ɓoccitima en ɗaɓɓirimo yafuya so tawi ko banggue men ɗum ardi en calminimo en calmini dendagal Kaƴon naaɓe en gaccani ɗon hay goto kamɓe kala en mbiɓe yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 1502.358 1521.248 <o,f1,male> nde tawno eɗen gandi so oɗo saaha heeɗi hakkillaji mabɓe ne keeda e kettogol noon calminirten musibɓe men wonɓe ɗo wuuro meɗen Antene en gaccani ɗon hay goto en calmini musidɗo men Harouna Baydy e galle muɗum Samba Diallo en calminimo kono kadi ko kawmum Dialluɓe a salminama
+fuc_43512 1 locuteur1 1521.248 1532.528 <o,f1,male> en calmini dandagal wonɓe ɗon Dieyyo Ba en ɓen gooni yimɓe normal :fra ɓe ɓen sowonano ɓen tawanno ko wuuro ngo daydayni kono noon tawde Dieyyo Ba nanɗon tan wuuro ngo koye jaam woni
+fuc_43512 1 locuteur1 1532.528 1542.668 <o,f1,male> en calminiɓe en juurimoɓe en calmini musibɓe men wonɓe ɗon ɗo wuuro meɗen Darou Woulago wuuro ceerno Baba en calminiɓe kamɓe kala noon calminirten musibɓe men wonɓe ha to Waali Diala
+fuc_43512 1 locuteur1 1542.668 1548.658 <o,f1,male> en mbiɓe yo jaam hiire mabɓe kanki en calminiɓe en juurimaɓe en calmini Seydou Mamadou ha to Koditte
+fuc_43512 1 locuteur1 1548.658 1558.414 <o,f1,male> en mbiɓe yo jaam hiire mabɓe Mbañca naaɓe on calminama juurama noone kayne Guendare Waalo naaɓe ne mbiɓe yo jaam hiire mabɓe Guendare Jeeri en gaccani toon hay goto
+fuc_43512 1 locuteur1 1558.414 1566.998 <o,f1,male> Donnaye Taredji en calminiɓe noon kayne musibɓe men wonɓe ha to Dekoya Taredji en calminiɓe calmini dendagal musibɓe wonɓe ha to Fass Beelel
+fuc_43512 1 locuteur1 1566.998 1583.532 <o,f1,male> en calminiɓe en calmini dendagal musibɓe wonɓe ha to Beelel Kelle Nennete Mafre on calminama on juurama en bayri nande musidɗo men saaba yataw ko jamm Allha joguimo en mbiɓe kamɓe foof yo jaam hiire mabɓe alo
+fuc_43512 1 locuteur2 1583.532 1584.270 <o,f1,male> alo
+fuc_43512 1 locuteur1 1584.270 1584.989 <o,f0,male> eyyi
+fuc_43512 1 locuteur2 1584.989 1586.133 <o,f0,male> kaw Ibrahima
+fuc_43512 1 locuteur1 1586.133 1587.753 <o,f0,male> eyyi bisimilla
+fuc_43512 1 locuteur2 1587.753 1589.192 <o,f0,male> min Baara min arti
+fuc_43512 1 locuteur1 1589.192 1590.632 <o,f0,male> a ceerno Baara bisimilla ma
+fuc_43512 1 locuteur2 1590.632 1592.132 <o,f0,male> *
+fuc_43512 1 locuteur1 1592.132 1592.912 <o,f0,male> ahan
+fuc_43512 1 locuteur2 1592.912 1594.592 <o,f0,male> émission :fra o waɗi fulla e fayida
+fuc_43512 1 locuteur1 1594.592 1595.371 <o,f0,male> eskey
+fuc_43512 1 locuteur2 1595.371 1596.931 <o,f0,male> dokkami ɗo Baaba Mall belɗo
+fuc_43512 1 locuteur1 1596.931 1597.823 <o,f0,male> [bb]
+fuc_43512 1 locuteur2 1597.823 1599.150 <o,f0,male> Baaba Mall Baaba Mall
+fuc_43512 1 locuteur1 1599.150 1600.158 <o,f0,male> eyyi
+fuc_43512 1 locuteur2 1600.158 1601.579 <o,f0,male> belɗo belɗo dokka min ɗo
+fuc_43512 1 locuteur1 1601.579 1602.393 <o,f0,male> ɗum jidɗa
+fuc_43512 1 locuteur2 1602.393 1603.390 <o,f0,male> eyyi eyyi
+fuc_43512 1 locuteur1 1603.390 1605.189 <o,f0,male> eyyi so samani e lawol ma heeɓ
+fuc_43512 1 locuteur2 1605.189 1606.312 <o,f0,male> eyyi inchallah [rire_en_fond]
+fuc_43512 1 locuteur1 1606.312 1607.049 <o,f0,male> a jarama
+fuc_43512 1 locuteur2 1607.049 1607.649 <o,f0,male> eyyi yo jaam waal
+fuc_43512 1 locuteur1 1607.649 1608.369 <o,f0,male> seydi Dia
+fuc_43512 1 locuteur2 1608.369 1609.449 <o,f0,male> a jarama
+fuc_43512 1 locuteur1 1609.449 1618.130 <o,f0,male> a jarama [bg] [shh] o ko ɓinguel men Baara Dia ko mbiɗa andi mataw kanko probléme :fra jeygu soble naworanimo
+fuc_43512 1 locuteur1 1618.130 1637.390 <o,f0,male> mbiɗa sikki soble makko koko jaani ɗum waɗi omo yiii yeeɗade Baaba Mall ɗum noon enen hande en gala pause :fra uji men Baaba Mall ala hen wadde en jafno o yafnoto en en jafnimomo ha so tawi saahaji garoji so Allah haaji ma ceerno Djiby yilonoyomo Baaba Mall fawanamo ɗum so Allah haaji haawo welto
+fuc_43512 1 locuteur1 1637.390 1653.040 <o,f0,male> ɗum noon no mbiɗen ni en jetti dendagal ɓe ganduɗa ɓeeɗo ni gaddi ballal muɗumen e yewtere nde gaam holno mbatten ha jeygu men yaara reewa lawol
+fuc_43512 1 locuteur1 1653.040 1670.055 <o,f0,male> en jettiɓe kamɓe kala e ɓe ganduɗa ɓeeɗo ni e kettogol mabɓe en jetti ɓe ganduɗa ɓeeɗo ni ne nodda en hay e noddirguel men en mbiɓe kamɓene yo jaam hiire mabɓe en calmini musibɓe men wonɓe ha to Bantu ceeri e Bantu Waalo foof ko kamɓe kal en calminiɓe en juurimaɓe
+fuc_43512 1 locuteur1 1670.055 1682.535 <o,f0,male> e Guurel Komi naaɓe en gaccani ɗon hay goto noon calminirten musibɓe men wonɓe ɗon ɗo wuuro meɗen Diambo subalo Diambo Diawɓe Sinthiou Diambo en calminiɓe kamɓe kala e kuuɓal en gaccani ɗon hay goto
+fuc_43512 1 locuteur1 1682.535 1691.835 <o,f0,male> wuuro meɗen Diawara en Beele en mbiɓe yo jaam hiire mabɓe kamɓene en calminiɓe e kuuɓal en gaccani ɗon hay goto wuuro Madiw on calminama on juurama
+fuc_43512 1 locuteur1 1691.835 1705.079 <o,f0,male> en jettiɓe e kettogol mabɓe en gaccani ɗon hay goto noon calminirten baani men debbo Farmata Djibril Ndiaye en calminiɓe en calmini dendagal e ko woni e Fondé Diawlol en mbiɓe kamɓe kala yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 1705.079 1712.638 <o,f0,male> ɗum noon musidɗo o o fawana en ko woni less ko haade men artude e ɓoggol ngol
+fuc_43512 1 locuteur1 1712.638 1875.524 <o,f0,male> [musique]
+fuc_43512 1 locuteur1 1875.524 1893.963 <o,f0,male> ceerno Djidy golle ma jooɗi peewi ne jetti dendagal musibɓe ɓe ganduɗa ɓeeɗo ni noddi en e yewtere nde ɓe ɓe ganduɗa ɓeeɗo ni ene jinno noddude kono daañani yettade e ɓoggol ngol kamɓe kala en calminiɓe en jarnima ɗum en jurimaɓe en beltanimoɓe [tx] e kettogol mabɓe
+fuc_43512 1 locuteur1 1893.963 1913.773 <o,f0,male> ɗum noon no mbiɗen ni ko ɗo ko hello udditago tan en cuuwa hen ma en mbaɗoy hen jewte goɗɗe ɗe ganduɗa ɗe ɗo ni jewte men gaaroje men nodduɗo no mbiruɗen ni men mbismo ɗo musidɗo men IPOS naaɓe ɓe gaara ɓe ɓuura famminde yimɓeɓe jeygu hikka o holno jogori siforade
+fuc_43512 1 locuteur1 1913.773 1929.133 <o,f0,male> kono noon kadi men noddu ɗo ɓe ganduɗa ɓeeɗo ni ko kañumen gooni e jeeye ɗe hol peeje ƴettaɗe e caɗele bannoɗe ha so tawi Allah wurni en taw caɗele mbaɗe noon mbattata ɗum ne kadi ma en %e mbismoɗo ɓe ganduɗa ɓeeɗo ni ko kañumen gooni wurnoɓe e jeeye ɗe
+fuc_43512 1 locuteur1 1929.133 1945.863 <o,f0,male> ɗum noon no mbiɗen ni en jetti musibɓe men ɓe ganduɗa ɓeeɗo ni nodda en ha to wuuro meɗen Junguo Funangue noone kayne wonɓe ɗon ɗo musibɓe men wonɓe ɗon ɗo Bafare ha to Thielel en calminiɓe en jurimmoɓe noon calminirten musibɓe men wonɓe ha to wuuro Haady en calminiɓe en juurimoɓe
+fuc_43512 1 locuteur1 1945.863 1959.394 <o,f0,male> en jariɓe e musidɗo men jaaɗo o woni Makka Amadou Sada ene wiiye Kolo Sall en mbimo yo Allah yurmomo yafomo en jaali dendagal Donnayi e kuuɓal en gaccani hay goto
+fuc_43512 1 locuteur1 1959.394 1968.404 <o,f0,male> kamɓe kala en jaaliɓe tawno Kolo ko Kolo yimɓe foof Kolo ko Kolo Sénégal foof footi ɗum jaalede ɗum noon ene jaali Sénégal foof e musidɗo men Kolo Sall
+fuc_43512 1 locuteur1 1968.404 1987.844 <o,f0,male> nde tawno eɗen gandi oɗo saaha so heedi yimɓeɓe kala hakkillaji muɗumen ene keedi e ko ko keewi ko nde tawno mayde ko lawol kono mayde foof nde ganduɗa nde ɗo ni so tawi saaha mum yonti ala ko joogori ɗum falade hay goto mayata e ko wona e laajal muɗum
+fuc_43512 1 locuteur1 1987.844 2003.874 <o,f0,male> kala mayɗo maayi koye laajal mum ɗum noon en duwanimaɓe en jarnimaɓe en beltinimoɓe kadi e muñal ngal ganduɗa ɓe kolliri ɗum e musidɗo men jaaɗo o nde tawno ɗum ɗon tan woni ko nelaɗo sallallahu aleyhi wa sallamawasli en
+fuc_43512 1 locuteur1 2003.874 2014.374 <o,f0,male> wii so on jahrama ko ganduɗa ko ɗo ni wawa wasde yaade koko yahata so tawi laajal mum yonti ɗo noon wonɓe caggal ɓe ma won muñɓe ganda ɗum ɗo koko ni Allah gollirta aaduna muɗum
+fuc_43512 1 locuteur1 2014.374 2025.885 <o,f0,male> ɗum noon en jettiɓe en duwanimamoɓe en ñaaganimomo Allah yo Allah rokkuɓe ɓerɗe muuñal ɗiɗo saahaji yo neen enen jahodirani ɗum mbijahi sallallahu aleyhi wa sallam
+fuc_43512 1 locuteur1 2025.885 2040.126 <o,f0,male> ko jiɗɗen wiide tan ko eɗen mbiya musibɓeɓe eɗen mbiya so tawi Allah wurni en kadi ha ñande alkamisa yewtere moon yewtere men yewtere moon hetto gando paama mbaɗoyten ɗum ko wuuro meɗen Diatare so Allah yanti hen
+fuc_43512 1 locuteur1 2040.126 2050.264 <o,f0,male> ko toon mbatten ɗum en :fra direct :fra inchallah e gurdam ceerno men ceerno Hamidou kono kadi men jewtoy hen jewte goɗɗe ɗe ganduɗa ɗe ɗe ni paati koye banggue l'islame inchallah
+fuc_43512 1 locuteur1 2050.264 2062.386 <o,f0,male> ɗum yimɓe foof yo mbad hakkillaji muɗumen e yewtere men arore yewtere men hetto gando paama so Allah tawni en mbaɗoten ɗum ko wuuro meɗen Diatare nde tawno hawra e ziare ceerno men ceerno Hamidou Sy
+fuc_43512 1 locuteur1 2062.386 2079.471 <o,f0,male> Diatare dandagal Diatare naaɓe ene mbismiɗumen e yewtere nde so tawi on ñalawma heedi oni ñande alkamisa jamma so Allah jaaɓi so yeeyi ya waktuji jeetati jamma jooni faawi hojomaji capan tati ha waktuji sappo jamma yewtere nde ko waɗata ɗon ɗo wuuro meɗen Diatare so hawre weelede Allah
+fuc_43512 1 locuteur1 2079.471 2231.782 <o,f0,male> [musique]
+fuc_43512 1 locuteur1 2231.782 2239.992 <o,f0,male> eyyi ceerno DjidyAllah jarama a jarama musidɗo o nana holla en ko keddoraɗen e hojomaji ko koko gaasi ha laaɓi
+fuc_43512 1 locuteur1 2239.992 2252.952 <o,f0,male> [bg] kono en jetti dendagal ɓe ganduɗa ɓeeɗo ni ene ketti en guila fuɗɗode ha joni noddu hen e mo noddani hen kamɓe kala en calminiɓe en jarnimoɓe en jettiɓe no fewi no fewi no fewi e kettogal mabɓe
+fuc_43512 1 locuteur1 2252.952 2270.742 <o,f0,male> ɗum noon en mbiyatɓe tan yo jaam hiire mabɓe noon calminirten musibɓe men wonɓe ha to gay te Lobbudu Thoufi en calminiɓe kamɓe kala Thioufi naaɓe e Simma naaɓe e Guir Podor Law Demba dendagal wuuro Podor en gaccani hen hay goto kamɓe kala en mbiɓe yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 2270.742 2290.463 <o,f0,male> noon calminirten musibɓe men wonɓe ɗon ɗo wuuro meɗen Dabaye Junggo en mbiɓe kamɓe kala yo jaam hiire mabɓe nde tawno enen gandi kamɓene so oɗo saaha heedi hakkillaji mabɓe nane kettogol Tufde Diammi en gaccani toon hay goto noon calminirten musibɓe men wonɓe toon to wuuro meɗen Dowdi Podor walla mbiyen Diatare Maurianie
+fuc_43512 1 locuteur1 2290.463 2308.700 <o,f0,male> n calminiɓe en jarnimɓe en jurimaɓe ɗo ɗo wuuro meɗen Ligui Seyba en calmini wonɓe ɗon kono noon kadi en calmini musibɓe men wonɓe ha to Kolayla en mbiɓe yo jaam hiire mabɓe nde tawno eɗen gandi so oɗo saaha heedi hakkillaji mabɓe ne ketti e hettade en ɗum noon en gaccani toon hay goto kamɓe kala en mbiɓe yo jaam hiire mabɓe
+fuc_43512 1 locuteur1 2308.700 2323.697 <o,f0,male> noon calminirten musiobɓe men wonɓe ha Beydy Ya en calminiɓe en calmini dendagal kettotoɗo en e banggue rewo kamɓe kala en mbiɓe yo jaam hiire mabɓe nde tawno eɗen gandi so oɗo saaha heedi hakkillaji mabɓene mawni e kettogo ngol
+fuc_43512 1 locuteur1 2323.697 2336.667 <o,f0,male> ɗum noon mbeɗa andi musidɗo o nana wiiya en hojomaji ɗi joguino ɗen ɗi koko gaasi ha laaɓi ɗum noon aadi men no mbiɗen ni ko talata garowo to banggue yewtere meɗen ndeema e gaynaka
+fuc_43512 1 locuteur1 2336.667 2359.802 <o,f0,male> kono aadi men e yewtere men hetto gando paama ko alkamisa so Allah haaji mbiɗen ni juɓɓinoyten yewtere nde ko Diatare so Allah jaaɓi kala mo ganduɗa ne yiiɗi hettade en yo hetto en ñande alkamisa toon to Diatare so waftuji jeetati jamma jooni ha waftuji sappo jamma waftuji jeetati faawi hojomaji capan tati ha waftuji sappo jamma juɓɓinten yewtere nde ko ɗon e wuuro meɗen Diatare
+fuc_43512 1 locuteur1 2359.802 2365.807 <o,f0,male> ɗum noon ɗo e nden yo jaam Allah joogomi joogo on yo Allah rokku en walde e jaam on jarama
+fuc_43512 1 locuteur1 2365.807 2375.473 <o,f0,male> [musique]

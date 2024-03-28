@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Trans SYSTEM "trans-13.dtd">
+<Trans scribe="PROPRIETAIRE" audio_filename="wol_11430" version="2" version_date="230414">
+<Speakers>
+<Speaker id="spk1" name="locuteur 1" check="yes" type="male" dialect="native" accent="wolof" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="31.608">
+<Turn startTime="0" endTime="31.608" speaker="spk1" mode="spontaneous">
+<Sync time="0"/>
+waaw ñoo ngi ñaan %e képp koo xam ne nekk nga membre :fra Fapal 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nga woote ci numéro :fra bii ñu lay jox 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ñoo ngi ñaan képp koo xam nekk nga membre :fra Fapal nga bipé :fra ci numéro :fra bii ñu lay jox bu ko defee suñuy ndaw daañu la woo ci yeneen i leeral numéro :fra bi 33 869 19 24 33 869 19 24 33 869 19 24 su
+</Turn>
+</Section>
+</Episode>
+</Trans>

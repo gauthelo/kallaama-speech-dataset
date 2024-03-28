@@ -1,0 +1,46 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 10:40:13 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 2 of 230414
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_36110 1 locuteur_1 0.000 3.637 <o,f1,female> ñoo dëkk Pointe Sarene [conv] Niane dëkk Pointe Sarene
+wol_36110 1 locuteur_2 3.637 4.180 <o,f1,male> Marie Niane
+wol_36110 1 locuteur_1 4.180 4.614 <o,f1,female> waaw
+wol_36110 1 locuteur_2 4.614 7.093 <o,f1,male> dëkk Pointe Sarene Marie Niane yow si looy yëngu [conv]
+wol_36110 1 locuteur_1 7.093 9.083 <o,f1,female> si mbirum sorgho :fra bi laay yëngu [conv]
+wol_36110 1 excluded_region 9.083 10.596 <o,,unknown> ignore_time_segment_in_scoring
+wol_36110 1 locuteur_2 10.596 13.493 <o,f1,male> donc :fra ren foo amee [conv] sorgho :fra [b]
+wol_36110 1 locuteur_1 13.493 14.656 <o,f1,female> fu ma ko bayee am fu ma ko amee
+wol_36110 1 locuteur_2 14.656 15.398 <o,f1,male> foo ko jëndee
+wol_36110 1 locuteur_1 15.398 16.990 <o,f1,female> fi ma ko jëndee [conv] ci réseau :fra bi
+wol_36110 1 locuteur_2 16.990 17.533 <o,f1,male> ci réseau :fra bi
+wol_36110 1 excluded_region 17.533 19.234 <o,,unknown> ignore_time_segment_in_scoring
+wol_36110 1 locuteur_1 19.234 24.529 <o,f1,female> seen sorgho :fra bi [conv] baax na moom jiwu bi dara nekku si jiwu bi baax na
+wol_36110 1 locuteur_1 24.529 49.275 <o,f1,female> xanaa taw bii [conv] moo xaw a am retard :fra rek mais :fra taw [conv] sorgho :fra bi moom da ngay ji rek mu sax [conv] léegi bi ma jiwee mu sax nag après :fra mu toog diir lu mot un :fra mois :fra 15 jours :fra tawul [conv] mu dee instant :fra yooyu laa ci xaw a tardé :fra dootuma mën a jiwaat [conv] problème :fra boobu rek laa amoon mais :fra dama daan béy normal :fra [conv] mu am si génn si normal :fra [conv] waaw
+wol_36110 1 locuteur_2 49.275 54.152 <o,f1,male> %hum donc :fra semence :fra certifiée :fra nga doon jëfandikoo je :fra pense :fra ci coopérative :fra bi
+wol_36110 1 excluded_region 54.152 58.862 <o,,unknown> ignore_time_segment_in_scoring
+wol_36110 1 locuteur_1 58.862 62.638 <o,f1,female> [conv] nee naa la waa fi ma ko mos a déggee ñoom Diegane waa réseau :fra ñoom
+wol_36110 1 excluded_region 62.638 64.737 <o,,unknown> ignore_time_segment_in_scoring
+wol_36110 1 locuteur_1 64.737 70.726 <o,f1,female> [conv] da fi daan def ay seminaire :fra ñuy dem ci ñoom Kër Ball Baye Zale ak ñun ak ñoom Diegane [conv]
+wol_36110 1 excluded_region 70.726 72.059 <o,,unknown> ignore_time_segment_in_scoring
+wol_36110 1 locuteur_1 72.059 77.294 <o,f1,female> depuis :fra daaw jéeg daawaati jéeg at yooyu yëpp [conv] dañ koy def [conv] waaw
+wol_36110 1 locuteur_2 77.294 79.212 <o,f1,male> donc :fra kon rek [conv] sa tool demeewul noonu
+wol_36110 1 locuteur_1 79.212 90.430 <o,f1,female> [conv] moom tool bi demeewul noonu [conv] tool bi demeewul noonu xam as yëf yi tawul [conv] waaw commencement :fra ba xam nga [conv] boo xoolee semence :fra ba dafa am période :fra yoo koy ji [conv]
+wol_36110 1 locuteur_1 90.430 105.611 <o,f1,female> dañuy dem ba mois :fra aôut :fra bi jeex [conv] nga buddi yëpp béy jiw [conv] su ko defee mu bañ a tawte [conv] mais :fra ren jii bañ ko defee [conv] ndaox mi boo xoolee macha :ar allah :ar [conv] ñaari taw la ñu am mu arreté :fra [conv] kon ndox mi ren demeewul noonu [conv] mooy problème :fra bi ren
+wol_36110 1 locuteur_2 105.611 107.185 <o,f1,male> mais :fra li nga si jotoon a dese mbaa
+wol_36110 1 excluded_region 107.185 112.052 <o,,unknown> ignore_time_segment_in_scoring
+wol_36110 1 locuteur_2 112.052 112.776 <o,f1,male> [conv] ok :en jërëjëf [conv]
+wol_36110 1 locuteur_1 112.776 114.651 <o,f1,female> waaw kay ñoo ko bokk [conv]

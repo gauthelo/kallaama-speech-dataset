@@ -1,0 +1,141 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:06 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 5 of 230517
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_4440 1 Locuteur1 0.000 17.074 <o,f1,male> o foka tanga o ɗik waga ret rok no femele :fra leŋ xaƴin maga no mbaar na bata ŋayoox o mbisi din no mbarof sogo jema yifes o xey teen de nda waga fulinum koy kiin koy ka anda xoxum [b] a topatax rek jege problème :fra
+srr_4440 1 Locuteur1 17.074 36.351 <o,f1,male> moyen :fra ke kay refa fuleru meen nda refe problème :fra a topatax mumeen moom oxu saquna wago xooxa jego temps :fra um waga no topatoox nda koy ke e coɗ kan %e refe ke o coɗkan sax ke o jikit kan ten chere :fra u pour :fra o jeg femele :fra o lacel xa 400 et quelques :fra mille :fra mba 500 mille :fra kaga bon :fra
+srr_4440 1 Locuteur1 36.351 53.753 <o,f1,male> o maya nga soxla rek waga fulino mieux :fra vaut :fra o xaƴ bo wagin o sogo rok teen wala mi naga ga tum est :fra ce :fra que :fra projet :fra bon :fra mikoy mosa fulimo daaw no projet :fra dara dara dara
+srr_4440 1 Locuteur1 53.753 66.573 <o,f1,male> %e xa kora xen koña le koy comme :fra nen rever :fra ta rek bugaam kene bugam kene bugam kene ga mbi in bo a koña le sax projet :fra ŋoya xam Madou Projet :fra projet :fra rek projet :fra ke koy ax xan roga mbisi daden
+srr_4440 1 Locuteur1 66.573 84.182 <o,f1,male> xan roga mbisi daden mi yifes le dal toujours :fra nen fika bop jeg kene sooma refu jega fulim koy nokene jegume koy mexey sante a tena toog jegam matériel :fra calir mexey jika paal tabaski yara jik wa a koma lu retuma koy bo laduma xeƴ teen rek im jik ladum
+srr_4440 1 Locuteur1 84.182 99.117 <o,f1,male> a koma lu retuma bo laduma xeƴ teen rek im jik ladum yaam mbaal ne ando naye 6 mois :fra te fi mbaal maak fo mbal ne ando naye xana jeg 2 ans :fra to fod ka fule naga ndefe leŋ [b] kon oxu ref na anda ye paal kana moƴu nda koy
+srr_4440 1 Locuteur1 99.117 114.107 <o,f1,male> o jega fula ngiran rek ko ko foda na a ŋidof waag angn koy um rok no mbares it kaga somo soɓ [b] ka meen nda koy comme :fra wagafulinum daal ñaaƴo ndak pañ ke o fad me o jofa [b] association :fra reef fe ref na Fatick ne saqa yara ladum ke
+srr_4440 1 Locuteur1 114.107 123.437 <o,f1,male> membre :fra refum taga no association :fra ne fogam kaga lal tuye mi bugaam ladum nda comme :fra jega fuliim koy progamme :fra nu de njeg na yit maxey taga
+srr_4440 1 Locuteur1 123.437 143.597 <o,f1,male> progamme :fra nu de njeg na foire :fra fu de présenter :fra ayit kan reta dan no calel ke fiya fop a njega nga reunion :fra kan reta groupe :fra Whatsapp le fog am teen ye o portable :fra es a yaqoox na ten desactiver :fra um kene ke mais :fra leyaxeinam ngoor ke ye ɓeakaam yo kam groupe :fra le a fiya ngan information :fra ku ref na im anan nanan yaam %e
+srr_4440 1 Locuteur1 143.597 159.814 <o,f1,male> [b] comme :fra ne leyb tonga rek o kinu ref na no ke moƴ na buga fad maga o fada nga fula nge maga koy ko anda xoxof rek [conv] nda maxey kam groupe :fra le [b] association :fra reef [conv] Biye Seck ref President :fra fe mi fogaam no groupe :fra lewaga na yara ladum ke mene Fatick
+srr_4440 1 excluded_region 159.814 161.853 <o,,unknown> ignore_time_segment_in_scoring
+srr_4440 1 Locuteur1 161.853 176.886 <o,f1,male> o jega nga a cek sax a fela ngaŋ o fog l' :fra essentiel :fra dal dami ye o éleveur :fra refe [b] o dama nga ye o éleveur :fra refo ko buga jeg fad mete mbaɗ na koy o fada fula nge ma yo damiye waxey taba taba a ke saqona daal gima fuleen a koma lu roga ci onga xiwal
+srr_4440 1 Locuteur1 176.886 194.413 <o,f1,male> o waaɗ ke de mbaaɗ na naga somo naga ga tanum mi [b] %hum mi dal a soba nga ndiɓal ne buguma o terrain :fra lana jeguma oxu dimle axama a cloture :fra anamo ten ku refna wagan mo yar ma
+srr_4440 1 Locuteur1 194.413 211.645 <o,f1,male> jegamo terrain :fra kam pin ke yo o xaga daal bon :fra goor goor loxam bo ina keɓ mais :fra anda ye a jega nge securité :fra wagiro fi maga mumeen a ndok fo cloture :fra rek bugum maga dole es a ci angamo teno kan fiyan koguna xoxes mais nak a soɓa ga bug no ɓine bug no ndiig ne bug no lakas waga fuliro kaga
+srr_4440 1 Locuteur1 211.645 224.333 <o,f1,male> i yenisaay sax kan leye o jegaam pis wagamo bufik laŋ waɗa nga machine :fra na na mula 2 saku ciment :fra in jika ngan in buf laŋ ga mula na xoxes dona na xoxes
+srr_4440 1 Locuteur1 224.333 236.568 <o,f1,male> boya te mot ka in [b] weg mbines waaɗ ma o buntu jik mumenes ɓek maga [b] yam pin kene ga ŋat pin mako ke bugona yar meen xeƴe meen [b] roga dimle a ngaam koy bo jego terrain :fra tout :fra près :fra
+srr_4440 1 Locuteur1 236.568 247.898 <o,f1,male> o xena ngaan koy o ku bugona wagano fi maga [b] kon wamo leye kaga ref ref problème :fra es terrain :fra laga um cloture :fra angan bata jego buntu lamta nga um xaad xax xan xaad ma
+srr_4440 1 Locuteur_3 247.898 256.158 <o,f1,female> [conv] so mi kam ga a comme :fra pis paal ke yiin kene yiin wene yiin wiin we ga utiliser :fra a a sasiin kene yiin wo nanga utiliser :fra a kaga
+srr_4440 1 Locuteur1 256.158 271.503 <o,f1,male> xa saas mu retuma koɓale kam gisa den a jega a loka ciga la eref na mana o ñako daaw rek yakana xam reta fulimo ndatig xa saas mais :fra sayu ɓax kuma nefere a raɓ raɓ im jeg teno ndik mbisid xa saas kan utiliser :fra an xa tim ŋayoox koy mayu anda fuli ran
+srr_4440 1 Locuteur_3 271.503 274.094 <o,f1,female> xa tim ŋayoox xaxe kay maxey soga no ga faak
+srr_4440 1 Locuteur1 274.094 281.101 <o,f1,male> iyoo [b] xaye in yipan angan pales koy de ñaman o ndetin o jega nga paal o feet kayoox ka saate nuun dara ɗad kiran iyoo
+srr_4440 1 Locuteur_3 281.101 282.926 <o,f1,female> kon dal tem moƴ faax no mbaal
+srr_4440 1 Locuteur1 282.926 286.265 <o,f1,male> a faxa teen yaam calcium :fra mo [b] ka jeg fojem
+srr_4440 1 Locuteur_3 286.265 287.790 <o,f1,female> so kaga ma unoru
+srr_4440 1 Locuteur1 287.790 288.448 <o,f1,male> xare
+srr_4440 1 Locuteur_3 288.448 290.277 <o,f1,female> ke fiyo gona fak
+srr_4440 1 Locuteur1 290.277 304.158 <o,f1,male> koɓa le rek im reta nga koɓale [b] ge iro o saaku la xaay ga ano o saaku lana ten yipum teen bata may kan ga a ŋayoox te may rek in jubal maga rek ɗat bata may yip no saaku es gar mbisid sak peses te naje rek im seɓ ta pare ange im yipan na den de ñaam [b]
+srr_4440 1 Locuteur_3 304.158 308.501 <o,f1,female> so nanam o leya ndiki ye buga ladum kene yiin comme :fra
+srr_4440 1 Locuteur1 308.501 308.723 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 308.723 312.803 <o,f1,female> ko jik wa ay paal lin nanga xalata pour :fra dajale
+srr_4440 1 Locuteur1 312.803 313.286 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 313.286 314.200 <o,f1,female> jik ladum ne
+srr_4440 1 Locuteur1 314.200 314.668 <o,f1,male> bien :fra sur :fra
+srr_4440 1 Locuteur_3 314.668 317.254 <o,f1,female> o o dajale fen fiyo konande
+srr_4440 1 Locuteur1 317.254 317.544 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 317.544 319.319 <o,f1,female> o ret banque :fra fi in ma
+srr_4440 1 Locuteur1 319.319 319.704 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 319.704 324.314 <o,f1,female> dés :fra fois :fra [rire_en_fond] a refa nga ye sax kene ko ko [rire_en_fond] jëfandiko kan pour :fra mbine
+srr_4440 1 Locuteur1 324.314 324.815 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 324.815 327.502 <o,f1,female> jafe ndiko ran pour :fra investir :fra kaga xalata teen
+srr_4440 1 Locuteur1 327.502 342.802 <o,f1,male> i a paax maxey xalata tena paax nda a foda fula nge naga koy waga fuliro kaga [b] nda comme :fra ne ley tonga xaye im waag angan mbares xaye o roka nga meen ladum o soɓ ka meen fog reer na koy [conv] fiya opération :fra tabaski [b] opération :fra tabaski mom bugam commencer :fra anum bugati numo waas
+srr_4440 1 Locuteur1 342.802 357.717 <o,f1,male> nda koy pañ te bugamo jeg femelle :fra leŋ mbit ɗik de produire :fra o ndet yaam we ndebute na meen fop [b] femelle :fra lof leŋ o jega te rima noŋ o yarin te rim waga ndim tiga a sal
+srr_4440 1 Locuteur1 357.717 375.105 <o,f1,male> [conv] maga ladum a xata nda koy comme :fra jega fulim kaga comme :fra ne ley tonga teen rek a ŋides moom kam foda nin ne o jegesa toloor na rek [b] im jeg anga financement :fra koy bo wago ret jik teen kaga yagim waaɗ kin xaƴa koy a ndata kaga i nangeru ŋa a [b]
+srr_4440 1 Locuteur1 375.105 391.770 <o,f1,male> xaye yakaram na nuun wene ngar na leya fo mi nu ndonam na ndata le leya me o ɓera nga mene ɓeer mene xaƴa waga jeg financement :fra took it %e taxe :fra ka chere :fra ange yaag um xot no banque :fra xalis it ɓekin no tig so tiga fi de topanga kaga bugim kaga
+srr_4440 1 Locuteur1 391.770 402.619 <o,f1,male> mi bom bugam daal [b] ñowit no dole es daal bo roga ci am ken jeg ka um goor goor loox tok a soɓa nga to kaga charge :fra fa ndom ke quoi :fra
+srr_4440 1 Locuteur_3 402.619 410.341 <o,f1,female> so xaye i ña xendinuma roog xaye mbaalof a suƴ a suuƴ ange xaye xar xar o jafe ndiko ka pour :fra te wago normal :fra
+srr_4440 1 Locuteur1 410.341 411.719 <o,f1,male> mbaal na suƴena
+srr_4440 1 Locuteur_3 411.719 412.457 <o,f1,female> %hum %hum
+srr_4440 1 Locuteur1 412.457 422.247 <o,f1,male> %e mbaala suƴa ge ko waanda carbonate :fra [b] yipin no xoɓ yer nino ten rek awa lancer :fra o fudole
+srr_4440 1 Locuteur_3 422.247 425.854 <o,f1,female> ka ga a win we ndeta vétérinaire :fra a utiliser :fra a [b] produit :fra ke yiin kene yiin
+srr_4440 1 Locuteur1 425.854 427.227 <o,f1,male> i nda o xana moƴu
+srr_4440 1 Locuteur_3 427.227 428.771 <o,f1,female> dés :fra fois :fra nanga utiliser :fra an
+srr_4440 1 Locuteur1 428.771 441.849 <o,f1,male> i yata yata dépasser :fra na fiya ngan kene to wate o fiya ngano ten te wato waga ret vétérinaire :fra nda carbonate :fra dal o jega ngan ta faño xup a faño neew o yipa ngano ten xoƴa nino ten o yera ngan rek o fudole lancer :fra
+srr_4440 1 Locuteur_3 441.849 442.809 <o,f1,female> %hum %hum
+srr_4440 1 Locuteur1 442.809 443.839 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 443.839 447.376 <o,f1,female> so wo vétérinaire :fra comme :fra xaye mbalof
+srr_4440 1 Locuteur1 447.376 447.542 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 447.542 449.802 <o,f1,female> a re anga no digante
+srr_4440 1 Locuteur1 449.802 449.980 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 449.980 450.638 <o,f1,female> a
+srr_4440 1 Locuteur1 450.638 450.925 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 450.925 451.645 <o,f1,female> a jeg problème :fra
+srr_4440 1 Locuteur1 451.645 452.349 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 452.349 458.192 <o,f1,female> wo xar o utiliser :fra a wala ko xooy ka vétérinaire :fra pour :fra de ŋic tiye di tiye na de mo oru na demo ora
+srr_4440 1 Locuteur1 458.192 461.056 <o,f1,male> are atoloox no digante comme :fra xar a waro rim
+srr_4440 1 Locuteur_3 461.056 461.970 <o,f1,female> comme : fra xaye a waro rim
+srr_4440 1 Locuteur1 461.970 471.018 <o,f1,male> iyoo a soɓa nga grand :fra so lene moom mbaal nu na waja rim commencer :fra anga fi ida sax awa mbek xa ɓayum a sutidin ka fiyam mainte :fra fois :fra
+srr_4440 1 Locuteur_3 471.018 472.460 <o,f1,female> kaga ne refa risque :fra
+srr_4440 1 Locuteur1 472.460 483.353 <o,f1,male> a andim nda risque :fra refa de bo mbote ngene ga ona sax yete rimel naga fi un mi moom nemo fiya kaga mi kan xaƴan bata rima na xuxum kon ke leyonga rek mbaal ne ken traiter :fra na yente ref na en :fra etat :fra
+srr_4440 1 Locuteur1 483.353 501.228 <o,f1,male> a fiya ngan jafe jafe kaga accouchement :fra wagirano jeg nda a soɓa nga mbaal ne ando naye jeg e traitement :fra yeen te refa en :fra état :fra yenisaay a wa ret accouchement :fra a jeg jafe jaje [conv] o reta nga bo ga teen ka ando naye xay [b] andiro teen tig koy o ret xoyo vétérinaire :fra te assister :fra in naga somo de
+srr_4440 1 Locuteur_3 501.228 508.711 <o,f1,female> comme :fra xaye wine o nana te paal kene ga ŋundel yin kene yiin nuna ŋaƴa teen yiif pour :fra sécuriser :fra paal ke nuum
+srr_4440 1 Locuteur1 508.711 527.107 <o,f1,male> i mene koy [b] bon :fra %e pratiquement :fra paal mbin in koy jaf leŋ mos mo weta ndoox de ŋundel nda depuis :fra na i ŋenatinu paar mene [conv] %e ŋuuɗ dal a waño xata meen daal [b] na xalates i nanga no nana o mbiño lakas koy no ina nana paal ka diwiin a ŋuɗe
+srr_4440 1 Locuteur1 527.107 542.232 <o,f1,male> paal ka diwiin a ŋuɗe nda roga fiya in taan jam bo mose ŋar meen dal [conv] mose ŋar meen nda koy dés :fra fois :fra a nanin a qida xana moƴ u ɗom sax nda camano kene fop depuis :fra na lumière :fra kene mayu kuɗ moom a mbañoxata meen daal
+srr_4440 1 Locuteur_3 542.232 542.812 <o,f1,female> %hum %hum
+srr_4440 1 Locuteur1 542.812 543.348 <o,f1,male> i kuɗ
+srr_4440 1 Locuteur_3 543.348 546.288 <o,f1,female> nda a mbañ nda a mba ŋar dés :fra fois :fra a ŋaroyo
+srr_4440 1 Locuteur1 546.288 548.788 <o,f1,male> heure :fra fu ref na moom nanga xalata ye
+srr_4440 1 Locuteur_3 548.788 549.143 <o,f1,female> i
+srr_4440 1 Locuteur1 549.143 550.682 <o,f1,male> sasay mom sasayo rek
+srr_4440 1 Locuteur_3 550.682 550.921 <o,f1,female> %hum %hum
+srr_4440 1 Locuteur1 550.921 564.196 <o,f1,male> heure :fra fu ref na a in wangan wo daal nangi xalata yasam ba roga cubalin de ŋar mena wo i yaam ŋuuɗ dés :fra fois :fra ko nana den noka refeer na no mbaal sax lakas fo lakas sate fe mayu ga ŋuɗel meen pis fo a sareet
+srr_4440 1 Locuteur1 564.196 580.290 <o,f1,male> ten moƴu magi to a guɗe gara xanin pis ne kino xe fo a sartale fop ɓisin refe jaf leŋ refe cafa tadak kam saate fe nda a soɓa ga to roog orienter :fra e den mena wo rek muca fula [conv] nda a mbaja ngaan it wagiro teen dara [conv] segem
+srr_4440 1 Locuteur1 580.290 601.118 <o,f1,male> o kina jega mbin [conv] wegin fi mbaar na de ngara yul miir na a ɓeer maga a ɓis paal ke moom fogame kaga o kin wage teen tig xano ara xoxof koy fi ke yakarona a so ke yoq na a dox nina roog o jeg in fop koy naga yo [b] ke yoq na a dox nana roog mi moom naga dam tum adna es
+srr_4440 1 Locuteur_3 601.118 603.806 <o,f1,female> so pi [b] comme :fra walum pis ke
+srr_4440 1 Locuteur1 603.806 604.081 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 604.081 607.691 <o,f1,female> dés :fra fois :fra ko ga a o kina sarse pis ke pis ne ten
+srr_4440 1 Locuteur1 607.691 608.073 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 608.073 610.446 <o,f1,female> bata maya maya may o ande kene xile
+srr_4440 1 Locuteur1 610.446 610.874 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 610.874 611.994 <o,f1,female> pis ne xat liran
+srr_4440 1 Locuteur1 611.994 612.295 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 612.295 615.367 <o,f1,female> ndax naga xaƴa teen yiif a paxa paxa paax
+srr_4440 1 Locuteur1 615.367 615.686 <o,f1,male> i
+srr_4440 1 Locuteur_3 615.686 616.480 <o,f1,female> pis ne wo
+srr_4440 1 Locuteur1 616.480 617.761 <o,f1,male> mumenes koy
+srr_4440 1 Locuteur_3 617.761 618.345 <o,f1,female> %hum %hum
+srr_4440 1 Locuteur1 618.345 637.782 <o,f1,male> kan bugina bug bogala ando naye bugin mo doon cono yam anda me ten refo njir ñes o jeges na tena xata kon ka fod na rek jala xaye jalo feet na dole es sax kagan ɗeta ke waguma fop fi kinum no ñaal leŋ [conv] naga dam tum xoxes koy nagan damit ka pis ne nagan damit ka o famole
+srr_4440 1 Locuteur1 637.782 656.411 <o,f1,male> xaye ku waag na wago jega o a ŋidod a anda kete xatil na fo kete xat leer na o bugo danga qupu koy ko lorka meen mumenof rek kon fi i podu o jal tin te jala noŋ ke bugona ten moƴu sarse in ka te xat leer na te mbisi din probléme :fra lakas mi nemo jal ta naga
+srr_4440 1 Locuteur1 656.411 674.136 <o,f1,male> yaam a jega taŋ kana wa ŋoya xama a leye ga mbug région :fra ke fop oxa représenter :fra tena den pour :fra wena ara mumeen ke contacter :fra axam ba leye ndax buga me jege problème :fra te ministre :fra ole koy i resencer :fra anga fop xan xoyit
+srr_4440 1 Locuteur1 674.136 692.811 <o,f1,male> Dackar a fiya ngan nun fop nu ndet maga pour :fra xaye mumeen nu ga ona xaye saate fe te donel ka ref na naka sudul nonu o wago réagir :fra yaam o mad donoŋ meen kaga tang kana grand :fra so leŋo lene ten mofu ba fokatam fo den de ŋoyam a expliquer :fra fo mi in leye mumeen moom o ñisa jegu ku fog na noka na aran
+srr_4440 1 Locuteur1 692.811 707.475 <o,f1,male> mi maxey ten kon lakas a saq anga mumeen a bug no fi naka sudul nonu it o mada leyame wo refa nun meen it xan protéger :fra mumeen ke rawa tina mumeen nem jalta te jirña xam laya xonge kalpe es ten ref a sartes alene
+srr_4440 1 Locuteur1 707.475 724.386 <o,f1,male> kalpe es ten ref pises nana [b] anda leya xonge kene fumier :fra a ceko mute jeg na saate fe in buf kin magasin :fra es jegam ka xupna maga 50 saaku kon mumeen ne na fiya naxam kaga im yaakar xoox tin avant :fra tout :fra kan protéger :fra an wala yaam ten ref kalpe es
+srr_4440 1 Locuteur_3 724.386 731.554 <o,f1,female> so foga no we ando naye ka ŋota pis ke den a voyager :fra a mu ref na saate fu ref na ma moƴ na ŋoɗ
+srr_4440 1 Locuteur1 731.554 731.991 <o,f1,male> non :fra
+srr_4440 1 Locuteur_3 731.991 735.713 <o,f1,female> wa ando naye ga ndeta bo Dakar wene ndeto yo bo kene pour :fra a njalo yo
+srr_4440 1 Locuteur1 735.713 736.242 <o,f1,male> non :fra non :fra pis
+srr_4440 1 Locuteur_3 736.242 736.530 <o,f1,female> pis ke
+srr_4440 1 Locuteur1 736.530 756.365 <o,f1,male> pises moom a riig daal ref calel um à :fra part :fra waɗik daɗ xotik bagage :fra pises ne sut wa pises mosa fule fi long :fra voyage :fra sax mole ɗeɓo koy à :fra part :fra dal a reta nga ba jeg pod ne buguma koy wamo reta fo ten o njeɓelin waaɗ ka ŋoñiin aliment :fra yiin dal fo o ñow kaga buganum
+srr_4440 1 Locuteur_3 756.365 758.427 <o,f1,female> aliment :fra pour :fra xar
+srr_4440 1 Locuteur1 758.427 769.727 <o,f1,male> %e o reta nga maga waga ga kaaf jik waga ga ɓasi jik waga ga ŋooñ jik [b] i kene fop loumea kene pis ke nga ndeta maga njikik ka ando naye bon :fra xano ñoow nita mumeen of
+srr_4440 1 Locuteur_3 769.727 771.193 <o,f1,female> so
+srr_4440 1 Locuteur1 771.193 778.507 <o,f1,male> pour :fra ret fo ten Dakar jalik mbit ret fo ten Touba jalik non :fra non :fra mi nemo fiya kaga o dawes sax ci ira moten
+srr_4440 1 Locuteur_3 778.507 790.295 <o,f1,female> so pis %e nanam o leya ye ka paal kewo kene o coxa den kana o coxa den nanim o leya ye pis ke kene o coxa den kana o coxa den ndi ko ndi ke o coxa pis ke pis newo kaga o coxa paal ke wo
+srr_4440 1 Locuteur1 790.295 804.258 <o,f1,male> pis ne koy [b] yenu ngarna ndiki ande kan voyage :fra u leyoŋ yen garma ndiki ten profiter :fra oxum yer na den soɓaam de yer nel sax nda ŋooñ ne comme :fra kan mina gérer :fra ana xoxes ten naqum ŋooñ yipa na den
+srr_4440 1 Locuteur1 804.258 818.450 <o,f1,male> naq daaɗ yipana den wajan ne bon :fra comme :fra jale dara xaga boob ñim nan ŋooñ fo dés :fra fois :fra kaaf pis ŋoor ne ando naye ko mu jeguma kate jala tena jalik ka tana ñoow ma xupa fulu quoi :fra
+srr_4440 1 Locuteur1 818.450 834.735 <o,f1,male> xaga moom presque :fra ne ñama daɗ sax ŋooñ dal a ñama a ƴaxa kaaf %e yenisaay im yega nga ripaas i waaɗ ñaax lene foka tin teen kana xa saaku ñawo [b] o geka nga ripaas foka tin teen jaxasan na den ñama ngan maga ka moƴa fi quoi :fra
+srr_4440 1 Locuteur_3 834.735 838.967 <o,f1,female> so kam ga a dés :fra fois :fra de mboka ta ba conda pis ke den
+srr_4440 1 Locuteur1 838.967 839.511 <o,f1,male> %hum %hum
+srr_4440 1 Locuteur_3 839.511 845.104 <o,f1,female> fokata ripaas wala soxoniin kene yiin pour :fra yer yerin pis kaga xa ɗaxa
+srr_4440 1 Locuteur1 845.104 865.193 <o,f1,male> %e bon :fra ana yer nora mayu nda a soɓa nga to comme :fra soxon ke mbit ripaas fe o naga ngano yer ni ta ten a koma lo jege ranona yer ke mi fofo ɓor im yer nita a soɓa ga to ka merin o suto xanga o ɓiñ to ge iro ripaas ge iro soxon pis ne ka yoŋ ka ŋeeɗa yer ke
+srr_4440 1 Locuteur1 865.193 875.684 <o,f1,male> yaam kaga meru kaga andu a jega ngiran yer ke nda a soɓa ŋa to fofo ɓor o yernitan koy a yera ɓoro nda heure :fra fu wara nona yipan ripaas rek o fiya nin ripaas pour :fra te ñaam
+srr_4440 1 Locuteur1 875.684 893.158 <o,f1,male> i a jega we na mbiyan koy we ando naye pis den yer ke to jeg ke ripaas o suto xanga to ripaasit o weec ripaas pis na a qoɗomna yoŋit ka mais :fra tax koy kaga taxu koy jeminum it yaam o kin wero leye mu o refa rek waga jega kaga [b] kon ripa()

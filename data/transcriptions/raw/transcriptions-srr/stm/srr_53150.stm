@@ -1,0 +1,93 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:02 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 4 of 240105
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_53150 1 Locuteur1 0.000 13.084 <o,f1,male> A jaga i aussi :fra systéme :fra fe fi'aa, um jeganga a areer a refa o ndiko kaam jikwan e% seko na prix :fra fe maad oxe layna parce :fra que :fra on :fra sait :fra jamais :fra toujours :fra kaam calcul :fra la me o kiin andee ke maad oxe ɓisiidka o feet.
+srr_53150 1 Locuteur1 13.084 23.814 <o,f1,male> A refa o saaku pafa, o faam o um jikwin seko ku yoqna koy jikookin marcher :fra noir :fra i kan jikwa ndik ke fop parce :fra que :fra o kin andee i
+srr_53150 1 Locuteur1 23.814 38.943 <o,f1,male> e% no leeg leego jokooxin xaye elew ke a cang ale den ne faafa fourniture :fra ke den nee faafa de o binwananga den bo ɓaatna de layonge a bik jegee bo ɓaatna da layonge a cahiers :fra le faga.
+srr_53150 1 Locuteur1 38.943 61.886 <o,f1,male> Donc :fra o jikwanga aar akene il :fra faut :fra ko jeg ka reserver :fra ona teen pour :fra e% kene bo o ɓaatna te ka i cotiser :fra a école :fra ka cotiser :fra a école :fra ka lay i mbaaɗa kayit akaana to kene fop o jikwanga a aar ake ne to jegiro o ndik onqa reserver :fra anoona den xa ɓis a probléme :fra ku yoqna koy o jem o fi'ik tiganam fo na ɗing ake fi'ik maréchage :fra fe ii.
+srr_53150 1 Locuteur1 61.886 79.725 <o,f1,male> To a ɗinganga ko koy a refanga comme :fra ka i courant :fra fe wiin we ne'aa kaa jeg'u yaaga wax deg e% courant :fra fe daal a moƴa ref comme :fra ne Serir a laytuna e% pompe :fra solaire :fra kene yaam i njeganga pompe :fra solaire :fra kay ndik o qol la a ɗing ala mi yaaga [rire_en_fond] ke na layel laykatan
+srr_53150 1 Locuteur1 79.725 96.033 <o,f1,male> Ndaa anda yee o maak ke o maak o bug o ƴeewaa [conv] yoɗa a tos [conv] kaa yaaca doywar na mi a ndik rek waagmo fi' [conv] o ndik rek waagmo jal de jalaam o ndik de jegaam ndaa kaaga koy salato [rire] .
+srr_53150 1 Locuteur2 96.033 104.591 <o,f1,female> Problème :fra ke nu njegna na qooq ale problème :fra ke moƴna garawoyo nu layi no wiin we mbaƴinooyo.
+srr_53150 1 Locuteur1 104.591 105.906 <o,f1,male> Problème :fra ke moƴna ngaraw na qooq ale kay.
+srr_53150 1 Locuteur2 105.906 107.105 <o,f1,female> i
+srr_53150 1 excluded_region 107.105 122.351 <o,,unknown> ignore_time_segment_in_scoring
+srr_53150 1 Locuteur1 122.351 138.227 <o,f1,male> engrais :fra fe urée :fra fe fop problème :fra o parce :fra que :fra i njegee a tos o xooxanga to jegiro naak la dostoona jegiro ka jiktoona engrais problème :fra maak o na qooq ale engrais :fra fe a foga no problème :fra maak maak ke na qooq ale.
+srr_53150 1 Locuteur1 138.227 150.810 <o,f1,male> II to engrais :fra fe ka tolooxa etat :fra fa andoona yee ka soɓa ino xooxoox we i ñaamaa xaalis ke in i nqoox'ina bo njigan ne engrais :fra fe a ref problème :fra maak maak na in.
+srr_53150 1 Locuteur1 150.810 166.650 <o,f1,male> II engrais :fra fe a faaxa ,a faaxa teen de ndax parce:fra que :fra meme :fra maalo fe meme :fra maalo fe maalo fe o xooxanga maalo fe sax ka yaam it o yipin engrais :fra pour :fra o jeg tiyanam ka yaacna o sakan.
+srr_53150 1 Locuteur2 166.650 168.980 <o,f1,female> So a tos ale, a tos ale nu na utiliser :fra an yaam,
+srr_53150 1 Locuteur1 168.980 174.271 <o,f1,male> a tos ale i naa utiliser :fra an mais :fra a tos ale waagiro fi' teen compos feeke sax.
+srr_53150 1 Locuteur2 174.271 175.185 <o,f1,female> compos fe waaw,
+srr_53150 1 Locuteur1 175.185 179.606 <o,f1,male> compos fe a jega wa andoona yee ka ka a mbaagan o mbi' ndaa waagiro utiliser :fra teen mayu.
+srr_53150 1 Locuteur2 179.606 180.312 <o,f1,female> %hum
+srr_53150 1 Locuteur1 180.312 194.102 <o,f1,male> Parce :fra que :fra xaye compos fe xaye, um bugangaan o fi' bugo ret jalik lakas waagkee o fod naaga o ndik rek waagmo fi' no compos fe bon :fra yip ten ndik te ta pare.
+srr_53150 1 Locuteur1 194.102 211.669 <o,f1,male> Mais :fra engrais :fra fe daal fo compos:fra fe compos:fra fe anda we na mbi'aa compos compos:fra kaa yaaco ɗom tig refee yee fop mbaag no utiliser :fra parce :fra que :fra felee tig i so anda yee o maat ,maat problème :fra o.
+srr_53150 1 Locuteur2 211.669 212.080 <o,f1,female> %hum
+srr_53150 1 Locuteur1 212.080 225.803 <o,f1,male> Kaaga problème :fra a tos ale moom lang ke moom a mbaa njalel mais :fra ke dosna lang ke ke xembanna lang ke parce :fra que :fra o nanga jalaa lang ke to xembanino e% waagiro jeg rendement :fra fa mayu a qemban ale lang ke daal wax deg problème :fra mo aussi :fra.
+srr_53150 1 Locuteur3 225.803 251.644 <o,f1,female> [conv] II fo kene na Mamadou layoogna ndiiki qooq ale moom e% jafe jafe ndefna teen mbaage mbag ee parce :fra que :fra anda waaga jeg lang ke wo e% war o xoox figwin ndaa ax ke kaa fi'aa défaut :fra yaam anda comme :fra ne ta laytuna leeg leeg anda yee ren comme :fra ren a aareer njegee.
+srr_53150 1 Locuteur3 251.644 269.640 <o,f1,female> kaaf njegee ndiiki o retanga bo war o duuf moment :fra fe andoona yee presque :fra e% qooxoox we njiku kene o ndik onqe de njeg'ina a ñaaman i njegee ma i njikitna a ax ,jegiro a ax mbaa goorgoorlooxanga bo jeg ax itam ax ke ref ke ax ka ndoyna.
+srr_53150 1 Locuteur3 269.640 288.445 <o,f1,female> [conv] Sokoy anda lang ke ndiiki kaa ɗeg jegatee rentablité :fra fe de mbar'ina njeg keke ke den jegatee e%ke doole fa andoona yee o ku duufoona ta waago faaxit ne bugtoona ndaa fook a soxla'aa engrais :fra a soxla'aa intrant :fra kene comme :fra ken fop ndaa andoona yee ka faaxna gañcax fe.
+srr_53150 1 Locuteur3 288.445 302.098 <o,f1,female> II sokoy ke moƴna ref ten problème :fra ten refu yee engrais :fra fe o maad oxe eer fe ta ɓisiidan daal a war o jikwin wiin we ka ka refa kaa tarde'a tardema fa andoona yee ka eer fe waranoona yip no ke duufoona ka retataa ba ta faaf .
+srr_53150 1 Locuteur3 302.098 319.130 <o,f1,female> Kene itam a foga no galangkoor fe andoona yee ka moƴo yakanaa xooxoox we i o maad oxe daal e a waaganga fo we andoona yee nun weeke comme :fra nuun naa ngaraa meen nu mbaag'anga ndimle'aa in daal no engrais :fra fene.
+srr_53150 1 Locuteur3 319.130 338.391 <o,f1,female> EE fo ke andoona yee ten refu machine ke parce :fra que :fra anda yee calelo mbay moom roog moƴu ka ref ka andoona yee ka ref ka andoona yee ñofee ñof waagiro jeg teen ka doyonga bo o jeg teen ka andoona yee ko suptan lakas xaalis e% fi'ik commerce :fra mbaa o fi'ik élévage :fra mbaa fi'ik lakas ii.
+srr_53150 1 Locuteur3 338.391 347.268 <o,f1,female> O ɓay daal ke ta waagna jaal daal ten refu yee rooga ci'angaang ba ci'ong ke ñoowtaa fo ke o ɗaxtaa coxla'of rek a faga nda waagiro jeg teen lakas i kene bug'um o ɓaat teen.
+srr_53150 1 Locuteur4 347.268 365.962 <o,f1,female> [b] o njal teen mayu jeg jeg rendement :fra fo magnu waag o jiku teen ñaam teen ndaa meeke i ndefna ku ku i nnqooxa no saate fe daql ka ñaameena yo ndaa waagiro jikoox teen dara dara.
+srr_53150 1 Locuteur2 365.962 367.681 <o,f1,female> xar ɓaatka teen?
+srr_53150 1 Locuteur5 367.681 379.992 <o,f1,female> keem ɓaatka teen ten refu yee ndamit ne fop ten refu yee ax ke, fat ax ke teela a ngar i mbaaganga njeg ax ,jeg machine :fra kana ndamta in engrais fe a gar itam,
+srr_53150 1 Locuteur5 379.992 389.986 <o,f1,female> A ɓisiidel pour :fra wiin we wax deg a waaga xan a faax daal no ndamit ne qooq qe machine :fra ke engrais :fra fe semence :fra ke i kaaga daal ga'um ee a waa moƴo damta in.
+srr_53150 1 Locuteur2 389.986 392.357 <o,f1,female> a tos ale nu na utiliser:fra anooyo?
+srr_53150 1 Locuteur6 392.357 404.979 <o,f1,female> Matière :fra organique :fra fe i naa no mbi'aa de ndaa anda yee ke waagoona fi' no engrais :fra organique :fra bata fi' o qol o muum wax deg jaakee iyo ndaa nu ngaranga Mb'an in formation :fra njangna in ka moƴna andoona yee xaya moƴo waago fi'aa engrais :fra organique :fra fo mayu.
+srr_53150 1 Locuteur6 404.979 418.608 <o,f1,female> Ba waago fi' o qol kaaga yo yaga i njang i njangnel encore :fra ne a qooq a wata yaam o kiin a waaga xooxaa, xooxaa lultan andiro ne a qooq a wata ndaa kene fop ka war o fog no ndamit ne i mborme rew we maraichage :fra fe fop na qooq ale fogu .
+srr_53150 1 Locuteur2 418.608 420.416 <o,f1,female> Gan mbi'aa maraichage:fra?
+srr_53150 1 Locuteur6 420.416 421.685 <o,f1,female> ii ka i mbi'aa maraichage :fra de
+srr_53150 1 Locuteur2 421.685 422.034 <o,f1,female> %hum
+srr_53150 1 Locuteur6 422.034 422.446 <o,f1,female> i
+srr_53150 1 Locuteur2 422.446 423.459 <o,f1,female> nu mborme'e teen?
+srr_53150 1 Locuteur7 423.459 437.880 <o,f1,female> I mborme'an de ka fola fol rek ret njik cimb wala o pepiniere :fra rek gar lup rek yipaa foofi [rire_en_fond] sora xicaa a ndung pambe yiin yipaa nangam palin nefar rek jaxasaa andiro roog rek naa yoonaa fo in.
+srr_53150 1 Locuteur2 437.880 439.774 <o,f1,female> I naaga yo de yaam lang ke mooy loolu
+srr_53150 1 Locuteur7 439.774 451.372 <o,f1,female> Lang ke ga mbag a ɗega il :fra faut :fra ta yipel tig a neexlel to neexil ne koy wax deg o bugangaan fi'an a xoxof ka jeema rek ɗeeta rek ka ref'ina meen cosaan fa [conv] i 102
+srr_53150 1 Locuteur8 451.372 461.768 <o,f1,male> Nu ɓaat o ndamtiid a in rek yaam ɓaat o ndamito de yaam nuun woy ndamta in koy nu ɓaat o ndamtiid a in rek no machine :fra ke bo i mbaag o nnoox mayu njeg mayu.
+srr_53150 1 Locuteur8 461.768 470.362 <o,f1,male> Bo o ñoow ole a doy no pind ke, a doyanga no pind ke rek ndiiki i njeg ke i njikooxna ndaa tank mayee no mbind ne i njikookee.
+srr_53150 1 Locuteur8 470.362 487.192 <o,f1,male> Yaaga i njikukee de yaay [rire] i koy de fat ta may rek yaaga rek xan i mbaag o njeg ka andoona yee a mayata no mbind ne yaam o nananga o jikooxa ko jeg mayu jegiro mayu jikooxkiro naaga soom a fodu de ndamta in rek tracteur :fra ke yiin machine :fra ke na mbaaca yiin .
+srr_53150 1 Locuteur8 487.192 497.188 <o,f1,male> Bo o ñoow ole daal a waago xoox rek no mbind ne i yaam ku kiin a fi'a mat to o ñoow ole mbind ne doyee jegiro dara ii, ndamta in daal i na mbi'aa a qooq ƴiid
+srr_53150 1 Locuteur8 497.188 513.089 <o,f1,male> Ndaa mene itam ka i njega problème :fra foofi yaam a foof le no ndiig nene waagata moof bo nu mbaag o njaltel to meme :fra o moofanga yo i njegee moyen :fra pour :fra mbaag o njal teen i ndamit'ange bo mbaago mbi'aa maraichage:fra no ƴiid ne nqooxaa no ndiig nqooxaa no ƴiid i maaga fop daal in mboy ndimle'ooxa pour :fra o ndamtel maaga .
+srr_53150 1 Locuteur9 513.089 524.820 <o,f1,male> [conv] Ke buguma ɓaat teen ten refu yee no walum qooq ale e% aar ake fo kaaf ke nu ndimle'aa in rek no tracteur :fra ne.
+srr_53150 1 Locuteur9 524.820 538.129 <o,f1,male> II fo ke and produit :fra fe andoona yee fe andoona yee ten naa waraa daaƭ le daal herbicide :fra ta ref no walum e% keeke ke qooq ale ƴiid ne maraichage :fra fe e nu ndimle a in rek no pompe :fra solaire :fra ke .
+srr_53150 1 Locuteur9 538.129 556.723 <o,f1,male> Fo foof le itam fat a doy, foof le in nam foof fo doyu itam i mbugan ii, i mbuga foof fo doyu i mbagiran o njeg i kaaga daal i moƴu neme yi ak daal fo lang ɗegu ke itam lang ke itam ga ɗeg ii, i mbaaganga ndimletel teen i ndamtel teen ee paax a paax a paax ii [conv] .
+srr_53150 1 Locuteur2 556.723 573.664 <o,f1,female> So i mbakit no question :fra nene xar nu mbugu lay kilifa ke pour :fra de ndimle a nuunooyo kom walum courant fe yiin kene yiin fop xar message :fra num nu cooxaa den oyo an bugu lay [conv] no mbay fe yiin kene yiin fop.
+srr_53150 1 Locuteur9 573.664 585.754 <o,f1,male> Iyo wala ke i mbugna lay kilifa parce :fra que :fra bo ndik in woy laya no walum courant :fra to i anda yee courant :fra e% problème :fra état :fra yo e% état :fra yo waagu o wexey .
+srr_53150 1 Locuteur9 585.754 606.513 <o,f1,male> Bo électrification :fra a waago a waago o a motali a daaw me ta warna o daaw fop ten texu vraiment :fra ino wo lancé :fra a den appel :fra laya den ee ndax i mbaago njeg développement :fra no walum qooq ale in ndax a qooq ale i mbaagino moƴo njeg teen vraiment :fra autonomie:fra.
+srr_53150 1 Locuteur9 606.513 616.518 <o,f1,male> I soxla'a, i soxla'a vraiment :fra courant :fra i soxla'a courant :fra i soxla courant :fra a waago xayma caate ke fop ndigil o i nga'a jeego fe da mbi'aa ,i nga'a ye o mbay mbi'aa jeego.
+srr_53150 1 Locuteur9 616.518 632.402 <o,f1,male> Ndaa cas :fra meme :fra bo fa ndik a maada yoqaa caate mayu ka andoona yee courant :fra fe fadafulee maaga meme :fra no village :fra ke andoona yee courant :fra fe xay maga sax e% a sox la a extention :fra a jega amo ka ando naye ka a mbaga ndef no village :fra courant :fra fe jeg maga toto jeg amo ka andoona yee ndaaewe no courant :fra fe bo fa xaye.
+srr_53150 1 Locuteur9 632.402 656.768 <o,f1,male> Donc :fra i soxla'a vraiment :fra ino we lancé :fra a den un :fra appel :fra a mbaaganga o ndimle a in vraiment :fra courant :fra fe a waago moƴo a xay kam village :fra ke no walum a qooq ale aussi :fra i nga'a ye a jega matériel :fra mayu ka andoona yee i maadna soxla'aa sutout :fra e% na qooq ale maalo fe rew we a ndeta bo a comprendre :fra atee duuf fo machine :fra ten moƴu .
+srr_53150 1 Locuteur9 656.768 668.947 <o,f1,male> Ten moƴu économique :fra ee o duuf fo o ɓay o du o sulaa fo o ɓay ndaa aussi :fra den o fop njegee machine :fra kon a mbaganga ndamtel aussi :fra da mbaag o njeg machine :fra o kiin o kiin o inooxatanga o dam no machine :fra of waag o duufanaa xooxof.
+srr_53150 1 excluded_region 668.947 684.081 <o,,unknown> ignore_time_segment_in_scoring
+srr_53150 1 Locuteur9 684.081 695.612 <o,f1,male> Mais :fra vraiment :fra kene a refa ka andoona yee maxey lancé :fra an pour :fra État :fra fe waaganga damit teen a waaganga ga' projet :fra na waagna damit teen aussi e% yaaga xaya faax torop kaaga yo bug'um o ɓaat nu mbaasanaam.
+srr_53150 1 Locuteur2 695.612 697.166 <o,f0,female> xa bug o lay teen ?
+srr_53150 1 Locuteur1 697.166 709.286 <o,f0,male> II mee oxe reefanuma a laytuna yo rek a qooq ale moom pour :fra ta waago faax ne waritna [conv] xan machine :fra a njeg ax a njeg .
+srr_53150 1 Locuteur1 709.286 725.683 <o,f0,male> Anda ax refee ax soom anda aussi :fra ka war o jeg ax ka andoona yee aussi e% ka war o o ɗeet a wara ɗeetel ba ande ndax ax keke a mbaaga o nduufel meeke ba mbaax ndax mbaagee nduufel men ba mbaax ke da laya yee semence :fra de :fra qualité :fra.
+srr_53150 1 Locuteur1 725.683 740.830 <o,f0,male> I keene ka fog teen, a jelanga kaaga o duufanga itam kaa soxla e%kene wiin we laya engrais :fra ko war o yip teen engrais :fra sokoy engrais :fra fene ke o duufitka ta ref machine :fra
+srr_53150 1 Locuteur1 740.830 752.170 <o,f0,male> Keene itam kaa ref ka andoona yee ten refu presque :fra xoox le na qooq ale yaam o duftanga o naa jaltaa ka andoona yee refee machine :fra jaltaa o ɓay.
+srr_53150 1 Locuteur1 752.170 768.188 <o,f0,male> Calel o ɓay mbaagee may ndiig ne faax faax we na njaltaa machine :fra xan a njeg ba ɗay to jegkiro tus ka ñoowtoona rek o jegka yaag koy e% ke andoona yee ten refu machine :fra ke fo courant :fra fe a jalanga o jeg ma waagoona gek .
+srr_53150 1 Locuteur1 768.188 785.791 <o,f0,male> Hee ta waag o faax, a waago miñ kaaga it ten refu ke andoona yee ten waagu tax a qooq ale jof mbamir a fi'angan we andoona yee ten refu o maad oxe fo e projet :fra keeke andoona yee ka ndimle'aa wiin comme :fra 4R.
+srr_53150 1 Locuteur1 785.791 800.894 <o,f0,male> E au :fra passage :fra i ngidma den yaam a ndamta in ren bo vraiment :fra e% i njega maalo fa andoona yee i mosiran o njeg e i ngidma den no kaaga yakaaraa den to lay a den da moƴo ngoorngoorloox no xiid ole ren a ndamtiid a in no ax paax .
+srr_53150 1 Locuteur1 800.894 816.979 <o,f0,male> EE i mbaaganga njeg engrais :fra fo ne Serir a laytuna tracteur :fra a qooq maalo moom fok ta jeg tracteur :fra fok ta jeg tracteur :fra parce :fra que :fra bala o duufa maalo fe fok o fi' tracteur :fra bo pare te labouré :fra a mbeel ale bo pare sokoy o soog o waago duuf.
+srr_53150 1 Locuteur1 816.979 830.682 <o,f0,male> Yaag koy i njeganga daal courant :fra fe doyanga caate ke e% machine :fra ke njeg engrais fe jeg ax paax ke njeg vraiment :fra yaaga xan i content :fra trop :fra e kene jegum ka ɓaatuma teen ee jooko njal.
+srr_53150 1 Locuteur10 830.682 847.861 <o,f1,female> [conv] [rire] Mi yo bo ndik maadaam o laya rek affaire :fra ke courant :fra ke layeena ka ten refu o njiriñ onqe moƴna magin ta ref racine :fra principale :fra fe daal pour :fra mi courant :fra fe moom ka war o law i wiin we fop a mbaago ndaawin.
+srr_53150 1 Locuteur10 847.861 860.572 <o,f1,female> A mba qooq ale waag o ɓaatoox sokoy o saax ole na qooq ale engrais :fra fe ka fog teen i yaam o xooxanga to engrais :fra iro wax deg ka tax sax wiin we nqooxatee mayu .
+srr_53150 1 Locuteur10 860.572 873.608 <o,f1,female> Yaam xooxaa koƥ ale fop to jegiro ka yipoona teen ke xooxona fi' darangoy dareet daawanga ngaaf bo daawatan o fadik ma leng a andeerna wax deg kene fop o ñak engrais :fra yo ɓisiidun to i layranga ndigil lang ke ga ɗeg i sokoy saax ole no qooq ale maalo fe, a qooq maalo mat pour i ñoow wargal fook

@@ -1,0 +1,46 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 10:34:54 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 2 of 230721
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_31510 1 locuteur_1 0.000 2.291 <o,f1,male> [conv] soxna si na nga def noo tudd
+wol_31510 1 locueteur_2 2.291 4.777 <o,f1,female> [b] man Boury Mbodj laa tudd [b]
+wol_31510 1 excluded_region 4.777 6.152 <o,,unknown> ignore_time_segment_in_scoring
+wol_31510 1 locuteur_1 6.152 7.075 <o,f1,male> dëkk ci diwaanu fan
+wol_31510 1 locueteur_2 7.075 13.752 <o,f1,female> dëkk %e [b] dëkk ci commune :fra Dya [conv] [b] dëkk Dya biir communauté :fra rurale :fra bi
+wol_31510 1 locuteur_1 13.752 15.127 <o,f1,male> yow ci [b] looy yëngu Boury
+wol_31510 1 locueteur_2 15.127 16.972 <o,f1,female> [b] man maa ngi yëngu ci mbay
+wol_31510 1 locuteur_1 16.972 17.352 <o,f1,male> mbay
+wol_31510 1 locueteur_2 17.352 18.113 <o,f1,female> [conv] waaw
+wol_31510 1 locuteur_1 18.113 21.098 <o,f1,male> ndax yaa ngi doon déglu émissions :fra yu ñu daan def ci rajo [b] alfayda
+wol_31510 1 locueteur_2 21.098 26.544 <o,f1,female> [b] waaw maa maa ngi am na ci yu a ci doon jot a dégg [b]
+wol_31510 1 locuteur_1 26.544 27.485 <o,f1,male> ci lan la daan wax
+wol_31510 1 locueteur_2 27.485 51.696 <o,f1,female> [b] %e mbirum mbay mi [b] ci lay wax [b] nuñ ñu jàppalee [b] nan lañ war a def [b] ak suuf si [conv] nan lañ def ba mun a [b] war a am jiw bu baax [b] luñ war a mën a béy bay [b] muy semence :fra certifiée :fra [b] xelal nañ ñu ci [b] waxtaan nañ ci wax dëgg yàlla [conv] ay kii yoon i yoon
+wol_31510 1 locuteur_1 51.696 52.853 <o,f1,male> ndax xam nga semence :fra certifiée :fra
+wol_31510 1 excluded_region 52.853 60.344 <o,,unknown> ignore_time_segment_in_scoring
+wol_31510 1 locuteur_1 60.344 60.718 <o,f1,male> %hum
+wol_31510 1 locueteur_2 60.718 74.132 <o,f1,female> waaw [conv] coopérative :fra bi ak ànd ak COPEK [conv] ndax waa COPEK ñoo jàppale coopérative :fra bi [b] ba ñu mën a am [conv] semence :fra certifiée :fra [conv]
+wol_31510 1 locuteur_1 74.132 77.656 <o,f1,male> donc :fra naka nga gisee sa bay mi sa mbay mi bi nga ko ginnaaw bi nga ko jëfandikoo
+wol_31510 1 locueteur_2 77.656 105.846 <o,f1,female> maanaam %e mbéy mi waxtaan nañ ko fii léegi nee nañ macha :ar allah :ar [conv] semence :fra certifiée :fra mënut a niróog jiw bi ngdencal sa bopp [conv] ndax jiw semence :fra certifiée :fra dañ ko traité :fra [b] waaw jaarale jaarale ko [b] ci ba mu mucc ayib [b] kon nag mënut a niroog [b] jiw bi nga xam ne am na fukki at [conv] nga téye ko boo béyee denc mënul a mënul a niróo duñ niróo rendement :fra daal
+wol_31510 1 locuteur_1 105.846 106.443 <o,f1,male> %hum %hum
+wol_31510 1 locueteur_2 106.443 108.996 <o,f1,female> rendement :fra yi du bokk waaw
+wol_31510 1 locuteur_1 108.996 111.732 <o,f1,male> ndax mos ngaa gis sa téléphone :fra benn message :fra bu lay wax ci wàllu mbay mi
+wol_31510 1 locueteur_2 111.732 159.555 <o,f1,female> waaw ndax woo na ma ne ma yow yaay Boury Mbodj ma ne ko waaw man la Boury Mbodj [conv] mu ne ma ndax béy nga %e ndax yow jox nañ la jiw [conv] ren ci ci coopérative :fra bi [conv] ma ne ko béykat dëgg laa ndax tey balaa nga ko doon xam nga yegg si [conv] ci li ma li ma li ma yore [b] mu ne ah ma ne ko waaye ci suma biir section :fra [conv] biir section :fra bi ma ne mu ne ah ma ne ko [b] léegi rek laa tàggoog ki nga xam ne dañoo seet si woon toolam [conv] joxuñ ko jiw semence :fra certifiée :fra [conv] ndax ma ma ma dem ci moom oowal la ko mu ne ma amul amul solo loolu def naa ko [conv] jokkoo naag ñoom [conv]
+wol_31510 1 locuteur_1 159.555 163.473 <o,f1,male> ok :en tey %e looy xelal sa mbokku béykat yi [conv]
+wol_31510 1 locueteur_2 163.473 202.990 <o,f1,female> tey li ma xelal sama mbokku béykat yi mooy [conv] maanaam tey jotaayu tey bii [conv] indi na ñu doole [conv] indil nañ ñu loo xam ne luñ xamul woon la [conv] ñu xamal ñu ko [conv] ndax rajo bi [conv] téléphone :fra yi [conv] li ñu wax nii téléphone :fra yi [conv] képp ku mu ku mu yore sa téléphone :fra buñ la ooyee [conv] jokkoog yow déplacement :fra du am yaakaar naa boobu moo gën a xarañ [conv] mu war moto :fra [conv] ou :fra nga wor oto [conv] di déplacé :fra wu yaa kaar naa foofu moo gën a %e indi yaxanal [conv] bu dee yaxanal poche :fra rek foofu la gën a yombee
+wol_31510 1 locueteur_2 202.990 240.015 <o,f1,female> kon nag li ngeen li ñu taataan fii tey [conv] ñu bëri di béykat [conv] jàppale ngeen ñu [conv] waaw ndax wax ngeen fi mbiru [conv] xetax wax ngeen fi compost :fra te compost :fra yàgg na nit ñi di ko doxal [conv] xetax yàgg na fi [conv] mais :fra yaakaar naa buñ xamoon ne xetax bi boo ko defut compost :fra di nga ko mun a utiliser :fra [b] te loolu yëpp jëlee naén ko fi një() muy njëriñ [conv] loo xam ne dañ ko daan sagganee [conv] waaye yaakaar naa lu ñuy récupérer :fra fi mu nekk nii [conv] di di ci jàpp [conv] waaw [conv]
+wol_31510 1 locuteur_1 240.015 243.271 <o,f1,male> waaw [b] kon nga baal ñu fàttali ñu tur beeg sant bi ak fi nga dëkk [b]
+wol_31510 1 locueteur_2 243.271 253.100 <o,f1,female> man daal [b] man maa ngi tudd Boury Mbodj [b] présidente :fra section :fra Dya [conv] dëkk ci biir Dya [conv] waaw [conv]

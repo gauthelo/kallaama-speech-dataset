@@ -1,0 +1,132 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 09:36:16 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by ACER ASPIRE, version 4 of 230217
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_42315 1 locuteur_2 0.000 22.799 <o,f1,male> ci rencontres :fra yi nga xam ne [b] waa [b] su() %e waa Syngenta organisé :fra woon nañ ko Kaolack ak partout :fra foo xam ne dañ fa dem [b] yaakaar naa ne du ñun réseau :fra kese :fra ñun ñoo am si produit :fra bi [b] boo demee si yeneen zones :fra yi mel ne boori Kaffrine [b] ñi nga xamoon réseau :fra ñi nga xamoon def nañ yite ci [b] ci %e defoon nañ yite ñoom ñoo am chance :fra jàll si [b] mais :fra ñi ñu sollicité :fra woon xëy na xaw na ñoo bëri [b]
+wol_42315 1 locuteur_2 22.799 28.699 <o,f1,male> donc :fra [b] ñun def nañu def nañ invest() def nañu ay ay laajte nañu informations :fra yi ci rencontre :fra
+wol_42315 1 excluded_region 28.699 31.268 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_2 31.268 43.391 <o,f1,male> mais xëy na nag comme :fra ñun du ñu technicien :fra boo xam ne nii tey jii mun nañu yéene di faram fàccee ni fii la jógee fee la waroon jaar ak laboratoire :fra la waroon jaar ak [b] yooyu d' :fra accord :fra ndax lim boo xam ne daa gën a mais :fra xëy na dañ ko gën a gëstuwaat
+wol_42315 1 locuteur_3 43.391 44.206 <o,f1,male> %hum %hum [b]
+wol_42315 1 locuteur_1 44.206 45.545 <o,f1,male> mais :fra loolu yëpp tardé :fra wul mun ngeen dem
+wol_42315 1 excluded_region 45.545 49.417 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_1 49.417 49.706 <o,f1,male> %hum %hum
+wol_42315 1 locuteur_2 49.706 56.781 <o,f1,male> ndax y :fra a :fra Jokalante benn ra() [b] benn kii la kuréel ga la bu nekk Dakar boo xam ne moo ñu mettre :fra en :fra relation :fra mais :fra lu jëm ci wàllu [b] informations :fra yi
+wol_42315 1 excluded_region 56.781 60.599 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_2 60.599 63.132 <o,f1,male> [b] ñu gën si in() gën si demandé :fra waat ay informations :fra
+wol_42315 1 locuteur_1 63.132 64.815 <o,f1,male> waaw ñun Jokalante moo ñu booleeg yée
+wol_42315 1 locuteur_2 64.815 65.238 <o,f1,male> voilà :fra
+wol_42315 1 locuteur_1 65.238 67.147 <o,f1,male> parce :fra que :dea dañ jotoon nañ liggéey ak ñoom si beneen kuréel
+wol_42315 1 excluded_region 67.147 67.940 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_2 67.940 68.385 <o,f1,male> voilà :fra
+wol_42315 1 locuteur_1 68.385 69.705 <o,f1,male> ñoom ñoo ñu jokka() booleeg yéen ñoo ñu
+wol_42315 1 excluded_region 69.705 72.362 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_2 72.362 80.412 <o,f1,male> lépp loo xam ne dafa jëm si wàllu information :fra yaakaar naa si ñoom la ñu ko gën a mën a amee [b] ak ñi nga xam ne aussi :fra waa Syngenta ñi nga xam ne ñoom ñooy ñoom ñoo fi indiwoon produit :fra ba léegi maa ngi am seen contact :fra [b]
+wol_42315 1 locuteur_2 80.412 85.153 <o,f1,male> danañ leen gën a laaj ay informations :fra s' :fra il :fra le :fra faut :fra sax ñoom ñu invité :fra leen ñoom it ñu ñëw fii
+wol_42315 1 locuteur_7 85.153 85.443 <o,f1,male> allo
+wol_42315 1 locuteur_2 85.443 86.727 <o,f1,male> %e indi seen kii ndax
+wol_42315 1 excluded_region 86.727 92.275 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_7 92.275 92.665 <o,f1,male> allo
+wol_42315 1 locuteur_1 92.665 94.681 <o,f1,male> waaw monsieur :fra Wade waaw [b]
+wol_42315 1 locuteur_7 94.681 95.759 <o,f1,male> asalaamaaleykum [b]
+wol_42315 1 locuteur_1 95.759 97.072 <o,f1,male> waaw du monsieur :fra Wade la wala du moom
+wol_42315 1 inter_segment_gap 97.072 98.145 <o,f1,>
+wol_42315 1 locuteur_7 98.145 101.007 <o,f1,male> waaw kii Diop la Diop la Talla Diop Kër Saalum Diané [b]
+wol_42315 1 locuteur_1 101.007 102.620 <o,f1,male> El Hadj Diop [b]
+wol_42315 1 locuteur_7 102.620 103.774 <o,f1,male> Talla diop kër Saalum Diané
+wol_42315 1 locuteur_1 103.774 104.595 <o,f1,male> ah Talla waaw Talla
+wol_42315 1 excluded_region 104.595 106.583 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_7 106.583 110.213 <o,f1,male> waaw asalaamaaleykum maa ngi nuyu [b] [pi]
+wol_42315 1 locuteur_1 110.213 111.881 <o,f1,male> ñu ngi lay fay [b]
+wol_42315 1 locuteur_7 111.881 120.210 <o,f1,male> waaw maa ngi leen di baalu àq di leen baal àq si weeru koor gi [b] waaw maa ngi baalu àq waa kilfa Dóor waar
+wol_42315 1 locuteur_1 120.210 121.809 <o,f1,male> waaw [b]
+wol_42315 1 locuteur_7 121.809 132.630 <o,f1,male> bon :fra maa ngi rafetlu seen waxtaan bi bu baax a baax a baax jiital si président :fra si coono si déplacement :fra bi [b] et :fra puis :fra di ko remercié :fra si liggéey bu rafet bi muy liggéey ak ñi mu àndal [b]
+wol_42315 1 locuteur_7 132.630 138.912 <o,f1,male> bon :fra ci %e ma ñëwaat si à :fra propos :fra Apronstar bi ñuy wax naan [b] surtout :fra si traitement :fra yi [b]
+wol_42315 1 locuteur_7 138.912 157.325 <o,f1,male> ah mën naa wax en :fra tant :fra que :fra animateur :fra parce :fra que :fra man ñi ko yor si laa bokk [b] et :fra puis :fra ñiy pratiques :fra yi ci laa bokk ñi yor def def yi ci laa bokk [b] vraiment :fra produit :fra bii maa ngi si soog a neme() nemmeeku gox bi mu njëkkee ñun am na reussite :fra [b] bu baax a baax a baax [b] par :fra rapport :fra ak ñu koy séddoo [b]
+wol_42315 1 locuteur_7 157.325 165.331 <o,f1,male> parce :fra que :fra si première :fra année bi boo ko seetloo [b] li si gën a yokku [b] ren la gën a yokku ci production :fra daaw bi [b]
+wol_42315 1 locuteur_7 165.331 171.596 <o,f1,male> ñi ko defoon ñëpp wax dëgg yàlla kenn ku nekk feeñal na ne [b] liñ ko joxoon amul benn ayib [shh] [b]
+wol_42315 1 locuteur_7 171.596 180.022 <o,f1,male> moom daal [shh] li may conseillé :fra mooy ki nga xamante ne mu de() président :fra boo mënoon jokkoonteeg ñoom vraiment :fra mu jàpp bu baax a baax si commune :fra bi bu baax a baax a baax ñu jàpp si réseau :fra bi bu baax [b]
+wol_42315 1 locuteur_7 180.022 186.487 <o,f1,male> ak trésorier :fra bu baax nag [b] * [b] ñu ngi rafetlu bu baax a baax jotaay bi [b]
+wol_42315 1 locuteur_1 186.487 186.983 <o,f1,male> jërëjëf
+wol_42315 1 excluded_region 186.983 191.154 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_7 191.154 199.728 <o,f1,male> parce :fra que :fra actuellement :fra fi ma nekk nii maa ngi si machine :fra bi nii vraiment :fra y :fra a :fra assez :fra de :fra client :fra [b] ñoom ñëpp ñu ngi toog war a bokk ci kii bi [b]
+wol_42315 1 excluded_region 199.728 208.099 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_1 208.099 215.440 <o,f1,male> allo [b] waaw jërëjëf kooku %e [b] dem na mooy ki doon wax Talla Diop [b]
+wol_42315 1 excluded_region 215.440 227.217 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_2 227.217 228.218 <o,f1,male> %hum %hum animateur :fra la
+wol_42315 1 locuteur_1 228.218 233.780 <o,f1,male> animateur :fra la voilà :fra c' :fra est :fra ça :fra [tx] léegi comme :fra ni ma leen ko waxee na yegg si cappaandaw gi simili yi dafa jeex daanaka dama ne la xaabaabal nañ sax
+wol_42315 1 locuteur_2 233.780 234.136 <o,f1,male> %hum %hum
+wol_42315 1 locuteur_1 234.136 236.289 <o,f1,male> waaye nag du ma def lu dul jox leen kenn ku nekk tàggatoo
+wol_42315 1 locuteur_2 236.289 236.508 <o,f1,male> %hum %hum [b]
+wol_42315 1 locuteur_1 236.508 242.696 <o,f1,male> waaye si balaa ngeen a tàggatoo [b] bëggoon naa man mii bëgg a bokk wala keneen ku bëgg a bokk naka la mën a bo() def pour :fra bokk si coopérative :fra boobu wala réseau :fra boobu
+wol_42315 1 locuteur_2 242.696 243.210 <o,f1,male> %hum [b]
+wol_42315 1 locuteur_1 243.210 246.094 <o,f1,male> %e président :fra ma njëkkee si yow [b] après :fra nga tàgguwaale askan wi
+wol_42315 1 locuteur_2 246.094 246.472 <o,f1,male> waaw
+wol_42315 1 excluded_region 246.472 251.088 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_2 251.088 255.816 <o,f1,male> groupement :fra yi nga xam ne ñooy villageois :fra yi [b] ñooy ñooy taxaw taxawal seen benn kuréel [b]
+wol_42315 1 locuteur_2 255.816 263.338 <o,f1,male> suñ ko defee ñu ñëw ñu joxe seen adhésion :fra [b] indivuduellement :fra nag aussi :fra aussi :fra am na ñoo xam ne dañuy ñëw di adhéré :fra wu [b] réseau :fra bi [b]
+wol_42315 1 locuteur_2 263.338 270.928 <o,f1,male> lu si mel ne ren jii nii ay cartes :fra de :fra membres :fra lañ defoon [b] di ko di ko jaayee chaque :fra pro() chaque :fra groupement :fra wala chaque :fra individu :fra [b] 2000F [b]
+wol_42315 1 locuteur_2 270.928 276.441 <o,f1,male> donc :fra soo jëndee carte :fra 2000F bi [b] moo lay permettre :fra nga mën a bokk ci réseau :fra bi [b]
+wol_42315 1 locuteur_2 276.441 282.341 <o,f1,male> mais :fra nag li ci ëpp moom ay groupement :fra la ñuy la ñuy la ñuy faral di kii ndax groupement :fra yi ñooy bokk benn bëgg-bëgg [b]
+wol_42315 1 locuteur_2 282.341 292.230 <o,f1,male> souvent :fra ñu jàppale leen su fekkee dañoo soxla crédit :fra [b] lié :fra leen ak banque :fra yi ku mel ni Pamecas suñu partenaire :fra la [b] tey si su ma yeboo ma ne la plus :fra de :fra %e 20 groupement :fra ñu ngi fi ubbi seen compte :fra [b]
+wol_42315 1 locuteur_2 292.230 304.936 <o,f1,male> di xaar fan yii pour :fra ñu financé :fra leen [b] donc :fra [b] yooyu boo joxee en:fra tout :fra cas :fra boo jëndee carte :fra membre :fra bi daal moom [b] ci ngay adhéré :fra daanaka si réseau :fra bi [b] que :fra tu :fra sois :fra groupement :fra la nag wala individuellement :fra [b] boole si doole ji [b]
+wol_42315 1 locuteur_1 304.936 306.924 <o,f1,male> da ngay jënd carte :fra membre :fra carte :fra membre :fra ñaata lañ koy jaayee
+wol_42315 1 locuteur_2 306.924 309.397 <o,f1,male> carte :fra membre :fra bi ren ñu ngi koy jaayee :fra 2000F [b]
+wol_42315 1 locuteur_1 309.397 310.625 <o,f1,male> 2000F la ñuy jaayee carte :fra membre :fra
+wol_42315 1 excluded_region 310.625 319.023 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_1 319.023 324.002 <o,f1,male> %e kenn ku ko bëgg mën nga woote si 77 [b] 092 [b] 22 41
+wol_42315 1 locuteur_2 324.002 324.335 <o,f1,male> 41
+wol_42315 1 locuteur_1 324.335 329.661 <o,f1,male> wala nga def 70 [b] 206 [b] 93 01 bu soobee yàlla di nga jot président :fra te bu boobaa di nga mën a bokk
+wol_42315 1 excluded_region 329.661 332.801 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_2 332.801 338.783 <o,f1,male> voilà :fra damay li may tàggatoo damay nuyu [b] képp koo xam ne auditeur :gra di déglu SK FM [b]
+wol_42315 1 locuteur_2 338.783 343.329 <o,f1,male> ndax rajo la boo xam ne [b] vraiment :fra [b] %e ñombaato yëpp ñu ngi koy déglu [b]
+wol_42315 1 locuteur_1 343.329 343.705 <o,f1,male> %hum %hum
+wol_42315 1 locuteur_2 343.705 348.407 <o,f1,male> [b] di remercié :fra ñi nga xam ne ñoo def seen intervention :fra surtout :fra ki doon leerlu loolu ci [b]
+wol_42315 1 excluded_region 348.407 356.533 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_2 356.533 362.965 <o,f1,male> dama leen maa ngi leen di nuyu [b] di nuyu waa * [b] ñoom it partenaire :fra yi réseau :fra bi la [b]
+wol_42315 1 locuteur_2 362.965 372.818 <o,f1,male> di nuyu waa Prodac [b] xam ne ñoom it si ay partenaire :fra u waa réseau :fra bi la [b] di nuyu aussi :fra [b] %e projet :fra bu bees bi nga xam ne mu ngi commencé :fra installé :fra di waa Kawolor [b]
+wol_42315 1 locuteur_2 372.818 379.685 <o,f1,male> ñooñu ñëpp ay partenaires :fra réseau :fra yi la xam ne dañuy ñëw di jàppale baykat yi jaar si réseau :fra pour :fra mun a acceder :fra si ñi nga xam ne ñooy baykat yi [b]
+wol_42315 1 locuteur_2 379.685 386.201 <o,f1,male> donc ñooñu ñëpp maa ngi leen di nuyu di leen sant [b] di nuyu bépp baykat nag boo xam ne aussi :fra [shh] nekk nga si diiwaanu kër Saalum Ndiané
+wol_42315 1 locuteur_2 386.201 395.073 <o,f1,male> surtout :fra lii nga xam ne ñoom ñooy les :fra producteurs :fra leaders :en ñu leen di woowee producteurs :fra leaders :en xam ne ñoom ñooy jàppale ñooy représenté :fra kuréel yi ci ñooy représenté :fra réseau :fra bi ci kuréel yi [b]
+wol_42315 1 locuteur_2 395.073 401.342 <o,f1,male> ñooñu ñëpp maa ngi leen di nuyu di nuyu staff :fra bi nga xam ne ñoom laa bokkal liggéey bi yëpp suñuy suñuy suñuy suñuy membres :fra [n]
+wol_42315 1 locuteur_2 401.342 407.462 <o,f1,male> di nuyu suñu %e di nuyu di gërëm aussi :fra waa SK FM si possibilité :fra bii nga xam ne may nañ ma ko [b]
+wol_42315 1 locuteur_2 407.462 415.513 <o,f1,male> di nuyu aussi :fra di sant waa Jokalante ñi nga xam ne tey jii [b] grâce :fra à :fra ñoom tey ñu mën a toog fii [b] émission :fra bii ñuy def nii [b] ñoom itam maa ngi leen di sant di leen gërëm [b]
+wol_42315 1 locuteur_2 415.513 421.089 <o,f1,male> di gërëm aussi :fra waa Syngenta ñi nga xam ne ñoom ñoo ñu indiloon produit :fra bi [b] ñoo ngi sant ñëpp di gërëm ñëpp
+wol_42315 1 locuteur_1 421.089 421.311 <o,f1,male> %hum
+wol_42315 1 locuteur_2 421.311 422.785 <o,f1,male> [b] wa salaam [b]
+wol_42315 1 locuteur_1 422.785 424.147 <o,f1,male> %e jërëjëf président :fra
+wol_42315 1 excluded_region 424.147 427.975 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 excluded_region 427.975 433.811 <o,,unknown> ignore_time_segment_in_scoring
+wol_42315 1 locuteur_3 433.811 434.135 <o,f1,male> %hum %hum
+wol_42315 1 locuteur_1 434.135 436.384 <o,f1,male> ak carte :fra de :fra membre :fra yi nee nañu 2000F la
+wol_42315 1 locuteur_3 436.384 436.728 <o,f1,male> %hum %hum
+wol_42315 1 inter_segment_gap 436.728 438.172 <o,f1,>
+wol_42315 1 inter_segment_gap 438.172 438.848 <o,f1,>
+wol_42315 1 inter_segment_gap 438.848 439.391 <o,f1,>
+wol_42315 1 locuteur_3 439.391 516.232 <o,f1,male> voilà :fra
+wol_42315 1 locuteur_1 516.232 524.494 <o,f1,male> %e jërëjëf %e ki nga xam ne mooy Aliou Aliou Aliou Ndao nekk président :fra réseau :fra Dóor waar ak sama mbokku bambara bi Bakhayokho
+wol_42315 1 locuteur_2 524.494 524.817 <o,f1,male> %hum %hum
+wol_42315 1 locuteur_1 524.817 526.811 <o,f0,male> moom it ba léegi nekk trésorier :fra réseau Dóor waar
+wol_42315 1 locuteur_2 526.811 527.078 <o,f0,male> %hum %hum
+wol_42315 1 locuteur_1 527.078 529.448 <o,f0,male> mu nekkoon waxtaan boo xam ne ñu ngi ko seqoon fii si SK FM
+wol_42315 1 locuteur_2 529.448 529.777 <o,f0,male> %hum %hum
+wol_42315 1 locuteur_1 529.777 544.220 <o,f0,male> muy programme :fra bi nga xam ne mooy [b] Apronstar di loo xam ne ñu ngi koy jaay [b] mu nekk fi loo xam ne day jàppale ki nga xam ne mooy baykat yi si seen si seen gàncax gi wala seen meññeef pour :fra mu gën a naat gën a %e gën a baax [b] te gën a am doole [b]
+wol_42315 1 locuteur_1 544.220 561.395 <o,f0,male> %e mu nekk réseau :fra boo xam ne mu ngi fi nekk fii si Saalum Diané [i] %e di jàppale askan wi nag Jokalante nekk kuréel goo xam ne mu ngi nekk ndakaaru [i] di jokkalante diggante SK FM ak yeneen kuréel yi nga xam ne ñu ngi nekk fii si gox bi rawatina ñombaato gi [b] ñooñu doon ñooy ñi nga xam ne ñoo waral émission :fra bi ñoo tax mu nekk émission :fra boo xam ne émission :fra bu am solo la [i]
+wol_42315 1 locuteur_1 561.395 573.420 <o,f0,male> dina amaat beneen émission :fra boo xam ne war naa amaat si fan yii ndax ñaari émissions :fra la bii mooy bu njëkk bi waaye am na beneen boo xam ne bu soobee yàlla balaa muy daw dinañ def benn bande :fra d' :fra annonce :fra [b] xamal ko askan wi %e ne ban bés lay wara a doon ak ban heure :fra lay war a doon ak ñoo war a teew si bés boobu [i]
+wol_42315 1 locuteur_1 573.420 584.509 <o,f0,male> mu nekk loo xam ne président dina gën a am solo parce :fra que :fra yaakaar naa ne bu ñu ko préparé :fra woon ni ñu ko waroon préparé :fra dina doon gën a neex kon askan wi gën a mën a dugg ñi bëggoon dugg te jotuñu dugg ñu ngi leen ay gërëm di leen sant xam ne mbir mi moo demee noonu [i]
+wol_42315 1 locuteur_1 584.509 597.171 <o,f0,male> ñi jot a dugg tamit comme :fra Moussa Ngom dëkk kër Saalum kër kër Serigne Korka ñu ngi koy gërëm si dugg bi ñu ngi gërëm monsieur :fra Wade fii Sokone waaye tamit ñu ngi gërëm ki nga xam ne mooy Talla Diop nekk kër Saalum Diané bokk ki nga xam ne moo it bokk si yéen di kenn si yéen [i]
+wol_42315 1 locuteur_1 597.171 602.947 <o,f0,male> ñu ngi leen di gërëm di leen sant [b] di jox dox daje auditeurs :fra SK FM 107.3 ay fan yu néew jërë ngeen jëf [b]
+wol_42315 1 inter_segment_gap 602.947 604.268 <o,f1,>

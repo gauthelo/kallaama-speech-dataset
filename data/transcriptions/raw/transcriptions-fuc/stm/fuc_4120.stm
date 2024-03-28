@@ -1,0 +1,171 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:47 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 6 of 230317
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_4120 1 excluded_region 0.000 6.173 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur1 6.173 11.104 <o,f1,male> %e 94 POINT 5 ɗum ɗon noon min biya on tan
+fuc_4120 1 locuteur1 11.104 19.069 <o,f1,male> %e onoon jaada e amen e oɗo meɗen émission :fra mo andirantama ko o projet :fra 4R e ballal %e wallodirgol e PAM
+fuc_4120 1 locuteur1 19.069 26.332 <o,f1,male> %e kañum e ballal fond :fra vert :fra climat :fra kayen okki en oɗo %e émission :fra yawoɓodiri tan e jokalante
+fuc_4120 1 locuteur1 26.332 31.384 <o,f1,male> %e hande noon mussiɓe enen kaala ko fati e banggal moftugol o reema ko
+fuc_4120 1 locuteur1 31.384 56.655 <o,f1,male> a saabu na enen gandi %e presque :fra ko mois :fra de :fra octobre :fra wonɗen %e wattu cooñaliɗi fuɗɗima himɓeɓe puɗɗima cooñde ko ɗum noon waɗi noon eɗen jaɓɓi tigui tigui noon %e monsieur :fra Amadou Balde kanko noon enen gandi %e mbon liggo tigui eko fati e banggal ɗum ɗon noon kadi biyenbo tan %e hombo membre :fra kalan assocition :fra des :fra argo-pasteur ɗo e département :fra mo Médina Yoro Fulaye %e min mbima tan Baldé salamu aleykum bissimilla maɗa
+fuc_4120 1 excluded_region 56.655 61.631 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 61.631 68.344 <o,f1,male> idi foof mi salmini dendagal hettiyankoɓe MIF FM e nder diwan o mo Médina Yoro Fula
+fuc_4120 1 excluded_region 68.344 81.689 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 81.689 91.227 <o,f1,male> e également :fra hande oɗo théme :fra mbo addanɗa en ko théme :fra joguiɗo important :fra surtout :fra ma oɗo dumunna gonaɗo o wattu o période :fra gonaɗo o
+fuc_4120 1 locuteur2 91.227 100.483 <o,f1,male> vraiment :fra ko ɗumanti joguiɗo important :fra théme :fra o ko ɗum taaki hande mi sikki tan reemoɓeɓe si gandanama siifa oɗo ni théme :fra
+fuc_4120 1 locuteur2 100.483 107.983 <o,f1,male> ala saago ko %e addanat wodi ko addaniɓe hen par :fra ce :fra que :fra wodat ko hen ko okkiɓe hen
+fuc_4120 1 locuteur2 107.983 113.068 <o,f1,male> famamuya kewɗi e banggal %e ndeɗo moftere surtout :fra ma oɗo dumunna gonaɗo
+fuc_4120 1 locuteur1 113.068 133.056 <o,f1,male> ɗum ɗon noon muside kecciyankoɓe ko enen nandi ɗum ɗon kanko noon ko monsieur :fra Amadou Baldé hande ko on jewdita en ni e oɗo meɗen émission :fra fandare e toɓɓere meɗen yewtere nde noon ko fati e banggal hono hen mobtir etn ko reemako hande noon sen wiyama mobtugol mobtugol %e Baldé ne hewi façon :fra ji
+fuc_4120 1 locuteur1 133.056 141.876 <o,f1,male> %e hande ko reemako danaka ɓendi o wattu ɗo presque :fra ko wattu cooñal %e hande kadi en jii cooñal ngal hikka %e haadi fayde ndiyam
+fuc_4120 1 locuteur1 141.876 145.849 <o,f1,male> eyyi hono hen mbaweten mobtirde ko reemako %e tawa hakkaki
+fuc_4120 1 locuteur2 145.849 151.015 <o,f1,male> ok :fra %e comme :fra no mbiɗani par :fra ce :fra que :fra si haalama affaire :fra cooñal tan cooñal ɗi yaaji
+fuc_4120 1 locuteur2 151.015 155.599 <o,f1,male> e surtout :fra ma ndeemaka ɗi yaaji par :fra ce :fra que :fra gueɗe ndeemete ɗe ina hewi
+fuc_4120 1 locuteur2 155.599 160.372 <o,f1,male> mais en tonggat ɗum tan e ndeemanteri dantanguji
+fuc_4120 1 excluded_region 160.372 165.427 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 165.427 168.021 <o,f1,male> e wano suuna en
+fuc_4120 1 locuteur2 168.021 171.803 <o,f1,male> foof ko danaka ɓendi ni ɗi fuɗɗama cooñede ɗi cooñe
+fuc_4120 1 locuteur2 171.803 176.603 <o,f1,male> e méme :fra que guerteɗe an guerteɗe kala également :fra ɗin kala puɗɗama cooñede
+fuc_4120 1 excluded_region 176.603 184.064 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 184.064 189.699 <o,f1,male> par :fra ce :fra que :fra toujours :fra ndiyam ɗam wona ɗo geeɓanɗa ɗam ɗo wona ɗon %e wona ɗon ɗam tawata ma
+fuc_4120 1 excluded_region 189.699 196.169 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 196.169 199.837 <o,f1,male> pour :fra que :fra au :fra moins :fra pasque toujours :fra ɗi huuli ndiyam ɗam woto ngakku
+fuc_4120 1 locuteur2 199.837 205.773 <o,f1,male> mais :fra hikka si a daari tan ndiyam ɗam jusqu' :fra à :fra présent :fra a daari a sikkat ko leeride nduggu wona
+fuc_4120 1 locuteur2 205.773 212.806 <o,f1,male> et :fra alors :fra que :fra yimɓeɓe puɗɗo mobtere pasque hande sa daari e mobtere nde ina satti tigui tigui e reemoɓe he
+fuc_4120 1 locuteur2 212.806 225.181 <o,f1,male> pasque wona tubaño o o wona suuna o e guerte ɗe également :fra kañƴi kala hewɓe awnoɓe lawɓe foof guerte mabɓe ɗe ɓendi mais :fra ɓe jogui probléme :fra honoɓe duggirtani guerte mabɓe
+fuc_4120 1 locuteur2 225.181 234.275 <o,f1,male> donc :fra ɗum hande si haalama han ko hunde wadde importance :fra e ɗum noon hande sa daari mobtere nde han
+fuc_4120 1 locuteur2 234.275 244.052 <o,f1,male> en mbawat tan wiide hande kala o wattu naariɗo seeɗa moftere ma nde ngakkat arenako a perdat ko ndemɗako
+fuc_4120 1 locuteur2 244.052 253.158 <o,f1,male> pasque o hande sa daari wona tubaño o hay sa soppi sa waɗi tuuri han a yiiyat tuuri goɗɗi koɗon daari ɗo ko ɗon puɗata fudde
+fuc_4120 1 locuteur2 253.158 266.214 <o,f1,male> te or :fra que :fra sami sa daari tubaño o wodi duulaji goɗɗi %e wano tooɓogo wodi e basale goɗɗe liɓaɗe ɗen memɗe leydi ndi foof si a heeliɗe a hawan ɗe helde kala ɗe puɗat
+fuc_4120 1 locuteur2 266.214 271.367 <o,f1,male> te hay sa fo() hay kala sa heeli tubaño o a sifima a waɗi to dow caali
+fuc_4120 1 locuteur2 271.367 289.499 <o,f1,male> tubaño o o se a dartani mo ombo wawi fudde il :fra faut :fra vraiment :fra que :fra il :fra faut :fra suivi :fra mawɗo o heɓa hen pasque tubaño o se a heelibo mbaɗabo e dow caali jamma ɗo e walayade ɓa ɗaɓɓa bache :fra muurabo so weeti kala murtabo
+fuc_4120 1 locuteur2 289.499 299.513 <o,f1,male> ko noon tan mbawata wadde pour :fra mbawa dandude tubaño ma o sinon :fra tubaño ma o kobo fuɗa sibo fuɗani sa wi a nattiniranmo noon kala e suudu kobo funkkat
+fuc_4120 1 locuteur2 299.513 307.749 <o,f1,male> ɗum foof ɗi wawi yakkude e e ndeemanteri ma ndi donc :fra suuna o également :fra seko suuna noon kay ɓuuri tiri susde seeɗ
+fuc_4120 1 locuteur2 307.749 317.895 <o,f1,male> e tubaño o [bb] pasque sa ɓangui ti banggal suuna han suuna kay ɓuuri wulde ko ɗum tagui kay yawirta noon fuɗirɗe
+fuc_4120 1 excluded_region 317.895 327.361 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 327.361 331.791 <o,f1,male> ko ɗum tagui suuna o ɓuuri welde seeɗa mobtude e par :fra rapport :fra tubño o
+fuc_4120 1 locuteur2 331.791 340.549 <o,f1,male> pasque tubaño o pour :fra hande mbawa dandudemo il :fra faut :fra mbaɗa mobtere nde peut :fra étre :fra garta e coosan moftere coosan nde
+fuc_4120 1 locuteur2 340.549 350.862 <o,f1,male> eyyi souvent :fra ɗi ta %e souvent :fra ko hunde ma bingiɓe ko pasque ko naariɗo wawata ɗum wadde eyy soit :fra ɓanga tubaño o cifoɗamo mbaɗamo tokke tokke
+fuc_4120 1 locuteur2 350.862 356.336 <o,f1,male> eyyi ɓiilamo yaade ma ɓonton ɓa %e gassa ɗoye ɗon to ɓiilayen janɗeɗe
+fuc_4120 1 locuteur2 356.336 361.619 <o,f1,male> donc :fra komo saani si tooɓi han ndiyam ɗam foof tawa ina wawi simtude ɗon nde yawata fudde
+fuc_4120 1 locuteur2 361.619 381.739 <o,f1,male> mais :fra wodi woɓɓe noon kala wodi systéme :fra moɓe mbatta également siɓe mbaɗi tubaño o dow caali to ga less ga ɓe kuɓa duuɗal siɓe kuɓɓi duuɗal tan comme :fra ni cuurkiki e guuledi ndi %e ɗi wawi iwrude ga less dow to nangue ngue comme :fra ni hadde fudde e ɗuman tubaño o
+fuc_4120 1 excluded_region 381.739 395.541 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 395.541 404.345 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur1 404.345 414.947 <o,f1,male> ɗum ɗon noon Balde fi hoɗum enen mobta %e poɗɗen pobtude %e ko reema ko saabu na en jii souvent :fra si tawi tan remama ko ma mobte
+fuc_4120 1 locuteur1 414.947 422.620 <o,f1,male> %e hewɓe mobta parfois :fra han jeejita ɗum ɗon addana mumen caɗele fi hoɗum enen foti mobtude ko remako
+fuc_4120 1 excluded_region 422.620 430.953 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 430.953 436.307 <o,f1,male> pasque demowo e foof ɗum remanta sa reemi a cooñi han jaaha moftoya ɗum
+fuc_4120 1 excluded_region 436.307 442.799 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 442.799 449.038 <o,f1,male> pasque a wawata kala cooñ %e remde cooñaɗum goppa ɗum to ladde to sa woppi ɗum to ladde to tan ko yakkoto
+fuc_4120 1 excluded_region 449.038 454.845 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 454.845 470.087 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 470.087 478.194 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 478.194 481.793 <o,f1,male> %e tawɗe watta guerte mawɗe guertoñ ɗaskon watta
+fuc_4120 1 locuteur2 481.793 490.806 <o,f1,male> donc :fra ɗum taaki e c' :fra est :fra important :fra kala jomum o acca %e ndemanteri mumen ndi ha ɓenda ko trim ɓuuri welde moftude
+fuc_4120 1 excluded_region 490.806 498.480 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 498.480 506.828 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 506.828 514.691 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 514.691 533.108 <o,f1,male> woda wattu paloyeɗa ɗum o wawata ɗum hebde donc :fra imagine :fra ndeema mbasa ɗum moftude goppa ɗum yakko ɗi aroya dumunna ta ɗum paaleɗa ɗum tawa ɗi metti hebde ma walla hay si aɗa wawi ɗum hebde han taw ko kalis kewɗo guittata pour :fra mbawa ɗum hebde
+fuc_4120 1 locuteur2 533.108 543.680 <o,f1,male> donc :fra ɗum ko ina moƴƴi si a reemi tan au :fra moins :fra mobta e nde mobtere nde no hikka comme :fra no mbimi ni moftere nde %e naari yawa o wawata moftude hikka gawri
+fuc_4120 1 excluded_region 543.680 552.264 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 552.264 561.632 <o,f1,male> hewɓe o wattu ɗi yettu e tubañoji he mais :fra pasque d' :fra habitude :fra ayiyatno tubañoji woda woɓɓe wattoɗoni siɓi coppino tubaño o malla siɓe keelino tubaño ɓe cifotaɗi
+fuc_4120 1 locuteur2 561.632 569.188 <o,f1,male> ɓe cifata ko noon ɓe joowirta mbaɗon jooyo comme :fra ça :fra so massijiɗi garoyi tan massiñji ɗi ko noon ɗuman bojjirta ɗum
+fuc_4120 1 excluded_region 569.188 580.813 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 580.813 587.306 <o,f1,male> joowa ɗum arenaki suma garanoyta tumayi tawat gonɗi leyɗi foof tawa kañƴi ɗi puɗi goɗɗi ɗi mooƴa
+fuc_4120 1 locuteur2 587.306 602.520 <o,f1,male> donc :fra ɗum ko yakkanta ɗum tagui hikka mobtere nde ko suivi lamdiɗo ko ñande yo ñande aɗa foti daartude e cooñanteri ma ndi kala ko cooñɗa daarta ɗum mbaɗamo suivi :fra aɗa liira liirta aɗa nattina
+fuc_4120 1 locuteur2 602.520 609.297 <o,f1,male> pasque hay a daari hay tooɓani han meeri nde wattu ɗi hewi dole merde tan si immima e bimbi a sikki Allah ki ko toop
+fuc_4120 1 excluded_region 609.297 632.344 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur1 632.344 645.369 <o,f1,male> musiɗɓe hetiyankoɓe Médina Yoro Fula FM 94 POINT 5 ɗum ɗo noon hande enen jaɓɓi [r] monsieur :fra Amadou Baldé kanko noon %e gandal makko tigui nan %e yaaji eko banggal ndeema [r]
+fuc_4120 1 excluded_region 645.369 656.652 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur1 656.652 660.666 <o,f1,male> e ballal fond :fra vert :fra climat yadidinde tan e jokalante
+fuc_4120 1 excluded_region 660.666 678.310 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 678.310 681.777 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 681.777 689.585 <o,f1,male> pasque hoɗum woni hen étape :fra jiɗi ko il :fra faut :fra ndementeri ma ndi du :fra jour :fra au :fra jour :fra ta anawoni e muɗum
+fuc_4120 1 excluded_region 689.585 700.754 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 700.754 709.399 <o,f1,male> pour :fra que ha au :fra moins :fra ɓuɓedi wondi he muɗum ndi nangue ngue yoorna ɗum hande kadi sa natino e nder suudu tan taw waw yawata wudde
+fuc_4120 1 locuteur2 709.399 716.569 <o,f1,male> mais :fra kono si a ɓangui tan a heeli a liiri gotol tan jaaha nattina to nder suudu ina wawi sah wasa fudde
+fuc_4120 1 locuteur2 716.569 726.164 <o,f1,male> mais :fra jiiya gawri ndi fungkat sidi fungki hay ñamgol a tawat ta ndi welani tawa ndi ni yatti malla waya sah kaysko lacciri en ɗumanti foof yawa yakkade
+fuc_4120 1 locuteur2 726.164 745.621 <o,f1,male> donc :fra ɗum foof ɗi adda sifa ɗen ɗon no gueɗe ko ɗum taaki ɗi waɗi important :fra hikka siko suuna cooñƴa suuna ma o jour :fra au :fra lendemain :fra sa sooñi mbawo ñaade o ha ɓorlita suuna o comme :fra ça :fra nangue seggo o senggo wonnogo dow ngo wawa hebde se less pour :fra que :fra nangue ngue heeɓa senggo wonnogo less ngo
+fuc_4120 1 locuteur2 745.621 757.566 <o,f1,male> tubaño o également :fra ko noon sa sooñi tubaño ma o han aɗa wawi ɗum %e également :fra %e liirde e nangue ngue haabo yoora nattina janggo kala jaaltina
+fuc_4120 1 excluded_region 757.566 770.171 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 770.171 777.671 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 777.671 793.941 <o,f1,male> au :fra moins :fra a fiɗɗat guerte ɗe piɗɗaɗe yaade mbaɗa ɗum ɗumanti woni joowoñ tohosoñ yaade piɗɗaɗe yaade sa fiɗɗiɗe yaade soɗe goni joowoñ tohosoñ yaade au :fra moins :fra ɗon waɗatma permettre :fra à :fra chaque :fra fois :fra si tooɓi han aɗa wawi arde ɓorlitade
+fuc_4120 1 locuteur2 793.941 804.683 <o,f1,male> mais :fra a tawat %e si aw* waɗiɗo gongui heeru mawngu joni gonguiyaru ndu ɗi wattodiri e leydi ndi donc :fra ndun foof si a ari a ñooki ɗum la() so tooɓi noon guerte ɗe ɗi mbawi funkkude
+fuc_4120 1 locuteur2 804.683 815.047 <o,f1,male> mais :fra si woni ko a fiɗɗu ɗum mbaɗɗa ni joowon tokosoñ yaade si tooɓi rk aɗa wawi ardi ɓurlita ɗum %e ko wonno les ko won dow nangue ngue wawa ɗum hebde yoorna ɗum
+fuc_4120 1 excluded_region 815.047 819.679 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 819.679 824.473 <o,f1,male> donc :fra que :fra ko hunde yimɓeɓe pooti hen accidde hakkille ko e moƴƴi
+fuc_4120 1 locuteur1 824.473 829.328 <o,f1,male> eɗo himɓeɓe ɗi foti hen accidde hakkille ko ɗi e %e ko moƴƴi
+fuc_4120 1 excluded_region 829.328 833.903 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur1 833.903 844.695 <o,f1,male> %e joni presque :fra a * si a haalino haala météo :fra himɓeɓe ma haalnama haalaji goɗɗi [r] joni noon en jii ndeemaka ko yaada e waylo waylo weeyo ngo
+fuc_4120 1 excluded_region 844.695 854.280 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur1 854.280 866.933 <o,f1,male> e banggal %e eko ko moftete ko saabuna en jii %e souvent :fra %e a tawat ɗo hande comme :fra no hande ni yaso %e wuulani est :fra ce :fra que :fra kadi ɗum wawa hen addude tigui tigui hen changement :fra molanaɗo
+fuc_4120 1 locuteur2 866.933 875.020 <o,f1,male> wolà éffectivement :fra Malick pasque sa daari han weeyo ngo no wayni %e tubakore koɓe mbira changement :fra climatique :fra ɓe ɓooyi ɗum haalde
+fuc_4120 1 locuteur2 875.020 885.704 <o,f1,male> pasque si a daari tooɓoli ɗi no bay joni eɗiɓi mbano * wona gotum pasque hanki mawɓeɓe ɓe mbawno pres() pratiquement :fra mi wawnoma wiide ɓe mbawno happande tooɓo
+fuc_4120 1 locuteur2 885.704 891.883 <o,f1,male> mbawnoma wiide tooɓo oɗo ɗo ndungungu fuɗɗata ko ɗo ngu haɗata mais :fra joni hay goto anda
+fuc_4120 1 locuteur2 891.883 896.686 <o,f1,male> joni sa wi ko ɗo ngu fuɗɗatan ngu fuɗɗa yesso ɗon malla ngu fuɗɗa ɗo ɓaawo nga
+fuc_4120 1 locuteur2 896.686 901.056 <o,f1,male> sa wii ko ngu hatta ngu yawta ɗon ma ngu wasa yettade ɗo cikkunoɗa ɗo
+fuc_4120 1 locuteur2 901.056 909.022 <o,f1,male> donc :fra ɗum foof ko ɗum wiyate changement :fra climatique :fra o ko ɗum tagui il :fra est :fra important :fra joni yimɓeɓe e pooti yettade météo :fra o
+fuc_4120 1 locuteur2 909.022 924.610 <o,f1,male> pasque hande météo :fra %e sa daari joni ɓene jogui kaɓorɗe pasque ɓe joguima hen matériel :fra ji ɗi gandanta joguiɗe doole à :fra chaque :fra instant :fra ɗi mbawi ɓe hollude kamɓe hono tooɓo ngo yarata ni
+fuc_4120 1 locuteur2 924.610 936.213 <o,f1,male> donc :fra ɗum c' :fra est :fra important :fra an ndeemowo o ganda an kala te() tooɓo no yaara pasque hikka sa daari trés :fra tot :fra ɓe mbaɗi anonncé :fra koɓe mbi nduggu ko law fuɗɗoto te ndiyam ɗam tooɓogo juutat
+fuc_4120 1 locuteur2 936.213 951.322 <o,f1,male> donc :fra se a daari ko ko ɗum wona donc :fra c' :fra est :fra important :fra hande yimɓeɓe daarta he oɗo systéme :fra au :fra moins :fra o systéme :fra d' :fra information :fra ɓe mbaɗa s' :fra informé :fra wu au :fra prés de :fra météo :fra
+fuc_4120 1 locuteur2 951.322 958.990 <o,f1,male> pasque siɓe gandi %e ɓe gandi situation :fra climatique :fra no yarata ni ɓe mbawi noon kala yaarude e ndemanteri mumen
+fuc_4120 1 locuteur2 958.990 971.043 <o,f1,male> pasque ɗum wattaɓe permettre :fra pasque des :fra que :fra ndunggu ɗo e fuɗɗade météo :fra waɗa anoonce :fra ji muɗum siɓe mbaɗi annonce :fra ji maɓɓe ha pari ɓe mbiyamo a hikka ndungu ngu koni fuɗɗorta koni ngu foti yaarude koni e ni ngu yarata
+fuc_4120 1 locuteur2 971.043 979.501 <o,f1,male> c' :fra vrai :fra ko ko wiyete ko hay goto anda kowoni to Allah mais :fra kamɓe kam ko Allah hokkoriɓe galɗon %e galɗon gandal
+fuc_4120 1 locuteur2 979.501 989.516 <o,f1,male> donc :fra siɓe mbima koni e ni fuɗɗorta ko ɗum waɗa permettre :fra ndeemowo o pour :fra mbo wawa wadde préparé :fra hoore makko e nde e e onɗon saison :fra
+fuc_4120 1 locuteur2 989.516 1003.182 <o,f1,male> pasque soɓe mbima ndunggu dumunna o %e ndunggu ko law fuɗɗata comme :fra no hikka ni juutat ɗum ko an aɗa déjà :fra siko a ndeemowo awawi wadde sélectionné :fra an ko ndi hoobo variété :fra hodin awdi mbawata remde
+fuc_4120 1 excluded_region 1003.182 1010.593 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 1010.593 1020.868 <o,f1,male> donc :fra si a daari si woni ndiyam ɗam juutan normalement :fra ko ɓuuri moƴƴude ko awdi gadanta cycle :fra o tadi juuti au :fra moins :fra %e tuuma ɓendoyta an ta ndiyam ɗam ariti
+fuc_4120 1 locuteur2 1020.868 1027.703 <o,f1,male> mais :fra si woni cycle :fra o ɗi raɓɓiɗi comme :fra no gowirɗen joor ko ɗum gowɗen ni donc :fra a tawat toujours :fra addat yakku yakku
+fuc_4120 1 locuteur2 1027.703 1033.900 <o,f1,male> adda hen yakkantuji seeɗa pasque sa daari hikka ndeemanteri ndi wodi hen ko %e yakki hen
+fuc_4120 1 locuteur2 1033.900 1045.481 <o,f1,male> donc :fra ɗum c' :fra important :fra ko yimɓeɓe %e garta hen garta e oɗo sytéme pasque sa daari hay menen menen jogui siifa on ɗon programme
+fuc_4120 1 locuteur2 1045.481 1056.922 <o,f1,male> %e ɗum woni météo :fra mbay minen jogui on ɗon programme :fra mo gandanta woɗi message :fra ji ɗimin nuldata reemoɓeɓe [bb] à :fra tout :fra moment :fra donc :fra %e on programme ko meda okkimen ɗum
+fuc_4120 1 excluded_region 1056.922 1075.328 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 1075.328 1088.637 <o,f1,male> donc :fra ɗiɓe jogui joni ɗi message :fra ji alerte :fra ɗiɓe mbatta lancé :fra %e reemoɓeɓe ɗon kam ana andi hunde %e hunde o ko étape :fra par :fra étape :fra seeɗa seeɗa pasque message :fra jiɗi wona foof janggui
+fuc_4120 1 locuteur2 1088.637 1104.160 <o,f1,male> mais :fra sa daari ɓe fuɗɗi wadde hay message vocal :fra hay sa janggani han aɗa wawi ɗe yettade hen e langue :fra maɗa o ɗi waɗa e langue :fra maɗa o ɓe awawi ɗum hettade e langue :fra ma ɗum woni météo :fra baya wawi ɗum hettade hen sa hettima han ganda hono tooɓo ngo yaratani
+fuc_4120 1 locuteur2 1104.160 1110.266 <o,f1,male> donc :fra ko hunde wadde important surtout :fra dumunna gonaɗo o o chagement :fra clmatique :fra gonaɗo e weeyo he
+fuc_4120 1 locuteur1 1110.266 1117.164 <o,f1,male> gandi noon souvent :fra hande enen kala tan ko fati e banggal hono mobte mobtirten ko reemako [r]
+fuc_4120 1 locuteur1 1117.164 1126.960 <o,f1,male> %e en jii noon kadi %e comme :fra nane no wiɗani ɗi woodi ɗi andarant ma woni suuna en ni ɗum ɗo gabbe ɗe ɗi ɗi jaɗɗi tigui par :fra rapport :fra e tubaño o eko wayi noon
+fuc_4120 1 excluded_region 1126.960 1135.374 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 1135.374 1143.645 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur1 1143.645 1148.730 <o,f1,male> %e te hande noon en jii kadi souvent :fra so tawi noon a mobtani no saguiri
+fuc_4120 1 locuteur1 1148.730 1166.958 <o,f1,male> %e ɗi wodi hen kulloñ %e Baldé kullon koñ parfois :fra a aro walla woɓɓeɓe si mobtan ɗum la ɗo ɓuuɓi %e hoto hen dartude walla woɓɓeɓe quand :fra méme :fra ɓangata dispositif :fra ji foof pour :fra hen wawa hen mobtude ha sanga ɓen ɓe moftani ha sanga si tawi ndemanteri mum endi kulloñ gari koma yakka hen
+fuc_4120 1 excluded_region 1166.958 1172.459 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 1172.459 1184.630 <o,f1,male> ko foof début :fra o gogua fondement :fra ga par :fra ce :fra que :fra sa daari hande an a sooñi tubaño ma walla a sooññi guerte ma walla suuna walla ñebbe
+fuc_4120 1 excluded_region 1184.630 1191.886 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 1191.886 1197.044 <o,f1,male> c' :fra est :fra facile :fra ko kulloñ waɗi buɗi en mbawa hen jaawa hen wadde infiltré :fra wu
+fuc_4120 1 locuteur2 1197.044 1205.742 <o,f1,male> donc :fra ko hunde ma gandanta wande imprtant :fra début :fra o pasque comme :fra no kaalirno ɗen nane tubañ hikka il :fra faut :fra waɗe suivre :fra étape :fra jiɗi
+fuc_4120 1 excluded_region 1205.742 1211.626 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 1211.626 1217.505 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 1217.505 1234.355 <o,f1,male> tubaño o wonano aire :fra trait :fra kala yawtano yakorde par :fra ce :fra que :fra a daari ndemanteri ndi kala ɗi ñurdi yaade donc :fra sa daari e tubaño o suuna en mbaheri en lonkko maaje en ko spiculation :fra ji ɗi gandanta yombani yakkude wona noon yawarta yakkade
+fuc_4120 1 locuteur2 1234.355 1251.302 <o,f1,male> sa tawi a yi tan yawiri no yakka andu ko début :fra ga ga départ :fra ga ko départ :fra ga wonno moftere départ :fra nde soit :fra wattu jomum en keeli ɗum tawaɗa jogui ndiyam seeɗa waɗi humide :fra taw heeɓani yoorde ɓe nattinira noon e suudu ɗum yawat ko wulni tubaño malla %e malla bo funkka
+fuc_4120 1 locuteur2 1251.302 1262.165 <o,f1,male> ɗum ɗi wawi yaawi wadde arrivé :fra e tubaño o o mais :fra si woni tubaño kay si yoori no hanniri ni jay suuna walla mbaheri walla walla maaƴayawani kay ko udda
+fuc_4120 1 excluded_region 1262.165 1286.478 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 1286.478 1302.051 <o,f1,male> ko ɗum taki waɗi fragile :fra donc :fra ñebbe kam également :fra %e c' :fra la :fra méme :fra chose :fra donc :fra kay ɗi yaawi wudde par :fra ce :fra que :fra guerte goɗɗe sah a yiiyat ɗe puɗɗata wudde koto guessa to ɗum foof mais :fra en :fra tant :fra que :fra ko an %e ndemowo o ko an foti larde ɗettude on suivi :fra
+fuc_4120 1 locuteur2 1302.051 1310.015 <o,f1,male> donc :fra si a yii tan [bb] a ɓangui guerte ma ɗe a yeehi ha wessi a baccima ha a wessi
+fuc_4120 1 locuteur2 1310.015 1333.265 <o,f1,male> yeehi ya joni to moftere to ko an foti daarde par :fra ce :fra que :fra a foti ɓattade SDDR jaaha e makko lamdoɗamo biyamo a min noon mbino jogui guerte am donc :fra hombo poudre :fra mbawatmi wadde e ɗeɗo ama guerte pour :fra que :fra guerte ɗe au :fra moins :fra taade mbawani yakkade tawa mina wawi ɗum mobtude ha awdi ha %e ha ndungu * mi wawa waɗoyde ɗum awdi
+fuc_4120 1 locuteur2 1333.265 1350.488 <o,f1,male> par :fra ce :fra que :fra hewɓe ɗum ɗi waɗaɓe arrivé :fra ɓe mofta guerte mabɓe ɗe mais :fra mofterede tawa no moftirini koɓe ɓannga ɗum tan e sakku ɓe mbaɗa hen ɓe ñoowa des :fra fois :fra tawa ɗi wondi e garle souvent :fra siɗi wondi e garle aɗa andi joni %e hewɓe ko massiji ɗuman tini baccorta
+fuc_4120 1 locuteur2 1350.488 1358.278 <o,f1,male> donc :fra que :fra garleɗe kala no kewiri hen noon ɓurta yawrude par :fra ce :fra que :fra garle soujour mbuɗɗi jaawat ɗum wadde attaqué :fra
+fuc_4120 1 excluded_region 1358.278 1376.341 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 excluded_region 1376.341 1387.387 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4120 1 locuteur2 1387.387 1398.330 <o,f1,male> produit :fra ɗi gandanɗa waɗɗi dangereux :fra surtout :fra ma e santé :fra par :fra ce :fra que :fra wonoɗe e kaate par :fra ce :fra que :fra ɗe mobtirte %e mboɓaceeri ndi hadi laaɓa ɓanga mobtira ndi
+fuc_4120 1 locuteur2 1398.330 1428.205 <o,f1,male> ko hunde wadde dangereux :fra kateɗe ɗi waɗi dangereux ɗi jogui dangé :fra mais :fra yimɓeɓe watta mesuré :fra on wattu on dangé :fra mais :fra ɗi waɗi dangé :fra c' :fra est :fra que :fra %e sa yeehi ɗo SD d' :fra aire :fra o wodi produit :fra mombo wiyatama ko produit :fra de waɗi toxique :fra mais kamɓe au moins :fra ɓe ƴe ɓene liggoda e DPV ɓena gandi andanta produit :fra mo mbatta on abbotako jalluɗo o abbotako ndin ɗon mofteri ma ha to jallugol ngol
+fuc_4120 1 locuteur2 1428.205 1436.370 <o,f1,male> ɗiɗon ko quelque :fra temps :fra koni wayno mi hokka tan misal comme :fra no parfum :fra ni andi wodi parfum :fra ji ɗi mbatta e wutte ma seeɗa tan jahata ɗi
+fuc_4120 1 locuteur1 1436.370 1436.862 <o,f1,male> %hum %hum
+fuc_4120 1 locuteur2 1436.862 1444.798 <o,f1,male> e ɗi guiwi e *mais :fra parfum :fra ɗi mbatta hay si wudere nde lotama nde ɗum parfum :fra o a tawat ɗi yeddi hen
+fuc_4120 1 locuteur2 1444.798 1454.026 <o,f1,male> donc :fra awo koni produit :fra jiɗi mbari yaade awo koni kateɗe waadi e produit :fra ji ɗumantini pouditji goɗɗi ɗi mbatta e ɗuma ɗum ɗum tagui kateɗe c' :fra trés :fra dangereux :fra
+fuc_4120 1 locuteur2 1454.026 1462.442 <o,f1,male> kateɗe ɗi waɗi dangereux :fra c' :fra vrai :fra que :fra enen joni ko ɗen ɓuuri ɓurtani hewde moftire mais :fra sa par :fra ce :fra que :fra daari hay sa ɓutini seeɗa dose :fra guerte ma ɗe puɗata
+fuc_4120 1 locuteur2 1462.442 1466.799 <o,f1,male> a awat ɗo ladde nde foof jiiya guerte ɗe mankka yaade par :fra ce :fra que :fra tawa kateɗe dose :fra o ɓuurti

@@ -1,0 +1,53 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 10:39:28 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 3 of 230224
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_35910 1 locuteur_1 0.000 14.837 <o,f1,male> man maa ngi tudd Mamadou Fye dëkk Ngop [conv] bokk nekk membre :fra ci [conv] coopérative :fra bi en :fra même :fra temps :fra nekk auxiliaire :fra vétérinaire :fra ci [conv] coopérative :fra bi [conv]
+wol_35910 1 locuteur_2 14.837 17.949 <o,f1,male> donc :fra ndax xam nga semence certifiée :fra [conv]
+wol_35910 1 locuteur_1 17.949 22.364 <o,f1,male> waaw xam naa semence :fra certifiée :fra parce :fra que :fra dama koy jëfandikoo [conv]
+wol_35910 1 locuteur_2 22.364 26.521 <o,f1,male> boo ko doon décrire :fra lan nga lan mooy semence :fra certifiée :fra boo ko doon tënk [conv]
+wol_35910 1 locuteur_1 26.521 44.661 <o,f1,male> waaw semence :fra certifiée :fra mooy [conv] jiwu boo xam ne dañu ko saytu dugal ko laboratoire :fra génne bépp loo lépp loo xamante ne %e bokku ci woon [conv] ñu génne ko def ko ba mu nekk jiwu boo xam ne jiwu bu mucc ayib la [conv] waaw
+wol_35910 1 locuteur_2 44.661 46.571 <o,f1,male> nan nga ko gisee
+wol_35910 1 locuteur_1 46.571 54.361 <o,f1,male> jiwu bu baax la [conv] vraiment :fra jiwu bu baax la [conv] parce :fra que :fra am na re,ndement :fra daal
+wol_35910 1 locuteur_2 54.361 56.861 <o,f1,male> ban ban nga ciy jëfandikoo [conv]
+wol_35910 1 locuteur_1 56.861 63.574 <o,f1,male> damay jafandikoo du() kii dugub bi damay jafandikoo gerte gi [conv]
+wol_35910 1 locuteur_2 63.574 66.961 <o,f1,male> %e ndax xam nga [conv] ndax xam nga compostar :fra nan la ñuy defee compostar [conv]
+wol_35910 1 excluded_region 66.961 73.167 <o,,unknown> ignore_time_segment_in_scoring
+wol_35910 1 locuteur_1 73.167 80.405 <o,f1,male> %e am nañu am na lu ñu naan [conv] tesson :fra [conv] boo ñëwee sama kër am na fa [conv] waaw
+wol_35910 1 locuteur_2 80.405 82.685 <o,f1,male> lan ak lan ngay boole pour am compostar :fra
+wol_35910 1 locuteur_1 82.685 97.239 <o,f1,male> damay boole neefere yi xetax bi [conv] ak gettax gu nooy bi [conv] en :fra même :fra temps :fra dama ciy def dóomutaal [conv] di ko arrosé :fra [conv]
+wol_35910 1 locuteur_2 97.239 97.731 <o,f1,male> %hum %hum
+wol_35910 1 locuteur_1 97.731 114.178 <o,f1,male> [conv] di ko arrosé :fra [conv] bu fekkee ci tesson :fra bi la [conv] bu mar chargé :fra benn kii partie :fra bi [conv] bu amee 15 jours :fra [conv] dama kot tibb sotti ko ci beneen bi [conv] chargé :fra waat bi ma chargé :fra woon [conv]
+wol_35910 1 locuteur_1 114.178 127.964 <o,f1,male> bële bu amee 15 jours :fra dama koy évacué :fra waat def ko ci beneen bi [conv] jëlaat bële indiwaat ko ci bii de :fra ce :fra fait :fra que :fra 45 jours :fra yu nekk rek war nga mën a am kii fumier :fra bu ñor [conv]
+wol_35910 1 locuteur_2 127.964 129.402 <o,f0,male> pare boobu bu ñoree foo koy def
+wol_35910 1 locuteur_1 129.402 131.229 <o,f0,male> bu ñoree ci tool yi laa koy yóbbu [conv]
+wol_35910 1 locuteur_2 131.229 133.001 <o,f0,male> ban ban moment :fra ban waxtu nga koy def
+wol_35910 1 locuteur_1 133.001 148.941 <o,f0,male> %e mois :fra de :fra fin :fra ay fin :fra mai :fra [conv] de() de() dem juin :fra parce :fra que :fra boo ko teelee sotti [conv] baaxul quoi :fraparce :fra que :fra ngelaw li bu ñëwee day yóbbu humus bi yëpp [conv] donc :fra da nga li gën sax mooy nga bàyyi ba mu taw [conv]
+wol_35910 1 locuteur_1 148.941 159.472 <o,f0,male> soit :fra bu fekkee ci noor bi nga ko sotti boo ko boo ko sottee da nga ko war a labouré :fra bu ko defee humus bi [conv] daal di jaxasoo ak suuf si ngelaw li du ko mën a yóbbu [conv]
+wol_35910 1 locuteur_2 159.472 161.380 <o,f0,male> %hum kon yaa ngi ciy gis ay njëriñ lu am solo
+wol_35910 1 locuteur_1 161.380 163.752 <o,f0,male> waaw maa ngi ciy kii bu baax a baax moom vraiment :fra
+wol_35910 1 locuteur_2 163.752 166.137 <o,f0,male> foo ko foo ko jàngee foo ko déggee foo ko mos a déggee
+wol_35910 1 locuteur_1 166.137 177.256 <o,f0,male> %e [conv] coopérative :fra bi formé :fra na ñu ma ci [conv] %e am na kii bu ñuy wax Kuluza tamit formé :fra na ma ci waaw [conv]
+wol_35910 1 locuteur_2 177.256 181.150 <o,f0,male> ok :en ndax %e yaa ngi dégg émission :fra bi coopérative :fra bi di def ci rajo Alfayda
+wol_35910 1 locuteur_1 181.150 195.362 <o,f0,male> non :fra émission :fra bi moom vraiment :fra jotaguma koo déglu [conv] parce :fra que :fra xaw ma woo() xaw ma woon sax ne [conv] am na émission :fra bu ñuy def ak Alfayda kooku moom jotaguma koo déglu vraiment [conv] waaw
+wol_35910 1 locuteur_2 195.362 196.807 <o,f0,male> ok :en jërëjëf kon
+wol_35910 1 excluded_region 196.807 197.516 <o,,unknown> ignore_time_segment_in_scoring
+wol_35910 1 excluded_region 197.516 198.296 <o,,unknown> ignore_time_segment_in_scoring
+wol_35910 1 excluded_region 198.296 199.811 <o,,unknown> ignore_time_segment_in_scoring
+wol_35910 1 locuteur_2 199.811 209.382 <o,f0,male> dëkk Ngop [conv] %e bokk ci [conv] coopérative :fra bi en :fra même :fra temps :fra nekk %e auxiliaire :fra vétérinaire :fra [conv]
+wol_35910 1 locuteur_2 209.382 210.920 <o,f0,male> ok :en merci :fra beaucoup :fra [conv]
+wol_35910 1 locuteur_1 210.920 211.096 <o,f0,male> ok :en

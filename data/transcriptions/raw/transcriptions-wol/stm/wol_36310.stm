@@ -1,0 +1,133 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 10:41:05 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 2 of 230721
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_36310 1 locuteur_1 0.000 2.967 <o,f1,male> [b] ok :en salaamaaleykum Mor
+wol_36310 1 locuteur_2 2.967 4.206 <o,f1,male> [b] maaleykum salaam Serigne
+wol_36310 1 locuteur_1 4.206 5.865 <o,f1,male> nga baal ñu présenté :fra wu
+wol_36310 1 locuteur_2 5.865 8.233 <o,f1,male> waaw salaamaaleykum man maa ngi tudd Mor Ndiaye
+wol_36310 1 locuteur_1 8.233 8.703 <o,f1,male> [b] %hum %hum
+wol_36310 1 locuteur_2 8.703 11.580 <o,f1,male> nekk groupe TOOLBAY en :fra tant :fra que :fra chargé :fra de :fra suivi :fra d' :fra évaluation :fra
+wol_36310 1 locuteur_1 11.580 17.135 <o,f1,male> %hum %hum [b] donc :fra %e boo ñu mënoon expliqué :fra TOOLBAY mooy lan groupe :fra TOOLBAY
+wol_36310 1 locuteur_2 17.135 35.652 <o,f1,male> waaw groupe :fra TOOLBAY société :fra unipersonnel :fra à :fra responsabilité :fra limitée :fra maanaam SUARL [b] dirigé :fra par :fra un :fra PDG président :fra diracteur :fra général :fra %e son :fra moom li ma xam moom laay def activité :fra am principal :fra mooy production :fra ak vente :fra de :fra semence :fra certifiée :fra [b] muy liggéey ak ay producteurs :fra [b] ci dans :fra le :fra distribution :fra %e de :fra collecte :fra de :fra semence :fra
+wol_36310 1 locuteur_1 35.652 36.123 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 36.123 36.544 <o,f1,male> %hum %hum
+wol_36310 1 excluded_region 36.544 37.826 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_1 37.826 39.577 <o,f1,male> [tx] ah ci arachide :fra ngeen spécialisé :fra wu
+wol_36310 1 locuteur_2 39.577 40.581 <o,f1,male> arachide :fra et :fra céréales :fra
+wol_36310 1 locuteur_1 40.581 41.224 <o,f1,male> et :fra [tx] céréales :fra
+wol_36310 1 locuteur_2 41.224 45.247 <o,f1,male> céréales :fra c' :fra à :fra dire :fra mil :fra maïs :fra sorgho :fra ñebe [tx]
+wol_36310 1 locuteur_1 45.247 50.531 <o,f1,male> donc :fra yéen partenaires :fra projet :fra Ticmbay ngeen [b] naka ngeen gisee campagne :fra ñu ren gi
+wol_36310 1 excluded_region 50.531 54.208 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_2 54.208 70.127 <o,f1,male> parce :fra année :fra bële passée :fra mooy ñu ngi woon ci bokkoon nañ ci partenaires :fra yi et :fra que :fra année :fra bi nga xam ne moom lañ déroulé :fra bon :fra liñ ci gis mooy que :fra am nañ ci retours :fra yu baax ci communication :fra bi nga xam moom lañ def [b] parce :fra que :fra amoon nañ ba suñu objectif :fra moo doon élargir :fra un :fra peu :fra suñu zones :fra yi nga xam ne foofu la ñuy %e intervenir :fra
+wol_36310 1 locuteur_1 70.127 70.543 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 70.543 79.223 <o,f1,male> parce :fra que :fra groupe TOOLBAY auparavant :fra mu ngi doon intervenir :fra dans :fra les :fra régions :fra de :fra Kaffrine et :fra dans :fra la :fra région :fra de :fra Kaolack [b] mais :fra cette :fra année :fra [tx] on :fra a :fra eu :fra des :fra ventes :fra dans :fra la :fra région :fra de :fra Fatick et :fra dans :fra la :fra région :fra de :fra Diourbel [b]
+wol_36310 1 locuteur_1 79.223 79.639 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 79.639 86.637 <o,f1,male> et :fra loolu noonu ñu ngi ko am grâce :fra ak :fra deux :fra émissions :fra yi nga xam ne moom lañ def benn bi Ndefleng FM bu Fatick beneen bi Baol FM bu Diourbel
+wol_36310 1 locuteur_2 86.637 93.668 <o,f1,male> ñaar yooyu bu ñu ko defee après :fra retour :fra yi ñu ci am c' :fra était :fra positif :fra parce :fra que :fra pour :fra émission :fra Ndefleng FM bi ñu ko defee avant :fra ñoo pare émission :fra bi
+wol_36310 1 locuteur_2 93.668 108.042 <o,f1,male> biñ joxee numéro :fra téléphone :fra suñu responsable :fra %e commercial :fra bi avant :fra ñoo pare émission :fra bi am na ñu ko commencé :fra di ko woo dèjà :fra di ko laaj pas :fra pour :fra jënd mais :fra di ko laaj information :fra pour :fra gën a xam exactement :fra lan de :fra quoi :fra il :fra s' :fra agit :fra bi ñu leen expliqué :fra tamit am nañu jot a ñëw
+wol_36310 1 locuteur_2 108.042 120.966 <o,f1,male> même :fra am na benn %e groupement :fra de :fra paysan :fra boo xam ne de ñun ñoo leen jox ren maïs :fra bi ñu ji yëpp ñoo leen ko jox ak tamit côté :fra %e Baol FM am nañ am nañ ay appels ba Bambey foofu nga xam ne mosu ñu fa joxe mosu ñu fa jaay semence :fra
+wol_36310 1 locuteur_2 120.966 138.100 <o,f1,male> parce :fra que :fra ñun semence :fra zone :fra bii rek la yemoon zone :fra nu zone :fra nu bassin :fa archidier :fra ba entre :fra Kaolack et Kaffrine mais :fra ren on :fra a vu :fra que :fra dem nan ba Fatick dem nan ba Diourbel loolu yëpp grâce :fra ak communication :fra bi nga xam ne moom lañ def ak tamit %e soo xoolee tey jii heureusement :fra fekk ngeen ñuy def %e réunion :fra bu ak suñu relais :fra yi
+wol_36310 1 locuteur_1 138.100 138.625 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 138.625 149.388 <o,f1,male> te émission :fra yooyu mooy ay messages :fra alertes :fra yu ñu doon envoyé :fra parce :fra que :fra biñ leen di jox suñu base :fra de :fra données :fra lañ leen jox téléphones :fra yi constaté :fra nañ que :fra ni nit ñi am na lu bëre loo xam ne xamu ñu ko woon [b]
+wol_36310 1 locuteur_2 149.388 160.760 <o,f1,male> mais :fra bi ñu leen expliqué :fra un :fra peu :fra parce :fra que :fra ñun dañ doon jot ay retours :fra ñoo xam ne même :fra bu ñu donte woote wu ñu si serveur :fra bi sax biñ jotee numéro :fra biñ jotee %e message :fra bi automatiquement :fra dañ ñu doon woo di ñu laaj te loolu mosu ñu woon imaginé :fra mu
+wol_36310 1 locuteur_2 160.760 168.456 <o,f1,male> loolu moo leen yee pour :fra que :fra ñu mën a posé :fra question :fra semence :fra certifiée :fra nan lay demee ak yu bëre yoo xam ne même :fra ren boo xoolee joxe nañ mille :fra cent :fra seize :fra hecctare :fra
+wol_36310 1 excluded_region 168.456 170.084 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_1 170.084 170.808 <o,f1,male> xaaruñu ko woon
+wol_36310 1 locuteur_2 170.808 176.309 <o,f1,male> parce :fra que :fra boo xoolee au :fra niveau :fra de Ourour ñu ngi fa prévoir :fra cent :fra hectares :fra te joxe nañ foofu cinq :fra cent :fra hectares :fra
+wol_36310 1 locuteur_1 176.309 176.794 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 176.794 182.425 <o,f1,male> te loolu noonu yëpp peut :fra être :fra nit ñi xamuñu woon %e lan moo doon lan mooy lan mooy semence :fra certifiée :fra dañ ko doon dégg rek
+wol_36310 1 locuteur_1 182.425 182.787 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 182.787 196.520 <o,f1,male> mais :fra biñ jotee message :fra bi loolu suscité :fra na leen seen rélexion :fra ñu jéem a posé :fra question :fra di laaj lan la nan lay demee léegi nag ñu buñ leen expliqué :fra après :fra ci lañ intéressé :fra wu ba am na benn kii boo xam ne ci Fatick boobu noonu ñun sax du sunu zone :fra d' :fra intervention :fra mais :fra dañoo ñëw ñu joxe fa cent :fra hectares :fra
+wol_36310 1 locuteur_1 196.520 197.118 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 197.118 201.659 <o,f1,male> [b] cent :fra hectares :fra yoo xam ne ñun dañuy jéem dañuy collecté :fra foofu andi ko biir Kaolack parce :fra que :fra amu ñu droit :fra collecté :fra Fatick
+wol_36310 1 locuteur_1 201.659 202.292 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 202.292 205.571 <o,f1,male> parce :fra que :fra bokkul suñu zone :fra d' :fra intervention :fra dans :fra le :fra cadre :fra du :fra semence :fra
+wol_36310 1 locuteur_1 205.571 206.183 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 206.183 217.012 <o,f1,male> bon :fra c' :fra est :fra donc :fra à :fra à :fra résumé :fra daal %e suñu suñu réseau :fra distribution :fra yokk na ci %e à :fra travers :fra la :fra communicaton :fra de :fra Ticmaby à :fra travers :fra les :fra émissions :fra rajo et :fra les :fra messages :fra alertes :fra
+wol_36310 1 locuteur_1 217.012 217.446 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 217.446 228.918 <o,f1,male> suñu vente :fra yi tamit naturellement :fra augmenté :fra na parce :fra que :fra ni mu augmenté :fra mooy am na yenn zone :fra yoo xam daawuñu fa jaay te jaay nañ fa par :fra rapport :fra ak yeneen année :fra yi nga xam ne moo passée :fra [b]
+wol_36310 1 locuteur_1 228.918 231.153 <o,f1,male> kon émission :fra yi am na solo bu baax communication :fra
+wol_36310 1 excluded_region 231.153 232.275 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_2 232.275 237.649 <o,f1,male> si :fra spot :fra bi jàll na émissions :fra yi jàll na surtout :fra animateurs :fra yi tamit niñ ko doon def aussi :fra c' :fra était :fra professionnel :fra
+wol_36310 1 locuteur_1 237.649 238.246 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 238.246 241.720 <o,f1,male> on :fra a :fra fait :fra même :fra une :fra émission :fra décentralisée :fra boo xam ne dañu ànd ak béykat yi
+wol_36310 1 locuteur_1 241.720 242.353 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 242.353 251.491 <o,f1,male> dem sur :fra le :fra terrain :fra ñoom ñu expliqué :fra ñu def reportage :fra ñoom ñuy wax après :fra ñoom bi ñu ko déggee tamit am nañ retour :fra yu baax ñoom pour :fra ñoom affaire :fra boobu daal mosu ñu ko def ñun TOOLBAY
+wol_36310 1 locuteur_1 251.491 251.889 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 251.889 254.712 <o,f1,male> mosu ñu def émis() daan nañ def émission :fra yoo xam ne ay jours :fra de :fra champs :fra lay nekk
+wol_36310 1 locuteur_1 254.712 255.128 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 255.128 260.248 <o,f1,male> mais :fra ba %e méthode :fra bi ñu ko defee surtout :fra émission :fra décentralisée :fra bi mñun mosu ñu ko def
+wol_36310 1 locuteur_1 260.248 260.664 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 260.664 266.906 <o,f1,male> parce :fra que :fra ñoom dañu daan ñëw toog di expliqué :fra mais :fra ñun dañoo wër dëkk def le :fra tout :fra di interrogé :fra béykat yi ñoom ñuy waxal seen bopp
+wol_36310 1 locuteur_1 266.906 267.485 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 267.485 272.841 <o,f1,male> [b] donc :fra innovation :fra la boo xam ne ci communication :fra gis nañ ko ci à :fra travers :fra %e Ticmbay
+wol_36310 1 locuteur_1 272.841 277.970 <o,f1,male> %hum %hum [b] donc :fra yéen semence :fra yi ngeen amoon kon jaay ngeen lépp wala am na lu des wala
+wol_36310 1 locuteur_2 277.970 288.953 <o,f1,male> jaay nañ lépp mais :fra am na lu des parce :fra que :fra %e ñun nu ñuy li ñuy produire :fra li ñuy produire :fra parfois :fra liñ prévoir :fra que :fra ni moom la ñuy jaay li tax mu des li ñu prévoir :fra que :fra ni moom la ñuy jaay ñun heu() malheureusement :fra jaayuñu
+wol_36310 1 locuteur_1 288.953 289.387 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 289.387 296.271 <o,f1,male> parce :fra que :fra on :fra avait :fra prévu :fra %e avant :fra ñu avant :fra camapgne :fra bi di commencé :fra da ñuy am benn benn prévision :fra boo xam ne moom la ñuy def
+wol_36310 1 locuteur_2 296.271 306.333 <o,f1,male> mais :fra ren heureu() malheureusement :fra atteindre :fra lu ñu suñu suñu objectif :fra li nga xam ne moom la ñu waroon jaay parce :fra que :fra [b] dañoo je :fra peux :fra dire :fra que :fra dañoo exagéré :fra woon trop :fra peut :fra être :fra si li nga xam ne moom moo nekkoon suñu prévision :fra
+wol_36310 1 locuteur_2 306.333 313.535 <o,f1,male> mais :fra on :fra a :fra fait :fra quand :fra même :fra %e pas :fra mal :fra de :fra vente :fra à :fra travers :fra les :fra émissions :fra et :fra les :fra messages :fra alertes :fra [b] et :fra aussi :fra les :fra sopts :fra [tx]
+wol_36310 1 locuteur_1 313.535 319.380 <o,f1,male> donc :fra alertes :fra yi ñi ko doon jot noonu [b] dañu doon woote waa [b] di sakku ay leeral
+wol_36310 1 locuteur_2 319.380 330.635 <o,f1,male> waaw effectivement :fra ñi nga xam ne ñoo doon jot alertes :fra yi parce :fra que :fra am na ñoo xam ne duñ am xelu [b] parce :fra que :fra amuñu woon information :fra que :fra ni buñ jotee dañuy peut :fra être :fra dañuy woote ci serveur :fra wala leneen mais :fra comme :fra ñooñu yor nañu suñu numéro :fra dañ ñu doon woo directement :fra suñu numéro :fra
+wol_36310 1 locuteur_1 330.635 331.051 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 331.051 342.879 <o,f1,male> buñ ñu woowee ne ñu dañu jot benn message :fra alerte :fra ñu ñuy wax di ñu expliqué :fra semence :fra certifiée :fra su ko defee ñoom dañ ñuy laaj après :fra ñu expliqué :fra leen ñu gën a ñun ñu xam exactement :fra lan la parce :fra que :fra ñoom daan nañ ko utilisé :fra rek mais :fra xamuñ ko woon
+wol_36310 1 locuteur_1 342.879 347.402 <o,f1,male> %hum %hum [b] [tx] donc :fra gis nañ nii %e projet :fra bi day jeex ren
+wol_36310 1 locuteur_2 347.402 347.909 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_1 347.909 353.705 <o,f1,male> donc :fra %e Jokalante moo fi ne te Jokalante mooy assuré :fra pérénisation :fra projet :fra kii bi Ticmbay
+wol_36310 1 locuteur_2 353.705 354.248 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_1 354.248 357.725 <o,f1,male> [b] léegi ndax pare ngeen pour :fra continuer :fra liggéey ak waa Jokalante
+wol_36310 1 locuteur_2 357.725 362.375 <o,f1,male> effectivement :fra %e parce :fra que :fra entreprise :fra moom mënul dem %e te du def communication :fra
+wol_36310 1 locuteur_1 362.375 362.954 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 362.954 369.770 <o,f1,male> te comme :fra Jokalante %e Tic() projet :fra Jo() projet :fra Jokalante ak Ticmbay ci communication :fra surtout :fra digitale :fra moo xam ne moom mooy li nga xam ne moo xew
+wol_36310 1 excluded_region 369.770 373.878 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_1 373.878 374.421 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 374.421 380.337 <o,f1,male> léegi kon pour :fra ñu co() pour :fra ñu collaboré :fra ak Ticmbay pour :fra ñu continuer :fra ak Jokalante daf ñuy neex parce :fra que :fra entreprise :fra il :fra faut :fra communiquer :fra
+wol_36310 1 locuteur_1 380.337 380.916 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 380.916 383.884 <o,f1,male> te gis nañ ne communication :fra biñ jot a def ak Jokalante ak Ticmbay
+wol_36310 1 locuteur_1 383.884 384.499 <o,f1,male> %hum
+wol_36310 1 locuteur_2 384.499 392.008 <o,f1,male> %e amal na ñu njëriñ parce :fra que :fra gis nañ ci suñu bopp donc :fra pourquoi :fra pas :fra ñu continuer :fra ak ñoom pour :fra def yenn yeneen projet :fra wala pour :fra def yeneen activités :fa
+wol_36310 1 locuteur_1 392.008 392.497 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 392.497 393.311 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_1 393.311 397.283 <o,f1,male> tey boo ñu doon xelal ci wàllum liggéey lan nga jàpp ne moom la ñu war a yokk [b]
+wol_36310 1 locuteur_2 397.283 409.496 <o,f1,male> bon :fra li ngeen war a gën a yokk mooy surtout :fra message :fra alertes :fra yi parce :fra ñun [b] boo xoolee soo xoolee soo xoolee peut :fra être :fra problème :fra planification :fra la woon [b] ñun chaque :fra période :fra dafa am loo xam ci lañ bëgg communiquer :fra
+wol_36310 1 locuteur_1 409.496 410.039 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 410.039 418.589 <o,f1,male> te boo xoolee ñun ñi ñuy ñi ñuy ñi ñuy collaborer :fra am nañ téléphone :fra te gis nañ biñ envoyé :fra message :fra alerte :fra [b] première :fra fois :fra bi baaxoon na [b]
+wol_36310 1 locuteur_2 418.589 426.189 <o,f1,male> donc :fra li ñu li ñu war a améliorer :fra mooy chaque :fra période :fra bi nga xcam ne ci lañ war a communiquer :fra [b] ñun ñu proposer :fra leen ko yéen ngeen defal ñu messages :fra alertes :fra yooyu
+wol_36310 1 locuteur_1 426.189 426.768 <o,f1,male> [b] %hum %hum
+wol_36310 1 locuteur_2 426.768 427.238 <o,f1,male> [b] waaw
+wol_36310 1 locuteur_1 427.238 433.796 <o,f1,male> [b] ok :en donc :fra ci ventes :fra yi aussi ñu delluwaat tuuti ginnaaw ci ventes :fra yi ndax am ngeen ay chiffres :fra carrément :fra [b]
+wol_36310 1 locuteur_2 433.796 440.057 <o,f1,male> waaw am naa chiffres :fra nag mais :fra aw ma ko [rire] sama [rire]
+wol_36310 1 locuteur_1 440.057 440.871 <o,f1,male> ok :en Mor
+wol_36310 1 excluded_region 440.871 443.440 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 excluded_region 443.440 447.330 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_1 447.330 447.891 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 447.891 459.996 <o,f1,male> %e maa doon wax ak yéen di di leen wax expliquer :fra un :fra peu :fra collaboration :fra bi nga xam ne moom la ñu def ak %e Ticmbay ak Jokalante te di remercié :fra bu baax nag %e suñu collaborateurs :fra yi di nuyu Babacar ak Serigne
+wol_36310 1 locuteur_1 459.996 460.516 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 460.516 474.485 <o,f1,male> ak Ndeye Amy [b] vraiment :fra collaboration :fra bi bu rafetoon na ñoom nit ñu baax lañ wax dëgg yàlla c' :fra est :fra pas :fra pour :fra %e jeter :fra des :fra fleurs :fra et :fra tout :fra parce :fra que :fra ñoom niñ doon collaboré :fra avant :fra gis naa ni baax na parce :fra que :fra communication :fra bi baax na et :fra tout :fra ça :fra
+wol_36310 1 excluded_region 474.485 477.562 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_1 477.562 477.960 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 477.960 480.413 <o,f1,male> messages :fra alertes :fra yi jàll na émissions :fra rajo yi dem na
+wol_36310 1 excluded_region 480.413 484.448 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_1 484.448 485.082 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 485.082 488.827 <o,f1,male> dañ ma doon forcé :fra pour :fra ñu def émission :fra yi pour :fra ngir rek rien :fra que :fra pour :fra que :fra affaires :fra yi jaar ci yoon
+wol_36310 1 locuteur_1 488.827 489.298 <o,f1,male> %hum %hum
+wol_36310 1 locuteur_2 489.298 492.102 <o,f1,male> vraiment :fra maa ngi leen di gërëm di leen sant liggéey bi jaar na yoon
+wol_36310 1 excluded_region 492.102 494.201 <o,,unknown> ignore_time_segment_in_scoring
+wol_36310 1 locuteur_2 494.201 494.671 <o,f1,male> ok :en
+wol_36310 1 locuteur_1 494.671 495.848 <o,f1,male> ok :en Mor merci :fra
+wol_36310 1 locuteur_2 495.848 497.241 <o,f1,male> [b] ok :en [tx] [b]

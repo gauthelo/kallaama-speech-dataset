@@ -1,0 +1,406 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:06:07 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by PROPRIETAIRE, version 8 of 230217
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_4615 1 inter_segment_gap 0.000 1954.326 <o,f0,> 
+fuc_4615 1 locuteur_2 1954.326 1954.644 <o,f1,male> %e
+fuc_4615 1 locuteur3 1954.644 1954.953 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur_2 1954.953 1961.126 <o,f1,male> %e est :fra ce :fra que :fra aɗa wawi artude seɗa %e no fannu paquet :fra o so ari holno waɗi holno footi kilodji o waɗata traité :fra [r]
+fuc_4615 1 locuteur_2 1961.126 1963.590 <o,f1,male> %e deemowo sewo sewoji holno waɗirta vum ɗon henna [r]
+fuc_4615 1 locuteur3 1963.590 1963.784 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur_2 1963.784 1966.903 <o,f1,male> pour :fra dianggo so yanoyi e junggo baɗono Samba Guro ni henna
+fuc_4615 1 excluded_region 1966.903 1969.558 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 1969.558 1970.529 <o,f1,male> %e non daña machine nde %e
+fuc_4615 1 excluded_region 1970.529 1971.553 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 excluded_region 1971.553 1972.491 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 1972.491 1975.104 <o,f1,male> o arti aɗa [e] andi enen eɗen [bg] kewi peeje meɗen
+fuc_4615 1 locuteur3 1975.104 1975.452 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur_2 1975.452 1976.358 <o,f1,male> karallagal nani
+fuc_4615 1 locuteur_2 1976.358 1977.155 <o,f1,male> [b] ko ni lawol wi
+fuc_4615 1 locuteur_2 1977.155 1980.009 <o,f1,male> kono non henna enen koɗo yooni hakkillaji men ɗo
+fuc_4615 1 excluded_region 1980.009 1981.057 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 1981.057 1982.482 <o,f1,male> ɗon kaadi aɗa foori
+fuc_4615 1 locuteur3 1982.482 1985.055 <o,f1,male> ko non ko non aɗa andi kaadi no wirani tan
+fuc_4615 1 locuteur_2 1985.055 1985.413 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 1985.413 1989.802 <o,f1,male> * so tawi koo ko fudɗi kiloji nayyi
+fuc_4615 1 locuteur_2 1989.802 1990.005 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 1990.005 1990.697 <o,f1,male> faayi joyyi
+fuc_4615 1 locuteur_2 1990.697 1991.000 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 1991.000 1993.058 <o,f1,male> ɗum ne wawi waɗirede machine :fra o
+fuc_4615 1 locuteur_2 1993.058 1993.464 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 1993.464 1994.895 <o,f1,male> saabuɗum ɗum ɗon
+fuc_4615 1 locuteur_2 1994.895 1995.189 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 1995.189 1997.872 <o,f1,male> * fungo mum
+fuc_4615 1 locuteur_2 1997.872 1998.332 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 1998.332 2000.673 <o,f1,male> jiida e fungo kaadi sewo sewo godɗo o
+fuc_4615 1 locuteur_2 2000.673 2001.826 <o,f1,male> [bg] noddi guesse
+fuc_4615 1 excluded_region 2001.826 2002.985 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2002.985 2004.289 <o,f1,male> ko ɗum ɗon noddi ko guesse [bg]
+fuc_4615 1 locuteur_2 2004.289 2004.572 <o,f1,male> %hum %hum
+fuc_4615 1 excluded_region 2004.572 2005.719 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2005.719 2005.840 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2005.840 2006.895 <o,f1,male> ko wayno makkaji en
+fuc_4615 1 locuteur_2 2006.895 2007.408 <o,f1,male> makkaji en
+fuc_4615 1 locuteur3 2007.408 2008.350 <o,f1,male> ko wayno samme en
+fuc_4615 1 locuteur_2 2008.350 2008.691 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2008.691 2009.790 <o,f1,male> ko wayno feelaji en
+fuc_4615 1 locuteur_2 2009.790 2010.025 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2010.025 2011.078 <o,f1,male> ko wayno gaweje en
+fuc_4615 1 locuteur_2 2011.078 2011.359 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2011.359 2012.776 <o,f1,male> kala ko wiye céreale: fra
+fuc_4615 1 locuteur_2 2012.776 2013.059 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2013.059 2014.088 <o,f1,male> ko ɗum noddi
+fuc_4615 1 locuteur_2 2014.088 2016.604 <o,f1,male> wadde ɗo machine :fra kala kutortoɗo machine :fra
+fuc_4615 1 excluded_region 2016.604 2018.342 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2018.342 2019.261 <o,f1,male> ba sikki ɗon laɓi
+fuc_4615 1 locuteur3 2019.261 2019.642 <o,f1,male> eyyi
+fuc_4615 1 excluded_region 2019.642 2021.347 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2021.347 2021.692 <o,f1,male> %hum ,%hum
+fuc_4615 1 locuteur3 2021.692 2023.394 <o,f0,male> ko wayno ko limtuɗen ɗo
+fuc_4615 1 excluded_region 2023.394 2024.176 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2024.176 2024.981 <o,f0,male> ina yiiɗa
+fuc_4615 1 excluded_region 2024.981 2026.472 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2026.472 2026.796 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2026.796 2028.751 <o,f0,male> joni non joom sewo sewo
+fuc_4615 1 excluded_region 2028.751 2033.111 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2033.111 2036.411 <o,f0,male> guesse sewo sewoji hay sinno woni des hectares
+fuc_4615 1 locuteur3 2036.411 2036.694 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur_2 2036.694 2039.953 <o,f0,male> [b] awdi muɗum fotani e awdi makka
+fuc_4615 1 locuteur3 2039.953 2040.379 <o,f0,male> jiida
+fuc_4615 1 locuteur_2 2040.379 2044.795 <o,f0,male> awdi makka joni kilo :fra muɗum wawa fode ee
+fuc_4615 1 locuteur_2 2044.795 2045.158 <o,f0,male> [rire]
+fuc_4615 1 locuteur3 2045.158 2045.384 <o,f0,male> ala
+fuc_4615 1 locuteur_2 2045.384 2046.417 <o,f0,male> %e guergueƴƴii
+fuc_4615 1 excluded_region 2046.417 2047.895 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2047.895 2048.344 <o,f0,male> voilà :fra
+fuc_4615 1 locuteur3 2048.344 2049.823 <o,f0,male> se joni sa ƴeewi makka [shh]
+fuc_4615 1 locuteur_2 2049.823 2050.276 <o,f0,male> [b] eyy [shh]
+fuc_4615 1 locuteur3 2050.276 2053.323 <o,f0,male> biyeɗa ko hectare :fra ina nawa kiloji nogass
+fuc_4615 1 locuteur_2 2053.323 2053.565 <o,f0,male> [b] eyyi
+fuc_4615 1 locuteur3 2053.565 2055.207 <o,f0,male> ha kiloji nagass e joyyi
+fuc_4615 1 excluded_region 2055.207 2055.615 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2055.615 2056.715 <o,f0,male> %e tawa non
+fuc_4615 1 excluded_region 2056.715 2058.039 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 excluded_region 2058.039 2058.727 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 excluded_region 2058.727 2060.044 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2060.044 2060.261 <o,f0,male> ma
+fuc_4615 1 locuteur_2 2060.261 2060.520 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2060.520 2061.418 <o,f0,male> sa gayni guitta
+fuc_4615 1 excluded_region 2061.418 2062.498 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2062.498 2062.692 <o,f0,male> eyyi
+fuc_4615 1 locuteur3 2062.692 2066.016 <o,f0,male> kañum ne kaadi won kaadi no nannirta ɗum e machine :fra
+fuc_4615 1 locuteur_2 2066.016 2066.231 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2066.231 2067.811 <o,f0,male> biya aɗa waɗa hen ɗum ɗon ne kaadi
+fuc_4615 1 excluded_region 2067.811 2071.243 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2071.243 2072.970 <o,f0,male> firti ko ma daña systéme :fra [bg]
+fuc_4615 1 locuteur3 2072.970 2074.123 <o,f0,male> systéme no mbaɗirɗa ɗum
+fuc_4615 1 excluded_region 2074.123 2074.770 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2074.770 2078.950 <o,f0,male> kaadi poudare o kaadi nde wonno kaadi minen min baɗi ɗum koye juuɗe waɗaɓe formation :fra
+fuc_4615 1 locuteur_2 2078.950 2079.593 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2079.593 2082.448 <o,f0,male> donc :fra sa are mum a arani pour :fra sodde poudare o tan
+fuc_4615 1 locuteur_2 2082.448 2082.831 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2082.831 2083.868 <o,f0,male> maɓe namde hol
+fuc_4615 1 locuteur_2 2083.868 2083.989 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2083.989 2084.890 <o,f0,male> to baɗoy ta ɗum
+fuc_4615 1 locuteur_2 2084.890 2085.247 <o,f0,male> %hmu %hum
+fuc_4615 1 locuteur3 2085.247 2087.625 <o,f0,male> biya min de jinmi waɗoyde ɗum koye ɗum ɗo
+fuc_4615 1 locuteur_2 2087.625 2087.776 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2087.776 2089.749 <o,f0,male> ɓe kalanma kaadi holno baɗirta ɗum
+fuc_4615 1 locuteur_2 2089.749 2090.027 <o,f0,male> %hum %hmu
+fuc_4615 1 locuteur3 2090.027 2091.340 <o,f0,male> e holno kutortoɗa ɗum
+fuc_4615 1 locuteur_2 2091.340 2091.570 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2091.570 2093.219 <o,f0,male> ha mbawa kaadi yide hen hoore ma
+fuc_4615 1 locuteur_2 2093.219 2094.624 <o,f0,male> [r] ok:fra mo namdal gongal
+fuc_4615 1 locuteur3 2094.624 2095.124 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2095.124 2097.524 <o,f0,male> o ko %e fayi koy kaadi ko gotol
+fuc_4615 1 locuteur_2 2097.524 2097.675 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2097.675 2099.196 <o,f0,male> woni hono Dieynaba %e Gueye
+fuc_4615 1 locuteur_2 2099.196 2099.529 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2099.529 2100.176 <o,f0,male> to Dolol
+fuc_4615 1 locuteur_2 2100.176 2100.442 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2100.442 2102.138 <o,f0,male> eyyi kanko ne kaadi o namdi [b]
+fuc_4615 1 excluded_region 2102.138 2103.370 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 excluded_region 2103.370 2103.996 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2103.996 2105.674 <o,f0,male> kaadi ko sewo sewoji mabɓe ɓe jogui
+fuc_4615 1 locuteur_2 2105.674 2105.976 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2105.976 2107.984 <o,f0,male> eyyi donc :fra kaadi %e ko non
+fuc_4615 1 locuteur_2 2107.984 2108.212 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2108.212 2110.196 <o,f0,male> namdal gongal ngal woni Aminata BA
+fuc_4615 1 locuteur_2 2110.196 2110.353 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2110.353 2110.710 <o,f0,male> to Hounare
+fuc_4615 1 locuteur_2 2110.710 2111.011 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2111.011 2112.218 <o,f0,male> Aminata BA to Hounare
+fuc_4615 1 locuteur_2 2112.218 2112.647 <o,f0,male> téléphone :fra o
+fuc_4615 1 locuteur_2 2112.647 2112.999 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2112.999 2113.326 <o,f0,male> eyyi
+fuc_4615 1 excluded_region 2113.326 2114.025 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2114.025 2114.545 <o,f0,male> ɗo Hounare
+fuc_4615 1 locuteur_2 2114.545 2114.896 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2114.896 2122.386 <o,f0,male> kanko o namdi koo %e soɓe mbaɗi pépinière :fra uji mamɓe ha paari toɓe lorayta to
+fuc_4615 1 locuteur_2 2122.386 2122.970 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2122.970 2129.033 <o,f0,male> [r] eɓe daña ton caɗele guilay moƴu en ha e waato en ha ko way non
+fuc_4615 1 locuteur_2 2129.033 2129.448 <o,f0,male> %hum %hmu
+fuc_4615 1 excluded_region 2129.448 2130.195 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2130.195 2131.629 <o,f0,male> Aprostar ne jogui ɗon gueɗal
+fuc_4615 1 locuteur3 2131.629 2137.053 <o,f0,male> eyyi ɗon * [pi] produit :fra ji godɗi ni ina goodi
+fuc_4615 1 locuteur_2 2137.053 2137.252 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2137.252 2140.209 <o,f0,male> ma en gartoy hen ma en garoy e jewtemen sewo sewoji
+fuc_4615 1 locuteur_2 2140.209 2140.511 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2140.511 2142.412 <o,f0,male> kala nenɓe [mic] holɗi batteɗi ɗon [mic]
+fuc_4615 1 locuteur_2 2142.412 2142.703 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2142.703 2144.579 <o,f0,male> kono kaadi hay [mic] Aprostar kaadi
+fuc_4615 1 locuteur_2 2144.579 2144.803 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2144.803 2146.982 <o,f0,male> [mic] ina joogui kaadi gueɗal gonngal
+fuc_4615 1 locuteur_2 2146.982 2147.459 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2147.459 2152.540 <o,f0,male> saabu ɗum joni sa ƴetti paquet :fra tel Aprostar ma mo 10G
+fuc_4615 1 locuteur_2 2152.540 2152.911 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2152.911 2154.860 <o,f0,male> a seeɗi ndondi ma
+fuc_4615 1 locuteur_2 2154.860 2155.211 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2155.211 2157.611 <o,f0,male> [b] kono e tolno e kiloji joyyi
+fuc_4615 1 locuteur3 2157.611 2159.765 <o,f0,male> [r] ha kiloji sappo ndondi
+fuc_4615 1 locuteur_2 2159.765 2159.977 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2159.977 2162.660 <o,f0,male> a irti hen paquet :fra Aprostar o
+fuc_4615 1 locuteur_2 2162.660 2163.003 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2163.003 2164.790 <o,f0,male> hawo irtima e ndiɗon ndondi
+fuc_4615 1 locuteur_2 2164.790 2165.035 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2165.035 2168.238 <o,f0,male> a fulli %e jirguiti palang ɗo podɗa tutoyade ɗo
+fuc_4615 1 locuteur3 2168.238 2169.998 <o,f0,male> a %e irtodirimo hen
+fuc_4615 1 locuteur_2 2169.998 2170.267 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2170.267 2172.077 <o,f0,male> ma won kaadi ko walitma ɗon
+fuc_4615 1 locuteur_2 2172.077 2172.350 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2172.350 2173.318 <o,f0,male> eko faate ñamon
+fuc_4615 1 excluded_region 2173.318 2173.810 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2173.810 2177.445 <o,f0,male> [r] kono kam ton kaadi ina waɗi kaadi produit :fra ji kaadi spécial :fra
+fuc_4615 1 excluded_region 2177.445 2177.997 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2177.997 2184.631 <o,f0,male> ɗiɗo [r] ko ɗin poti waɗoyde ton [r] ɗinne kaadi ma en gartoy ton kaadi e jewte yesso pammi nenɓe kaadi haɓe paam [mic]
+fuc_4615 1 locuteur_2 2184.631 2185.113 <o,f0,male> %hum %hum
+fuc_4615 1 locuteur3 2185.113 2186.493 <o,f0,male> [b] eyyi [b]
+fuc_4615 1 locuteur_2 2186.493 2186.553 <o,f0,male> voilà :fra
+fuc_4615 1 locuteur_2 2186.553 2188.750 <o,f0,male> bed sikki ko ɗum vo wonno namde kebnoɗo
+fuc_4615 1 excluded_region 2188.750 2189.876 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2189.876 2190.674 <o,f0,male> bissimila %hum %hum
+fuc_4615 1 locuteur3 2190.674 2191.604 <o,f0,male> namdal moftal coñadi
+fuc_4615 1 locuteur_2 2191.604 2192.004 <o,f0,male> %hum %hum
+fuc_4615 1 excluded_region 2192.004 2192.916 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2192.916 2193.719 <o,f1,male> moftal coñadi
+fuc_4615 1 locuteur3 2193.719 2194.032 <o,f1,male> %hum %hum
+fuc_4615 1 excluded_region 2194.032 2195.058 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2195.058 2195.921 <o,f1,male> ne jogui ɗon gueɗal
+fuc_4615 1 locuteur3 2195.921 2199.280 <o,f1,male> eyyi moftal coñadi Aprostar ala ɗon gueɗal
+fuc_4615 1 locuteur_2 2199.280 2200.831 <o,f1,male> ala gueɗal parceque:fra ko ko posone
+fuc_4615 1 locuteur3 2200.831 2201.637 <o,f1,male> eyyi
+fuc_4615 1 locuteur3 2201.637 2202.607 <o,f1,male> moftal coñadi
+fuc_4615 1 locuteur_2 2202.607 2202.919 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2202.919 2204.457 <o,f1,male> yiɗa ko fawru ma ɗu
+fuc_4615 1 locuteur_2 2204.457 2204.877 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2204.877 2207.030 <o,f1,male> fawru ma ɗo jidɗa moftude
+fuc_4615 1 excluded_region 2207.030 2208.544 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2208.544 2208.976 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2208.976 2210.829 <o,f1,male> hadema nannude ton gawri ma
+fuc_4615 1 locuteur_2 2210.829 2211.104 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2211.104 2214.510 <o,f1,male> ya ƴew produit :fra baɗa traité :fra fawru ndu
+fuc_4615 1 locuteur_2 2214.510 2214.873 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2214.873 2216.803 <o,f1,male> ko wayno DELTA métrique :fra
+fuc_4615 1 locuteur_2 2216.803 2217.018 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2217.018 2220.495 <o,f1,male> walla ko wayno produit :fra ji kaadi leƴƴi baɗi non
+fuc_4615 1 locuteur_2 2220.495 2220.716 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2220.716 2223.449 <o,f1,male> jididar e wajiɓe ɓe pompa fawru ndu ha para
+fuc_4615 1 locuteur_2 2223.449 2223.835 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2223.835 2226.949 <o,f1,male> jonon pour :fra mbawa hisnude guurama ka
+fuc_4615 1 locuteur_2 2226.949 2227.360 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2227.360 2229.012 <o,f1,male> woni ko coñɗa ko
+fuc_4615 1 locuteur_2 2229.012 2229.189 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2229.189 2231.477 <o,f1,male> emine jogui moftal gonngal
+fuc_4615 1 locuteur_2 2231.477 2231.713 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2231.713 2233.885 <o,f1,male> ngal ganduɗa o o wattake produit :fra chimique :fra
+fuc_4615 1 locuteur_2 2233.885 2234.242 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2234.242 2235.394 <o,f1,male> o wattake hay hunde
+fuc_4615 1 locuteur_2 2235.394 2235.611 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2235.611 2237.187 <o,f1,male> te kala ko moftuɗa hen
+fuc_4615 1 locuteur_2 2237.187 2237.338 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2237.338 2238.683 <o,f1,male> ina wawi wonde ɗon
+fuc_4615 1 locuteur_2 2238.683 2239.081 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2239.081 2242.056 <o,f1,male> kutoroɗa ɗum duuɓi ɗiɗi duuɓi taati taw hay hunde heɓani ɗum
+fuc_4615 1 locuteur_2 2242.056 2242.280 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2242.280 2243.873 <o,f1,male> ɗiɗon min bi ko sakuji
+fuc_4615 1 locuteur_2 2243.873 2244.162 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2244.162 2245.605 <o,f1,male> %e sac :fra de: fra de concervation :fra
+fuc_4615 1 locuteur_2 2245.605 2245.835 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2245.835 2248.241 <o,f1,male> ko sahuji ɗi ganduɗa ɗi biyate ko sac :fra pixe :fra
+fuc_4615 1 locuteur_2 2248.241 2248.597 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2248.597 2249.949 <o,f1,male> ɗin ko sakuji mawɗi
+fuc_4615 1 locuteur_2 2249.949 2250.176 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2250.176 2254.013 <o,f1,male> sac :fra o omo nawa kiloji %e omo nawa barigal omo nawa 100k
+fuc_4615 1 locuteur_2 2254.013 2254.248 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2254.248 2255.559 <o,f1,male> oɗon sac :fra
+fuc_4615 1 locuteur_2 2255.559 2255.856 <o,f1,male> [b] %hum %hum
+fuc_4615 1 locuteur3 2255.856 2257.799 <o,f1,male> omo wonde perméable :fra tati tekkuɗe
+fuc_4615 1 excluded_region 2257.799 2259.193 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2259.193 2259.749 <o,f1,male> sac
+fuc_4615 1 locuteur3 2259.749 2261.186 <o,f1,male> perméable :fra nanna hen
+fuc_4615 1 locuteur_2 2261.186 2261.379 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2261.379 2270.494 <o,f1,male> perméable :fra nanna e perméable :fra perméable :fra arti woni ɗon guilay ñebe ma non ha ee makka ma ha e %e kala ko wawi wonde céréale :fra ma saa
+fuc_4615 1 locuteur_2 2270.494 2272.642 <o,f1,male> [bb] na wiɗi ton henna
+fuc_4615 1 locuteur3 2272.642 2274.421 <o,f1,male> sa sa fewni ɗum ha fewi
+fuc_4615 1 excluded_region 2274.421 2277.148 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2277.148 2278.006 <o,f1,male> nanna ɗum
+fuc_4615 1 excluded_region 2278.006 2279.431 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2279.431 2279.767 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2279.767 2281.311 <o,f1,male> kabɓe ha tiɗa
+fuc_4615 1 locuteur_2 2281.311 2281.773 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2281.773 2286.947 <o,f1,male> wonno waɗirte [b] soɓe ɓattima min kaadi minen sakuji ɗi sa yeeyi ɗo établissement :fra Kane et :fra fils :fra ɗo
+fuc_4615 1 excluded_region 2286.947 2288.263 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur3 2288.263 2289.085 <o,f1,male> emin jogui ɗin
+fuc_4615 1 locuteur_2 2289.085 2289.150 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2289.150 2289.771 <o,f1,male> sakuji
+fuc_4615 1 locuteur_2 2289.771 2289.933 <o,f1,male> %hum %hmu
+fuc_4615 1 locuteur3 2289.933 2300.466 <o,f1,male> sac :fra o watta cons%e o nawata ko temedere kilos :fra ko barigal [r] moftatamo nonkoy nder fawru ma [r] so nden yonti soɓe gari momin kalanɓe holno sac :fra o hutorte [r] aɗa waawi wadde e maaro ma
+fuc_4615 1 locuteur3 2300.466 2301.842 <o,f1,male> aɗa wawi wadde henna
+fuc_4615 1 excluded_region 2301.842 2303.086 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2303.086 2303.310 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2303.310 2304.691 <o,f1,male> aɗa wawi wadde hen ñebe ma
+fuc_4615 1 locuteur_2 2304.691 2304.970 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2304.970 2306.693 <o,f1,male> mofrta ɗum hen wonanma ɗon
+fuc_4615 1 locuteur_2 2306.693 2307.044 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2307.044 2308.258 <o,f1,male> moftere ha duuɓi tati
+fuc_4615 1 locuteur_2 2308.258 2308.543 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2308.543 2310.054 <o,f1,male> kala nde jidɗa foof a habɓitate
+fuc_4615 1 locuteur_2 2310.054 2310.306 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur3 2310.306 2311.422 <o,f1,male> guitta ko cohluɗa ko
+fuc_4615 1 locuteur_2 2311.422 2311.784 <o,f1,male> [r] kaadi sa
+fuc_4615 1 locuteur3 2311.784 2315.228 <o,f1,male> sa gawi kaadi mbatta nder kaadi kabɓa hissat dañata caɗele [i]
+fuc_4615 1 locuteur_2 2315.228 2320.911 <o,f1,male> moƴƴi bed sikki ɗo [bb] [i] [bg] bandiraɓeɓe ɓeydotirima ɗo henna parceque :fra koo %e hude nde ganduɗa henna e
+fuc_4615 1 locuteur_2 2320.911 2322.324 <o,f1,male> %e ina wodi
+fuc_4615 1 locuteur3 2322.324 2322.742 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur_2 2322.742 2328.638 <o,f1,male> no kewɗen wideni [i] henna [r] en gari ee mayirɗe yewtere [bb] nde keddoraɗen ko fodde hojomaji joyyi
+fuc_4615 1 locuteur3 2328.638 2328.881 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur_2 2328.881 2333.997 <o,f1,male> %e en baɗat goɓejir kono non ko adi ɗum ceerno Samba
+fuc_4615 1 locuteur_2 2333.997 2346.681 <o,f1,male> ɓe siki %e a dañi sago saabu won %e keɓadi e haala [r] ko jinnoɗa yo %e yimɓeɓe kala e nder hen nde tawno ko onon goni tawti noɓe ɓe henna [r] e holko mbawɗa tiguirigui timmitinde gollalgal kaadi
+fuc_4615 1 locteur_4 2346.681 2352.204 <o,f1,male> eyyi mbawmi timmitinde e gollal he ko won caɗele kewɗe cernajo o yettima hen
+fuc_4615 1 locuteur_2 2352.204 2352.410 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2352.410 2352.873 <o,f1,male> ceeno kane
+fuc_4615 1 locuteur_2 2352.873 2353.502 <o,f1,male> %hum %hmu
+fuc_4615 1 locteur_4 2353.502 2356.640 <o,f1,male> i%e banggue hebloɓe sardiŋaji ɗi
+fuc_4615 1 locuteur_2 2356.640 2356.934 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2356.934 2358.596 <o,f1,male> saabu joni ko saha sardiŋŋaji
+fuc_4615 1 locteur_4 2358.596 2359.263 <o,f1,male> goto fo nana
+fuc_4615 1 excluded_region 2359.263 2360.134 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2360.134 2360.543 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2360.543 2363.571 <o,f1,male> ina yiɗi wadde popiniére ne ƴewa holno awiri
+fuc_4615 1 locuteur_2 2363.571 2364.030 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2364.030 2366.383 <o,f1,male> ko debbo o namdi ko o namdani ko adouna foof
+fuc_4615 1 locuteur_2 2366.383 2366.678 <o,f1,male> foof
+fuc_4615 1 locuteur_2 2366.678 2366.945 <o,f1,male> %hum %hmu
+fuc_4615 1 locteur_4 2366.945 2368.713 <o,f1,male> saabu won ɓe moƴu tampini
+fuc_4615 1 locuteur_2 2368.713 2369.043 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2369.043 2371.470 <o,f1,male> won kaadi yitɓe awde ganda holno awrete
+fuc_4615 1 locuteur_2 2371.470 2371.822 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2371.822 2377.450 <o,f1,male> eyyi kaadi ko %e no haldi ɗoo [bg] Aprostar o no mbaddata ɗum e donndi ni
+fuc_4615 1 locuteur_2 2377.450 2377.869 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2377.869 2378.762 <o,f1,male> kiloji joyyi ɗi
+fuc_4615 1 locuteur_2 2378.762 2379.285 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2379.285 2381.173 <o,f1,male> so dañama ɗum ina moƴƴi
+fuc_4615 1 locuteur_2 2381.173 2381.580 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2381.580 2385.695 <o,f1,male> [b] eyyi kaadi mono foof yo wat non kaadi ko awi ɗon lekki ko
+fuc_4615 1 locuteur_2 2385.695 2386.101 <o,f1,male> %hum %hmu
+fuc_4615 1 locteur_4 2386.101 2388.356 <o,f1,male> lekki lorateki kaadi ko ni gollirte
+fuc_4615 1 locuteur_2 2388.356 2388.869 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2388.869 2389.954 <o,f1,male> kala kena fuuɗa
+fuc_4615 1 locuteur_2 2389.954 2390.371 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2390.371 2392.261 <o,f1,male> no heblirte ni
+fuc_4615 1 locuteur_2 2392.261 2392.427 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2392.427 2397.102 <o,f1,male> goto fo ne sohli hono baɗiranmi hono gassiranmi hono no oɗo waɗirani tan ko heddi ko
+fuc_4615 1 excluded_region 2397.102 2398.756 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locteur_4 2398.756 2399.289 <o,f1,male> nafoore
+fuc_4615 1 locuteur_2 2399.289 2399.434 <o,f1,male> [bg]
+fuc_4615 1 locteur_4 2399.434 2400.539 <o,f1,male> nuwa kinini ne jogui nafoore
+fuc_4615 1 locuteur_2 2400.539 2401.113 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2401.113 2403.170 <o,f1,male> eyyi nuwa kinini kecco o ne jogui nafoore
+fuc_4615 1 locuteur_2 2403.170 2403.523 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2403.523 2407.400 <o,f1,male> eyyi ɗum ɗon ko hude ganduɗa kala jidɗo wadde hude yo watɗum
+fuc_4615 1 locuteur_2 2407.400 2407.898 <o,f1,male> %hum %hum
+fuc_4615 1 locteur_4 2407.898 2412.358 <o,f1,male> kaadi golla ɗum kaadi taw nokku to woni ɗo kaadi tawa ko kañum gollani hoore mum
+fuc_4615 1 locteur_4 2412.358 2413.516 <o,f1,male> daña hen kaadi karallagal
+fuc_4615 1 locuteur_2 2413.516 2416.256 <o,f1,male> [r] moƴƴi wadde %e min beltima
+fuc_4615 1 excluded_region 2416.256 2420.030 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2420.030 2422.006 <o,f1,male> [r] saabu wonata ko la continuté:fra
+fuc_4615 1 locuteur3 2422.006 2422.284 <o,f1,male> %hm %hmu
+fuc_4615 1 locuteur_2 2422.284 2423.428 <o,f1,male> eyyi woni jokkol
+fuc_4615 1 locuteur3 2423.428 2423.699 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur_2 2423.699 2425.753 <o,f1,male> %e yewtere fadare nde henna
+fuc_4615 1 locuteur3 2425.753 2426.008 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur_2 2426.008 2427.690 <o,f1,male> eyyi %e madɗo diofnu ɗen hande ɗo henna
+fuc_4615 1 locuteur3 2427.690 2428.048 <o,f1,male> %hum %hum
+fuc_4615 1 locuteur_2 2428.048 2437.610 <o,f1,male> kaadi jokken [i] %e inchallahu rabbi [i] holko basiyto ɗa ko baynorto bandiraɓe ɗa walla kaadi holko cikkuɗa sa timmitino ko adi eɗen baynodira e minute :fra goto
+fuc_4615 1 locteur_4 2437.610 2439.503 <o,f0,male> eyyi mi wiya bandiraɓe tan
+fuc_4615 1 locuteur_2 2439.503 2441.089 <o,f0,male> numéro :fra ma téléphone :fra, aussi :fra
+fuc_4615 1 locteur_4 2441.089 2442.797 <o,f0,male> [r] Allah jaarama ɓe jaarama
+fuc_4615 1 locuteur_2 2442.797 2443.137 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2443.137 2446.736 <o,f0,male> eɓen ene %e eɗen biyaɓe tan ma en dusɓe
+fuc_4615 1 locteur_4 2446.736 2447.995 <o,f0,male> ma en duus koyemen
+fuc_4615 1 locuteur_2 2447.995 2448.405 <o,f0,male> %hum %hum,
+fuc_4615 1 locteur_4 2448.405 2450.246 <o,f0,male> e oɗo soño mo coyniɗen ɗo
+fuc_4615 1 locuteur_2 2450.246 2450.600 <o,f0,male> %hum %hum
+fuc_4615 1 locteur_4 2450.600 2451.910 <o,f0,male> o natta wonde soño
+fuc_4615 1 locuteur_2 2451.910 2452.163 <o,f0,male> %hmu %hmu
+fuc_4615 1 locteur_4 2452.163 2453.078 <o,f0,male> te fuɗɗima
+fuc_4615 1 locuteur_2 2453.078 2453.487 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2453.487 2455.109 <o,f0,male> haɓata soño
+fuc_4615 1 locuteur_2 2455.109 2455.381 <o,f0,male> %hmu %hum
+fuc_4615 1 locteur_4 2455.381 2456.610 <o,f0,male> ko hebde awdi moƴƴiri
+fuc_4615 1 locuteur_2 2456.610 2456.881 <o,f0,male> %hmu %hmu
+fuc_4615 1 locteur_4 2456.881 2459.047 <o,f0,male> haɓata soño ko dañde peeje
+fuc_4615 1 locuteur_2 2459.047 2459.505 <o,f0,male> %hmu %hmu
+fuc_4615 1 locteur_4 2459.505 2460.987 <o,f0,male> kesse no ndeemirɗa
+fuc_4615 1 locuteur_2 2460.987 2461.387 <o,f0,male> %hum %hum
+fuc_4615 1 locteur_4 2461.387 2463.456 <o,f0,male> awdi mbeɗa wiya on tan awdi heɓama
+fuc_4615 1 locuteur_2 2463.456 2463.866 <o,f0,male> %hum %hum
+fuc_4615 1 locteur_4 2463.866 2468.258 <o,f0,male> [b] kala waɗoɓe guesse ilneteɗeɗe hande doole ɗe foof paya koye guesse ilneteɗeɗe
+fuc_4615 1 locuteur_2 2468.258 2468.674 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2468.674 2469.709 <o,f0,male> e périmetre :fra uruguay :fra
+fuc_4615 1 locuteur_2 2469.709 2470.048 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2470.048 2472.046 <o,f0,male> boɗo wiya kala deemowo makka
+fuc_4615 1 locuteur_2 2472.046 2472.349 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2472.349 2478.225 <o,f0,male> hande o e nder établissement :fra Kane et :fra fils :fra makka hébride :fra kesso puul nati ɗon nanɗon
+fuc_4615 1 locuteur_2 2478.225 2478.554 <o,f0,male> %hum %hum
+fuc_4615 1 locteur_4 2478.554 2482.121 <o,f0,male> hande boɗomi moftiɗon ma won tonne :fra nuji sappo makka nanɗon
+fuc_4615 1 locuteur_2 2482.121 2482.460 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2482.460 2483.314 <o,f0,male> taw ko makka hébride :fra
+fuc_4615 1 locuteur_2 2483.314 2483.743 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2483.743 2485.232 <o,f0,male> jiida kaadi e awɗele goɗɗe
+fuc_4615 1 locuteur_2 2485.232 2485.496 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2485.496 2490.330 <o,f0,male> eyyi sewo sewoji foof ari guilay bassalle ha e kala sewo sewoji maɓe cohli
+fuc_4615 1 locuteur_2 2490.330 2490.741 <o,f0,male> %hum %hum
+fuc_4615 1 locteur_4 2490.741 2492.297 <o,f0,male> nane nane moftal men
+fuc_4615 1 locteur_4 2492.297 2496.035 <o,f0,male> [i] donc :fra kala jokkodirɗo e am noddikam e noddir guelam guel
+fuc_4615 1 locteur_4 2496.035 2497.408 <o,f0,male> woni 77
+fuc_4615 1 locuteur_2 2497.408 2497.921 <o,f0,male> %hmu %hmu
+fuc_4615 1 locteur_4 2497.921 2501.558 <o,f0,male> 541 63 67
+fuc_4615 1 locteur_4 2501.558 2507.354 <o,f0,male> kala caɗele ɗe jooguiɗa tan ko wiyate awdi [r] jarani jomum ne ya Dakar jarani jomum
+fuc_4615 1 excluded_region 2507.354 2509.759 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locteur_4 2509.759 2512.344 <o,f0,male> 63 67 awdi cellundi
+fuc_4615 1 locuteur_2 2512.344 2512.662 <o,f0,male> %hmu %hmu
+fuc_4615 1 locteur_4 2512.662 2513.978 <o,f0,male> ceniɗi ina wodi
+fuc_4615 1 locteur_4 2513.978 2516.233 <o,f0,male> [r] gondudi kaadi e garanti
+fuc_4615 1 locteur_4 2516.233 2521.345 <o,f0,male> minen min jeeyete awdi min dusma e peeje min dusma kaadi ha conñal
+fuc_4615 1 locuteur_2 2521.345 2521.810 <o,f0,male> %hum %hmu
+fuc_4615 1 locteur_4 2521.810 2528.742 <o,f0,male> seɗa baɗaɗo e walo he [bb] biɗo wiya yimɓeɓe kala dañɗo hen ñewre [r] yo moftanam ñewre nde mami artu mi soda ñebe ɗe
+fuc_4615 1 excluded_region 2528.742 2530.497 <o,,unknown> ignore_time_segment_in_scoring
+fuc_4615 1 locuteur_2 2530.497 2536.037 <o,f0,male> [rire] moƴƴi wadde bandiraɓe [bb] sehilaɓe musibɓe tedduɓe [bg] ko ɗumɗo wonno ko min cuɓanino moɗon hande
+fuc_4615 1 locuteur_2 2536.037 2587.630 <o,f0,male> [r] %e ummade e yamirore service :fra commerciale: fra tawi ko hakkude mum e partenaire :fra ruji mumen [musique] ina wonde sygenta :fra Aprostar [musique] tawi kaadi koye dow ballodiral hono Aboubacry Kane établissement :fra Kane et fils :fra mo Agname Thiodaye ina wonde Samba Guro Diallo [r] [musique] eɗen gandi kankone ko APS mo Wourossogui [r] en jetti en jaari dennagal rewnoɓe ɗo nodduɓe ɓe henna [r] %e kaadi siftinde bandiraɓe henna kala jiɗɗo jokkodirde e mabɓe ko ɓuri labde ko henna wone namde ne wawi waddi [r] 775416367 biɗen 775416367 karallagal tawngal Cheikh Gurane Kebe tawi ɗo kuccidir ɗen koy Mamadou Moussa Sow [musique] kanko tamban no men kaɓirɗe kakidiɗe ɗe henna ene hufni halirde gam yettinande mon yewtere men nde henna [r] ɓurée :framen service: fra commerciale: fra ko musiɗɗo mon Amadou Alio Sy [musique] min dokka mon aadi e jewte paaɗe [musique] bandiraɓe hen gone e dow jaam [musique]
+fuc_4615 1 locuteur_2 2587.630 2596.650 <o,f0,male> [musique]

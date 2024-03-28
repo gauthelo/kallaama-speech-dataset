@@ -1,0 +1,124 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:28 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 30 of 230313
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_42811 1 locuteur1 0.000 3.959 <o,f1,male> * [musique]
+fuc_42811 1 locuteur1 3.959 8.413 <o,f1,male> ndeema ko yewtere moɗon hebletede ɗo henna e haalirde moɗon Saldu Fouta FM
+fuc_42811 1 locuteur1 8.413 14.476 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 14.476 19.851 <o,f1,male> ndeema ko yewtere moɗon hebletede ɗo henna e haalirde meɗen Saldu Fouta FM yontere kala e oɗo saaha
+fuc_42811 1 locuteur1 19.851 26.070 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 26.070 31.759 <o,f1,male> [musique] ene heblana on yewtere moɗon ndeema e gaynaka ko musiɗɗo moon Mamadou Amadou Ndiaye ene wonde
+fuc_42811 1 locuteur1 31.759 37.897 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 37.897 42.892 <o,f1,male> ndeema e gaynaka ko yewtere mon ɓennore ɗo henna e Saldu Fouta FM yontere kala e oɗo saaha
+fuc_42811 1 locuteur1 42.892 48.206 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 48.206 54.707 <o,f1,male> yontere kala e oɗo saaha tawko e sawto Mamadou Amadou Ndiaye 88 e tobɓere tati
+fuc_42811 1 locuteur1 54.707 124.976 <o,f1,male> [musique]
+fuc_42811 1 excluded_region 124.976 127.914 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42811 1 locuteur1 127.914 131.712 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 131.712 135.712 <o,f1,male> en calmini hilifaɓe diine e hilifaɓe aada
+fuc_42811 1 locuteur1 135.712 139.539 <o,f1,male> [musique]
+fuc_42811 1 excluded_region 139.539 143.914 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42811 1 locuteur1 143.914 148.602 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 148.602 152.587 <o,f1,male> en ñaguimomo kanko soubahanahu wa taala nde o waɗante en jaam
+fuc_42811 1 locuteur1 152.587 156.025 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 156.025 158.494 <o,f1,male> o waɗa jaam e leydi men
+fuc_42811 1 locuteur1 158.494 160.932 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 160.932 166.901 <o,f1,male> o waɗa jaam e dendagal leyɗele ɗe nde ko jaam dañe nde jaama juule
+fuc_42811 1 locuteur1 166.901 171.035 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 171.035 173.411 <o,f1,male> en ñaguimomo kanko subahanahu wa taala
+fuc_42811 1 locuteur1 173.411 176.036 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 176.036 180.162 <o,f1,male> ɓe wonɓe e hopital :fra uji ɗi ha e nder galleji ɗi nde Allah hokkataɓe jaam
+fuc_42811 1 locuteur1 180.162 182.584 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 182.584 186.819 <o,f1,male> ha goto foof ummo yaaha e hajuji mum e welede makko kanko subahanahu wa taala
+fuc_42811 1 locuteur1 186.819 190.053 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 190.053 192.472 <o,f1,male> en ñaguimomo kanko subahanahu wa taala
+fuc_42811 1 locuteur1 192.472 195.039 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 195.039 201.837 <o,f1,male> ɓe wonɓe e juuɗe nde Allah ɓiltataɓe toon artiraɓe e galleji mabɓe e hattan makko kanko subahanahu wa taala
+fuc_42811 1 locuteur1 201.837 205.822 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 205.822 208.057 <o,f1,male> bandiɓe en gari
+fuc_42811 1 locuteur1 208.057 210.087 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 210.087 214.025 <o,f1,male> no gowɗen waddude e jamma talata foof e oɗo saaha
+fuc_42811 1 locuteur1 214.025 217.776 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 217.776 222.964 <o,f1,male> tawito karallagal ne wonani en toon Abou Diallo
+fuc_42811 1 locuteur1 222.964 225.027 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 225.027 230.153 <o,f1,male> omo sawdodiri e mawɗo galle o Amadou Tidiani Kane wonde mawɗo Moussa
+fuc_42811 1 locuteur1 230.153 233.700 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 233.700 239.200 <o,f1,male> to sawtowol ko musiɗɗo moon guiɗo moon Mamadou Amadou Ndiaye e nder yewtere men ndeema e gaynako
+fuc_42811 1 locuteur1 239.200 243.748 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 243.748 248.561 <o,f1,male> no gowɗen wide ni noon en calmini gorko poullo o Baboy Dia wonde Asata Mouttar
+fuc_42811 1 locuteur1 248.561 250.687 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 250.687 254.047 <o,f1,male> en calmini yo fuulo subalo foof en calmini
+fuc_42811 1 locuteur1 254.047 256.673 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 256.673 259.611 <o,f1,male> ko noon calminirten Ba Ramata toon to Sinthiane Diakiri
+fuc_42811 1 locuteur1 259.611 262.111 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 262.111 265.221 <o,f1,male> bandiraɓe yewtere meɗen
+fuc_42811 1 locuteur1 265.221 267.659 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 267.659 272.660 <o,f1,male> tawi ko hande ko guiɗo meɗen Aboubacry Kane mo gowɗen yewtidde ɗo henna
+fuc_42811 1 locuteur1 272.660 274.926 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 274.926 284.411 <o,f1,male> mo ganduɗen hande kala ko fati e fawru faggudu ndu ganduɗen [r] hande ko fati e ndeema ko kanko Allah halfini ɗum toon to wuuro meɗen Thiodaye
+fuc_42811 1 locuteur1 284.411 286.912 <o,f1,male> [musique]
+fuc_42811 1 locuteur1 286.912 290.339 <o,f1,male> eɗen gandi e kala saaha o arat o joddo e men ɗo [musique]
+fuc_42811 1 locuteur1 290.339 294.397 <o,f1,male> namnodiren e makko kala ko fati e remru ndu
+fuc_42811 1 locuteur1 294.397 303.023 <o,f1,male> [musique] hande koye makko joddiɗen ɗum noon Aboubacry ko adi nde eɗen naata e yewtere meɗen calmina bandiraɓe
+fuc_42811 1 locuteur2 303.023 315.947 <o,f1,male> [musique] eyyi * en caminini dendagal
+fuc_42811 1 locuteur2 315.947 322.260 <o,f1,male> * eɗen mbawi wide Bossowé foof walla mbiyen dendagal foutankoɓe [musique]
+fuc_42811 1 locuteur2 322.260 330.683 <o,f1,male> [musique] kala to ndeemowo e gaynako woni e nder leydi Fouta en camini ɗum
+fuc_42811 1 locuteur2 330.683 336.996 <o,f1,male> en calmini bandiraɓeɓe foof jeeri e walo
+fuc_42811 1 locuteur2 336.996 343.247 <o,f1,male> e ɓeɗon ne hilifaɓe men diine [musique]
+fuc_42811 1 locuteur2 343.247 349.873 <o,f1,male> e autorité :fra administrasive administrative :fra uji kadi ɓe gonduɗen ɗo kadi e diwan he
+fuc_42811 1 locuteur2 349.873 353.249 <o,f1,male> kamɓe foof en calminiɓe en juurimamaɓe
+fuc_42811 1 locuteur2 353.249 363.501 <o,f1,male> en jejjitani mawɓe reemoɓe en jejjitani kadi mawɓe men aada ko wayno Samaba Houleye Sall en kamɓe foof to Agname Koɗi
+fuc_42811 1 locuteur2 363.501 367.376 <o,f1,male> [musique] [bg] eyyi
+fuc_42811 1 locuteur2 367.376 380.440 <o,f1,male> [musique]
+fuc_42811 1 locuteur2 380.440 384.628 <o,f1,male> eyyi Mamadou Amadou [musique]
+fuc_42811 1 locuteur2 384.628 392.566 <o,f1,male> Allah jaarama kadi en jetti joomirɗo o no fewi nde o hokki en kadi tawtorede kadi oɗo ñalawma
+fuc_42811 1 locuteur2 392.566 395.629 <o,f1,male> e tawtorede kadi oɗo saaha
+fuc_42811 1 locuteur2 395.629 399.630 <o,f1,male> ha mbawen artude kadi e yewtidde
+fuc_42811 1 locuteur2 399.630 406.443 <o,f1,male> e koyemen e ƴewde kadi kala ko ngakke golle men kandi goñcen
+fuc_42811 1 locuteur2 406.443 409.647 <o,f1,male> eyyi kala ko beydata en kadi jokken hen
+fuc_42811 1 locuteur2 409.647 415.273 <o,f1,male> eyyi a weltanama no fewi noon no mbiɗa ni kadi hande en garti
+fuc_42811 1 locuteur2 415.273 420.774 <o,f1,male> kadi gueɗe men kadi surtout :fra kadi ko fate ndeema ka
+fuc_42811 1 locuteur2 420.774 427.399 <o,f1,male> eyyi hande kadi eɗen gandi kadi joolal walo ngal kadi ngal woɗɗoyi
+fuc_42811 1 locuteur2 427.399 430.837 <o,f1,male> eyyi jabbere nde kadi nde waɗɗoyi no fewi
+fuc_42811 1 locuteur2 430.837 435.657 <o,f1,male> eyyi ɗum ssabi noon hande kadi mbaɗɗen émission :fra spéciale :fra
+fuc_42811 1 locuteur2 435.657 439.470 <o,f1,male> e pour :fra ƴewtade kadi ko waɗako kadi holɗo tolni
+fuc_42811 1 locuteur2 439.470 443.174 <o,f1,male> eyyi e kadi ko jooga ko kadi holko jooga
+fuc_42811 1 locuteur2 443.174 448.925 <o,f1,male> eyyi établissement :fra men Kane et :fra fils :fra gonɗo to Agname Thiodaye woni fawru dendagal foutankoɓe foof
+fuc_42811 1 locuteur2 448.925 451.863 <o,f1,male> eyyi holko woni toon e holko jooga toon
+fuc_42811 1 locuteur2 451.863 454.869 <o,f1,male> Amadou Tidiane donc :fra garta hen seeɗa
+fuc_42811 1 locuteur1 454.869 458.557 <o,f1,male> eyyi a jarama Aboubacry Kane
+fuc_42811 1 excluded_region 458.557 463.371 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42811 1 locuteur1 463.371 472.497 <o,f1,male> %e nde puɗɗoto ɗen ɗo nde wonko jewtinnoɗen e bandiraɓe ko fati e produit :fra ɗi ganduɗen ko ɗum woni ko [r] %e waddete e awɗele ɗe
+fuc_42811 1 locuteur1 472.497 479.060 <o,f1,male> [bb] hande oɗo saaha eɗen gandi walo ngo jabbama %e walo kadi %e reewi lawol
+fuc_42811 1 locuteur1 479.060 483.623 <o,f1,male> hande kala ɗo jaaɗa e dendagal kolaɗeɗe foof hande alhadulillahi ɗi ndewi lawol
+fuc_42811 1 locuteur1 483.623 495.812 <o,f1,male> [r] %e yeddi noon ko %e waɗi seeɗa seeɗa tan ko meema ɗum kadi wawa wasde wonde kono kadi ɗum kadi ma aroy e bissid mo ganduɗen kadi ma en jaah mbaɗoyen ɗum e guesse ɗe
+fuc_42811 1 locuteur1 495.812 500.297 <o,f1,male> jiidiren kadi e remoɓeɓe kadi ƴewen kadi produit :fra ji noɓi kutororo ni
+fuc_42811 1 locuteur1 500.297 507.485 <o,f1,male> est :fra ce :fra que :fra eɗuɓe dewni ɗum lawol %e ɓe mbawen andude kadi hol kadi peeje mbaweten wadde hande oɗo saaha
+fuc_42811 1 locuteur1 507.485 513.705 <o,f1,male> ɗum noon ma en garoy hen saahaji garoyoji so Allah jaaɓi inchallah hakkude men e mabɓe kamɓe e joom guesse en ɓe
+fuc_42811 1 locuteur1 513.705 522.968 <o,f1,male> ɗum noon Aboubacry ene wayno hande to banggue so wiyama hande banggue %e ndeema
+fuc_42811 1 locuteur1 522.968 530.343 <o,f1,male> kala ko fati e ko reemoɓe jogoto hande oɗo saaha e ko an jogui ɗum ɗon hande e diwan meɗen o
+fuc_42811 1 locuteur1 530.343 541.238 <o,f1,male> %e ɗum noon hande holno mbawɗa famminirde en hande holko woni toon to ganduɗa hoorema hande fawru ma hande so wiyama fawru noon hande ne wayno e Boséwé foof hande ko an woni fawru muɗum
+fuc_42811 1 locuteur1 541.238 547.238 <o,f1,male> walla ni ɓuuri Boséwé saabu ɗo ha Bakel %e ha eko way noon ɗum ɗo foof hande koto banggue fawru ma to
+fuc_42811 1 locuteur1 547.238 551.691 <o,f1,male> ko hen yahata holko woni hande e nder fawru ndu holko dañoto to fawru ndu holko woni toon
+fuc_42811 1 locuteur2 551.691 559.566 <o,f1,male> eyyi Allah jarama a jaram Amadou Tidiane
+fuc_42811 1 locuteur1 559.566 561.504 <o,f1,male> Mamadou Amadou
+fuc_42811 1 locuteur2 561.504 570.864 <o,f1,male> eyyi [rire]
+fuc_42811 1 locuteur2 570.864 576.427 <o,f1,male> eyyi kono noon hade men nadde e holko jooga e fawru men ndu
+fuc_42811 1 locuteur2 576.427 582.241 <o,f1,male> [tx] eɗen jinno kadi addude témoignage :fra ji hono reemoɓeɓe
+fuc_42811 1 locuteur2 582.241 591.549 <o,f1,male> eyyi ko [tx] ko holkoɓe jii e holko heɓa ko nde puɗɗo ɗen noon natayde e programme :fra godaɗo o eyyi
+fuc_42811 1 locuteur2 591.549 594.030 <o,f1,male> [musique]

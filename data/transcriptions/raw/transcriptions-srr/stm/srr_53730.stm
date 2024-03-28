@@ -1,0 +1,130 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:07:13 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by vPro, version 4 of 230306
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+srr_53730 1 Locuteur1 0.000 10.407 <o,f1,male> bu manquer:fra dana ka do xam ben njëriñ gancax bi bo daan def 3 sacs :fra nga def ben saaku dengay yak sa xalis parce :fra que :fra dotul am ben njëriñ
+srr_53730 1 Locuteur1 10.407 19.202 <o,f1,male> baax ñu fexe ba buñuy def engrais :fra rek na ñu def engrais:fra 3 sacs :fra yiñu recomender:fra bude %e da nga def 3 sacs :fra nga def 4 sacs :fra tamit
+srr_53730 1 Locuteur1 19.202 24.889 <o,f1,male> du tax du am ben njëriñ se engrais:fra dal lu bëri suuf si da am ferme :fra de :fra blocage :fra du dem
+srr_53730 1 Locuteur1 24.889 34.385 <o,f1,male> dey yakk gancax bi tamit baax na ñu moytu li ñuy def si dose :fra bi suñu ne 3 sac :fra rek 3 sac :fra yëp jar mais :fra bo defe lu ëpë rek
+srr_53730 1 Locuteur1 34.385 38.654 <o,f1,male> mën na andi galankor si gancax bi te du mat gancax bi vraiment :fra mang leen di remercier :fra
+srr_53730 1 Locuteur1 38.654 53.934 <o,f1,male> [applaude] [mic] question :fra ɗaɗ kander ne yo ka leyaye ka lamta ye namo andita o qol le a jega o keke a jega oxay yak wa quoi :fra
+srr_53730 1 Locuteur1 53.934 59.494 <o,f1,male> nama an dita ndaxa qol lewo o xay yaq wa
+srr_53730 1 excluded_region 59.494 67.574 <o,,unknown> ignore_time_segment_in_scoring
+srr_53730 1 Locuteur3 67.574 73.912 <o,f1,male> [b] nama an ta ye o qol lo wo o xay yaqo xa
+srr_53730 1 Locuteur3 73.912 81.385 <o,f1,male> tima qol xo o kino kina waga ley teen ke ref na xam xamum %e surtout :fra in weeke ngen na no joor le
+srr_53730 1 Locuteur3 81.385 85.884 <o,f1,male> ka jeg ka andona ye a foga no kena yaqa xa qola xe in bo o jega nga ndet lax xayo andin
+srr_53730 1 Locuteur3 85.884 93.234 <o,f1,male> ga'a ŋeñ ne leeg leeg na nga gara wido qol lewo ga' teen bo ɗekeleer ɓor na yoka taga
+srr_53730 1 Locuteur3 93.234 102.252 <o,f1,male> na xam xames boog keem ɗet luwa ɗetluwame kaga foga no ke na yaqa xa qola xe in parce :fra que :fra kam ga diki win mayu wa andona ye ka goda taamol tamit no qola xe den bo ŋeñ waag kate tig lang ke den
+srr_53730 1 Locuteur3 102.252 109.940 <o,f1,male> nda soy nu andona ye roog fiya fule xiiwal fa ando na ye waga ɓito qol lewo bo leng ke yet ke ka ga'a ga lang ke a yet bo bo presque :fra qol lewo ɗekeleer ɓora fi'a fi
+srr_53730 1 Locuteur3 109.940 116.458 <o,f1,male> a wora nge ku dufona teen ka xoy xoy na nda waage makola nu mbasa naam xaq ke jeg um ka ley ma
+srr_53730 1 Locuteur3 116.458 124.953 <o,f1,male> mi yo mi gara tinu leya nuun no ke ando na ye kam mi ño ga'an comme :fra manaam
+srr_53730 1 Locuteur3 124.953 132.908 <o,f1,male> no walum laŋ yam ka jeg ka ando na ye ten na garanti :fra a laŋ ke na garanti :fra a laŋ te refu ye
+srr_53730 1 Locuteur3 132.908 139.796 <o,f1,male> ke xotoona no qol le mbisii din ŋel le kene o dakka xot dako mbisin no qol le
+srr_53730 1 Locuteur3 139.796 148.773 <o,f1,male> te ref ma a fot ma a jega max ka ando na ye den na muko maxa qol le
+srr_53730 1 Locuteur3 148.773 156.312 <o,f1,male> a jega bacteur ka andona ye dena ndefa laŋ ke bo o qol le a dos
+srr_53730 1 Locuteur3 156.312 161.217 <o,f1,male> bo ando na ando naye microbe :fra ku ando na ye ka ndef kam %e laŋ ke
+srr_53730 1 Locuteur3 161.217 169.517 <o,f1,male> bacteur kene dena ɓung ko ñoxora bo yak kene ke %e microbe :fra kene nderum fo gancax fene
+srr_53730 1 Locuteur3 169.517 176.279 <o,f1,male> ka reta bo ande comme:fre manaam gancax fe ke warona wago yaq a laŋo unora
+srr_53730 1 Locuteur3 176.279 191.634 <o,f1,male> kena yakana lang ka jeg pour :fra to wago %e jego njiriña fook a kama ke andona ye dena ŋaƴel no qolum da mbago ɓot ma ta jeg bacteur :fra ka ando na ye ka ndefa laŋ i kanga ke ne de mbago ñoowa
+srr_53730 1 Locuteur3 191.634 196.214 <o,f1,male> kama kanga ma ne de ñoowa ñoow to saay fu jego na qol le
+srr_53730 1 Locuteur3 196.214 204.354 <o,f1,male> bo tepit attaque :fra ne war na gar wago na mbug ko ñoxora fo ando na ye kat microbe :fra ke andona ye den ɓar mbago yaq kene ke gancax fe
+srr_53730 1 Locuteur3 204.354 209.884 <o,f1,male> comme :fra genre :fra max max a foga no ke andona ye ka garanti :fra a lang
+srr_53730 1 Locuteur3 209.884 217.945 <o,f1,male> pour :fra mi ke tax na xa qola xe ina yaq wa comme :fra %e changement :fra climatique :fra ke ando na ye ten i ndef tu
+srr_53730 1 Locuteur3 217.945 226.554 <o,f1,male> i changer :fra système :fra ge i changer :fra na système :fra te refu ye %e a kanga ke andona ye salté :fra ke ando ye te i mbaru ngaƴa no qol le
+srr_53730 1 Locuteur3 226.554 235.024 <o,f1,male> xe xaƴa tel no qol le parce :fra que :fra a kanga ma kaga te kene ke bacteur :fra te ndefu a lang tete mbaru mbago ñowta
+srr_53730 1 Locuteur3 235.024 240.913 <o,f1,male> a ñenga ta nge kata ñowit na rek xan da unoox maga a ndet ma andona ye a njega salté :fra de ñow nik maaga ndiki
+srr_53730 1 Locuteur3 240.913 246.104 <o,f1,male> ka ret kata bo o qol lewo ku dufa tona maga rek waga ti rago jiriñ
+srr_53730 1 Locuteur3 246.104 251.014 <o,f1,male> pour :fra mi no ramb yifes kene daal foga me a foga no ke na moƴ na yaka na wiin we
+srr_53730 1 Locuteur4 251.014 262.253 <o,f1,female> miyo um tonto xo dik ka leye nam i mbagu an te lang ke wey yako xa lang ke xa qola xe ino wey yaqoxa
+srr_53730 1 Locuteur4 262.253 270.534 <o,f1,female> soo no xam xames fa ɗaɓu yeni saay lang ke ando na ga ɗeng
+srr_53730 1 Locuteur4 270.534 278.216 <o,f1,female> gaa a puƴa le ka ran ga mbage ɓalig ɓal gate nda ka ran ga
+srr_53730 1 Locuteur4 278.216 286.346 <o,f1,female> so a fi ɗe'keleer ɗe'keleer na ando na ye lang ke ga mbiya ta comme :fra fo mbep ka njega comme :fra fo mbep
+srr_53730 1 Locuteur4 286.346 295.145 <o,f1,female> o ga'a fo mbep ne kam no no lang ko ndaya qol le mi a commencer :fra a ɗega kene bug umo tonto xo ndikk [applaude] n
+srr_53730 1 Locuteur5 295.145 304.691 <o,f1,male> i yo mi de a jega kem waag ma o ley ne o an ta ye lang ke wo o qol lewo oxeya yaqo wa
+srr_53730 1 Locuteur5 304.691 313.633 <o,f1,male> o qol a jega taxar ka na ndefa kama qole o reta nga bo ga taxar ke commencer :fra a ŋona taxar ke mbaga taxar ke no qol le ŋona ça :fra veut :fra dire :fra que :fra o qole ka yaqoxa
+srr_53730 1 Locuteur5 313.633 317.870 <o,f1,male> mi de ga'am kaga ga ame o qol nu taxar ke ndef ina ten rek te moƴo bag ta
+srr_53730 1 Locuteur5 317.870 329.583 <o,f1,male> ka lal taye o qol lewo o xey a yaqoxa o qole o xoxa itam wa o jega ga ɗet lax anda ke ke o jega teen o xido xid ya ya ndiga faaf na
+srr_53730 1 Locuteur5 329.583 336.767 <o,f1,male> rendement :fra fe nanga wadio xa itam ka lal taye o qol le wo xay yaqoxa kaga de waga numo tontox teen
+srr_53730 1 excluded_region 336.767 340.919 <o,,unknown> ignore_time_segment_in_scoring
+srr_53730 1 excluded_region 340.919 345.740 <o,,unknown> ignore_time_segment_in_scoring
+srr_53730 1 excluded_region 345.740 350.517 <o,,unknown> ignore_time_segment_in_scoring
+srr_53730 1 Locuteur6 350.517 357.986 <o,f1,female> njoko mbolo ne mi Ndeye Ndiaye gen lul ndundur mina sim na nuun na kon nuun fa na simagol nuun
+srr_53730 1 Locuteur6 357.986 366.110 <o,f1,female> gid ma nuun to yakara nuun gid ma a ndefleng ɗayam xaye trop :fra yaam ndefleng a roki da no saate fe
+srr_53730 1 Locuteur6 366.110 374.500 <o,f1,female> ke waguma reponde no quetion :fra ne a soɓa nga ye o qol le wo ka te yako xa a qeña le bufa lang ke
+srr_53730 1 Locuteur6 374.500 380.437 <o,f1,female> o waga ngano po pang o pangin a waga girano pang o fii ten nda mol ne de ley na
+srr_53730 1 Locuteur6 380.437 391.318 <o,f1,female> sokoy o xot kene ke kanga pa ke itam a foga no ke andona ye ka yaka xa qola xe yam wiin we saxa daga bo pare ga mbufa a kanga pa ke a gada den
+srr_53730 1 Locuteur6 391.318 401.070 <o,f1,female> a ngaƴ ma ga lang mor ka to a kanga fa ke kam ga me o somba ga den kama qolewo sax faño doxa den sax to duufa den kaaf kaaf ka a kaco da ndefa
+srr_53730 1 Locuteur6 401.070 408.605 <o,f1,female> ne i mbi una meeno xid soƴin kama qol le nduf ta na areer areera kaga jegg e sik fa leng gade ñoow u bo
+srr_53730 1 Locuteur6 408.605 416.707 <o,f1,female> goor we a mboga no kena yaqa lang ke parce :fra que :fra o xota nga a kanga fa ke mbi sa den no mbina na xaƴo qole o mbor
+srr_53730 1 Locuteur6 416.707 422.270 <o,f1,female> daan le yoq na maga o sombin maga dako sendin doxin o qol laga dara ref ka te maga no kana ñowa
+srr_53730 1 Locuteur6 422.270 434.542 <o,f1,female> so taxar ke andona ye de ndefu kama qol le in a saxa tenn fat i ngaƴe den kamo qol le ke ref na taxar ke andona ye te refu saas ke o ref qic ke a refa ke andona ye ka ñowa na lang ko
+srr_53730 1 Locuteur6 434.542 440.275 <o,f1,female> ne ref ke tamit a foga no ke ando na ye ka ñowa na lang ke xu ga unano qolof fato xaƴin teen
+srr_53730 1 Locuteur6 440.275 449.019 <o,f1,female> kaga koy andum ten i maxey gid ma fop gid ma a ndef leng yaam i ɗaya xaye trop yasam o yalo xe fi ana in jam
+srr_53730 1 Locuteu7 449.019 463.557 <o,f1,male> i yo i mba tontox mene xin o qol le a ndo na ye ka yaqox bo o andin yaam nede ley tuna xatoor ne wago na fi bo adide o qol lemi yaqo xa ka jeg ɗelem na te ley na teena toumbamb rendement :fra
+srr_53730 1 Locuteu7 463.557 472.734 <o,f1,male> to rendement :fra o anda giram wara lamit kete ref na ren ko xoox jeg xa kusax xarɓa xay mbaan o xoox jaga kusaxa ɓetaq
+srr_53730 1 Locuteu7 472.734 481.575 <o,f1,male> andiro ye o qole yaq wa kaga na et ka taxa ande o qol le yaq wa say fu xooxon ke jegona ren jeguna mban o qol le yaq wa
+srr_53730 1 Locuteu7 481.575 492.904 <o,f1,male> wana ndet ka koy ketax na o qol lemu yaqoox ke yaq na o qoleene koy in fop i andaan yaam ka jegg mayu ka i mbiya na xa qola xe in fo ke i mbaag na fo ke i mbageer na lang ke yaqoox
+srr_53730 1 Locuteu7 492.904 501.314 <o,f1,male> ndig koy ne i mbaag na mbi bo o qol leene a daka num tu wiid o njeg na naak ga ndosa xana qola xen
+srr_53730 1 Locuteu7 501.314 510.881 <o,f1,male> wa njegeer na naq a yipa suqi xana qola xen o yipa nge suqi so dosiro fo naq o qol layit waga fule normal :fra
+srr_53730 1 Locuteu7 510.881 517.581 <o,f1,male> ke wago na fi kay ya xaƴa ne Ndeye Ndiaye a ley tuna o xaƴa a kangaf wala a somba ga ye a keña le mbisa leng ko qole wo
+srr_53730 1 Locuteu7 517.581 526.520 <o,f1,male> o waɗ taxar ka ando na ye a qeña gara tanga waag kate ɓis lang paax ke a jega ne toumbamba leya %e changement
+srr_53730 1 Locuteu7 526.520 539.601 <o,f1,male> o qol le o jola ngan ren te jeg kete coxo ga waga no xaƴ bo xa qida xa taɗak wala xa na xaɗak lang ke a dako ñowa tin o sogo dako xoxatinin i kene yakarame wa fog no kena xemba na lang nu mbasa naam
+srr_53730 1 Locuteur8 539.601 545.580 <o,f1,female> nu mbasa naam de ley am xator to leymim ne ne ema Refeka Ndouro ne em gen lul ndundur
+srr_53730 1 Locuteur8 545.580 550.542 <o,f1,female> rimel meen so dolox men i [applaude]
+srr_53730 1 Locuteur8 550.542 559.612 <o,f1,female> ke ke waag na xemban lang ke waag na xemban lang ke ga ma ye a foga no ke xemban lang te refu te a sera le a sera le na xa qola xe in
+srr_53730 1 Locuteur8 559.612 569.491 <o,f1,female> a sera ke na xa qola xe in ba i bug tin lang mayu nduf tig mayu bo ndama a sera nana na xa qola xe ŋod taxar kene o xido xid o riƴat o xido xid o riƴat
+srr_53730 1 Locuteur8 569.491 581.549 <o,f1,female> saay fu o riƴata riƴatina xan ret bo tana le rokid kama qol lewota a roki daga xana yaqa noŋ o leya ye %e o yala xe ci iramto o yala xe ci a ndari rang wo fe rok na me waro na roq wo o ci andaru a xoxof ken bug uma
+srr_53730 1 Locuteur9 581.549 589.487 <o,f1,female> Dew Sagne Philomene Dew Sagne gen lul ndundur dolu meen rimel meen doxool men
+srr_53730 1 Locuteur9 589.487 596.891 <o,f1,female> so im gid ma a ndefleng yaam i moso o ga muk ndefleng a gar mene lulu ndundur
+srr_53730 1 Locuteur9 596.891 606.372 <o,f1,female> so i mofa nga bo ga men a lul i mofa nga bo ga men ndun mofa nga bo ga a ndef leng a fadid kam ngel ne lu ndundur ka i mbaro gid ma roog
+srr_53730 1 Locuteur9 606.372 616.417 <o,f1,female> [b] i ka jeg o njik ndiko njutu ge ando na ye ka te yaqa poɗ ke
+srr_53730 1 Locuteur9 616.417 626.006 <o,f1,female> so nu leye teen so mi mi o mat kam laam ta nuun ke waag na at bo ndoxom rokit kate no qol kagam lamta
+srr_53730 1 Locuteur9 626.006 637.368 <o,f1,female> yaam ndoxom ka yaqa o qol yaq ɗomu ɗomu la andona ye ba ndik gan leya gancax la to gancax le gancax le ka reta baya te yaaw noox na ndoxom ne gar dal fo rokid a dal fo yaqin
+srr_53730 1 Locuteur9 637.368 645.072 <o,f1,female> so mi koy kam lam ta nuun ne kina waag na fi bo ndoxume rokid kate na qol nuun kagem laam ta nuun nu mbasa nam xaq [applaude]
+srr_53730 1 Locuteur10 645.072 655.591 <o,f1,female> deno deno sate fe a anda xam ley ama den genes xator Yande Wagane Faye o nana nga parole :fra fana o tewo xana sutid na
+srr_53730 1 Locuteur10 655.591 661.121 <o,f1,female> jamba ngam goor we ana ye anda kede njeng na na qol a qooq
+srr_53730 1 Locuteur10 661.121 674.582 <o,f1,female> a qooqa ɗak soma njegu teen to gaaf ko baxa wo gun biya tin naba tin nen areer arero ko baxa kan gun biya tin naba tin o sogo wago jeg teen areer le ñow na
+srr_53730 1 Locuteur10 674.582 685.373 <o,f1,female> dand le xona xon a xaƴin nda o fiya ngiran e waag kiro xotit maga kene ref na kene ndoxomo xoox a nga o qol le bo ndoxoma nara sutox ko mbeka teen machine :fra
+srr_53730 1 Locuteur10 685.373 700.904 <o,f1,female> foka jaranon o koro xe o gaga ndo xin a refa nga ye ga i ŋoxa fa xa ɓay ka i ndoka gu kam fa raw fo goor mbiyatin fa xa ɓay bote qac ndoxom na yena xon kaaf ke saxit a mboor a ndef kaaf ñoow nda goor we ngez na o dones took ya machine :fra na fadida meke meke somba xam [applaude]
+srr_53730 1 Locuteur10 700.904 707.712 <o,f1,female> [applaude] Leopol ɓisi dan saax le soɓa xam ye Leo ci tinda mene machine :fra [rire_en_fond] meke soɓa xam fa a sartake ne ena SP :fra
+srr_53730 1 Locuteur10 707.712 713.666 <o,f1,female> meke soɓa xam lu ndundur feke ñowum [rire_en_fond] [applaude] waxey nana kem leya [applaude] ndoxom koy ko xoox kan te xon
+srr_53730 1 Locuteur10 713.666 722.321 <o,f1,female> kam lang ke xata nda ko ɓeka teen machine :fra mba ɓeke ɓayo lewo xooxin [applaude] o fi a ngi ran ku gar na ndoxom ne gara nga xante yaqin
+srr_53730 1 Locuteur11 722.321 735.131 <o,f1,male> o neta la nete ley nete ley tuna xatora comme :fra manaam ke waag na xemban lang lang ke na xemba nan te ref comme :fra dose :fra
+srr_53730 1 Locuteur11 735.131 751.052 <o,f1,male> dose :fra te ref kena xemba lang comme :fra manaam o jega nge naak ka ndos na o qolo wanda ku ando na ye ka ref ka fota kuna fota rek ko foka tan o ɓiño leng
+srr_53730 1 Locuteur11 751.052 759.662 <o,f1,male> te xumba o fiyan chaque :fra 3 jours :fra wala une :fra semaine :fra te tourne :fra in ke far ina took a gara fara lang
+srr_53730 1 Locuteur11 759.662 769.341 <o,f1,male> so yipa den fofite fota rete nga ba fot ka ga na xoyel compose :fra o xotin ɓaxin no qol le
+srr_53730 1 Locuteur11 769.341 788.948 <o,f1,male> nous :fra éviter :fra a ka ando na ye te ref permeyable ku ando na ye wage fot rek permeyable wala materiel :fra ka ando na ye ka ref en :fra fer :fra ando na ye wage sooy permeable keke nu ngefa ngef neke tout :fra a foga no ke na yaqa o qol
+srr_53730 1 Locuteur11 788.948 797.346 <o,f1,male> méche :fra ke couche :fra ke nu couche :fra ta xa caƴa xe wene tout :fra a mboga no ke na yaqa lang
+srr_53730 1 Locuteur11 797.346 809.812 <o,f1,male> ku ando na ye rek meme :fra xa sac :fra ke ando yeke sax ka mbota sax mbage ga bong no ke na yaqa lang ku ando n ye a nafo wala ga ka na fota dal
+srr_53730 1 Locuteur11 809.812 816.182 <o,f1,male> ke xota o fokatino fokatan chaque :fra 3 jours :fra wala chaque :fra une :fra semaine :fra o tourner :fra in ke re i na took a gara far lang
+srr_53730 1 Locuteur11 816.182 822.001 <o,f1,male> te fota reta nga ba fot kaga na xooyel compose :fra o xotin con mbaxin no qole
+srr_53730 1 Locuteur11 822.001 827.552 <o,f1,male> a fiya ngan xay lang kaga a sup tu kaga na sup ta lang i nu mbasa naam
+srr_53730 1 Locuteur12 827.552 836.360 <o,f1,male> njokonjal fa dole njokonjal fa dole maxey sim na nuun no gon nuun fo na sima ngol nuun was nuwa nuun xaq wasa na nuun xaq
+srr_53730 1 Locuteur12 836.360 843.001 <o,f1,male> xeɗan roga mbat xa yenga xe xendan roga ci to wod xeɗan te yok surura fe
+srr_53730 1 Locuteur12 843.001 849.980 <o,f1,male> xeɗan a mofa le nu moof na meke xeɗan yene fe i din na bon saate fe
+srr_53730 1 Locuteur12 849.980 854.730 <o,f1,male> xeɗan mbembet fe roga yala a faƴ in
+srr_53730 1 Locuteur12 854.730 861.180 <o,f1,male> no qata num fo yirmande um te yit walu a qoqo nu mbisi du
+srr_53730 1 Locuteur12 861.180 870.270 <o,f1,male> neke i mbana koy ndefleng-a gar meeni mbi leng o ɓisid walum qoq kam foog me o xu na ñowa a qoqo o ñowa
+srr_53730 1 Locuteur12 870.270 884.840 <o,f1,male> te bo neke i mbi'na saxiida xa pum na qoq a qoqo i andu i njange te no i mbaana te no i mban na ɓasil ne
+srr_53730 1 Locuteur12 884.840 897.110 <o,f1,male> nda yit tayil ne xooxa ka leyit me tayil ne xooxa en :fra tout :fra qu' :fra à :fra ke i gaƴa no mbi ne
+srr_53730 1 Locuteur12 897.110 906.770 <o,f1,male> sagan ta de ret xoxa bo waga ti ro dial en :fra tout :fra qu' :fra à :fra ndot naga u buf a nga denmbisa den no qola te jeg kene
+srr_53730 1 Locuteur12 906.770 915.779 <o,f1,male> mi fim lami xayam xoxa wama leye ndot qew atou te fod nag refe a tos soom de kam reta ɓaxi na ɓax
+srr_53730 1 Locuteur12 915.779 924.833 <o,f1,male> a mbaxa la ando na ye kam juma juman bala andona ye ka comme :framaga jal ka tinum bo lang ke ɓiɓong na mana maga ndey ka
+srr_53730 1 Locuteur12 924.833 934.043 <o,f1,male> i ga a nderes fa a ɗatale njaƴ maro a renda metar ɓeta ɗak
+srr_53730 1 Locuteur12 934.043 946.160 <o,f1,male> nda fada te metar tadik kam yipo gun baya ando na ye lang ke um gara nga wa kinuma xoox um xaƴ maga andona ye maga yip um
+srr_53730 1 Locuteur12 946.160 960.736 <o,f1,male> xoox kinum nda mban fa heure :fra fu gar ma xooxin war galto xan sut poɗ ke bug ma a jega mana itam laka fa kam yipina a qadaf yipina qadaf bo waga timo ƴaƴ teen fada nga maga

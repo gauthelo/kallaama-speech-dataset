@@ -1,0 +1,30 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:25 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by JOKALANTE, version 2 of 230403
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_32610 1 locuteur1 0.000 13.939 <o,f1,male> [musique]
+fuc_32610 1 excluded_region 13.939 28.517 <o,,unknown> ignore_time_segment_in_scoring
+fuc_32610 1 locuteur1 28.517 36.078 <o,f1,male> banggue produit :fra garnoɗo rawade o aprostar o o kam vraiment :fra ene moƴƴi par :fra ce :fra que :fra adana wonde min banno ɗo produit :fra rawane rawane ndeya on produit :fra kam ala ko gassi
+fuc_32610 1 locuteur1 36.078 56.274 <o,f1,male> bonni gueese amen foof produit :fra aprostar garnoɗo ɗo rawane o noon on kam vraiment min jiiye makko yitere par :fra ce :fra que :fra kala nde gaw ɗa ƴettuɗa badɗamo e awdi ma awdi ndi hay sinno hen abbere nde memani leydi ni nde memani faandu woni dow ene wawi wonde ɗon hakke lewru taw ala ko memata ɗum kadi yeehi hankkadi ha wasagogo mawni ha gawri ndi fuɗɗi ha wasagogo mawnoyi kadi ne wawi jogade ɗum fodde ɗon hedde lewru faawndu
+fuc_32610 1 locuteur1 56.274 69.302 <o,f1,male> taw basalal ngal aɗa anda kayi an deemowo o hayde ka deemowo aɗa anda %e galɗo basalal ko oɗo produit :fra gonnoɗo e awdi o ko jogui galɗon basalal kadi emin jii hen tan fayida mawɗo hayto banggue ñebbe ga waɗi hen less tan a waɗi hen fofoof emin jii hen fayida mawɗo produit :fra o vraiment :fra omo moƴƴi
+fuc_32610 1 locuteur1 69.302 77.260 <o,f1,male> on saaha noon minen kam walli min e produit :fra ko Hamidou Ly minen kala ko min baɗe produit :fra wat wat walla banggue deemal koye Hamidou Ly min garata on wiyata min baɗeni baɗeni
+fuc_32610 1 locuteur1 77.260 81.631 <o,f1,male> min kam komi almudo makko ko biyanmi komi almudo makko kadi ko kanko jangguini mi kala to jaaratmi e banggue jardin :fra
+fuc_32610 1 locuteur1 81.631 91.087 <o,f1,male> e banggue ndema ko Allah e Nelaɗo muɗum e kanko Hamidou Ly ɗum beydimi min mi me?a remde jeeri walla walo ha dañmi hen fodde wonde sakuji joyyi so wona rawane
+fuc_32610 1 locuteur1 91.087 94.697 <o,f1,male> rawane mi dañi tonnes :fra e sakuji sappo e seeɗa tonnes :fra e sakuji sappo e seeɗa
+fuc_32610 1 locuteur1 94.697 114.069 <o,f1,male> rawane ko dañmi mi meɗa dañde ɗum sowona rawane eyyi sa yii wayi hono noon ko Allah e Nelaɗo mum e banggue produit :fra o produit :fra o ne hen jeeya par :fra ce :fra que :fra adani a reemat jabbat jabbitoɗa jabba jabbitoɗa ha ɗooya kaɗa goppa eyyi kono rawane kam sa jabbi tan lawol gotol tawi kay ko poudare o ba??a hen sa jabbi gotol sowona taw koye awdima woni ko arata mais :fra kadi hay e awdi kadi kanko Hamidou nde o yeyno min o wa?i hen produit :fra o yeyi min ndin kam hay wullo tantani foof ari normal
+fuc_32610 1 locuteur1 114.069 128.000 <o,f1,male> [musique]

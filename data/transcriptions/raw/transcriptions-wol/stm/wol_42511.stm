@@ -1,0 +1,125 @@
+;; Transcriber export by stm.tcl,v 1.21 on Fri Aug 11 09:37:17 São Tomé (heure standard) 2023 with encoding UTF-8
+;; transcribed by PROPRIETAIRE, version 2 of 230424
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+wol_42511 1 locuteur_1 0.000 21.029 <o,f1,male> mbokki yi asalaamaaleykum wa rahmatulah :ar taalaa :ar wa barakaathu :ar dal leen ak jàmm seen rajo Koungheul FM ci fréquence :fra su 92.1 [r] tey nag ñu am mbégte ànd ak yéen si émission :fra boo xam ne yéen a ngi koy déglu si seen rajo Lougheul FM ci cadre :fra projet :fra 4R bu PAM PAM di programme :fra alimentaire :fra mondiale :fra ñu ko financé :fra nag di Fond :fra vert :fra climat :fra si jàppandalu Jokalante
+wol_42511 1 locuteur_1 21.029 30.460 <o,f1,male> ci noonu nag tey ñu waxtaanee ak yéen lu jëm rek si wàllu %e situation :fra campagne :fra waaye tamit lu jëm si wàllu prévision :fra climatique :fra mi :fra parcours :fra
+wol_42511 1 locuteur_1 30.460 48.375 <o,f1,male> loolu nag tey ñu am mbégte ànd si ak ki nga xam ne it mooy monsieur :fra Cheikh Ndiaye chef :fra station :fra météorologique :fra bu Koungheul [i] waaye tamit waroon si ànd ak ki nga xam ne rek mooy SDDR Koungheul [i] waaye xam naa ni jàppandiwul kon su ko defee rek nes tuut rek ñu ànd seeg ki nga xam ne mooy Cheikh Ndiaye Cheikh station :fra bu météo :fra bu Koungheul
+wol_42511 1 inter_segment_gap 48.375 68.873 <o,f1,>
+wol_42511 1 locuteur_1 68.873 104.405 <o,f1,male> Koungheul FM %e ci noonu rek ñu dugg si tomb bu ñuy fas yéene ànd ak yéen tey mu nekk tomb boo xam ne dañuy waxtaanee lu jëm rek si wàllu tolluwaayu campagne :fra loolu nag suñ ko waxee %e jublu si nag lu jëm si wàllu prévision :fra climatique :fra ñu ànd si ak ki nga xam ne moo fi nekkal ñi nga xam ne ñoo di di waa ANACIM loolu it moom mi nga xam ne moo di Cheikh Ndiayr di chef station :fra météo :fra bu Koungeul dañu leen di présenté :fra rek li nga xam ne moo di ANACIM kon sëñ Cheikh suñ ñëwee si li nga xam ne mooy ANACIM ana lan nga ñu mën a wax si ANACIM
+wol_42511 1 locuteur_2 104.405 107.881 <o,f1,male> %e salaamaaleykum wa rahmatulah :ar encore :fra [b] waaw merci :fra beaucoup :fra Seydou
+wol_42511 1 locuteur_1 107.881 108.232 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 108.232 110.900 <o,f1,male> [b] waaw ANACIM %e comme :fra ni ko nit yi di déggee ak [b]
+wol_42511 1 excluded_region 110.900 111.262 <o,,unknown> ignore_time_segment_in_scoring
+wol_42511 1 locuteur_2 111.262 118.391 <o,f1,male> déggee aussi :fra [b] donc :fra [b] ANACIM %e mooy agence :fra nationale :fra
+wol_42511 1 locuteur_1 118.391 118.680 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 118.680 120.309 <o,f1,male> de :fra l' :fra aviation :fra civile :fra [b]
+wol_42511 1 locuteur_1 120.309 120.635 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 120.635 122.148 <o,f1,male> et :fra de :fra la :fra météorologie :fra
+wol_42511 1 locuteur_1 122.148 122.568 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 122.568 124.178 <o,f1,male> [b] donc :fra benn
+wol_42511 1 excluded_region 124.178 126.479 <o,,unknown> ignore_time_segment_in_scoring
+wol_42511 1 locuteur_1 126.479 126.859 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 126.859 132.013 <o,f1,male> dafay %e [b] maanaam saytu li nga xamante ni ñoom ñoo nekk wàllum [mic] dem ak dikk
+wol_42511 1 locuteur_1 132.013 132.266 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 132.266 135.462 <o,f1,male> si jawwu ji %e si ndox mi [b]
+wol_42511 1 locuteur_1 135.462 135.942 <o,f1,male> [b] %hum %hum
+wol_42511 1 locuteur_2 135.942 137.984 <o,f1,male> [b] aussi :fra si suuf si
+wol_42511 1 locuteur_1 137.984 138.382 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 138.382 144.624 <o,f1,male> [b] maanaam %e ak tamit li nga xamante ni dafa jëm si wàllum météorologie :fra
+wol_42511 1 locuteur_2 144.624 160.762 <o,f1,male> donc :fra météorologie :fra nag moom ku ko xam rek bon :fra xam nga ni ay ay bérébu nattukaay la [b] pour mën a xam temps :fra bi lan la ak tamit wax temps :fra bi nan lay meli [b] kon vraiment :fra loolu mooy liggéeyu ANACIM [b]
+wol_42511 1 locuteur_1 160.762 174.495 <o,f1,male> jërëjëf sën Cheikh kaddu yooyu foofu it leer na am na solo wax nga li nga xam ne moo di liggéey %e ANACIM waaye tamit mën nga ñëwaat si li nga xam ne moo di jubluwaay ak mission :fra ANACIM
+wol_42511 1 locuteur_2 174.495 181.280 <o,f1,male> waaw xam nga jubluwaayu ANACIM ak mission :fra ANACIM moom [b] maanaam objectif :fra bi mooy * bi
+wol_42511 1 locuteur_1 181.280 181.552 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 181.552 186.725 <o,f1,male> donc :fra mooy que :fra maanaam dañuy natt [b] parce :fra que :fra ANACIM dafa am ay bérébu nattukaay [b]
+wol_42511 1 locuteur_1 186.725 187.087 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 187.087 198.024 <o,f1,male> [b] ba si Koungeul bii [b] Sénégal yëpp am nañu ay [b] ay stations :fra météorologiques :fra [b] yoo xamante ni dafa am ay nattukaay [b] donc :fra nattukaay yooyu daf énuy permettre :fra ñu mën a jàngat temps :fra bi [b]
+wol_42511 1 excluded_region 198.024 202.947 <o,,unknown> ignore_time_segment_in_scoring
+wol_42511 1 locuteur_2 202.947 206.294 <o,f1,male> waaw gànnaaw natt yooyu [b] tamit dafa ànda ak txaw seetlu [b]
+wol_42511 1 excluded_region 206.294 209.713 <o,,unknown> ignore_time_segment_in_scoring
+wol_42511 1 locuteur_2 209.713 220.852 <o,f1,male> parce :fra que :fra xam nga temps :fra moom dafa mën a changé :fra [b] nekkul %e temps :fra bi ngay am %e [b] neklkul temps :fra bi ngay am %e chaque :fra jour :fra [b] loolu mooy li nga xamante ni mooy lu dëppoo [b]
+wol_42511 1 locuteur_2 220.852 253.463 <o,f1,male> wante temps :fra bi [shh] %e waxtu wu nekk rek mën na changé :fra mel neneen [b] te changements :fra yooyu coppite yooyu dafa doon loo xamante ni dañu koy jàngat [b] pour :fra mën a maanaam %e wattuloo doomu aadama yi [b] si li ñuy wax maanaam ay buletin :fra de :fra prévision :fra [b] pour :fra ñu mën a vraiment :fra aar seen bopp aussi :fra [b] mën a aussi :fra bien :fra aar seen jumtukaay dinaén soxla ndox [b] dinañ soxla tamit ngelaw te yooyu yëpp vraiment :fra [b] yàlla dafa def ni météo :fra mooy [b] ki nga xamante ni moom mooy jàngay loolu [b]
+wol_42511 1 locuteur_1 253.463 254.086 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 254.086 264.530 <o,f1,male> donc :fra ku ne mbay ne météo :fra donc :fra kenn mënul %e bay vraiment :fra yaakaar si dara te maanaam jëloo li nga xamante ni mooy ay xibaaru météo :fra [b]
+wol_42511 1 locuteur_2 264.530 278.711 <o,f1,male> donc :fra diggante météo :fra ak mbay [b] lu leen %e li nga xamante ni moo leen boole [b] mooy maanaam jàngat ndox mi [b] xool %e naaj wi [b] ba pare aussi :fra di jàngat ngelaw li [b]
+wol_42511 1 locuteur_2 278.711 289.860 <o,f1,male> ak yenn mbir yoo xamante ni lu mel ne mbënd yooyu xam nga ni mën na yàq ay tool ak yooyu vraiment :fra yooyu yëpp aussi :fra day doon yoo xam ni vraiment :fra dañ koy %e dañ koy jàngat [b]
+wol_42511 1 locuteur_2 289.860 302.367 <o,f1,male> donc :fra vraiment :fra kenn mënul bay te doo mën a jël information :fra métérologique :fra [b] donc :fra pour :fra une :fra agriculture :fra durable :fra et :fra résiliante :fra il :fra faut :fra qu' :fra il :fra y :fra ait :fra la :fra prise :fra en :fra compte :fra de :fra l' :fra information :fra [b] météorologique :fra et climatique :fra [b]
+wol_42511 1 locuteur_1 302.367 302.906 <o,f1,male> %hum %hum [b]
+wol_42511 1 locuteur_2 302.906 304.462 <o,f1,male> voilà [b]
+wol_42511 1 locuteur_1 304.462 318.933 <o,f1,male> jërëjëf foofu am na solo suñ ñëwee si li nga xam ne mooy prévisions :fra saisonières :fra yi ñëw si prévision :fra bi nga xam ne moom mooy bu %e bu ren bi %e loolu tamit ban njëriñ la ñu amal ak tamit ndax mën nga si ñëwaat [b]
+wol_42511 1 locuteur_2 318.933 335.404 <o,f1,male> waaw %e Seydou dafa am li nga xamante ni moom la ñuy wax le :fra %e maanaam [b] moom la ñuy wax maanaam ay yëngu-yëngu yoo xam ni day am si jawwu ji [b] mën nañu ko tuddee dynamique :fra suñuy termes :fra [b] ak tamit li nga xamante ni comportement :fra bi nga xam ni moom la géej gi di comporté :fra woo [b]
+wol_42511 1 locuteur_2 335.404 346.472 <o,f1,male> yooyu yëpp vraiment :fra dafay am dafay doon yoo xamante ni ay informations :fra yoo xamante ni dañu koy %e dañu koy saytu pour :fra mën a wax [b] maanaam nan la [b] nawet wi di mel
+wol_42511 1 locuteur_1 346.472 346.943 <o,f1,male> %hum
+wol_42511 1 locuteur_2 346.943 363.861 <o,f1,male> ak nan la jawwu ji di tàngee wala ak nan la jawwu ji di seddee ak lan lañu xalaat ne dana am [b] si wàllum catastrophe :fra naturelle :fra maanaam ay ay mbir yoo xamante ni [b] bon en :fra fait :fra taw nawet taw mën na ko indi [b] ngelaw mën na ko indi tàngoor bu métti mën na ko indi [b] voilà :fra
+wol_42511 1 locuteur_2 363.861 378.883 <o,f1,male> donc :fra %e vraiment :fra %e [b] côté :fra côté :fra côté :fra côté :fra côté :fra météorologie :fra ak %e climatologie :fra [b] dafa doon loo xamante ne vraiment :fra bon :fra dañu kaoy jàngat bu baax a baax [b] pour :fra mën a joxe ay prévisions :fra
+wol_42511 1 locuteur_1 378.883 379.080 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 379.080 391.546 <o,f1,male> parce :fra que :fra pévisions :fra yooyu dafa tënku si géej gi [b] donc géej gi dafa am ay courants :fra yu ñuy wax ay courants :fra marains :fra [b] donc :fra courants :fra yooyu dafa am ay béréb yoo xamante ne dafa war a sedd am béréb yoo xamante ni dafa war a tàng
+wol_42511 1 locuteur_1 391.546 391.919 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 391.919 398.665 <o,f1,male> léegi bu fekkee béréb yi nga xamante ni dafa war a sedd dafa dem ba commencé :fra tàng [b] loolu dafay am jeexintal si sunu nawet
+wol_42511 1 locuteur_1 398.665 399.099 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 399.099 414.128 <o,f1,male> léegi bu fekkee ne dafa am béréb yu tàng yoo xamante ni dafa war a sedd tamit [b] mu war a tàng sedd loolu tamit mën na indi jeexantal si sunuy nawet [r] moo taxit loolu dañu koy topp léegi ni ñu koy toppee parce :fra que :fra géej moom dafa doon loo xam ne mën na denc tàngoor [b]
+wol_42511 1 locuteur_2 414.128 428.813 <o,f1,male> xam nga tey boo jëlee benn baraada [b] baraada boo ko jëlee nga tàngal ko [b] ba mu tàng jër [b] mais :fra balaa muy sedd di nga toog au :fra moins :fra 15 minutes :fra [b] baraada bi doog a sedd [b] xam nga
+wol_42511 1 locuteur_1 428.813 429.173 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 429.173 439.936 <o,f1,male> léegi :fra tey bu fekkee cin [b] cin nga jël cin yu jigéen ñi di toggee [b] nga tàngal si ndox ba mu tàng jër jër jër [b] mais :fra balaa muy sedd au :fra minimum :fra dina def une :fra heure :fra de :fra temps :fra [b]
+wol_42511 1 locuteur_1 439.936 440.135 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 440.135 465.412 <o,f1,male> benn waxtu dina ko def [b] mais :fra nag géej [b] dafa mën a téye tàngoor si juróom-benni weer [b] léegi tàngoor boobu nag mooy tàngoor bi nga xamante ni moom la moom la moom la moom la ndox mi jëlee si jawwu ji ba pare denc ko si biir ndox mi [b] léegi denc boobu nag dina ko denc juróom-benni weer léegi ñun nag dañuy jaar si tàngoor boobu noonu bi nga xamante ni moom la jawwu ji jël denc ko si biir ndox mi
+wol_42511 1 locuteur_1 465.412 465.665 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 465.665 477.227 <o,f1,male> pour :fra mën a vraiment :fra mën a wax nan la suénu nawet bi mel mën a wax tamit lan la ñuy xaarandi si nawet wi maanaam si tënk maanaam mën a wax li ñuy wax ay prévisions :fra saisonières :fra
+wol_42511 1 locuteur_1 477.227 477.764 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 477.764 479.068 <o,f1,male> voilà :fra [b]
+wol_42511 1 locuteur_1 479.068 486.179 <o,f1,male> jërëjëf %e am na solo ndax mën nga ñëwaat si prévision :fra saisonière :fra bu ren bi
+wol_42511 1 locuteur_2 486.179 489.110 <o,f1,male> waaw prévision :fra saisonière :fra bu ren defe naa jotoon nañu ko def
+wol_42511 1 locuteur_1 489.110 489.581 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 489.581 511.630 <o,f1,male> %e bi ñu ko defee aussi :fra bon :fra am na loo xamante ni jotoon nañu ko ci wax li ñu si jotoon wax mooy nawet wi dana teel a ñëw dana teel a taw te gis nañu ni taw yu njëkk yi ñu ngi ko nemmeeeku si mois :fra de :fra mai :fra le 27 mai :fra maanaam %e comment :fra dirais :fra je :frab gox yu bëri taw na si biir département :fra de :fra Koungheul
+wol_42511 1 locuteur_2 511.630 531.111 <o,f1,male> mën naa ne fépp sax taw na ci mois :fra de :fra mais :fra bi parce :fra que :fra bu ñu xoolee mois :fra de :fra mai :fra bi %e bi énu xoolee maanaam lépp lépp lépp lépp lépp si si dajale taw yi donc :fra mu ngi toll ci 100 milimètres :fra si Idda Mouride ak 5 virgule :fra 3 si Lour Escale
+wol_42511 1 locuteur_1 531.111 531.302 <o,f1,male> %hum
+wol_42511 1 locuteur_2 531.302 544.265 <o,f1,male> donc :fra fi gën a ëpp taw si mois :fra de mai :fra bi ñu ngi ko nemmeeku si 100 si si si Idda Mouride avec 100 milimètres :fra si ñaari fan mais :fra taw bi gën a mag si mois :fra de :fra mai :fra bi ci Idda Mouride moo nekkoon 65 virgule :fra 0 milimètre :fra
+wol_42511 1 locuteur_1 544.265 544.683 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 544.683 565.471 <o,f1,male> beneen bi bu si gën a yées nag mooy %e Lour Escale avec 5 virgule :fra 3 milimètre :fra en 2 jours :fra donc :fra mooy li nga xamante ni joptoon nañu ko wax waxoon nañu que :fra vraiment :fra %e nawet bi dina teel a ñëw te aussi :fra dina taw ndox mu bëri te gis nañu ne que :fra vraiment :fra si mois :fra de :fra mai :fra bi %e région :fra de :fra Kaffrine wala département :fra de Koungheul
+wol_42511 1 locuteur_1 565.471 565.771 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 565.771 592.933 <o,f1,male> commencé :fra nañu maanaam nemmeeku ay taw donc :fra loolu la ñuy wax kon si ndorteelu nawet bi leneen li bon :fra ñu tënkloon diggante mois :fra de mai :fra mois :fra de juin :fra azk mois :fra de juillet :fra léegi bi ñu xoolee mois :fra de mai :fra mois :fra de :fra juin :fra ak mois :fra de juillet :fra bu ñu xoolee si dajale bi tey vraiment :fra dañuy gis ne que :fra maanaam amoon na ay jafe-jafe tuuti parce :fra que :fra am na si %e ay décates :fra yoo xamante ni amoon nañu si tuuti woor
+wol_42511 1 locuteur_2 592.933 672.339 <o,f1,male> mais :fra woor googu taxu koo métti noonu donc :fra vraiment :fra bon :fra mën nañu ne que :fra activités :fra yi daal mu ngi démarré :fra si mois :fra de :fra juin :fra donc :fra mois :fra de :fra mai :fra juin :fra ak juillet :fra comme :fra ni ñu ko waxee woon dafa doon normal :fra à :fra dafay normal :fra à :fra déficitaire :fra donc :fra ni ñu koy gisee ak jàngat bi nga xamante ni jox nañu ko si gis nañu ni que :fra la :fra situation :fra pluviomètrique :fra au :fra cours :fra du :fra mois :fra de :fra mai :fra am na postes :fra yi nga xamante ni ñoom ñoo féetee suuf lu mel ni ay Fass Cekkeen Saly Escale yooyu yëpp dañu exedentaires :fra dañu ëpp donc :fra Koungheul dafa normal :fra et :fra donc :fra ay Gént Pathé yooyu noonu déficitaires :fra ay Gént Pathé Rivo Escale Lour Escale yooyu dañuy déficitaires :fra si ñetti weer yi wante nag bi ñuy comme :fra maanaam ni ñu ko jàngateewoon ni ñu ko jàngateewoon à :fra laata nawet bi di ñëw si ndorteel bi mooy li nga xamante ni moom la ñu séentu si natt yi waaw léegi nag énu ne woon diggante mois :fra de :fra juin :fra mois :fra de :fra juillet :fra ak mois :fra d' :fra aôut :fra ñu ne ndox mi dana bëri lool lool lool lool lool waaw te vraiment :fra am na ñi nga xamante ni commencé :fra na ko fa wane parce :fra que :fra tey bon :fra am nañu 100 ay 100 milimètres :fra de pluie :fra la ñuy am si benn fan
+wol_42511 1 locuteur_2 672.339 701.866 <o,f1,male> keroon Rivo Escale taw na 100 milimètres :fra de :fra pluie :fra donc :fra am nañ %e 93 milimètres :fra à :fra Idda Mouride si mois :fra de :fra mois :fra de :fra mai :fra bi am tamit si mois :fra de :fra juin :fra bi plutôt :fra am aussi :fra 90 milimètres :fra à :fra Gént Pathé donc :fra mu doon ay lu ñuy wax ay événements :fra extrèmes :fra ay taw yu bëree bëri yoo xamante ni ANACIM vraiment :fra sóoraale woon na ko te ba léegi tamit li nga xamante ni moom la ñu waxoon loolee mooy li nga xamante ni dañu ko téye ba léezgi
+wol_42511 1 locuteur_2 701.866 725.330 <o,f1,male> nawet bi dana bëri ndox lool taw yi danañ bëri lool te aussi :fra vraiment :fra bon :fra woor yi dana dana néew maanaam ni nga xamante ni moom la daan wooree daaw di woor ay 15 jours :fra 20 jours :fra yenn saa yi ay gox yoo xamante ni day toog weer sax du taw vraiment :fra loolu moom incha :ar allah :ar ren moom bon :fra yaakaaruñu ni dina am bu soobee yàlla
+wol_42511 1 locuteur_2 725.330 752.066 <o,f1,male> waaw kon noonu la demee %e li ñu waxoon mooy que :fra nawet wi dana teel a ñëw donc :fra %e taw yi dana bëri lool te loolu mooy li nga xamante ne moom la ñu %e moom la ñu moom la ñu gis ci suñuy jàngat léegi nag si ñetti weer yi nga xamante ni mi ngi ñëw diggante juillet :fra aôut :fra ak septembre :fra boobu tamit ñu ngi séentu ndox mu bëree bëri waaw ñu ngi séntu ndox mu bëri incha :ar allah :ar
+wol_42511 1 locuteur_2 752.066 765.130 <o,f1,male> bon :fra comme :fra aussi :fra nawet bi tamit du teel a du teel a jeex comme :fra maanaam bu fekkee da ñuy xool si normal :fra bi normalement :fra nawetu Koungheul mu ngi war a jeex le 8 octobre :fra
+wol_42511 1 locuteur_1 765.130 765.492 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 765.492 780.058 <o,f1,male> le :fra 8 octobre :fra mooy date :fra normale :fra bi nga xamante ni si la nawet bi war a jeex donc bii paa dinañ weesu 8 octobre :fra incha :ar allah :ar kon vraiment :fra ñu ngi yaakaar incha :ar allah :ar am nawet bu baax ak ndox mu bëri
+wol_42511 1 locuteur_1 780.058 780.430 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 780.430 786.867 <o,f1,male> léegi mbir mi lenn rek la mooy di jël informations :fra météorologiques :fra pour :fra ngay mën a vraiment :fra xam
+wol_42511 1 locuteur_1 786.867 787.121 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 787.121 802.722 <o,f1,male> ban bés nga war a bay yan bés mooy am naaj parce :fra aussi :fra ça :fra ne :fra sert :fra à :fra rien :fra nga dem bay sa tool ba pare mu taw si kawam affaire :fra bi saxaat xam nga donc :fra li gën mooy nga am di am information :fra si naaj bi kañ lay naaj du ndox rek la baykat war a laaj
+wol_42511 1 locuteur_2 802.722 814.142 <o,f1,male> %hum %hum baykat war na laajte naaj war na laajte ngelaw kañ lay naaj naaj bi si ñaata fan la bu boobaa incha :ar allah :ar dina ko permettre :fra moom mu mën a xam ban jour :fra la mën a bay toolam pour :fra nga ñax mi mën a dem
+wol_42511 1 locuteur_1 814.142 814.608 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 814.608 815.389 <o,f1,male> voilà :fra
+wol_42511 1 locuteur_1 815.389 819.657 <o,f1,male> kon %e jàpp nañ jàpp ngeen ni weeru ut bii %e dina bëri ndox
+wol_42511 1 locuteur_2 819.657 821.900 <o,f1,male> waaw weeru ut bii incha :ar allah :ar ndox mi dana bëri
+wol_42511 1 locuteur_1 821.900 822.298 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 822.298 823.675 <o,f1,male> dan bëri ndox loo
+wol_42511 1 excluded_region 823.675 825.477 <o,,unknown> ignore_time_segment_in_scoring
+wol_42511 1 locuteur_2 825.477 827.547 <o,f1,male> septambre :fra tamit ndox mi dana bëri
+wol_42511 1 locuteur_1 827.547 829.881 <o,f1,male> mu dem ba mu weesu juróom-ñetti fan si octobre :fra
+wol_42511 1 locuteur_2 829.881 835.472 <o,f1,male> incha :fra allahu :fra rabi :ar parce :fra que :fra %e xam nga bu ñu nee normal :fra à :fra excedentaire :fra
+wol_42511 1 locuteur_1 835.472 836.108 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 836.108 840.014 <o,f1,male> maanaam mooy que dana digg dóomu jàpp ëpp
+wol_42511 1 excluded_region 840.014 848.934 <o,,unknown> ignore_time_segment_in_scoring
+wol_42511 1 locuteur_1 848.934 849.187 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 849.187 852.535 <o,f1,male> léegi fu mu toll nii dañuy wax si mois :fra de juillet :fra aôut :fra ak septembre :fra
+wol_42511 1 locuteur_1 852.535 852.897 <o,f1,male> %hum %hum
+wol_42511 1 locuteur_2 852.897 869.853 <o,f1,male> léegi mois :fra de :fra juillet :fra ak septembre :fra dañu jàpp ne ndox mi dana bëri ba vraiment :fra bon :fra dana weesu su fekkoon dañu natt si fanweeri at suñu ginnaaw maanaam moyenne :fra bi nga xamante ni moom la ñu am si diggante 1991 ak 2020 ndox bu ñu nar a am ren incha :ar allah :ar dana ko ëpp waaw
+wol_42511 1 excluded_region 869.853 871.518 <o,,unknown> ignore_time_segment_in_scoring
+wol_42511 1 locuteur_1 871.518 900.724 <o,f1,male> %hum %hum %e am na solo am na solo comme :fra ni nga ko faram-fàccee %e mu nekk loo xam ne it %e baykat yi %e war nañu xam bu baax lu jëm rek si wàllu woowu naka lay doxee waaye tamit lu jëm si wàllu xeetu variétés :fra yi nga xam ne moom lañ war a ji xam naa ne loolu su fi SDRR nekkoon %e danañ si gën a ñëw %e gën si gën si gën koo faram-fàccee %e mu nekk loo xam ne it dafa am solo comme :fra ni mu ko waxee moo di

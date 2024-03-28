@@ -1,0 +1,818 @@
+;; Transcriber conversion by parsetrs v0.74 on 17:05:39 2024/03/28 with encoding encoding
+;; program program of air_date
+;; transcribed by PROPRIETAIRE, version 7 of 230220
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+fuc_42022 1 excluded_region 0.000 2.222 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 2.222 2.521 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 2.521 3.257 <o,f1,male> et :fra oxyde :fra de :fra carbonne :fra
+fuc_42022 1 locuteur1 3.257 3.565 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 3.565 4.799 <o,f1,male> donc :fra ko beyiɗi pecca
+fuc_42022 1 locuteur1 4.799 5.356 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 5.356 5.663 <o,f1,male> anani
+fuc_42022 1 locuteur1 5.663 6.305 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 6.305 8.073 <o,f1,male> ɗum woni CO carbonne :fra o yaha dana
+fuc_42022 1 locuteur1 8.073 8.425 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 8.425 9.486 <o,f1,male> oxygéne :fra o yaha dana
+fuc_42022 1 locuteur1 9.486 9.805 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 9.805 11.282 <o,f1,male> donc :fra nde wawa ñamde hunde foof
+fuc_42022 1 locuteur1 11.282 11.560 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 11.560 13.946 <o,f1,male> donc :fra ɗi si ari ha ɗi peccodira ko ion :fra ɗi gonta
+fuc_42022 1 locuteur1 13.946 14.136 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 14.136 14.659 <o,f1,male> anani
+fuc_42022 1 locuteur1 14.659 14.889 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 14.889 15.912 <o,f1,male> [shh] ɗum ko ion :fra ji gonta
+fuc_42022 1 locuteur1 15.912 16.195 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 16.195 17.100 <o,f1,male> composant :fra ji ɗi
+fuc_42022 1 locuteur1 17.100 17.372 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 17.372 18.976 <o,f1,male> donc :fra sa a ɓaami CO2 o tan
+fuc_42022 1 locuteur1 18.976 19.236 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 19.236 21.333 <o,f1,male> ɗum koko koko tekki ni
+fuc_42022 1 locuteur1 21.333 21.420 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 21.420 22.766 <o,f1,male> andi no wattodira ko koli
+fuc_42022 1 locuteur1 22.766 22.946 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 22.946 23.814 <o,f1,male> ko beyi ɗi ceerta
+fuc_42022 1 locuteur1 23.814 24.014 <o,f1,male> %hum %hum
+fuc_42022 1 inter_segment_gap 24.014 24.149 <o,f1,> 
+fuc_42022 1 locuteur2 24.149 25.233 <o,f1,male> leggal ngal wawa ɗum yarde
+fuc_42022 1 locuteur1 25.233 25.552 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 25.552 27.477 <o,f1,male> ko ɗum addi leggal ñamta ko yarata
+fuc_42022 1 locuteur1 27.477 27.714 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 27.714 29.256 <o,f1,male> donc :fra composte :fra
+fuc_42022 1 locuteur1 29.256 29.561 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 29.561 33.566 <o,f1,male> ɗum woni ɗon ha composte :fra o wayno suudu gawri ni seeɗa seeɗa leggal ngal ñamta seeɗa seeɗa
+fuc_42022 1 locuteur1 33.566 33.963 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 33.963 34.524 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 34.524 36.071 <o,f1,male> kayi engrain :fra o MPK O
+fuc_42022 1 locuteur1 36.071 36.301 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 36.301 38.963 <o,f1,male> ari ha wattu par :fra ce :fra ɗi élément :fra ji foof ɗi wodi koɗi nafi
+fuc_42022 1 locuteur1 38.963 39.289 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 39.289 40.214 <o,f1,male> ari ha wattu
+fuc_42022 1 locuteur1 40.214 40.498 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 40.498 45.233 <o,f1,male> donc :fra si woni ha a awi woni balɗe sappo e balde sappo e go
+fuc_42022 1 excluded_region 45.233 46.029 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 46.029 46.321 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 46.321 46.948 <o,f1,male> anani
+fuc_42022 1 locuteur2 46.948 47.141 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 47.141 48.460 <o,f1,male> woni balɗe sappo e joyyi
+fuc_42022 1 locuteur1 48.460 48.792 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 48.792 50.071 <o,f1,male> ene wawi hen reftude
+fuc_42022 1 locuteur1 50.071 50.488 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 50.488 50.937 <o,f1,male> IRE
+fuc_42022 1 locuteur1 50.937 51.341 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 51.341 52.094 <o,f1,male> anani
+fuc_42022 1 locuteur1 52.094 52.394 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 52.394 54.658 <o,f1,male> ko hoɗum woni addi a wawata hen IRE
+fuc_42022 1 locuteur1 54.658 54.887 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 54.887 55.486 <o,f1,male> wattu goto
+fuc_42022 1 locuteur1 55.486 55.622 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 55.622 56.546 <o,f1,male> hay sa ƴzwi tan
+fuc_42022 1 locuteur1 56.546 56.931 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 56.931 60.075 <o,f1,male> ɗo gokkeɗa hectare :fra biyeɗa ko sac :fra uji nayyi engrain MPK foof
+fuc_42022 1 locuteur1 60.075 60.384 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 60.384 61.241 <o,f1,male> ko biyetaɗa IRE
+fuc_42022 1 excluded_region 61.241 62.262 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 62.262 62.489 <o,f1,male> %hum hum
+fuc_42022 1 locuteur2 62.489 63.068 <o,f1,male> hectare :fra o
+fuc_42022 1 locuteur1 63.068 63.503 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 63.503 65.198 <o,f1,male> joni a ƴetti 50 KILOS :fra
+fuc_42022 1 locuteur1 65.198 65.505 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 65.505 66.989 <o,f1,male> kilo :fra capanɗe joyyi a waɗi ɗum divisé :fra
+fuc_42022 1 locuteur1 66.989 67.285 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 67.285 69.757 <o,f1,male> eyyi ɓoggui ɓoggui nayyi ham [bb] par :fra ce :fra hectare :fra ko ɓoggui nayyi
+fuc_42022 1 locuteur1 69.757 70.031 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 70.031 74.217 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 74.217 74.568 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 74.568 75.924 <o,f1,male> sappo e ɗiɗi e feccere kilo :fra
+fuc_42022 1 locuteur1 75.924 76.346 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 76.346 78.086 <o,f1,male> ko pourquoi :fra a yiya ɗum na wara non
+fuc_42022 1 locuteur1 78.086 78.388 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 78.388 79.958 <o,f1,male> par :fra ce :fra que :fra ko fraction :fra ji mbarata
+fuc_42022 1 locuteur1 79.958 80.266 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 80.266 84.512 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 84.512 84.862 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 84.862 85.827 <o,f1,male> wattu ji wattu ji
+fuc_42022 1 locuteur1 85.827 86.145 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 86.145 87.745 <o,f1,male> par :fra ce :fra IRE kayi sa waɗi tan
+fuc_42022 1 locuteur1 87.745 88.130 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 88.130 92.100 <o,f1,male> leggal ngal ñami tan ko sohli ko [bb] heddi ko ko direct :fra hayata
+fuc_42022 1 locuteur1 92.100 92.322 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 92.322 96.167 <o,f1,male> donc :fra ɗumɗa si a waɗi excé a waɗi ko andanta ɗum leggal ngal sohlani foof
+fuc_42022 1 locuteur1 96.167 96.456 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 96.456 97.988 <o,f1,male> kayi ne ñama tan ko wawi sohlude ko
+fuc_42022 1 locuteur2 97.988 99.091 <o,f1,male> ko heddi ko foof acca yaaha
+fuc_42022 1 locuteur1 99.091 99.365 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 99.365 100.223 <o,f1,male> donc :fra a perd:fra i ɗum
+fuc_42022 1 locuteur1 100.223 100.559 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 100.559 102.971 <o,f1,male> ko ɗum non [bg] setidini ɗum e MPK
+fuc_42022 1 locuteur1 102.971 103.215 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 103.215 107.722 <o,f1,male> MPK o no wawi ɗon wonde leggal ngal ene ñama ɗum seeɗa san ene ñama seeɗa san ene ñama seeɗa san
+fuc_42022 1 locuteur1 107.722 108.114 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 108.114 109.157 <o,f1,male> IRE o non wona non
+fuc_42022 1 locuteur1 109.157 109.428 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 109.428 110.288 <o,f1,male> donc :fra ɗi foof
+fuc_42022 1 locuteur1 110.288 110.580 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 110.580 113.240 <o,f1,male> engrain :fra foof no fata waɗe [bg] e ndeematereri
+fuc_42022 1 locuteur1 113.240 113.593 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 113.593 114.390 <o,f1,male> si non heeɓi
+fuc_42022 1 locuteur1 114.390 114.705 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 114.705 117.377 <o,f1,male> kono ko engrain foof ɗi wodi wattu watte
+fuc_42022 1 locuteur1 117.377 117.810 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 117.810 119.005 <o,f1,male> composte :fra
+fuc_42022 1 locuteur1 119.005 119.120 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 119.120 120.377 <o,f1,male> on ka sa waɗi ha gassa
+fuc_42022 1 locuteur1 120.377 120.662 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 120.662 121.394 <o,f1,male> ɓorlita ɗum
+fuc_42022 1 locuteur1 121.394 121.791 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 121.791 122.643 <o,f1,male> par :fra ndeemam
+fuc_42022 1 locuteur1 122.643 122.925 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 122.925 123.950 <o,f1,male> on suman gawa
+fuc_42022 1 locuteur1 123.950 124.069 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 124.069 125.391 <o,f1,male> a awi on suman baɗa
+fuc_42022 1 locuteur1 125.391 125.814 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 125.814 128.195 <o,f1,male> MPK MP* MPK maɗa o
+fuc_42022 1 locuteur1 128.195 128.666 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 128.666 130.438 <o,f1,male> ɗon ko non wiɗiya préférable :fra
+fuc_42022 1 locuteur1 130.438 130.768 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 130.768 134.859 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 134.859 135.029 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 135.029 135.825 <o,f1,male> ko husini foof
+fuc_42022 1 locuteur1 135.825 136.105 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 136.105 138.404 <o,f1,male> baɗa MPK après on suman ndewahen husina
+fuc_42022 1 locuteur1 138.404 138.724 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 138.724 139.342 <o,f1,male> anani
+fuc_42022 1 locuteur1 139.342 139.539 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 139.539 142.791 <o,f1,male> pourquoi :fra ɗum ɗi sohla non baɗa wattu gowɗa awde o baɗa hen
+fuc_42022 1 locuteur1 142.791 143.193 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 143.193 144.254 <o,f1,male> ko ɗon ɓuura sohlede
+fuc_42022 1 locuteur1 144.254 144.453 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 144.453 148.723 <o,f1,male> kono si a heɓani ɗon ana wadde ha batta hunde ɗum kadi wona ha ɓoya koye balɗe sappo e joyyi
+fuc_42022 1 locuteur1 148.723 149.063 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 149.063 150.396 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 150.396 150.824 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 150.824 151.193 <o,f1,male> anani
+fuc_42022 1 locuteur1 151.193 151.526 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 151.526 155.508 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 155.508 155.862 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 155.862 156.213 <o,f1,male> anani
+fuc_42022 1 locuteur1 156.213 156.502 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 156.502 159.813 <o,f1,male> pourquoi :fra aɗa wawin wadde ɗum balɗe sappo e joyyi par :fra ce :fra ɗiɗo wattu gawɗa awdi o
+fuc_42022 1 locuteur1 159.813 160.006 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 160.006 161.375 <o,f1,male> ha ɗo yakata balɗe sappo e joyyi ɗo
+fuc_42022 1 locuteur1 161.375 161.718 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 161.718 162.903 <o,f1,male> ɗum ko bannoɗa composte :fra ko
+fuc_42022 1 locuteur1 162.903 163.140 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 163.140 165.597 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 165.597 165.918 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur2 165.918 166.662 <o,f1,male> ko ni
+fuc_42022 1 locuteur1 166.662 166.950 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 166.950 170.410 <o,f1,male> [r] %e voilà :fra %e Tamsir ajarama [r]
+fuc_42022 1 locuteur1 170.410 171.951 <o,f1,male> eyyi je :fra pense :fra que :fra famama
+fuc_42022 1 locuteur2 171.951 172.184 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 172.184 174.058 <o,f1,male> e par :fra ce :fra que :fra %e won reemoɓe
+fuc_42022 1 locuteur2 174.058 174.354 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 174.354 176.623 <o,f1,male> sikkata mataw [bg] ko probléme :fra IRE
+fuc_42022 1 locuteur2 176.623 176.903 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 176.903 181.137 <o,f1,male> koko watte ko hunde nde gandanɗa hoorema taw ko haako %e
+fuc_42022 1 locuteur2 181.137 181.438 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 181.438 185.813 <o,f1,male> haako%e haako comme :fra haako ñebbe en
+fuc_42022 1 locuteur2 185.813 186.114 <o,f1,male> eyyi
+fuc_42022 1 locuteur1 186.114 189.173 <o,f1,male> ɓebi sa waɗi [bg] e haako ñebbe a waɗi e salade :fra et sippomé
+fuc_42022 1 locuteur2 189.173 189.447 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 189.447 192.465 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 192.465 192.927 <o,f1,male> haako
+fuc_42022 1 locuteur2 192.927 193.166 <o,f1,male> eyyi
+fuc_42022 1 locuteur1 193.166 196.287 <o,f1,male> ɓe biya bo p() ɗum fotani [b] waɗe e guerte
+fuc_42022 1 locuteur2 196.287 196.524 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 196.524 197.948 <o,f1,male> o wiya fotani waɗe e gawri
+fuc_42022 1 locuteur2 197.948 198.115 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 198.115 201.574 <o,f1,male> ɗum non hunde nde ganduɗa hoorema no birumami ni
+fuc_42022 1 locuteur2 201.574 201.801 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 201.801 204.474 <o,f0,male> par :fra ce :fra bon :fra %e somin gondi e yimɓeɓe [bg]
+fuc_42022 1 locuteur2 204.474 204.907 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 204.907 205.877 <o,f0,male> wonko min nanata
+fuc_42022 1 locuteur2 205.877 206.158 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 206.158 209.151 <o,f0,male> soit :fra bo pa() somin keɓi technicien :fra karalla honomaɗa
+fuc_42022 1 locuteur2 209.151 209.556 <o,f0,male> wallay
+fuc_42022 1 locuteur1 209.556 210.691 <o,f0,male> sa ari nder studio :fra
+fuc_42022 1 locuteur2 210.691 210.932 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 210.932 214.068 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 214.068 214.462 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 214.462 220.060 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 220.060 220.866 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 220.866 224.577 <o,f0,male> deka bon :fra koyiteno ko bon :fra pour :fra wide urée :fra waɗata ko
+fuc_42022 1 excluded_region 224.577 224.851 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 224.851 227.494 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 227.494 227.930 <o,f0,male> eyyi eyyi
+fuc_42022 1 locuteur1 227.930 231.530 <o,f0,male> %e ɓe winde bo pa() o wona wona ɗum ɗon
+fuc_42022 1 locuteur2 231.530 231.797 <o,f0,male> ko non
+fuc_42022 1 locuteur1 231.797 233.234 <o,f0,male> ko woɓɓe ne baɗa [bg] ɗum e guerte
+fuc_42022 1 locuteur2 233.234 233.481 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 233.481 234.906 <o,f0,male> ɓe biyamo bo pa() sa waɗi hen
+fuc_42022 1 locuteur2 234.906 235.098 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 235.098 236.752 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 236.752 237.263 <o,f0,male> wallayi
+fuc_42022 1 locuteur1 237.263 241.384 <o,f0,male> mais :fra aussi :fra bo par() deke bo para() to urée :fra wawi yade foof
+fuc_42022 1 excluded_region 241.384 244.278 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 244.278 244.515 <o,f0,male> eyyi
+fuc_42022 1 locuteur1 244.515 245.064 <o,f0,male> e composte :fra
+fuc_42022 1 locuteur2 245.064 245.253 <o,f0,male> eyyi
+fuc_42022 1 locuteur1 245.253 247.884 <o,f0,male> eyyi joni bon :fra somin gari e e ndeemateri o
+fuc_42022 1 locuteur2 247.884 248.120 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 248.120 252.741 <o,f0,male> %e hol façon :fra engrain :fra ɓurɗo moƴƴude e makkari
+fuc_42022 1 locuteur2 252.741 253.089 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 253.089 255.019 <o,f0,male> ou :fra bien :fra ko ɓuuri moƴƴude e suuna
+fuc_42022 1 locuteur2 255.019 255.251 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 255.251 257.755 <o,f0,male> eyy ko ɓuuri makko moƴƴude e e guerte
+fuc_42022 1 locuteur2 257.755 257.992 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 257.992 260.833 <o,f0,male> joni bon :fra min jidno pammina min hay ñebe
+fuc_42022 1 locuteur2 260.833 261.220 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 261.220 263.330 <o,f0,male> baɗa andi par :fra ce :fra Camara naɓe e Sy Sy naɓe
+fuc_42022 1 locuteur2 263.330 263.637 <o,f0,male> wallay
+fuc_42022 1 locuteur1 263.637 264.283 <o,f0,male> eɓe keeɗ
+fuc_42022 1 locuteur2 264.283 264.585 <o,f0,male> wallay
+fuc_42022 1 locuteur1 264.585 265.532 <o,f0,male> hay e Keita naɓe
+fuc_42022 1 locuteur2 265.532 265.863 <o,f0,male> wallayi
+fuc_42022 1 locuteur1 265.863 267.336 <o,f0,male> koɓe ñamoɓe ñebbe tigui tigui tigui
+fuc_42022 1 locuteur2 267.336 267.762 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 267.762 271.456 <o,f0,male> ɗum non mo pa()hol %e hoto ɗiɗo windeji mo min kaali o
+fuc_42022 1 locuteur2 271.456 271.704 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 271.704 273.010 <o,f0,male> holko ɓuuri wawde yadude
+fuc_42022 1 locuteur2 273.010 273.310 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 273.310 274.575 <o,f0,male> soit :fra bo pa() e ñebbe
+fuc_42022 1 locuteur2 274.575 274.813 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 274.813 275.498 <o,f0,male> e guerte
+fuc_42022 1 locuteur2 275.498 275.733 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 275.733 276.834 <o,f0,male> e gawri [bg]
+fuc_42022 1 locuteur2 276.834 277.284 <o,f0,male> %hum %hum [bg]
+fuc_42022 1 locuteur1 277.284 280.660 <o,f0,male> pour :fra bon :fra ɗum wawa jiibinde no hanniri ni
+fuc_42022 1 locuteur2 280.660 281.041 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 281.041 287.438 <o,f0,male> [r] d' :fra accord :fra %e joni sajo wonta mi artat hen e %e azote :fra mo biɗa o
+fuc_42022 1 excluded_region 287.438 288.778 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 288.778 289.003 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 289.003 294.211 <o,f0,male> biɗa %e biya urée :fra watta ke e ɗiva ndeemantereri ni waɗa e ñebbe
+fuc_42022 1 locuteur1 294.211 294.778 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 294.778 295.466 <o,f0,male> e salade :fra
+fuc_42022 1 locuteur1 295.466 295.882 <o,f0,male> e salade
+fuc_42022 1 locuteur2 295.882 296.390 <o,f0,male> anani
+fuc_42022 1 locuteur1 296.390 297.114 <o,f0,male> e suppome en
+fuc_42022 1 excluded_region 297.114 299.594 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 299.594 301.824 <o,f0,male> d' :fra accord :fra joni ha jo hen falimi artude
+fuc_42022 1 locuteur1 301.824 302.106 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 302.106 303.489 <o,f0,male> joni hay ɗum ɗa
+fuc_42022 1 locuteur1 303.489 303.754 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 303.754 304.610 <o,f0,male> no makkari en ni
+fuc_42022 1 locuteur1 304.610 304.856 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 304.856 307.148 <o,f0,male> no %e suuna en ni
+fuc_42022 1 locuteur1 307.148 307.532 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 307.532 308.556 <o,f0,male> ko haɗum ɗaɓɓa hen
+fuc_42022 1 locuteur1 308.556 308.955 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 308.955 310.193 <o,f0,male> wona haahoko
+fuc_42022 1 locuteur1 310.193 310.511 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 310.511 314.366 <o,f0,male> mais :fra hade ɗum ɗa heɓede taw ko haakoko adi i adi heɓade
+fuc_42022 1 locuteur1 314.366 314.608 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 314.608 315.205 <o,f0,male> anani
+fuc_42022 1 locuteur1 315.205 315.615 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 315.615 318.198 <o,f0,male> joni haɗum woni intérêt :fra urée :fra o
+fuc_42022 1 locuteur1 318.198 318.428 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 318.428 320.859 <o,f0,male> urée :fra ko élément :fra bo jogui o élément :fra biyateɗo azote :fra o
+fuc_42022 1 locuteur1 320.859 321.172 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 321.172 325.486 <o,f0,male> donc :fra on azote :fra ko on watta la multiplication cellulaire :fra et :fra la :fra croissance :fra végétative :fra
+fuc_42022 1 locuteur1 325.486 325.730 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 325.730 327.148 <o,f0,male> et :fra un :fra bon :fra développement :fra végératif :fra
+fuc_42022 1 locuteur1 327.148 327.503 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 327.503 328.087 <o,f0,male> vireux :fra
+fuc_42022 1 locuteur1 328.087 328.314 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 328.314 328.770 <o,f0,male> anani
+fuc_42022 1 excluded_region 328.770 330.833 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 330.833 331.219 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 331.219 333.136 <o,f0,male> ni way tan no neɗɗo ni
+fuc_42022 1 locuteur1 333.136 333.565 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 333.565 336.988 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 336.988 340.505 <o,f0,male> dal wona non mawni mawni mawn mum foof ko ñawuji tan no manki en
+fuc_42022 1 locuteur1 340.505 340.783 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 340.783 344.182 <o,f0,male> on ala sakka ko ɓurɗen andude ko yiyate on kala ɗo heeɓoyi ɓidɗo
+fuc_42022 1 locuteur1 344.182 344.329 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 344.329 344.402 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 344.402 347.526 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 347.526 347.737 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 347.737 348.891 <o,f0,male> leggal kala ko non way
+fuc_42022 1 locuteur1 348.891 351.000 <o,f0,male> %e somi faami konngol ma
+fuc_42022 1 locuteur2 351.000 351.218 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 351.218 352.658 <o,f0,male> ene wayno urée :fra
+fuc_42022 1 locuteur2 352.658 352.938 <o,f0,male> eyyi
+fuc_42022 1 locuteur1 352.938 354.869 <o,f0,male> to banggal %e ndeemateri
+fuc_42022 1 excluded_region 354.869 359.554 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 359.554 360.313 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 360.313 366.334 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 366.334 367.025 <o,f0,male> ɗum ko rôle :fra urée :fra
+fuc_42022 1 locuteur1 367.025 367.991 <o,f0,male> eyy ko ɗum urée :fra watta
+fuc_42022 1 locuteur2 367.991 368.679 <o,f0,male> ko ɗum urée :fra watta
+fuc_42022 1 locuteur1 368.679 368.902 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 368.902 370.141 <o,f0,male> ko ɗum woni azote :fra o
+fuc_42022 1 locuteur1 370.141 370.371 <o,f0,male> azote :fra
+fuc_42022 1 locuteur2 370.371 371.765 <o,f0,male> par :fra ce :fra urée :fra ko azote :fra tan woni hen
+fuc_42022 1 locuteur1 371.765 371.988 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 371.988 372.319 <o,f0,male> azote
+fuc_42022 1 locuteur2 372.319 372.603 <o,f0,male> anani
+fuc_42022 1 locuteur1 372.603 372.893 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 372.893 374.890 <o,f0,male> joni aƴetti ko wiyate phosphore :fra ko
+fuc_42022 1 locuteur1 374.890 375.060 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 375.060 376.592 <o,f0,male> bato en :fra liant :fra MPK
+fuc_42022 1 locuteur1 376.592 376.864 <o,f0,male> MP
+fuc_42022 1 excluded_region 376.864 379.246 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 379.246 379.527 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 379.527 383.481 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 383.481 383.785 <o,f0,male> ayi
+fuc_42022 1 locuteur1 383.785 384.024 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 384.024 385.869 <o,f0,male> hande hay sa yi ama dix :fra dix :fra vingt :fra
+fuc_42022 1 locuteur1 385.869 386.262 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 386.262 390.648 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 390.648 390.979 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 390.979 392.352 <o,f0,male> azote :fra
+fuc_42022 1 locuteur1 392.352 392.818 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 392.818 393.278 <o,f0,male> dix :fra
+fuc_42022 1 locuteur1 393.278 393.687 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 393.687 394.702 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 394.702 396.455 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 396.455 396.738 <o,f0,male> ayi
+fuc_42022 1 locuteur1 396.738 397.042 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 397.042 400.163 <o,f0,male> joni amma ɗum ko %e woni kala ɗo ƴettuɗa [bb]
+fuc_42022 1 locuteur1 400.163 400.490 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 400.490 401.565 <o,f0,male> kilo :fra ji temedere
+fuc_42022 1 locuteur1 401.565 401.878 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 401.878 402.318 <o,f0,male> engrain :fra
+fuc_42022 1 locuteur1 402.318 402.595 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 402.595 403.174 <o,f0,male> MPK
+fuc_42022 1 locuteur1 403.174 403.476 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 403.476 407.575 <o,f0,male> donc :fra haɗa jogui hen unité :fra fertilisant :fra ko wiyate unité :fra fertilisant :fra aɗa jogui hen dix :fra
+fuc_42022 1 locuteur1 407.575 407.870 <o,f0,male> dix :fra
+fuc_42022 1 locuteur2 407.870 408.753 <o,f0,male> unité :fra fertilisant :fra
+fuc_42022 1 locuteur1 408.753 408.990 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 408.990 409.397 <o,f0,male> azote
+fuc_42022 1 locuteur1 409.397 409.848 <o,f0,male> azote
+fuc_42022 1 locuteur2 409.848 411.225 <o,f0,male> dix :fra unité :fra fertilisant :fra
+fuc_42022 1 locuteur1 411.225 411.410 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 411.410 411.870 <o,f0,male> phosphore :fra
+fuc_42022 1 locuteur1 411.870 412.042 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 412.042 414.197 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 414.197 414.596 <o,f0,male> tasse()
+fuc_42022 1 locuteur2 414.596 414.949 <o,f0,male> ayi
+fuc_42022 1 locuteur1 414.949 415.245 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 415.245 416.608 <o,f0,male> jo a ƴeewi ɗuma
+fuc_42022 1 locuteur1 416.608 416.748 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 416.748 419.420 <o,f0,male> andi en kaali azote :fra o woni ko nafata wodi ko nafaka ko muɗum
+fuc_42022 1 locuteur1 419.420 419.648 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 419.648 420.076 <o,f0,male> urée :fra o
+fuc_42022 1 locuteur1 420.076 420.409 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 420.409 421.669 <o,f0,male> donc :fra a ƴetti P o
+fuc_42022 1 locuteur1 421.669 422.079 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 422.079 422.883 <o,f0,male> ɗum woni phosphore :fra o
+fuc_42022 1 locuteur1 422.883 423.345 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 423.345 425.452 <o,f0,male> P o si a ƴetti ɗum ko oɗum wonta hen
+fuc_42022 1 locuteur1 425.452 425.818 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 425.818 428.159 <o,f0,male> P o [bb] kanko ko kanko wallata leggal ngal
+fuc_42022 1 locuteur1 428.159 428.436 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 428.436 431.748 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 431.748 432.073 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 432.073 436.639 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 436.639 436.978 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 436.978 437.415 <o,f0,male> ayi
+fuc_42022 1 locuteur1 437.415 437.717 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 437.717 439.587 <o,f0,male> donc ko be ɗaɗi ɗi ñiiɓo leydi
+fuc_42022 1 locuteur1 439.587 439.763 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 439.763 443.465 <o,f0,male> kañum kala wallata ley() ɗaɗi ɗi ha jaagol pour :fra adda ko ñamate
+fuc_42022 1 locuteur1 443.465 443.639 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 443.639 444.222 <o,f0,male> e leggal he
+fuc_42022 1 locuteur1 444.222 444.501 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 444.501 444.786 <o,f0,male> ayi
+fuc_42022 1 locuteur1 444.786 445.170 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 445.170 448.561 <o,f0,male> seede mum ko si tawi a yiyat ɗo si leggal si tawi ɗi manque :fra ki on élément :fra
+fuc_42022 1 locuteur1 448.561 448.836 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 448.836 449.921 <o,f0,male> ko ɗum jiyta leggal ngal
+fuc_42022 1 locuteur1 449.921 450.325 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 450.325 454.607 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 454.607 456.459 <o,f0,male> haako bon :fra yoɗata
+fuc_42022 1 locuteur2 456.459 457.000 <o,f0,male> eyyi i ey ayi
+fuc_42022 1 excluded_region 457.000 459.915 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 459.915 464.094 <o,f0,male> ɗum wayata kono haako %e haako mo ganduɗa hoorema
+fuc_42022 1 locuteur2 464.094 464.400 <o,f0,male> ayi
+fuc_42022 1 excluded_region 464.400 466.928 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 466.928 467.473 <o,f0,male> e gassi
+fuc_42022 1 excluded_region 467.473 469.480 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 469.480 469.877 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 469.877 471.032 <o,f0,male> i adda kadi leggal ngal
+fuc_42022 1 locuteur1 471.032 471.252 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 471.252 473.072 <o,f0,male> ngal fonno jiibinde han ngal wawa jiibinde
+fuc_42022 1 locuteur1 473.072 473.357 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 473.357 473.636 <o,f0,male> anani
+fuc_42022 1 locuteur1 473.636 474.031 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 474.031 479.521 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 479.521 479.817 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 479.817 482.452 <o,f0,male> donc :fra a ƴetti ɗon ko pour :fra phosphore o
+fuc_42022 1 locuteur1 482.452 482.763 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 482.763 483.858 <o,f0,male> a ƴetti potasse :fra o tan
+fuc_42022 1 locuteur1 483.858 484.045 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 484.045 486.840 <o,f0,male> potasse o kay no tawa no dandugol leggal ngal e ñawuji goɗɗi
+fuc_42022 1 locuteur1 486.840 487.201 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 487.201 487.539 <o,f0,male> anani
+fuc_42022 1 locuteur1 487.539 487.777 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 487.777 488.755 <o,f0,male> danda ɗum e ñawuji goɗɗi
+fuc_42022 1 locuteur1 488.755 488.924 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 488.924 490.722 <o,f0,male> en :fra même :fra ɗi ɓeyɗa ɗum kadi e daragol
+fuc_42022 1 locuteur1 490.722 491.080 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 491.080 492.276 <o,f0,male> ɗi e potasse :fra o kadi
+fuc_42022 1 locuteur2 492.276 493.194 <o,f0,male> nafi leggal ngal
+fuc_42022 1 locuteur1 493.194 493.420 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 493.420 494.422 <o,f0,male> pour :fra to ɓendoygol
+fuc_42022 1 locuteur1 494.422 494.738 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 494.738 496.626 <o,f0,male> par :fra ce :fra hay si tawi leggal ngal jiibini
+fuc_42022 1 locuteur1 496.626 496.871 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 496.871 498.121 <o,f0,male> ko ɗaɓɓuɗa hen koko ɓendi ko
+fuc_42022 1 locuteur1 498.121 498.495 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 498.495 499.979 <o,f0,male> donc :fra ha wawa ɓendude han
+fuc_42022 1 locuteur1 499.979 500.341 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 500.341 501.871 <o,f0,male> ko be tawa potasse :fra nani he
+fuc_42022 1 locuteur1 501.871 502.181 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 502.181 503.809 <o,f0,male> potasse :fra o watta activation :fra
+fuc_42022 1 locuteur1 503.809 504.092 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 504.092 505.101 <o,f0,male> activé :fra maturité :fra o
+fuc_42022 1 locuteur1 505.101 505.504 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 505.504 506.023 <o,f0,male> ayi
+fuc_42022 1 excluded_region 506.023 510.203 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 510.203 510.717 <o,f0,male> tout :fra a :fra fait :fra
+fuc_42022 1 excluded_region 510.717 513.211 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 513.211 513.594 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 513.594 515.153 <o,f0,male> ɗum koye urée :fra woni
+fuc_42022 1 excluded_region 515.153 518.187 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 518.187 518.769 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 518.769 520.382 <o,f0,male> ko ɗiɗa MPK c' :fra est :fra les :fra engrains :fra
+fuc_42022 1 excluded_region 520.382 522.126 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 522.126 522.438 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 522.438 524.073 <o,f0,male> par :fra ce :fra woodi des :fra engrains :fra simples :fra
+fuc_42022 1 locuteur1 524.073 524.333 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 524.333 526.305 <o,f0,male> engrain :fra simple :fra ko comme :fra potasse :fra ni
+fuc_42022 1 locuteur1 526.305 526.389 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 526.389 527.716 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 527.716 528.004 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 528.004 529.115 <o,f0,male> urée :fra ko engrais :fra simple :fra
+fuc_42022 1 locuteur1 529.115 529.477 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 529.477 529.827 <o,f0,male> ayi
+fuc_42022 1 locuteur1 529.827 530.103 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 530.103 531.063 <o,f0,male> phosphore :fra ko engrais :fra simple :fra
+fuc_42022 1 locuteur1 531.063 531.389 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 531.389 532.625 <o,f0,male> wodi des :fra engraiss :fra bianires :fra
+fuc_42022 1 locuteur1 532.625 532.865 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 532.865 535.570 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 535.570 535.857 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 535.857 539.580 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 539.580 539.967 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 539.967 540.303 <o,f0,male> ayi
+fuc_42022 1 locuteur1 540.303 540.770 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 540.770 543.999 <o,f0,male> koni joni ɗe ɗi taati ko ɗi woni les :fra macros :fra éléments :fra
+fuc_42022 1 locuteur1 543.999 544.364 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 544.364 547.453 <o,f0,male> engrais :fra mo nanta o ɗiɗa foof ne tawa eno calcium :fra ni
+fuc_42022 1 locuteur1 547.453 547.752 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 547.752 548.644 <o,f0,male> magnésium :fra en
+fuc_42022 1 locuteur1 548.644 548.949 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 548.949 549.578 <o,f0,male> fer :fra en
+fuc_42022 1 locuteur1 549.578 549.669 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 549.669 550.397 <o,f0,male> foof nani hen
+fuc_42022 1 locuteur1 550.397 550.639 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 550.639 551.619 <o,f0,male> toufre :fra en foof nani hen
+fuc_42022 1 locuteur1 551.619 551.865 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 551.865 553.710 <o,f0,male> hono ko ɗi ɗin ko les :fra micros :fra éléments :fra
+fuc_42022 1 locuteur1 553.710 553.878 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 553.878 555.311 <o,f0,male> ɗin quantité :fra mumen ɗi pamɗi
+fuc_42022 1 locuteur1 555.311 555.850 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 555.850 557.063 <o,f0,male> ɗo ƴettuɗa temedere hen
+fuc_42022 1 locuteur1 557.063 557.453 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 557.453 558.087 <o,f0,male> ɗi pamɗi hen
+fuc_42022 1 locuteur1 558.087 558.495 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 558.495 559.080 <o,f0,male> anani
+fuc_42022 1 locuteur1 559.080 559.146 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 559.146 561.017 <o,f0,male> ko ɗiɗo les :fra MP MPK
+fuc_42022 1 excluded_region 561.017 564.859 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 564.859 565.618 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 565.618 565.972 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 565.972 566.539 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 566.539 571.981 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 571.981 574.380 <o,f0,male> e ɓurɗi hen joguade faayida gam
+fuc_42022 1 locuteur2 574.380 575.571 <o,f0,male> exactement :fra e leggal he [bb]
+fuc_42022 1 locuteur1 575.571 576.374 <o,f0,male> voilà :fra e leggal he
+fuc_42022 1 locuteur2 576.374 576.906 <o,f0,male> e leggal he
+fuc_42022 1 excluded_region 576.906 578.596 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 578.596 578.998 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 578.998 579.630 <o,f0,male> ko ɗum
+fuc_42022 1 locuteur1 579.630 580.147 <o,f0,male> c' :fra est :fra ça :fra
+fuc_42022 1 locuteur2 580.147 580.383 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 580.383 582.148 <o,f0,male> voilà :fra [rire] Tamsir
+fuc_42022 1 locuteur2 582.148 582.420 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 582.420 585.923 <o,f0,male> %e cikkumi tan %e yewterede weli
+fuc_42022 1 locuteur2 585.923 586.199 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 586.199 589.271 <o,f0,male> e gati ko %e ko haalete ko
+fuc_42022 1 locuteur2 589.271 589.551 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 589.551 593.475 <o,f0,male> e cikkumi tan mo parabla reemoɓeɓe ene keɗi enne no fewi no fewi
+fuc_42022 1 locuteur2 593.475 593.810 <o,f0,male> wallay
+fuc_42022 1 locuteur1 593.810 596.415 <o,f0,male> gati e comme :fra so tawno a arno koye ceeɗu
+fuc_42022 1 locuteur2 596.415 596.921 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 596.921 599.093 <o,f0,male> hewɓe keɗotako mais :fra comme :fra koye ndeminare min goni
+fuc_42022 1 locuteur2 599.093 599.555 <o,f0,male> wallahi
+fuc_42022 1 locuteur1 599.555 601.075 <o,f0,male> min gandi tan a ari e wptu ma
+fuc_42022 1 locuteur2 601.075 601.393 <o,f0,male> wallay
+fuc_42022 1 locuteur1 601.393 603.151 <o,f0,male> e pour :fra que :fra bon :fra yimɓeɓe ɓe bawa famde
+fuc_42022 1 locuteur2 603.151 603.425 <o,f0,male> ko
+fuc_42022 1 locuteur1 603.425 605.483 <o,f0,male> no fewi no fewi pour :fra que :fra ɓe wawa hebde
+fuc_42022 1 locuteur2 605.483 605.807 <o,f0,male> wallay
+fuc_42022 1 locuteur1 605.807 606.914 <o,f0,male> nafoore e ndeema mabɓɓe
+fuc_42022 1 locuteur2 606.914 607.270 <o,f0,male> wallahi
+fuc_42022 1 locuteur1 607.270 610.619 <o,f0,male> e joni [bg] non somin gari to banggal dosage :fra
+fuc_42022 1 locuteur2 610.619 611.125 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 611.125 612.618 <o,f0,male> %e ko ɓetete
+fuc_42022 1 locuteur2 612.618 612.925 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 612.925 614.450 <o,f1,male> pour :fra waɗe e ndeemateri
+fuc_42022 1 locuteur2 614.450 614.819 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 614.819 615.483 <o,f1,male> e guesse
+fuc_42022 1 locuteur2 615.483 615.713 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 615.713 616.672 <o,f1,male> pour :fra que :fra guessa o
+fuc_42022 1 locuteur2 616.672 616.954 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 616.954 618.512 <o,f1,male> ɓura wawde hokkude min
+fuc_42022 1 locuteur2 618.512 618.754 <o,f1,male> %hum %hum
+fuc_42022 1 excluded_region 618.754 622.840 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 622.840 623.384 <o,f1,male> rendement :fra
+fuc_42022 1 locuteur1 623.384 623.998 <o,f1,male> rendement :fra
+fuc_42022 1 locuteur2 623.998 624.371 <o,f1,male> eyyi
+fuc_42022 1 locuteur1 624.371 625.466 <o,f1,male> on banggue
+fuc_42022 1 locuteur2 625.466 625.716 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 625.716 627.953 <o,f1,male> par :fra ce :fra que :fra bon :fra somin dari somin mbi hectare :fra [bg]
+fuc_42022 1 locuteur2 627.953 628.182 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 628.182 630.258 <o,f1,male> bon :fra hectare :fra ene mawni e guite amen
+fuc_42022 1 locuteur2 630.258 630.667 <o,f1,male> eyyi
+fuc_42022 1 locuteur1 630.667 634.370 <o,f1,male> mais :fra seulement :fra somin dari to banggal %e par :fra ce :fra que :fra kala :o biɗa
+fuc_42022 1 locuteur2 634.370 634.760 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 634.760 636.469 <o,f1,male> meɗiɗo remde bukki
+fuc_42022 1 locuteur2 636.469 636.714 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 636.714 637.831 <o,f1,male> sa wiɗum ɓoggol tan
+fuc_42022 1 locuteur2 637.831 638.150 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 638.150 640.286 <o,f1,male> ene addi ɓoggol mo pa* ko 50 métres :fra
+fuc_42022 1 excluded_region 640.286 640.997 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 640.997 641.432 <o,f1,male> sur 50
+fuc_42022 1 locuteur2 641.432 641.843 <o,f1,male> wallay
+fuc_42022 1 locuteur1 641.843 643.562 <o,f1,male> environ :fra 2500 métres :fra carré :fra
+fuc_42022 1 locuteur2 643.562 643.935 <o,f1,male> wallahi
+fuc_42022 1 locuteur1 643.935 645.218 <o,f1,male> joni non e ɓoggol
+fuc_42022 1 locuteur2 645.218 645.496 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 645.496 647.988 <o,f1,male> so taw neɗɗo o ne jogui guesse baɗono ɓoggol ni [bb]
+fuc_42022 1 locuteur2 647.988 648.441 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 648.441 649.912 <o,f1,male> [bg] ey to banggal suuna
+fuc_42022 1 locuteur2 649.912 650.141 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 650.141 651.403 <o,f1,male> ou :fra bien :fra to banggal makkari
+fuc_42022 1 locuteur2 651.403 651.641 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 651.641 656.641 <o,f1,male> e holno neɗɗo fotiri wadde hen engrais :fra taw bon :fra engrais :fra o ɓurtata yani
+fuc_42022 1 locuteur2 656.641 656.809 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 656.809 657.488 <o,f1,male> bonna leydi nd
+fuc_42022 1 locuteur2 657.488 657.781 <o,f1,male> %hum %hum
+fuc_42022 1 locuteur1 657.781 659.495 <o,f1,male> ɓurtata aussi :fra bonna leggal o
+fuc_42022 1 locuteur2 659.495 659.846 <o,f1,male> *
+fuc_42022 1 locuteur1 659.846 663.241 <o,f1,male> dosage :fra mum holno lelori [bg] to banggal %e karallayɓe
+fuc_42022 1 locuteur2 663.241 663.585 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 663.585 667.444 <o,f0,male> e to banggal %e * to banggal tubankore
+fuc_42022 1 locuteur2 667.444 668.102 <o,f0,male> ko noon tigui
+fuc_42022 1 locuteur1 668.102 668.208 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 668.208 670.723 <o,f0,male> donc :fra firti to senggo makkari
+fuc_42022 1 locuteur1 670.723 671.022 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 671.022 672.573 <o,f0,male> naane a namdima engrais :fra ji ɗi
+fuc_42022 1 locuteur1 672.573 672.928 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 672.928 674.361 <o,f0,male> par :fra exemple :fra sa ƴetti makkari an
+fuc_42022 1 locuteur1 674.361 674.574 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 674.574 675.551 <o,f0,male> la :fra fumée :fra minérale :fra
+fuc_42022 1 locuteur1 675.551 675.935 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 675.935 678.023 <o,f0,male> donc :fra MPK engrais :fra complexe :fra o
+fuc_42022 1 locuteur1 678.023 678.305 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 678.305 679.756 <o,f0,male> ana wawi wadde triple :fra 15
+fuc_42022 1 locuteur1 679.756 679.988 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 679.988 681.684 <o,f0,male> na wawi wadde triple :fra 16
+fuc_42022 1 locuteur1 681.684 682.000 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 682.000 683.526 <o,f0,male> ɗum foof no wawi yaade e engrais :fra
+fuc_42022 1 locuteur1 683.526 683.908 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 683.908 685.102 <o,f0,male> engrais :fra makkari
+fuc_42022 1 locuteur1 685.102 685.457 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 685.457 685.951 <o,f0,male> ayi
+fuc_42022 1 locuteur1 685.951 686.152 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 686.152 688.631 <o,f0,male> joni si a ƴetti siko triple :fra 15 ha triple :fra 16 o
+fuc_42022 1 locuteur1 688.631 688.945 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 688.945 690.469 <o,f0,male> a ƴetti 150 kilos :fra
+fuc_42022 1 locuteur1 690.469 690.749 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 690.749 691.624 <o,f0,male> à :fra l':fra hectare :fra
+fuc_42022 1 locuteur1 691.624 691.883 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 691.883 693.040 <o,f0,male> ko ɗum woni la :fra dose :fra faible :fra
+fuc_42022 1 locuteur1 693.040 693.470 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 693.470 693.929 <o,f0,male> ayi
+fuc_42022 1 locuteur1 693.929 694.254 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 694.254 695.118 <o,f0,male> la :fra dose :fra faible :fra
+fuc_42022 1 locuteur1 695.118 695.402 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 695.402 696.965 <o,f0,male> 150 kilos :fra à :fra l' :fra hectare :fra
+fuc_42022 1 excluded_region 696.965 698.200 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 698.200 698.479 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 698.479 699.409 <o,f0,male> e ɓoggui nayyi
+fuc_42022 1 locuteur1 699.409 700.005 <o,f0,male> ɓoggui nayyi
+fuc_42022 1 locuteur2 700.005 701.157 <o,f0,male> ɓoggui nayyi goni hectare :fra
+fuc_42022 1 locuteur1 701.157 701.350 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 701.350 702.755 <o,f0,male> donc :fra sakuji tati pour :fra ɓoggui nayyi
+fuc_42022 1 locuteur1 702.755 703.017 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 703.017 704.376 <o,f0,male> ɗum ko fumerie :fra faible :fra
+fuc_42022 1 locuteur1 704.376 704.593 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 704.593 705.665 <o,f0,male> hoɗum woni fumerie :fra faible :fra o
+fuc_42022 1 locuteur1 705.665 706.038 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 706.038 708.191 <o,f0,male> ko ɗum ko batta apporté :fra fumerie :fra de :fra fond :fra
+fuc_42022 1 locuteur1 708.191 708.298 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 708.298 709.993 <o,f0,male> ɗum woni wonnon go ɗuminani ko suudu gawri ndu
+fuc_42022 1 locuteur1 709.993 710.222 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 710.222 711.770 <o,f0,male> sinno ko fumerie :fra forte :fra o
+fuc_42022 1 locuteur1 711.770 712.000 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 712.000 713.496 <o,f0,male> ana wawi wadde 300 kilos :fra
+fuc_42022 1 locuteur1 713.496 713.842 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 713.842 714.534 <o,f0,male> à :fra l' :fra hectare :fra
+fuc_42022 1 locuteur1 714.534 714.770 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 714.770 716.133 <o,f0,male> pour :fra la :fra fumiée :fra forte :fra
+fuc_42022 1 locuteur1 716.133 716.464 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 716.464 717.587 <o,f0,male> ɗum woni engrais :fra o
+fuc_42022 1 locuteur1 717.587 717.938 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 717.938 718.448 <o,f0,male> ayi
+fuc_42022 1 locuteur1 718.448 718.653 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 718.653 720.957 <o,f0,male> le :fra pendant :fra maitenant :fra pour :fra mbawa ɗum ɗumantinde
+fuc_42022 1 locuteur1 720.957 721.239 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 721.239 722.771 <o,f0,male> normalement :fra ko ɓuura faalede
+fuc_42022 1 locuteur1 722.771 723.047 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 723.047 724.476 <o,f0,male> ko ɓuuri yodde
+fuc_42022 1 locuteur1 724.476 724.705 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 724.705 725.623 <o,f0,male> e badgol engrais :fra
+fuc_42022 1 locuteur1 725.623 725.921 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 725.921 727.683 <o,f0,male> wona no wiccoɗi no wicca ni tan
+fuc_42022 1 locuteur1 727.683 727.959 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 727.959 728.471 <o,f0,male> non :fra non :fra
+fuc_42022 1 locuteur1 728.471 728.696 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 728.696 731.614 <o,f0,male> ɗum foof ne tawa e gaspillage :fra par :fra ce :fra wodi [bb] ka yan ta a sohlani hen
+fuc_42022 1 locuteur1 731.614 732.012 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 732.012 733.107 <o,f0,male> ɗi wawi yande kadi
+fuc_42022 1 locuteur1 733.107 733.394 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 733.394 735.010 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 735.010 735.980 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 735.980 736.512 <o,f0,male> ene suuma
+fuc_42022 1 locuteur2 736.512 736.814 <o,f0,male> anani
+fuc_42022 1 locuteur1 736.814 737.146 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 737.146 738.005 <o,f0,male> kon ko ɓuuri wonde
+fuc_42022 1 locuteur1 738.005 738.206 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 738.206 741.148 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 741.148 743.026 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 743.026 743.631 <o,f0,male> eyyo
+fuc_42022 1 excluded_region 743.631 744.572 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 744.572 745.992 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 745.992 746.347 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 746.347 747.342 <o,f0,male> sa waɗi hen hankala
+fuc_42022 1 locuteur1 747.342 747.608 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 747.608 749.300 <o,f0,male> an foo a ko boom defta hen
+fuc_42022 1 locuteur1 749.300 749.709 <o,f0,male> %hum %hum eyyi
+fuc_42022 1 locuteur2 749.709 750.789 <o,f0,male> pour :fra gubban * %e
+fuc_42022 1 locuteur1 750.789 751.138 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 751.138 752.231 <o,f0,male> ɗum ɗa si a waɗi hen
+fuc_42022 1 locuteur1 752.231 752.656 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 752.656 755.345 <o,f0,male> ko engrais :fra mo gandanta élément :fra ji goɗɗi no bawi
+fuc_42022 1 excluded_region 755.345 756.328 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 756.328 757.215 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 757.215 757.914 <o,f0,male> hendu na wawi nawde
+fuc_42022 1 locuteur2 757.914 758.773 <o,f0,male> hendu ne wawi ɗum nabde
+fuc_42022 1 locuteur1 758.773 759.140 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 759.140 760.413 <o,f0,male> goɗɗum ñuuƴi no e naaɓa
+fuc_42022 1 locuteur1 760.413 760.689 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 760.689 760.986 <o,f0,male> ayi
+fuc_42022 1 locuteur1 760.986 761.290 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 761.290 763.355 <o,f0,male> ko ɗum addi no ɓuura sohlede tawa na [bb] ubba
+fuc_42022 1 locuteur1 763.355 764.857 <o,f0,male> tawa bo * machine :fra reewa hen
+fuc_42022 1 excluded_region 764.857 766.232 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 766.232 768.440 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 excluded_region 768.440 769.364 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 769.364 769.676 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 769.676 772.987 <o,f0,male> ɗum ko engrais :fra pour :fra au niveau :fra qui :fra %e maïs :fra
+fuc_42022 1 locuteur1 772.987 773.325 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 773.325 774.119 <o,f0,male> ɗum ko pour :maïs :fra
+fuc_42022 1 locuteur1 774.119 774.463 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 774.463 775.194 <o,f0,male> ayi
+fuc_42022 1 locuteur2 775.194 776.690 <o,f0,male> joni se en ƴetti e guerte he hen
+fuc_42022 1 locuteur1 776.690 777.003 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 777.003 777.701 <o,f0,male> guerte o kala
+fuc_42022 1 locuteur1 777.701 778.180 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 778.180 779.371 <o,f0,male> ha joni aɗa andi guerte
+fuc_42022 1 locuteur1 779.371 779.432 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 779.432 782.509 <o,f0,male> ɗi joogui spécialité :fra mo gandanta ko kancci tan jogui ɗum mi haalninoma ɗum
+fuc_42022 1 locuteur1 782.509 782.901 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 782.901 783.696 <o,f0,male> ko hoɗum wonta hen
+fuc_42022 1 locuteur1 783.696 783.979 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 783.979 785.105 <o,f0,male> guerte no wadna hoore mun
+fuc_42022 1 locuteur1 785.105 785.526 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 785.526 786.388 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 786.388 787.107 <o,f0,male> ɗum woni azote :fra
+fuc_42022 1 locuteur1 787.107 787.408 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 787.408 789.267 <o,f0,male> no wadna hoore mun engrais :fra ɗum woni azote :fra
+fuc_42022 1 locuteur1 789.267 789.564 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 789.564 791.196 <o,f0,male> ɗum ɗum abbaki wondema
+fuc_42022 1 locuteur1 791.196 791.405 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 791.405 792.982 <o,f0,male> guerte sohlmani waɗede
+fuc_42022 1 excluded_region 792.982 793.974 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 793.974 794.254 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 794.254 795.456 <o,f0,male> azote :fra e ɗumanti urée :fra
+fuc_42022 1 locuteur1 795.456 795.799 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 795.799 796.484 <o,f0,male> abbaki ɗum
+fuc_42022 1 locuteur1 796.484 796.782 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 796.782 798.133 <o,f0,male> donc :fra si a ƴeewino han
+fuc_42022 1 locuteur1 798.133 798.428 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 798.428 801.818 <o,f0,male> si a ƴeewi toro %e duuɓi ɗi jawteten
+fuc_42022 1 locuteur1 801.818 802.223 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 802.223 804.434 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 804.434 808.387 <o,f0,male> donc :fra ko ɗi baawa ten yiide ɓuuri wonde e ɓuuri hewde e deemal ɗumanteni
+fuc_42022 1 locuteur1 808.387 808.794 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 808.794 811.729 <o,f0,male> ɓen si aɗa daari han ɗum woni PO 5
+fuc_42022 1 locuteur1 811.729 812.019 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 812.019 814.312 <o,f0,male> Louga ɓen azote :fra d' :fra abord :fra azote :fra o
+fuc_42022 1 locuteur1 814.312 814.555 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 814.555 816.429 <o,f0,male> Louga ne waɗanno apporté :fra 47,
+fuc_42022 1 locuteur1 816.429 816.841 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 816.841 817.323 <o,f0,male> 4
+fuc_42022 1 locuteur1 817.323 817.700 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 817.700 820.596 <o,f0,male> ayi donc :fra Tivaoune ɓen ko 52 baɗanno
+fuc_42022 1 locuteur1 820.596 820.838 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 820.838 822.440 <o,f0,male> ayi Kaolack en 45
+fuc_42022 1 locuteur1 822.440 822.836 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 822.836 825.188 <o,f0,male> donc :fra ɗum foof moyenne :fra o hawra 48 13
+fuc_42022 1 excluded_region 825.188 825.961 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 825.961 826.445 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 826.445 826.795 <o,f0,male> ayi
+fuc_42022 1 locuteur1 826.795 827.155 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 827.155 828.324 <o,f0,male> ɗum ko azote :fra o
+fuc_42022 1 locuteur1 828.324 828.702 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 828.702 830.914 <o,f0,male> joni ha joni no ɓuurta e wettande
+fuc_42022 1 locuteur1 830.914 831.286 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 831.286 831.978 <o,f0,male> saabu hande
+fuc_42022 1 locuteur1 831.978 832.259 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 832.259 839.462 <o,f0,male> si a yeehi tan e jeeyoɓe ni jeeyoɓe engrais :fra a wi ɗumen tan engrais :fra falenmi kamɓe ɓe gokkatma quantité :fra ko wawi sohlude e
+fuc_42022 1 locuteur1 839.462 839.692 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 839.692 842.516 <o,f0,male> %e apport :fra ɗumantina %e apport :fra engrais :fra
+fuc_42022 1 locuteur1 842.516 842.750 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 842.750 843.277 <o,f0,male> e guerte he
+fuc_42022 1 locuteur1 843.277 843.645 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 843.645 846.976 <o,f0,male> kono ha ɗum ha joni ɗin waɗi par :fra exemple :fra sa ɓaami engrais :fra tardif :fra
+fuc_42022 1 locuteur1 846.976 847.493 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 847.493 847.910 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 847.910 848.285 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 848.285 850.921 <o,f0,male> a ɓanŋi engrais :fra tardif :fra o par :fra variété :fra ɗum kadi par :fra ce :fra
+fuc_42022 1 excluded_region 850.921 852.163 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 852.163 852.592 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 852.592 853.894 <o,f0,male> ayi sa :fra dépend :fra des :fra variétés :fra
+fuc_42022 1 locuteur1 853.894 856.650 <o,f0,male> eyyi voilà :fra e awdi ndi nde awdende guerte
+fuc_42022 1 locuteur2 856.650 857.302 <o,f0,male> awɗele guerte
+fuc_42022 1 locuteur1 857.302 857.640 <o,f0,male> %hum %hum
+fuc_42022 1 excluded_region 857.640 858.421 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur1 858.421 859.502 <o,f0,male> piyamba ne wodi
+fuc_42022 1 locuteur2 859.502 860.004 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 860.004 862.775 <o,f0,male> %e guerte aussi :fra ene hen taw on wona piyamba
+fuc_42022 1 locuteur2 862.775 863.243 <o,f0,male> exactement :fra
+fuc_42022 1 excluded_region 863.243 867.046 <o,,unknown> ignore_time_segment_in_scoring
+fuc_42022 1 locuteur2 867.046 867.997 <o,f0,male> ɗi wodi par :fra variété
+fuc_42022 1 locuteur1 867.997 868.285 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 868.285 870.511 <o,f0,male> donc :fra chaque :fra variété :fra a :fra ces :fra réalités :fra encore :fra
+fuc_42022 1 locuteur1 870.511 870.812 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 870.812 871.557 <o,f0,male> eyyi apport :fra
+fuc_42022 1 locuteur1 871.557 871.958 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur2 871.958 872.384 <o,f0,male> wallay
+fuc_42022 1 locuteur1 872.384 876.501 <o,f0,male> eyyi voilà :fra %e min bima Tamsir a jaarama
+fuc_42022 1 locuteur2 876.501 876.801 <o,f0,male> eyyi
+fuc_42022 1 locuteur1 876.801 879.416 <o,f0,male> %e min bino ko l' :fra heure :fra goto min batta hen
+fuc_42022 1 locuteur2 879.416 879.636 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 879.636 882.766 <o,f0,male> eyyi cikkumi tan min keeɓi wadde une :fra heure :fra
+fuc_42022 1 locuteur2 882.766 882.891 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 882.891 886.014 <o,f0,male> %e gati ko o 21 une :fra heure :fra 31 mi puɗɗi
+fuc_42022 1 locuteur1 886.014 888.414 <o,f0,male> [r] joni 22 heure :fra 30 minutes
+fuc_42022 1 locuteur2 888.414 888.697 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 888.697 892.231 <o,f0,male> o woni premiére émission :fra ma bde garɗa e nder suudu réunion :fra ngo
+fuc_42022 1 locuteur2 892.231 892.544 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 892.544 894.475 <o,f0,male> pour :fra wadde émission :fra to banggal ndeema
+fuc_42022 1 locuteur2 894.475 894.660 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 894.660 897.704 <o,f0,male> eyyi biɗen gandi aussi :fra bo * e nder lewru ndu
+fuc_42022 1 locuteur2 897.704 898.004 <o,f0,male> %hum %hum
+fuc_42022 1 locuteur1 898.004 900.905 <o,f0,male> peut :fra être :fra bon :fra %e ene suuɓa ene namna aussi :fra
+fuc_42022 1 locuteur2 900.905 901.316 <o,f0,male> wallay
+fuc_42022 1 locuteur1 901.316 901.829 <o,f0,male> won golle ɗe
