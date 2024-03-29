@@ -6,7 +6,7 @@ Texts have been all put together.
 There is one file per language.    
 Unfortunately, no written data were found in Serer language on the Web. We attempted to use OCR techniques on books bought in bookstore or found in Senegalese libraries, but in vain.    
 
-#### Files
+#### Corpus details
 File | \#Lines | \#Words | \#Characters    
 | :------------- | -------------: | -------------: |  -------------: |
 pulaar.txt | 37,643 | 742,024 | 4,124,173     

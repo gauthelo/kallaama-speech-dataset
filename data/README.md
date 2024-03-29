@@ -37,7 +37,7 @@ Audio recordings are planned to be hosted on OpenSLR and Zenodo platforms.
 URLs will be shared as soon as the data will be released.        
 
 ### Metadata
-For details about the speech data sets, see [audio set metadata](./metadata.md) file.
+For details about the speech data sets, see [metadata.md](./metadata.md) file.
 
 
 ## Notes

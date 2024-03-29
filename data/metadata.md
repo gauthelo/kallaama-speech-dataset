@@ -4,8 +4,8 @@
 |Dataset statistics     |Wolof   |Pulaar  |Sereer  |
 |-----------------------|-------:|-------:|-------:|
 |Min (sec.)             |21      |20      |25      |
-|Max (sec.)             |3014    |3033    |3461    |
-|Mean (sec.)            |1299    |1384    |1306    |
+|Max (sec.)             |3,014   |3,033   |3,461   |
+|Mean (sec.)            |1,299   |1,384   |1,306   |
 |Total audio (h:m:s)    |55:11:41|31:55:10|38:12:10|
 |Total speech* (h:m:s)  |51:08:50|30:06:43|36:23:37|
 |Female speech* (h:m:s) | 5:12:41|4:05:07 |10:12:10|
@@ -23,8 +23,8 @@
 |Dataset statistics     |Wolof   |Pulaar   |Sereer   |
 |-----------------------|-------:|--------:|--------:|
 |Min (sec.)             |21      |117      |444      |
-|Max (sec.)             |2849    |3033     |2907     |
-|Mean (sec.)            |1283    |1472     |1250     |
+|Max (sec.)             |2,849   |3,033    |2,907    |
+|Mean (sec.)            |1,283   |1,472    |1,250    |
 |Total audio (h:m:s)    |12:49:35|11:02:28 |11:06:52 |
 |Total speech* (h:m:s)  |11:47:34|10:56:15 | 10:51:33|
 |Female speech* (h:m:s) |01:27:00| 01:08:09|03:12:29 |
@@ -38,11 +38,12 @@
 
 -------------------------------
 
-## Recording topics
-The recordings are from various types of programmes and are rated on a scale of 1 to 5 based on their potential complexity for speech processing. This rating is subjective and takes into account factors such as recording duration, number of talking speakers, and recording conditions. 
+## Recordings
+The recordings are from various types of programmes and are rated on a scale of 1 to 5 based on their potential complexity for speech processing.    
+This rating is subjective and takes into account factors such as recording duration, number of talking speakers, and recording conditions.     
 A rating of 1 indicates relatively low complexity, while a rating of 5 indicates relatively high complexity.
 
-|Topic ID|Topic        |Wolof|Pulaar|Sereer|
+|Type  ID|Type         |Wolof|Pulaar|Sereer|
 |:------:|-------------|----:|-----:|-----:|
 |1       |push message |9    |1     |0     |
 |2       |voice message|0    |0     |14    |
