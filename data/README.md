@@ -1,9 +1,11 @@
 # Data
 
-### Description
-This directory contains the whole data collected during the KALLAAMA project.    
-It is composed of texts gathered from the Web, orthographic transcriptions of audio, and a phonetic transcriptions of words in the 3 most widely spoken languages in Senegal: Wolof, Pulaar and Sereer.    
-It is organized as follows:    
+## Description
+This directory contains the whole data curated during the KALLAAMA project.    
+It is composed of texts gathered from the Web, orthographic transcriptions of audio, and a phonetic transcriptions of words in the 3 most widely spoken languages in Senegal: Wolof, Pulaar and Sereer. 
+
+### Folder tree
+Folder is organized as follows:    
 
 .    
 ├── lexicons/    
@@ -25,13 +27,20 @@ It is organized as follows:
     There is one file per language.    
     
 - **transcriptions/**    
-    - This folder contains transcriptions of recordings (hosting URL to come).        
+    - This folder contains transcriptions of recordings. 
     Transcriptions validated by supervisors (someone other than the transcriber) are in *checked/* subfolder.    
     Original transcriptions made by native speaker linguists are in *raw/* subfolder.    
-    For each subfolder, transcriptions are organized by language, in separate folders (i.e: `transcriptions_fuc` for Pulaar, `transcriptions_srr` for Sereer, `transcriptions_wol` for Wolof).    
+    For each subfolder (*raw/* and *checked/*), transcriptions are organized by language, in separate folders (i.e: `transcriptions_fuc` for Pulaar, `transcriptions_srr` for Sereer, `transcriptions_wol` for Wolof).    
     
-     
-### Notes
-- Textual dataset creation was carried out by Boubacar DIALLO (Université Assane Seck, Ziguinchor, Sénégal) during its final year intership in NLP during the summer 2023 at Jokalante (Dakar, Senegal). Boubacar speaks Pulaar and Wolof.   
+## Audio Set 
+Audio recordings are planned to be hosted on OpenSLR and Zenodo platforms.     
+URLs will be shared as soon as the data will be released.        
+
+### Metadata
+For details about the speech data sets, see [audio set metadata](./metadata.md) file.
+
+
+## Notes
+- Textual dataset creation was carried out by Boubacar DIALLO (Assane Seck University, Ziguinchor, Senegal) during its final year intership in NLP during the summer 2023 at Jokalante (Dakar, Senegal). Boubacar speaks Pulaar and Wolof.   
  
-- Transcription work was carried out by Maimouna DIALLO (Université Cheikh Anta Diop, Dakar, Sénégal) for Wolof, Houleye Amadou KANE (Université Cheikh Anta Diop, Dakar, Sénégal) for Pulaar and Fatou DIOUF (Université Cheikh Anta Diop, Dakar, Sénégal) for Sereer, during their summer internship, as part of their linguistics studies, in 2023 at Jokalante.    
+- Transcription work was carried out by Maimouna DIALLO for Wolof, Houleye Amadou KANE for Pulaar and Fatou DIOUF for Sereer, during their summer internship, as part of their linguistics studies at Cheikh Anta Diop University (Dakar, Senegal), in 2023 at Jokalante.    
