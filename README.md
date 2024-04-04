@@ -35,16 +35,16 @@ See the following publication for more details on data collection (please cite t
 
 ### Repository structure
 
-.    
-├── LICENSE    
-├── README.md    
-└── data/    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── README.md    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── lexicons/    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── text_corpora/    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── transcriptions/    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── checked/    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── raw/    
+    .    
+    ├── LICENSE    
+    ├── README.md    
+    └── data/    
+        ├── README.md    
+        ├── lexicons/    
+        ├── text_corpora/    
+        └── transcriptions/    
+            ├── checked/    
+            └── raw/    
 
 
 ### Contacts

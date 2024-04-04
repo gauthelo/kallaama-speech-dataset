@@ -1,6 +1,8 @@
-# Audio Set Metadata
+# Audio Set Details
 
-## Whole set
+## Metadata
+
+### Whole set
 |Dataset statistics     |Wolof   |Pulaar  |Sereer  |
 |-----------------------|-------:|-------:|-------:|
 |Min (sec.)             |21      |20      |25      |
@@ -13,13 +15,15 @@
 |Ratio Female speech (%)|10.19%  |13.57%  |28.03%  |
 |Ratio Male speech (%)  |89.81%  |86.43%  |71.97%  |
 |#Turn-taking           |46,907  |16,558  |9,007   |
-|#Files                 |153     |83      |105     |
+|#Files                 |153**   |83**    |105**   |
 
-*\*extracted from annotations*
+*\*extracted from annotations*    
+*\*\*Number of audio files only (there is the same amount of transcriptions)* 
 
 -------------------------------
+-------------------------------
 
-## Checked set
+### Checked set
 |Dataset statistics     |Wolof   |Pulaar   |Sereer   |
 |-----------------------|-------:|--------:|--------:|
 |Min (sec.)             |21      |117      |444      |
@@ -32,14 +36,16 @@
 |Ratio Female speech (%)|12.30%  |10.39%   |29.54%   |
 |Ratio Male speech (%)  |87.70%  |89.61%   |70.46%   |
 |#Turn-taking           |11,968  |3,583    |1,796    |
-|#Files                 |36      |27       |32       |
+|#Files                 |36**    |27**     |32**     |
 
-*\*extracted from annotations*
+*\*extracted from annotations*    
+*\*\*Number of audio files only (there is the same amount of transcriptions)* 
 
 -------------------------------
+-------------------------------
 
-## Recordings
-The recordings are from various types of programmes and are rated on a scale of 1 to 5 based on their potential complexity for speech processing.    
+### Recordings
+The recordings  are from various types of programmes and are rated on a scale of 1 to 5 based on their potential complexity for speech processing.    
 This rating is subjective and takes into account factors such as recording duration, number of talking speakers, and recording conditions.     
 A rating of 1 indicates relatively low complexity, while a rating of 5 indicates relatively high complexity.
 
@@ -52,3 +58,26 @@ A rating of 1 indicates relatively low complexity, while a rating of 5 indicates
 |5       |focus group  |2    |0     |9     |
 
 
+
+## Naming convention
+The files of the speech dataset are named according a precise structure.    
+Filename format: <ISO 639-2 code>\_<type_id>\_<dirname_id>\_<file_id>\_<subpart_number>    
+- **<ISO 639-2 code>**: either 'wol', 'fuc' or 'srr'.
+- **<type_id>**: type of programme (see [Recordings](#recordings) for details).
+- **<dirname_id>**: parent folder identifier (Integer).     
+The audio files have been supplied in a parent directory.    
+A directory can contain several broadcasts from the programme.     
+We have therefore chosen to retain the information relating to this hierarchy.
+- **<file_id>**: file identifier (Integer).
+- **<subpart_number>**: file subpart identifier (Integer).    
+Some audio recordings have been divided into parts because they were too long to be loaded into the transcription tool.     
+Therefore, we maintain continuity between recordings using a sub-part number.     
+If 0, there is no sub-section. If 1, it is the first part of a record. If 2, it is the second part. And so on.
+
+### Example
+`wol_43612` can be decomposed in:  `wol   4   36  1   2`    
+Just by reading the file name, you can deduce that:    
+- It is from radio show.
+- It is in folder 36, perhaps with other recordings of the same radio programme.
+- It is the first file of the folder.
+- It is the second part of a recording, so the start of the programme recording must be the previous file.

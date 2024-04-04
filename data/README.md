@@ -7,12 +7,10 @@ It is composed of texts gathered from the Web, orthographic transcriptions of au
 ### Folder tree
 Folder is organized as follows:    
 
-.    
-├── lexicons/    
-├── text_corpora/    
-└── transcriptions/    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── checked/    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── raw/    
+    .    
+    ├── lexicons/    
+    ├── text_corpora/    
+    └── transcriptions/    
 
        
 ### Composition
@@ -27,10 +25,9 @@ Folder is organized as follows:
     There is one file per language.    
     
 - **transcriptions/**    
-    - This folder contains transcriptions of recordings. 
+    - This folder contains transcriptions of recordings.     
     Transcriptions validated by supervisors (someone other than the transcriber) are in *checked/* subfolder.    
     Original transcriptions made by native speaker linguists are in *raw/* subfolder.    
-    For each subfolder (*raw/* and *checked/*), transcriptions are organized by language, in separate folders (i.e: `transcriptions_fuc` for Pulaar, `transcriptions_srr` for Sereer, `transcriptions_wol` for Wolof).    
     
 ## Audio Set 
 Audio recordings are planned to be hosted on OpenSLR and Zenodo platforms.     

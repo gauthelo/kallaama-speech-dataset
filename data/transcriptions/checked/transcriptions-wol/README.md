@@ -1,4 +1,5 @@
 ### Description
-This folder contains the checked transcriptions of the recordings in Wolof.   
-In **stm/** subfolder: transcriptions in STM format (.stm).   
-In **trs/** subfolder: transcription in Transcriber format (.trs).     
+This folder contains the original transcriptions of the recordings in Wolof.    
+Transcription has been written using Transcriber tool.    
+- **stm/** subfolder: transcriptions in NIST STM format (.stm)    
+- **trs/** subfolder: transcription in Transcriber format (.trs)    
