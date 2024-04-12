@@ -28,15 +28,15 @@ Folder is organized as follows:
 	│		 ├── stm
 	│		 └── trs
 	└── raw
-		 ├── transcriptions-fuc
-		 │	├── stm
-		 │	└── trs
-		 ├── transcriptions-srr
-		 │	├── stm
-		 │	└── trs
-		 └── transcriptions-wol
-			  ├── stm
-			  └── trs
+	    ├── transcriptions-fuc
+	    │	├── stm
+	    │	└── trs
+	    ├── transcriptions-srr
+	    │	├── stm
+	    │	└── trs
+	    └── transcriptions-wol
+	    	  ├── stm
+	    	  └── trs
 
 
 ## Transcription rules
