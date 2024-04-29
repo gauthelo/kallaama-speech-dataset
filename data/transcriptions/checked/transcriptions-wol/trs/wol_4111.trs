@@ -3,7 +3,7 @@
 <Trans scribe="PROPRIETAIRE" audio_filename="wol_4111" version="5" version_date="231017">
 <Speakers>
 <Speaker id="spk1" name="locuteur 1" check="yes" type="female" dialect="native" accent="wolof" scope="global"/>
-<Speaker id="spk2" name="locuteur 2" check="yes" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="locuteur 2" check="yes" type="male" dialect="native" accent="wolof" scope="global"/>
 <Speaker id="spk3" name="locuteur 3" check="yes" type="male" dialect="native" accent="wolof" scope="global"/>
 </Speakers>
 <Episode>

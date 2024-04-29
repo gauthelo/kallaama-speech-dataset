@@ -4,8 +4,8 @@
 <Speakers>
 <Speaker id="spk1" name="Locuteur1" check="no" type="male" dialect="native" accent="sereer" scope="global"/>
 <Speaker id="spk2" name="Locuteur2" check="no" type="male" dialect="native" accent="sereer" scope="global"/>
-<Speaker id="spk3" name="Locuteur3" check="no" dialect="native" accent="sereer" scope="global"/>
-<Speaker id="spk4" name="Locuteur4" check="no" dialect="native" accent="sereer" scope="global"/>
+<Speaker id="spk3" name="Locuteur3" check="no" type="male" dialect="native" accent="sereer" scope="global"/>
+<Speaker id="spk4" name="Locuteur4" check="no" type="male" dialect="native" accent="sereer" scope="global"/>
 </Speakers>
 <Episode>
 <Section type="report" startTime="0" endTime="741.512">

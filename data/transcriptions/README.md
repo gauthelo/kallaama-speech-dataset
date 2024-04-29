@@ -25,8 +25,8 @@ Folder is organized as follows:
 	│	│	├── stm
 	│	│	└── trs
 	│	└── transcriptions-wol
-	│		 ├── stm
-	│		 └── trs
+	│		├── stm
+	│		└── trs
 	└── raw
 	    ├── transcriptions-fuc
 	    │	├── stm
@@ -35,8 +35,8 @@ Folder is organized as follows:
 	    │	├── stm
 	    │	└── trs
 	    └── transcriptions-wol
-	    	  ├── stm
-	    	  └── trs
+	    	├── stm
+	    	└── trs
 
 
 ## Transcription rules
