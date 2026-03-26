@@ -33,7 +33,7 @@ Folder is organized as follows:
 Audio recordings are only hosted on external platforms.     
 Data sets can be downloaded from OpenSLR or Zenodo:
 - OpenSLR: https://www.openslr.org/151/
-- Zenodo: https://zenodo.org/records/10892569/     
+- Zenodo: https://zenodo.org/records/10892569     
      
 ### Metadata
 For details about the speech data sets, see [metadata.md](./metadata.md).
